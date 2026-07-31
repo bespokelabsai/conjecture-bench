@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-01-067",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 1.67 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that G is a finitely presented group, F a free group whose rank is\nequal to the minimal number of generators of G, with a fixed homomorphism of F\nonto G with kernel N . Find a complete system of invariants of the factor-group of N\nby the commutator subgroup [F, N ].                                    L. Ya. Kulikov",
+    "sha256": "565eea3fb1d467f217a6367479a3921886ba69a1513c7940ac1f633cc00ae441",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=6",
+    "source_locator": "Kourovka 1.67, main section, page 6",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

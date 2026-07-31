@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-06-051",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 6.51 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let F be a local subformation of some formation X of finite groups and let Ω\nbe the set of all maximal homogeneous X-screens of F. Find a way of constructing\nthe elements of Ω with the help of the maximal inner local screen of F. What can be\nsaid about the cardinality of Ω? For definitions see (L. A. Shemetkov, Formations of\nfinite groups, Moscow, Nauka, 1978 (Russian)).                       L. A. Shemetkov",
+    "sha256": "86e3e1f3bef750c3ae86fdc9d8136652905197cda7b4410d47ac77871a9f26f0",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=20",
+    "source_locator": "Kourovka 6.51, main section, page 20",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

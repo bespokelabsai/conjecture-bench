@@ -1,0 +1,36 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1517",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Hardy-Littlewood Conjecture A (Prime k-tuples)",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $a_1, \\ldots, a_k$ be given integers. Then there exist infinitely many positive integers $n$ such that $n + a_1, \\ldots, n + a_k$ are all prime, provided that for every prime $p$, there exists an integer $m$ such that $(m + a_i, p) = 1$ for all $i$.",
+    "sha256": "62f34801b720b028212451ad68de3839da22adaaa9f506377343084c412f5e99",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/HL-A",
+    "source_locator": "dataset ID 1517; problem number HL-A",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L5",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-02-068",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 2.68 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "What can one say about lattice isomorphisms of a pure soluble group? Is\nsuch a group strictly determined by its lattice? It is well-known that the answer is\naffirmative for free soluble groups.                                  L. E. Sadovskiı̆",
+    "sha256": "3205333c6051f47c04157009517022dbd7f9d3f0a1166be51cc19c51fcbdd3e8",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=8",
+    "source_locator": "Kourovka 2.68, main section, page 8",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

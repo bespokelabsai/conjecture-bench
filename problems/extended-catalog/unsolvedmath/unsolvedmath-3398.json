@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3398",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Subset-sums equality (pigeonhole version)",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem Let $a_1,a_2,\\ldots,a_n$ be natural numbers with $\\sum_{i=1}^n a_i < 2^n - 1$. It follows from the pigeon-hole principle that there exist distinct subsets $I,J \\subseteq \\{1,\\ldots,n\\}$ with $\\sum_{i \\in I} a_i = \\sum_{j \\in J} a_j$. Is it possible to find such a pair $I,J$ in polynomial time?",
+    "sha256": "238dccb09e3622490255f7350c76a65b5c0776dfd64bf2231f7919c14957d95e",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-163",
+    "source_locator": "dataset ID 3398; problem number OPG-163",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:computer-science",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

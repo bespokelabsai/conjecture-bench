@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0098",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Sum-Free Subsets of [N]^d",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Fix an integer $d$. What is the largest sum-free subset of $[N]^d$?",
+    "sha256": "e5c49308cb192a80b6b86d406872181c8720d39812803f1cdc2569a16a515e30",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GREEN-006",
+    "source_locator": "dataset ID 98; problem number GREEN-006",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:green-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

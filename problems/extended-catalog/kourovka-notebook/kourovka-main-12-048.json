@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-048",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.48 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a sharply doubly transitive permutation group on a set Ω (see\nArchive 11.52 for a definition).\n   (a) Does G possess a regular normal subgroup if a point stabilizer is locally finite?\n  (b) Does G possess a regular normal subgroup if a point stabilizer has an abelian\nsubgroup of finite index?\n    Comments of 2022: an affirmative answer to part (b) is obtained in permutation\ncharacteristic 0 (F. O. Wagner, Preprint, 2022, https://hal.archives-ouvertes.\nfr/hal-03590818).                                                       V. D. Mazurov",
+    "sha256": "58ab6b90b5c0be65f417e1493ad307454e6863b59ad28f7db0ec1e604e7fe1ae",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=60",
+    "source_locator": "Kourovka 12.48, main section, page 60",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

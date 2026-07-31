@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3029",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Sub-atomic product of funcoids is a categorical product",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture In the category of continuous funcoids (defined similarly to the category of topological spaces) the following is a direct categorical product:\n\n- Product morphism is defined similarly to the category of topological spaces.\n- Product object is the sub-atomic product.\n- Projections are sub-atomic projections.\n\nSee details, exact definitions, and attempted proofs here.",
+    "sha256": "facf3e26e024d2e5389a16c83ffd7651892a1cd4c400f5d09e6862c44e54ee19",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-48715",
+    "source_locator": "dataset ID 3029; problem number OPG-48715",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:algebra",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

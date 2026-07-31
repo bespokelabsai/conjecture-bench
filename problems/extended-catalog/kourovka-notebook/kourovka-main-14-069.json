@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-069",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.69 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For every finite simple group find the minimum of the number of generating\ninvolutions satisfying an additional condition, in each of the following cases.\n  ∗ a) The product of the generating involutions equals 1.\n    b) (Malle–Saxl–Weigel). All generating involutions are conjugate.\n    c) (Malle–Saxl–Weigel). The conditions a) and b) are simultaneously satisfied.\nEditors’ comment: partial progress was obtained in (J. Ward, PhD Thesis, QMW,\n2009, http://www.maths.qmul.ac.uk/~raw/JWardPhD.pdf).\n    d) All generating involutions are conjugate and two of them commute.\n                                                                       Ya. N. Nuzhin\n  ∗ a) These numbers are found (R. I. Gvozdev, Ya. N. Nuzhin, Siberian MAth. J., 64,\nno. 6 (2023), 1160–1171; M. A. Vsemirnov, R. I. Gvozdev, Ya. N. Nuzhin, Abstracts of\nInt. Conf. Mal’cev Meeting 2023, Novosibirsk, 2023, p. 148).",
+    "sha256": "91d0aaa3e3bce48e1ce35b3666f81659d92730c2d151e55629aa6313b1c3b277",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=78",
+    "source_locator": "Kourovka 14.69, main section, page 78",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

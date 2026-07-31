@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0128",
+  "slug": "erdos-699-binomial-gcd-prime",
+  "title": "Erdős problem #699: prime divisors of binomial gcds",
+  "field": "number-theory",
+  "statement": "For every 1≤i<j≤n/2, some prime p≥i divides gcd(binomial(n,i),binomial(n,j)).",
+  "counterexample": {
+    "description": "Integers n,i,j in the stated range for which every prime divisor of the exact gcd is smaller than i.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/699",
+        "role": "status"
+      }
+    ]
+  }
+}

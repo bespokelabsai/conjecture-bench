@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-048",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.48 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does the free product of two groups with stable first-order theory also have\nstable first-order theory?                                                E. Jaligot",
+    "sha256": "7e292e5b8258c67c76bcb6896413f53078e11b90b72d730014e39898a3a9b938",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=108",
+    "source_locator": "Kourovka 17.48, main section, page 108",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

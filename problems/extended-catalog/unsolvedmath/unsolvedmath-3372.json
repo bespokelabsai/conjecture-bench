@@ -1,0 +1,35 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3372",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Are all Fermat Numbers square-free?",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture Are all Fermat Numbers\n$$\nF_n = 2^{2^{n } } + 1\n$$\n Square-Free?",
+    "sha256": "3d44299b0492c5eded87fc66e96c228c3ca531c1eb7279e10594ef73d1b0751d",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-55810",
+    "source_locator": "dataset ID 3372; problem number OPG-55810",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0278"
+  ]
+}

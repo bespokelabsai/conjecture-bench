@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0907",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "irrational_ln_pi",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 33]\ntheorem irrational_ln_pi :\n    answer(sorry) ↔ Irrational (log π)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "3a772537512f57043b4e94b37e739d0caef0100a5f17137cca065ace3019dc7a",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Irrational.lean#L83",
+    "source_locator": "FormalConjectures/Wikipedia/Irrational.lean:83#irrational_ln_pi",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-33"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

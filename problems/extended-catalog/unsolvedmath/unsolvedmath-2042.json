@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2042",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #313",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Are there infinitely many solutions to $ \\frac{1}{p_1}+\\cdots+\\frac{1}{p_k}=1-\\frac{1}{m}, $ where $m\\geq 2$ is an integer and $p_1<\\cdots<p_k$ are distinct primes?",
+    "sha256": "6517933ba4bf7aa5ef0ce379c952e2c6d8cb0735476c1565078fc79ba269f758",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-313",
+    "source_locator": "dataset ID 2042; problem number EP-313",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0052",
+  "source_registry": "open-problems-project",
+  "title": "Queue-Number of Planar Graphs",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Does every planar graph have $O(1)$ queue-number? A\n\\emph{queue layout} of a graph consists of a linear order of the\nvertices and a partition of the edges into non-nested \\emph{queues}.\nEdge $xy$ is \\emph{nested} inside edge $vw$ if\n$v<x<y<w$ in the linear order. The \\emph{queue-number} of a graph\n$G$ is the minimum number of queues in a queue layout of $G$. This\nquestion amounts to asking whether every planar graph has a\nvertex ordering with a constant number of pairwise nested edges\n(called a rainbow).",
+    "sha256": "09791c685ad37724be0c00d2283d1fb5113010041615e0888ad89a34809e18c4",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p52",
+    "source_locator": "TOPP problem 52 (Problems/P.000052)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "graph drawing"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

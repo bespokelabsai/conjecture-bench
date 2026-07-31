@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0389",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_520",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11 60]\ntheorem erdos_520 :\n    answer(sorry) ↔ ∃ c > 0, ∀ (f : ℕ → Ω → ℝ), IsRademacherMultiplicative f →\n      ∀ᵐ ω, limsup (fun N ↦ ∑ m ≤ N, f m ω / sqrt (N * log (log N))) atTop = c",
+    "language_version": "Lean 4.27.0",
+    "sha256": "4672c723690c0554b05b4c632adf534134c6bb3f081f2b939a568222f2ad3da2",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/520.lean#L53",
+    "source_locator": "FormalConjectures/ErdosProblems/520.lean:53#erdos_520",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11",
+      "AMS-60"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

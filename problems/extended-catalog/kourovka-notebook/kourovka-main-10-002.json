@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-10-002",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 10.2 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A mixed identity of a group G is, by definition, an identity of an algebraic system\nobtained from G by supplementing its signature by some set of 0-ary operations. One\ncan develop a theory of mixed varieties of groups on the basis of this notion (see,\nfor example, V. S. Anashin, Math. USSR Sbornik, 57 (1987), 171–182). Construct an\nexample of a class of groups which is not a mixed variety, but which is closed under\ntaking factor-groups, Cartesian products, and those subgroups of Cartesian powers\nthat contain the diagonal subgroup.                                         V. S. Anashin",
+    "sha256": "9cd81a2db4dc21cae447d1186b9e4d0836d5ece9485475f83c05fdd9eef3e35b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=38",
+    "source_locator": "Kourovka 10.2, main section, page 38",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0004",
+  "source_registry": "open-problems-project",
+  "title": "Union of Fat Objects in 3D",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "What is the complexity of the union of ``fat'' objects\nin $\\R^3$?",
+    "sha256": "ba0b2b29b6e9d59b36ae15ee6d0a11a2eed7f6b5489db2b25553410528d537ce",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p4",
+    "source_locator": "TOPP problem 4 (Problems/P.000004)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "combinatorial geometry"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

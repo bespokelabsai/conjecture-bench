@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0983",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "least_eleven_square_packing_in_square",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 51]\ntheorem least_eleven_square_packing_in_square :\n    IsLeast {x : ℝ | Nonempty (Packing 11 UnitSquare (Square x))} answer(sorry)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "2b740f76b59c0ad98e6df576f88b8522de2b5fcfd6e3953bc2a683a62778205a",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/SquarePacking.lean#L96",
+    "source_locator": "FormalConjectures/Wikipedia/SquarePacking.lean:96#least_eleven_square_packing_in_square",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-51"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

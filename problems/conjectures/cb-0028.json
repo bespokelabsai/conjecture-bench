@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0028",
+  "slug": "erdosnesetril-strong-chromatic-index-conjecture",
+  "title": "Erdős–Nešetřil Strong Chromatic Index conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Erdős–Nešetřil Strong Chromatic Index conjecture · 1985. For even Δ, every graph has a strong edge coloring with at most 5Δ²/4 colors.",
+  "counterexample": {
+    "description": "A connected maximum-degree-four graph with at least 21 edges whose squared line graph is not 20-colorable. A complete check performs the exact bounded coloring search.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2607.02698",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "erdos-nesetril-strong-chromatic-index"
+}

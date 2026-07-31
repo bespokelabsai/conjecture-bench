@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0137",
+  "slug": "erdos-19-clique-decomposition-chromatic-number",
+  "title": "Erdős problem #19: chromatic number of clique unions",
+  "field": "graph-theory",
+  "statement": "If a graph is an edge-disjoint union of n copies of Kₙ, then its chromatic number is n.",
+  "counterexample": {
+    "description": "Give exactly n edge-disjoint n-cliques whose union is not n-colorable. One clique already proves chromatic number at least n, so exact failure of n-colorability proves a counterexample.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/19",
+        "role": "status"
+      },
+      {
+        "url": "https://arxiv.org/abs/2110.06181",
+        "role": "supporting"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0080",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Optimal Nanostructures",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Develop mathematics for creating optimal symmetric structures through nanoscale self-assembly.",
+    "sha256": "210d6500883f53c031abe20498aba662a0ecc7ddbc2df22bcbe0ec503fa81d47",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/DARPA-011",
+    "source_locator": "dataset ID 80; problem number DARPA-011",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:geometry",
+      "difficulty:L4",
+      "secondary-aggregation",
+      "set:darpa-challenges"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

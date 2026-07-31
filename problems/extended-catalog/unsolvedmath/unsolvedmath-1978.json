@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1978",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #180",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "If $\\mathcal{F}$ is a finite set of finite graphs then $\\mathrm{ex}(n;\\mathcal{F})$ is the maximum number of edges a graph on $n$ vertices can have without containing any subgraphs from $\\mathcal{F}$. Note that it is trivial that $\\mathrm{ex}(n;\\mathcal{F})\\leq \\mathrm{ex}(n;G)$ for every $G\\in\\mathcal{F}$.\nIs it true that, for every $\\mathcal{F}$, there exists $G\\in\\mathcal{F}$ such that $ \\mathrm{ex}(n;G)\\ll_{\\mathcal{F}}\\mathrm{ex}(n;\\mathcal{F})? $ ",
+    "sha256": "8cf9a091e4d510fe6bdf12e57345a90a7bf1af29d99cd536b0a9bb64b67ea956",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-180",
+    "source_locator": "dataset ID 1978; problem number EP-180",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

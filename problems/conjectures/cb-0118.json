@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0118",
+  "slug": "erdos-106-square-packing-sum",
+  "title": "Erdős problem #106: square-packing side-length sum",
+  "field": "discrete-geometry",
+  "statement": "If f(n) is the maximum sum of side lengths of n squares with pairwise disjoint interiors inside the unit square, then f(k²+1)=k.",
+  "counterexample": {
+    "description": "For some k, an exact placement of k²+1 squares with pairwise disjoint interiors and total side length greater than k.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/106",
+        "role": "status"
+      }
+    ]
+  }
+}

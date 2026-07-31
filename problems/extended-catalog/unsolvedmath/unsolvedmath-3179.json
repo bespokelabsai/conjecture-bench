@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3179",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "The Berge-Fulkerson conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture If $G$ is a bridgeless cubic graph, then there exist 6 perfect matchings $M_1,\\ldots,M_6$ of $G$ with the property that every edge of $G$ is contained in exactly two of $M_1,\\ldots,M_6$.",
+    "sha256": "e91a51359905b9b3bae194daac78cd4f48c4ce5c54bd75391b747054e8b7a129",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-142",
+    "source_locator": "dataset ID 3179; problem number OPG-142",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

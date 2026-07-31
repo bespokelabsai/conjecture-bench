@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3093",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Convex Equipartitions with Extreme Perimeter",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "To divide a given 2D convex region C into a specified number n of convex pieces all of equal area (perimeters could be different) such that the total perimeter of pieces is (1) maximized (2) minimized.\n\nRemark: It appears maximizing the total perimeter is the easier problem.",
+    "sha256": "de5dbafdf08cdbe83e15cbcc09aa2753960da5e1c9f39b0f38e8ee75837c5b3f",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-60010",
+    "source_locator": "dataset ID 3093; problem number OPG-60010",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:geometry",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

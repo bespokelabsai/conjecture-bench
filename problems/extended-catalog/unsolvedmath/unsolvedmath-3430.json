@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3430",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Graph product of multifuncoids",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture Let $F$ is a family of multifuncoids such that each $F_i$ is of the form $\\lambda j \\in N \\left( i \\right): \\mathfrak{F} \\left( U_j \\right)$ where $N \\left( i \\right)$ is an index set for every $i$ and $U_j$ is a set for every $j$. Let every $F_i = E^{\\ast} f_i$ for some multifuncoid $f_i$ of the form $\\lambda j \\in N \\left( i \\right): \\mathfrak{P} \\left( U_j \\right)$ regarding the filtrator $\\left( \\prod_{j \\in N \\left( i \\right)} \\mathfrak{F} \\left( U_j \\right); \\prod_{j \\in N \\left( i \\right)} \\mathfrak{P} \\left( U_j \\right) \\right)$. Let $H$ is a graph-composition of $F$ (regarding some partition $G$ and external set $Z$ ). Then there exist a multifuncoid $h$ of the form $\\lambda j \\in Z: \\mathfrak{P} \\left( U_j \\right)$ such that $H = E^{\\ast} h$ regarding the filtrator $\\left( \\prod_{j \\in Z} \\mathfrak{F} \\left( U_j \\right); \\prod_{j \\in Z} \\mathfrak{P} \\left( U_j \\right) \\right)$.",
+    "sha256": "1b95d692ddf67369e85ce93f789d3d47e0ce2a8a5fada6f65d0fab07effe1d4e",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-37389",
+    "source_locator": "dataset ID 3430; problem number OPG-37389",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

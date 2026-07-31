@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0246",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_341",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_341 :\n    answer(sorry) ↔\n      ∀ (a : ℕ → ℤ),\n        (∀ᶠ n in atTop,\n          IsLeast { x | a n < x ∧ x ∉ { a i + a j | (i ≤ n) (j ≤ n) } } (a (n + 1))) →\n        let d := fun i ↦ a (i + 1) - a i\n        ∃ p > 0, ∀ᶠ m in atTop, d (m + p) = d m",
+    "language_version": "Lean 4.27.0",
+    "sha256": "1009f23590cedcafde552a8fce8b117638ec73258d9b460988ccdb9557d69e9c",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/341.lean#L39",
+    "source_locator": "FormalConjectures/ErdosProblems/341.lean:39#erdos_341",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

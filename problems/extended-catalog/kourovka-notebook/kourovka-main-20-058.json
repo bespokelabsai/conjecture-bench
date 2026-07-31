@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-058",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.58 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let ω(G) denote the set of element orders of a finite group G. A finite group G\nis said to be recognizable (by spectrum) if every finite group H with ω(H) = ω(G) is\nisomorphic to G.\n   ∗ a) Is it true that for every n there is a recognizable group that is the n-th direct\npower of a nonabelian simple group?\n    b) Is it true that there is a nonabelian simple group L such that for every n there\nis a recognizable group whose socle is the k-th direct power of L for some k ⩾ n?\n                                                      V. D. Mazurov, A. V. Vasil’ev\n  ∗ a) Yes, it is true (N. Yang, I. Gorshkov, A. Staroletov, A. V. Vasil’ev, Annali\nMatem. Pura Appl., 202 (2023), 2699–2714).",
+    "sha256": "244c6d72bce828f17f1d7dfea4ec8a38f16c79746d1e334c0b01ec6486010f54",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=152",
+    "source_locator": "Kourovka 20.58, main section, page 152",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

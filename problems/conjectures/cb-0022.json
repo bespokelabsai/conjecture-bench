@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0022",
+  "slug": "zarankiewiczs-complete-bipartite-crossing-conjecture",
+  "title": "Zarankiewicz’s complete-bipartite crossing conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "For all m,n, the crossing number of K_(m,n) equals floor(m/2)·floor((m−1)/2)·floor(n/2)·floor((n−1)/2).",
+  "counterexample": {
+    "description": "A general-position rational straight-line drawing of K_(m,n) below the Zarankiewicz value; K_(7,11) below 225 or K_(9,9) below 256 are early unresolved targets.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.researchgate.net/publication/369252080_A_Survey_on_the_Crossing_Number_Problem",
+        "role": "supporting"
+      },
+      {
+        "url": "https://doi.org/10.1007/s10107-023-02028-1",
+        "role": "supporting"
+      }
+    ]
+  }
+}

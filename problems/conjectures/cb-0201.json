@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0201",
+  "slug": "erdos-64-power-of-two-cycle",
+  "title": "Erdős problem #64: power-of-two cycle",
+  "field": "graph-theory",
+  "statement": "Every finite graph with minimum degree at least three contains a cycle of length 2^k for some integer k≥2.",
+  "counterexample": {
+    "description": "A finite simple graph of minimum degree at least three with no simple cycle whose length is a power of two at least four.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/64",
+        "role": "status"
+      }
+    ]
+  },
+  "equivalence_group": "erdos-gyarfas-power-of-two-cycle"
+}

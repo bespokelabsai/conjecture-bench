@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-13-039",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 13.39 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let A be an associative ring with unity and with torsion-free additive group,\nand let F A be the tensor product of a free group F by A (A. G. Myasnikov, V. N. Re-\nmeslennikov, Siberian Math. J., 35, no. 5 (1994), 986–996); then F A is a free exponen-\ntial group over A; in (A. G. Myasnikov, V. N. Remeslennikov, Int. J. Algebra Comput.,\n6 (1996), 687–711), it is shown how to construct F A in terms of free products with\namalgamation.\n     b) Is F A a linear group?\n    In the case where ⟨1⟩ is a pure subgroup of the additive group of A, there is\nan affirmative answer to “b” (A. M. Gaglione, A. G. Myasnikov, V. N. Remeslennikov,\nD. Spellman, Commun. Algebra, 25 (1997), 631–648). It is also known that the\nMagnus homomorphism is one-to-one on any subgroup of F Q of the type ⟨F, t | u = tn ⟩\n(G. Baumslag, Commun. Pure Appl. Math., 21 (1968), 491–506).\n     d) Is the universal theory of F A decidable?\n     e) (G. Baumslag). Can free A-groups be characterized by a length function?\n     f) (G. Baumslag). Does a free Q-group admit a free action on some Λ-tree? See\ndefinition in (R. Alperin, H. Bass, in: Combinatorial group theory and topology, Alta,\nUtah, 1984 (Ann. Math. Stud., 111), Princeton Univ. Press, 1987, 265–378).\n                                                  A. G. Myasnikov, V. N. Remeslennikov",
+    "sha256": "a75a562b7ecdb51ee1656bdc1d464e031a95a804f62b172425673bea84cc2756",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=68",
+    "source_locator": "Kourovka 13.39, main section, page 68",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

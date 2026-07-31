@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2040",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #311",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $\\delta(N)$ be the minimal non-zero value of $\\lvert 1-\\sum_{n\\in A}\\frac{1}{n}\\rvert$ as $A$ ranges over all subsets of $\\{1,\\ldots,N\\}$. Is it true that $ \\delta(N)=e^{-(c+o(1))N} $ for some constant $c\\in (0,1)$?",
+    "sha256": "497a40de4a5957fb96f45b6084835475d1c6201c5f70187735b5ed93b4000797",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-311",
+    "source_locator": "dataset ID 2040; problem number EP-311",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-091",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.91 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A group G is said to be stable if for any first-order formula ϕ(x̄, ȳ) (in the\nfirst-order language of groups { · , −1 , 1}) there exists a natural number n such that\nwhenever there exist sequences of tuples of G, (ai )i<m , (bi )i<m with G |= ϕ(ai , bj ) if\nand only if i < j, then m ⩽ n. Sela proved that all torsion-free hyperbolic groups are\nstable.\n     a) Is there a non-stable hyperbolic group?\n     b) Is there a non-stable virtually free group?\n     c) Is SL2 (Z) non-stable?                                                R. Sklinos",
+    "sha256": "83b4cdbfc9381eb784d89b44e56516360bed94c343d35e4435f995b425a91645",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=157",
+    "source_locator": "Kourovka 20.91, main section, page 157",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

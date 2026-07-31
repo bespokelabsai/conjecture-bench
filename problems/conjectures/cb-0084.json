@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0084",
+  "slug": "kneserpoulsen-contraction-conjecture",
+  "title": "Kneser–Poulsen contraction conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "In R³, moving the centers of congruent balls so that no pairwise distance increases cannot increase the volume of their union.",
+  "counterexample": {
+    "description": "Give algebraic centers of congruent balls in \\(\\mathbb R^3\\) whose pairwise distances contract while union volume increases. Certified ball-union decomposition and interval algebra verify the strict gap.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0195669808000231",
+        "role": "supporting"
+      },
+      {
+        "url": "https://academic.oup.com/imrn/article/doi/10.1093/imrn/rnaf140/8160080",
+        "role": "supporting"
+      }
+    ]
+  }
+}

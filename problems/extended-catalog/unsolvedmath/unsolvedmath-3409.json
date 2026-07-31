@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3409",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Rank vs. Genus",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Question Is there a hyperbolic 3-manifold whose fundamental group rank is strictly less than its Heegaard genus? How much can the two differ by?",
+    "sha256": "da225344935259672fb5d9c5d14f70cf933ef4c3e1ec3adc81a3ac977e58cd6a",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-1783",
+    "source_locator": "dataset ID 3409; problem number OPG-1783",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

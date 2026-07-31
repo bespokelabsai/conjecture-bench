@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-013",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.13 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(D. B. A. Epstein). Is it true that the group H = (Z3 × Z) ∗ (Z2 × Z) =\n⟨x, y, z, t | x3 = z 2 = [x, y] = [z, t] = 1⟩ cannot be defined by three relators in the\ngenerators x, y, z, t?\n    It is known that the relation module of the group H has rank 3 (K. W. Gruenberg,\nP. A. Linnell, J. Group Theory, 11, no. 5 (2008), 587–608). An affirmative answer\nwould give a solution of the relation gap problem. V. G. Bardakov, M. V. Neshchadim",
+    "sha256": "705f576953099a59900ddbadd6c1ba62bba6f50d05dae933263a7c2f91111c8f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=117",
+    "source_locator": "Kourovka 18.13, main section, page 117",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

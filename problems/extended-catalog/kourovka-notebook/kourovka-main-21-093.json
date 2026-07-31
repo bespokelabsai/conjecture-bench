@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-093",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.93 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(M. Herzog, J. Schönheim). Let G be a group and let k ⩾ 2. Let H1 , . . . , Hk\nbe subgroups of G, and g1 , . . . , gk elements of G such that the cosets g1 H1 , . . . , gk Hk\nform a partition of G. Is it true that |G : Hi | = |G : Hj | for some i ̸= j?\n   This is known to be true for groups with a Sylow tower (M. A. Berger, A. Felzen-\nbaum, A. Fraenkel, Fund. Math., 128, no. 3 (1987), 139–144). Also cf. 20.99.\n                                                                                  L. Margolis",
+    "sha256": "64217db7ac090bef19e00dfe20c10e7fc22fa7e6fdc6409301a7e4103b5dfcf4",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=177",
+    "source_locator": "Kourovka 21.93, main section, page 177",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

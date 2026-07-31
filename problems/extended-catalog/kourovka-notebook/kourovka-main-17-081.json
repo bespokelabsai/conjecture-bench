@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-081",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.81 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Given normal  subgroups R1 , . . . , Rn of a group G, let [[R1 , . . . , Rn ]] :=\nYh \\        \\   i\n       Ri ,   Rj , where the product is over all I ∪ J = {1, . . . , n}, I ∩ J = ∅.\n      i∈I    j∈J\nLet G be a free group, and let Ri = ⟨ri ⟩G be the normal closures of elements ri ∈ G.\nIt is known (B. Hartley, Yu. Kuzmin, J. Pure Appl. Algebra, 74 (1991), 247–256)\nthat the quotient (R1 ∩ R2 )/[R1 , R2 ] is a free abelian group. On the other hand, the\nquotient (R1 ∩ · · · ∩ Rn )/[[R1 , . . . , Rn ]] has, in general, non-trivial torsion for n ⩾ 4.\nIs this quotient always torsion-free for n = 3? This is known to be true if r1 , r2 , r3\nare not proper powers in G.                                                        R. Mikhailov",
+    "sha256": "0f140657bd1a9245966a5ddc0ef67e4deae0fbc3fea76867697a9e0e45871868",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=110",
+    "source_locator": "Kourovka 17.81, main section, page 110",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

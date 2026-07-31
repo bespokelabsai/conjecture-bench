@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-045",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.45 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let n be a positive integer, and let G ⩽ GL(n, Z) be finitely generated. Given\na bound b ∈ N, let eb be the number of elements of G all of whose matrix entries have\nabsolute value ⩽ b. Does the limit lim ln eb / ln b always exist?              S. Kohl\n                                      b→∞",
+    "sha256": "26877770a064f753c727532e70fdfaff9921c6ba240ee0f8c88b1f6c3ad5e02e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=151",
+    "source_locator": "Kourovka 20.45, main section, page 151",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0749",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "harthshorne_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 14]\ntheorem harthshorne_conjecture (n : ℕ) (hn : 7 ≤ n)\n    (𝓕 : VectorBundles ℙ(Fin (n + 1); Spec (.of ℂ)))\n    (h𝓕 : 𝓕.rank = 2) :\n    Nonempty (𝓕.Splitting (Fin 2))",
+    "language_version": "Lean 4.27.0",
+    "sha256": "5ffc7bd00702c4d60b860143b79b4dd263597ac378753b497d7e0dbf30f060d5",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Paper/HartshorneConjecture.lean#L101",
+    "source_locator": "FormalConjectures/Paper/HartshorneConjecture.lean:101#harthshorne_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Paper",
+      "AMS-14"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

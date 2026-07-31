@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-08-002",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 8.2 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be the amalgamated free product of two polycyclic groups, amalgamating\na normal subgroup of each. Is G isomorphic to a linear group? G is residually finite\n(G. Baumslag, Trans. Amer. Math. Soc., 106, no. 2 (1963), 193–209) and the answer\nis “yes” if the amalgamated part is torsion-free, abelian (B. A. F. Wehrfritz, Proc.\nLondon Math. Soc., 27, no. 3 (1973), 402–424) and nilpotent (M. Shirvani, 1981,\nunpublished).                                                     B. A. F. Wehrfritz",
+    "sha256": "e97f64180983fec52b697732e919670db1fbd30700e6734073dfc9377e57d499",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=26",
+    "source_locator": "Kourovka 8.2, main section, page 26",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0708",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "hasSICPOVM_69",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 15 47 81]\ntheorem hasSICPOVM_69 : answer(sorry) ↔ HasSICPOVM 69",
+    "language_version": "Lean 4.27.0",
+    "sha256": "a1e35e3f703f4e938b1b8db4d8fbb7aa86ff7fab61adfb0898de3bace62d492c",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OpenQuantumProblems/23.lean#L321",
+    "source_locator": "FormalConjectures/OpenQuantumProblems/23.lean:321#hasSICPOVM_69",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "OpenQuantumProblems",
+      "AMS-15",
+      "AMS-47",
+      "AMS-81"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

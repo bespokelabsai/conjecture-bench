@@ -1,0 +1,43 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2065",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #346",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $A=\\{1\\leq a_1< a_2<\\cdots\\}$ be a set of integers such that\n{UL}\n{LI} $A\\backslash B$ is complete for any finite subset $B$ and {/LI}\n{LI} $A\\backslash B$ is not complete for any infinite subset $B$.{/LI}\n{/UL}\n(Here 'complete' means all sufficiently large integers can be written as a sum of distinct members of the sequence.)\nIs it true that if $a_{n+1}/a_n \\geq 1+\\epsilon$ for some $\\epsilon>0$ and all $n$ then $ \\lim_n \\frac{a_{n+1}}{a_n}=\\frac{1+\\sqrt{5}}{2}? $ ",
+    "sha256": "cdcff7db858f4c06602b9dd5c09b8e4fdb0ce19afdc76337b7c8ba97008b2d3a",
+    "contains_placeholder": false,
+    "quality_flags": [
+      "statement-legacy-list-markup"
+    ]
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-346",
+    "source_locator": "dataset ID 2065; problem number EP-346",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems",
+      "statement-legacy-list-markup"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "statement-extraction-repair",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

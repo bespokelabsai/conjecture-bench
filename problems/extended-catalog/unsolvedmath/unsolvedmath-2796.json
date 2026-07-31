@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2796",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 2.48",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "The mapping class group of a closed, orientable, genus $g$ sur-\nface $S$ acts by symplectomorphisms on the symmetric product $\\operatorname{Sym}^{g}(S)$. In partic-\nular, it acts smoothly on $\\operatorname{Sym}^{g}(S)$.\n(a) What is the kernel of the map from the mapping class group of $S$ to the\nsmooth mapping class group of $\\operatorname{Sym}^{g}(S)$? What about in the based case?\n(b) Given disjoint simple closed curves $\\alpha_{1},..., \\alpha_{g}$ in $S$, there is a correspond-\ning torus $T_{\\alpha}$ in $\\operatorname{Sym}^{g}(S)$: the image of $\\alpha_{1} \\times \\cdots \\times \\alpha_{g} \\subset S^{g}$. These are\nthe tori that appear in Heegaard Floer theory. When do $\\alpha_{1},..., \\alpha_{g}$ and\n$\\beta_{1},..., \\beta_{g}$ give smoothly isotopic tori? When are they Lagrangian isotopic\nfor an appropriate choice of symplectic form?",
+    "sha256": "82e50bd3ee4075a971fd400aea312653c65b61c53b5e55b01de00fc241b0f135",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-2.48",
+    "source_locator": "dataset ID 2796; problem number KP-2.48",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

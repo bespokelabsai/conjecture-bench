@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-027",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.27 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Well-known question). A finitely generated group G that acts on a tree in\nsuch a way that all vertex and edge stabilizers are infinite cyclic groups is called a\ngeneralized Baumslag–Solitar group. The Bass–Serre theory gives finite presentations\nof such groups. Is the isomorphism problem soluble for generalized Baumslag–Solitar\ngroups?                                                                  F. A. Dudkin",
+    "sha256": "130b8d7bdbb66a730628e3114d308e8e238da35e5009312a083547f947b67cc0",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=133",
+    "source_locator": "Kourovka 19.27, main section, page 133",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2387",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #931",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $k_1\\geq k_2\\geq 3$. Are there only finitely many $n_2\\geq n_1+k_1$ such that $ \\prod_{1\\leq i\\leq k_1}(n_1+i)\\textrm{ and }\\prod_{1\\leq j\\leq k_2}(n_2+j) $ have the same prime factors?",
+    "sha256": "bba5d260d437d6252cd8ebfc162d854fa1a365edd0600690837afd3c9b005e2c",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-931",
+    "source_locator": "dataset ID 2387; problem number EP-931",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0273"
+  ]
+}

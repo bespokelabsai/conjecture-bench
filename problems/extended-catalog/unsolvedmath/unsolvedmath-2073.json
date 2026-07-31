@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2073",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #359",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $a_1<a_2<\\cdots$ be an infinite sequence of integers such that $a_1=n$ and $a_{i+1}$ is the least integer which is not a sum of consecutive earlier $a_j$s. What can be said about the density of this sequence?\nIn particular, in the case $n=1$, can one prove that $a_k/k\\to \\infty$ and $a_k/k^{1+c}\\to 0$ for any $c>0$?",
+    "sha256": "769cd56eb8b7429aff5ed1dd0e033119c9f52ea938246d988546f3e7f42bd8b6",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-359",
+    "source_locator": "dataset ID 2073; problem number EP-359",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-024",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.24 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For a group G, a function ϕ : G → R is a quasimorphism if there is a least\nnon-negative number D(ϕ) (called the defect) such that |ϕ(gh) − ϕ(g) − ϕ(h)| ⩽ D(ϕ)\nfor all g, h ∈ G. A quasimorphism is homogeneous if in addition ϕ(g n ) = nϕ(g)\nfor all g ∈ G. Let ϕ be a homogeneous quasimorphism of a free group F . For any\nquasimorphism ψ of F (not required to be homogeneous) with |ϕ − ψ| < const, we\nmust have D(ψ) ⩾ D(ϕ)/2. Is it true that there is some ψ with D(ψ) = D(ϕ)/2?\n                                                                     M. Burger, D. Calegari",
+    "sha256": "52cff47516aff30e8593c5e82e995ff182f1b6b9221c2f41965f65ab227646fd",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=118",
+    "source_locator": "Kourovka 18.24, main section, page 118",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

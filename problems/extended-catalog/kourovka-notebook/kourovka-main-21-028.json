@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-028",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.28 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a finite simple transitive permutation group, and let δ(G) be the\nproportion of derangements in G. Is it true that δ(G) ⩾ 89/325?\n   Note that δ(G) = 89/325 for the action of the Tits group G = 2 F4 (2)′ on the\ncosets of a maximal parabolic subgroup of the form 22 .[28 ].S3 (Forum Math. Sigma,\n13 (2025), paper no. e98, 62 pp.).                            T. C. Burness, M. Fusari",
+    "sha256": "ccd79ad1a2f4f4188dfee03828340b6e46bd101994c20f44eaec98e4d19e577a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=168",
+    "source_locator": "Kourovka 21.28, main section, page 168",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

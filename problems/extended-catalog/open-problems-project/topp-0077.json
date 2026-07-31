@@ -1,0 +1,28 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0077",
+  "source_registry": "open-problems-project",
+  "title": "Zipper Unfoldings of Convex Polyhedra",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Does every convex polyhedron $P$ have a zipper unfolding?\nA \\emph{zipper unfolding} cuts open $P$ via a single\npath, necessarily a Hamiltonian path (to span all vertices),\nand unfolds the surface to a non-overlapping polygon in the plane.\nThe segments of the path need not lie along edges of $P$.",
+    "sha256": "5b15681c3e331e7339a7601c7bcce34541891fd745317059aa1dbbc9b486318d",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p77",
+    "source_locator": "TOPP problem 77 (Problems/P.000077)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "polyhedra"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0162"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-020",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.20 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let M be a quasivariety of groups. The dominion domM       A (H) of a subgroup\nH of a group A (in M ) is the set of all elements a ∈ A such that for any two\nhomomorphisms f, g : A → B ∈ M , if f, g coincide on H, then f (a) = g(a). Suppose\nthat the set {domN A (H) | N is a quasivariety, N ⊆ M } forms a lattice with respect to\nset-theoretic inclusion. Can this lattice be modular and non-distributive? A. I. Budkin",
+    "sha256": "75813a529e0bd3fe3cf5cbd6707760b6e548c07cb8db98cc9fa7dbbb4359058e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=96",
+    "source_locator": "Kourovka 16.20, main section, page 96",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

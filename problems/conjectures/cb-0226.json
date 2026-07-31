@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0226",
+  "slug": "oeis-a306477-two-four-six-eight",
+  "title": "Sun's 2-4-6-8 conjecture",
+  "field": "additive-number-theory",
+  "statement": "Every positive integer n can be written as C(w+2,2)+C(x+3,4)+C(y+5,6)+C(z+7,8) for nonnegative integers w,x,y,z.",
+  "counterexample": {
+    "description": "A positive integer n absent from the exact four-way shifted-binomial sumset.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://oeis.org/A306477",
+        "role": "status-and-primary-index"
+      },
+      {
+        "url": "https://mathoverflow.net/questions/323541",
+        "role": "original-question"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OEIS/306477.lean#L57",
+        "role": "formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0682"
+    ]
+  },
+  "equivalence_group": "sun-2468-binomial-representation"
+}

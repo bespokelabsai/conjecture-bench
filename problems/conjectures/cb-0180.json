@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0180",
+  "slug": "vandiver-conjecture",
+  "title": "Vandiver conjecture",
+  "field": "algebraic-number-theory",
+  "statement": "For every prime p, p does not divide the class number of the maximal real subfield of the p-th cyclotomic field.",
+  "counterexample": {
+    "description": "A prime p with a proof-producing class-group computation showing p-torsion in the real cyclotomic subfield.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://www.ams.org/journals/mcom/2015-84-293/S0025-5718-2014-02870-5/",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0920"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0185",
+  "source_registry": "egres-open",
+  "title": "S-T edge-connectivity augmentation",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Given a digraph ''D=(V,A)'', two (not necessarily disjoint) subsets <math>S,T\\subseteq V</math> and\na connectivity requirement ''k'', develop a strongly polynomial time combinatorial algorithm for finding a minimum cardinality arc-set whose addition makes ''D'' ''k''-edge-connected between ''S'' and ''T'', that is, it contains ''k'' edge-disjoint paths from any node in ''S'' to any node in ''T''.",
+    "sha256": "9f29c935bed93932f41ed1fa971307f6031697a9f515a14bce3d85f7989d0bc1",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-06-17T11:34:20Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=S-T_edge-connectivity_augmentation&oldid=2040",
+    "source_locator": "EGRES page 185, revision 2040",
+    "source_sha256": "7844b699bbd1f4f7d51e7eecca387f668bd3f41f2def2507e28699d8d1f8302b",
+    "tags": [
+      "combinatorial-optimization",
+      "Node-connectivity"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

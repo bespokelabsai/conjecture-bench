@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1971",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #169",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $k\\geq 3$ and $f(k)$ be the supremum of $\\sum_{n\\in A}\\frac{1}{n}$ as $A$ ranges over all sets of positive integers which do not contain a $k$-term arithmetic progression. Estimate $f(k)$.\nIs $ \\lim_{k\\to \\infty}\\frac{f(k)}{\\log W(k)}=\\infty $ where $W(k)$ is the van der Waerden number?",
+    "sha256": "343d80dfdd7a006224e57ca3871b3e41298005260f90ab624ce804d0d31b793a",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-169",
+    "source_locator": "dataset ID 1971; problem number EP-169",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

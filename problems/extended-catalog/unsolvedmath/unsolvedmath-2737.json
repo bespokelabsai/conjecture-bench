@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2737",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.78",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $D$ be any diagram of the unknot with $n$ crossings. Let $h(D)$\nbe the smallest number such that some series of Reidemeister moves that transforms\n\n$D$ to a 0-crossing diagram has the property that all intermediate diagrams have at\nmost $h(D)$ crossings. Define $h(n)$ to be the maximum of $h(D)$ over all $n$-crossing\ndiagrams of the unknot. A diagram represents a hard unknot if $h(D) > n$. What\nis $h(n)$?",
+    "sha256": "c1aea746872566906194bb9c90fd3fd0ba1ec6736d4e9497e34aeb467c75310d",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.78",
+    "source_locator": "dataset ID 2737; problem number KP-1.78",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

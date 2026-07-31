@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0746",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "exists_maximal_star",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem exists_maximal_star :\n    ∀ F : Finset (Finset α), Decreasing F →\n        ∃ x : α, ∀ G, G ⊆ F → Intersecting G → G.card ≤ { A ∈ F | x ∈ A }.card",
+    "language_version": "Lean 4.27.0",
+    "sha256": "d549d27109bae7f74c6d16b3c1e50cf0e9cba35a9f240d998cc648b717ea2a12",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Paper/Chvatal.lean#L45",
+    "source_locator": "FormalConjectures/Paper/Chvatal.lean:45#exists_maximal_star",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Paper",
+      "AMS-5"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0175"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2313",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #805",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For which functions $g(n)$ with $n>g(n)\\geq (\\log n)^2$ is there a graph on $n$ vertices in which every induced subgraph on $g(n)$ vertices contains a clique of size $\\geq \\log n$ and an independent set of size $\\geq \\log n$?\nIn particular, is there such a graph for $g(n)=(\\log n)^3$?",
+    "sha256": "a5a8e85ca5887711f13c49cae8fbca6a63bcdd9618e788449aff14b842784a6c",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-805",
+    "source_locator": "dataset ID 2313; problem number EP-805",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

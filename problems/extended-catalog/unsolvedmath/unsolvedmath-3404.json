@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3404",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Unconditional derandomization of Arthur-Merlin games",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem Prove unconditionally that $\\mathcal{AM}$ $\\subseteq$ $\\Sigma_2$.",
+    "sha256": "417b8ed2fc21d2492fe358646be45a7dbf6d3366ddb95ba32edb0de9f766779e",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-454",
+    "source_locator": "dataset ID 3404; problem number OPG-454",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:computer-science",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

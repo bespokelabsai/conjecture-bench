@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3223",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Antichains in the cycle continuous order",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "If $G$, $H$ are graphs, a function $f: E(G) \\rightarrow E(H)$ is called cycle-continuous if the pre-image of every element of the (binary) cycle space of $H$ is a member of the cycle space of $G$.\n\nProblem Does there exist an infinite set of graphs $\\{G_1,G_2,\\ldots \\}$ so that there is no cycle continuous mapping between $G_i$ and $G_j$ whenever $i \\neq j$?",
+    "sha256": "b502bfaa84f0ce34df29b940d943af541d9e58c51b93886df89f02331baa7a5b",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-323",
+    "source_locator": "dataset ID 3223; problem number OPG-323",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

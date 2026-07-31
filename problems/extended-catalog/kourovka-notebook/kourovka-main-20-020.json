@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-020",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.20 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let E(l, m, n) be a group on generators a, b with the presentation ⟨a, b |\nal = 1, (ab)m = bn ⟩, where l, m, n satisfy 1/l + 1/m + 1/n < 1. Are there any values\nfor l, m, n such that E(l, m, n) is shortlex automatic?\n    It is known that E(6, 2, 6) is not shortlex automatic.                   C. Chalk",
+    "sha256": "60354c60cb67c77eda9e2acbedd6d131740bb5a4a56848b95f4f57b9cd3cee8f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=147",
+    "source_locator": "Kourovka 20.20, main section, page 147",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

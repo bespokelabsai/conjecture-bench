@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0409",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_598",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 3 5]\ntheorem erdos_598 : answer(sorry) ↔\n    ∃ c : { s : Set m // s.Countable } → κ.out,\n    ∀ X : Set m, #X = κ →\n    c '' { s : { sub : Set m // sub.Countable } | s.1 ⊆ X } = Set.univ",
+    "language_version": "Lean 4.27.0",
+    "sha256": "d88394abdc0421131924a93ccd36fffb015ddbc941f7f41899eb5f4892404dc1",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/598.lean#L42",
+    "source_locator": "FormalConjectures/ErdosProblems/598.lean:42#erdos_598",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-3",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

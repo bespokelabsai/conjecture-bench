@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2154",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #517",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $f(z)=\\sum_{k=1}^\\infty a_kz^{n_k}$ be an entire function (with $a_k\neq 0$ for all $k\\geq 1$). Is it true that if $n_k/k\\to \\infty$ then $f(z)$ assumes every value infinitely often?",
+    "sha256": "18a9135d3fa79e1088dc4109b320735b2a5f12879cca8fd8ff114315a3788425",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-517",
+    "source_locator": "dataset ID 2154; problem number EP-517",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

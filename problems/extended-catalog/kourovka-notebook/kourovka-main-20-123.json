@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-123",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.123 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A finite group is called a Dπ -group if any two of its maximal π-subgroups\nare conjugate.\n    a) Is it true that for any finite Dπ -group G and a π-Hall subgroup H of G, there\nare elements x, y, z ∈ G such that Oπ (G) = H ∩ H x ∩ H y ∩ H z ?\n  ∗ b) Suppose that G is a finite D -group in which all simple non-abelian composition\n                                     π\nfactors are sporadic or alternating groups, and let H be a Hall π-subgroup of G. Is it\ntrue that H ∩ H x ∩ H y = Oπ (G) for some x, y ∈ G?\n   ∗ c) Suppose that G is a finite D -group with trivial soluble radical in which all\n                                       π\nsimple non-abelian composition factors are sporadic groups, and let H be a Hall\nπ-subgroup of G. Is it true that H ∩ H g = Oπ (G) for some g ∈ G?          V. I. Zenkov\n  ∗ b) Yes, it is true (I. N. Belousov, V. I. Zenkov, Preprint, 2025 (Russian),\nhttps://kourovkanotebookorg.wordpress.com/wp-content/uploads/2025/09/\n20.123b.pdf)\n  ∗ c) Yes, it is true (I. N. Belousov, V. I. Zenkov, Trudy Inst. Mat. Mekh. Ural.\nOtdel. Ross. Akad. Nauk, 31, no. 1 (2025), 19–35 (Russian)).\n\n                             � on a group G is a mapping B : G → G such that",
+    "sha256": "fe316e3747db24fe191f0ca854c09cd59c3d57822c71c867024f92493a828299",
+    "contains_placeholder": false,
+    "unmapped_control_count": 1
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=162",
+    "source_locator": "Kourovka 20.123, main section, page 162",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

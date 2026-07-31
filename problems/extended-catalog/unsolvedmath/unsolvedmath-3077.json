@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3077",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Dense rational distance sets in the plane",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem Does there exist a dense set $S \\subseteq {\\mathbb R}^2$ so that all pairwise distances between points in $S$ are rational?",
+    "sha256": "4563deb9355afd913fb5fd0929f80d031d8e691ae391e9a5b853f27c7eda4595",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-1761",
+    "source_locator": "dataset ID 3077; problem number OPG-1761",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:geometry",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-100",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.100 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For a given class of groups X, let (X, ∞)∗ denote the class of groups in which\nevery infinite subset contains two distinct elements x and y that satisfy ⟨x, xy ⟩ ∈ X.\nLet G be a finitely generated soluble-by-finite group in the class (X, ∞)∗ , let m be a\npositive integer, and let F, Em , E, N, and P denote the classes of finite groups, groups\nof exponent dividing m, groups of finite exponent, nilpotent groups, and polycyclic\ngroups, respectively.\n    a) If X = EN, then is G in EN?\n    b) If X = Em N, then is G in Em (FN)?\n    c) If X = N(PF), then is G in N(PF)?                                      N. Trabelsi",
+    "sha256": "a7dd611a913f8b74901ae9db9053fb69230c1299df4c8214ac0a1cab1ae7f2ea",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=127",
+    "source_locator": "Kourovka 18.100, main section, page 127",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

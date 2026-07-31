@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0062",
+  "source_registry": "egres-open",
+  "title": "Capacitated packing of k-arborescences",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''D=(V,A)'' be a digraph with arc-capacities  <math> c : A \\to \\mathbb{N}</math> and a root node <math>r_0\\in V</math>. A '''k-arborescence''' is the arc-disjoint union of ''k'' spanning [[Arborescence|arborescences]] rooted at <math>r_0</math>. Is it true that if <math>c(a)\\leq l</math> for every <math>a \\in A</math> and there is a [[capacity-obeying packing]] of ''kl'' spanning arborescences, then there is a  capacity-obeying packing of ''l'' ''k''-arborescences?",
+    "sha256": "4563d9c51b013ce34dca1022e817be330bd708ede234a536a225a1fe3a65dca4",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2011-02-23T12:41:24Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Capacitated_packing_of_k-arborescences&oldid=1259",
+    "source_locator": "EGRES page 62, revision 1259",
+    "source_sha256": "260513de61a996a4d321b6fb0e1c424f1f79aa51754d891573a398a2330aaf9c",
+    "tags": [
+      "combinatorial-optimization",
+      "Packing common bases",
+      "Trees and branchings"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0297"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-032",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.32 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let p ⩾ 673 be a prime and r ⩾ 2 be an integer. Let B be the free group\nin the Burnside variety of exponent p on a1 , . . . , ar . Must every non-identical one-\nvariable equation w(a1 , . . . , ar , x) = 1 over B have at most finitely many solutions\nin B?                                                                        A. Gaglione",
+    "sha256": "60f85998a65004ebde115fbafdf7eff6372427551ceca2f5cf72bcc1649bc4e9",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=134",
+    "source_locator": "Kourovka 19.32, main section, page 134",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

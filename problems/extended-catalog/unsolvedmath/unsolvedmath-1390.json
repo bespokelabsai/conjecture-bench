@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1390",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Graham's Pebbling Conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Is the pebbling number of the Cartesian product of two graphs at least the product of their pebbling numbers?",
+    "sha256": "040e83dc8ca0c019537d2c40889e180aff8e7300797b4c932dceb275b42b00e6",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GRAPH-003",
+    "source_locator": "dataset ID 1390; problem number GRAPH-003",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L4",
+      "problem-number-collision",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,96 @@
+id,kind,title,source,family,status
+egres-0034,catalog,List colouring of two matroids,egres-open,,listed-open
+egres-0035,catalog,Well-balanced orientations of hypergraphs,egres-open,,conflicting-status-categories
+egres-0039,catalog,Highly element-connected orientation,egres-open,,listed-open
+egres-0043,catalog,Berge's conjecture on path partitions,egres-open,,listed-open
+egres-0048,catalog,Parity constrained strongly connected orientations,egres-open,,listed-open
+egres-0049,catalog,Making the union of two directed spanning trees strongly connected,egres-open,,listed-open
+egres-0053,catalog,Caccetta-Häggkvist conjecture,egres-open,,listed-open
+egres-0054,catalog,Woodall's conjecture,egres-open,,listed-open
+egres-0058,catalog,Disjoint spanning in- and out-arborescences,egres-open,,listed-open
+egres-0062,catalog,Capacitated packing of k-arborescences,egres-open,,listed-open
+egres-0067,catalog,Decomposition of oriented k-partition-connected digraphs,egres-open,,listed-open
+egres-0068,catalog,Upper bound on common independent set cover,egres-open,,listed-open
+egres-0076,catalog,Polyhedral description of kernels,egres-open,,listed-open
+egres-0079,catalog,Small quasi-kernels in directed graphs,egres-open,,listed-open
+egres-0090,catalog,Finding kernels in special digraphs,egres-open,,listed-open
+egres-0093,catalog,Maximum weakly stable matchings in graphs without odd preference cycles,egres-open,,listed-open
+egres-0094,catalog,Exact matching in red-blue bipartite graphs,egres-open,,listed-open
+egres-0097,catalog,Deciding the validity of the score sequence of a soccer tournament,egres-open,,listed-open
+egres-0098,catalog,Maximum weight k-element subsets of perfect matchings,egres-open,,listed-open
+egres-0102,catalog,Maximum square-free 2-matching,egres-open,,listed-open
+egres-0105,catalog,Maximum weight bounded fractional matching,egres-open,,listed-open
+egres-0107,catalog,Generic rigidity in three dimensions,egres-open,,listed-open
+egres-0110,catalog,Cyclic orderings of matroids,egres-open,,listed-open
+egres-0111,catalog,Disjoint strongly connected spanning subgraphs,egres-open,,listed-open
+egres-0118,catalog,Red-blue cut problem,egres-open,,listed-open
+egres-0120,catalog,"Decomposing rooted (k,l)-connected graphs into rooted k-connected parts",egres-open,,listed-open
+egres-0121,catalog,Kriesell's conjecture,egres-open,,listed-open
+egres-0123,catalog,Independent arborescences in acyclic digraphs,egres-open,,listed-open
+egres-0124,catalog,Independent trees,egres-open,,listed-open
+egres-0129,catalog,Partitioning a bipartite graph into proportional factors,egres-open,,listed-open
+egres-0132,catalog,Smooth well-balanced orientations with prescribed in-degrees,egres-open,,listed-open
+egres-0133,catalog,Incomplete splitting-off in digraphs,egres-open,,listed-open
+egres-0134,catalog,Compatible Euler-tours,egres-open,,listed-open
+egres-0141,catalog,Aharoni-Berger conjecture,egres-open,,listed-open
+egres-0142,catalog,Bounded degree matroid basis,egres-open,,listed-open
+egres-0143,catalog,Orientation with shortest round trip,egres-open,,listed-open
+egres-0157,catalog,Constructive characterization of dumpy graphs,egres-open,,listed-open
+egres-0158,catalog,Head-disjoint strongly connected orientations,egres-open,,listed-open
+egres-0161,catalog,Conforti-Cornuéjols conjecture on the MFMC property,egres-open,,listed-open
+egres-0162,catalog,Are t-perfect graphs strongly t-perfect?,egres-open,,listed-open
+egres-0163,catalog,Opposite vertices of base polyhedra,egres-open,,listed-open
+egres-0166,catalog,Destroying rigidity,egres-open,,listed-open
+egres-0172,catalog,Covering a symmetric crossing supermodular function with hyperedges of prescribed size,egres-open,,listed-open
+egres-0181,catalog,Chromatic number of t-perfect graphs,egres-open,,listed-open
+egres-0185,catalog,S-T edge-connectivity augmentation,egres-open,,listed-open
+egres-0188,catalog,Achieve global rigidity by pinning nodes,egres-open,,listed-open
+egres-0201,catalog,Acyclic orientation with parity constraints,egres-open,,listed-open
+egres-0202,catalog,Acyclic orientation with connectivity prescriptions,egres-open,,listed-open
+egres-0206,catalog,Generic global rigidity in three dimensions,egres-open,,listed-open
+egres-0224,catalog,Covering a crossing supermodular function with pairwise non-parallel arcs,egres-open,,listed-open
+egres-0226,catalog,Binary matroid representation of cyclic families,egres-open,,listed-open
+egres-0228,catalog,Minimum k-way cut in a hypergraph,egres-open,,listed-open
+egres-0237,catalog,Recognition of Seymour graphs,egres-open,,listed-open
+egres-0240,catalog,Changing conservative weightings in bipartite graphs,egres-open,,listed-open
+egres-0241,catalog,Partition median problem,egres-open,,listed-open
+egres-0261,catalog,Goddyn's conjecture on thin spanning trees,egres-open,,listed-open
+egres-0262,catalog,Minimum polychromatic number for plane graphs with fixed girth,egres-open,,listed-open
+egres-0269,catalog,Rank-respecting augmentation of hypergraphs with negamodular constraints,egres-open,,listed-open
+egres-0271,catalog,Local edge-connectivity augmentation of a hypergraph with fixed rank,egres-open,,listed-open
+egres-0286,catalog,Covering a crossing supermodular function with graph edges,egres-open,,listed-open
+egres-0334,catalog,Scrambled Rota conjecture,egres-open,,listed-open
+egres-0335,catalog,Rainbow matchings in bipartite graphs,egres-open,,listed-open
+egres-0338,catalog,Deciding kernel-perfectness,egres-open,,listed-open
+egres-0340,catalog,Integer decomposition of smooth polytopes,egres-open,,listed-open
+egres-0341,catalog,Orientation-compatible w-vertex cover,egres-open,,listed-open
+egres-0342,catalog,Extreme direction Sperner for square 0-1 matrix,egres-open,,listed-open
+egres-0344,catalog,Orientation of nonideal clutters,egres-open,,listed-open
+egres-0345,catalog,Skew-supermodular colouring with two class sizes,egres-open,,listed-open
+egres-0355,catalog,Sabidussi's compatibility conjecture,egres-open,,listed-open
+egres-0364,catalog,Equitable list colouring,egres-open,,listed-open
+egres-0366,catalog,Strong colouring of matroid-graph pairs,egres-open,,listed-open
+egres-0409,catalog,Min-sum two edge-disjoint paths,egres-open,,listed-open
+egres-0431,catalog,Serial symmetric exchanges,egres-open,,listed-open
+egres-0432,catalog,Sparsifier subgraphs,egres-open,,listed-open
+egres-0444,catalog,Complexity of the halting problem for simple digraphs,egres-open,,listed-open
+egres-0445,catalog,Complexity of the halting problem for Eulerian multigraphs,egres-open,,listed-open
+egres-0446,catalog,Complexity of the chip-firing reachability problem for general digraphs,egres-open,,listed-open
+egres-0450,catalog,Edge-covering number of 2-polymatroids,egres-open,,listed-open
+egres-0454,catalog,Upper bound on the divisorial gonality of a graph,egres-open,,listed-open
+egres-0456,catalog,Complexity of computing a v-reduced divisor in multigraphs,egres-open,,listed-open
+egres-0458,catalog,Complexity of computing the rotor-router action,egres-open,,listed-open
+egres-0459,catalog,Compactness of Kőnig-property,egres-open,,listed-open
+egres-0461,catalog,Seymour's self-minor conjecture,egres-open,,listed-open
+egres-0462,catalog,Strongly maximal H-free spanning subgraph,egres-open,,listed-open
+egres-0463,catalog,Quasi-kernels and quasi-sinks,egres-open,,listed-open
+egres-0465,catalog,Infinite Lucchesi-Younger,egres-open,,listed-open
+egres-0467,catalog,Orientation conjecture of Nash-Williams,egres-open,,listed-open
+egres-0468,catalog,Strongly maximal matchings,egres-open,,listed-open
+egres-0469,catalog,Strongly minimal edge cover,egres-open,,listed-open
+egres-0471,catalog,Weighted bipartite edge colouring,egres-open,,listed-open
+egres-0473,catalog,Edge-independent spanning trees,egres-open,,listed-open
+egres-0474,catalog,Rota's conjecture on disjoint bases,egres-open,,listed-open
+egres-0477,catalog,Rotor-routing halting problem,egres-open,,listed-open
+egres-0478,catalog,Gonality and edge subdivisions,egres-open,,listed-open
+egres-0479,catalog,Are there deletion-contraction formulas for the polymatroid Tutte polynomial?,egres-open,,listed-open

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0516",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_912.variants.tao",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_912.variants.tao :\n    (fun n => (h n : ℝ)) ~[atTop] (fun n => √(2 * Real.pi) * (n / Real.log n) ^ (1 / 2 : ℝ))",
+    "language_version": "Lean 4.27.0",
+    "sha256": "a0b56c40db82ca3ca259eae3868c90a9419d3026055e596bf3ddaf0c178aba2a",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/912.lean#L53",
+    "source_locator": "FormalConjectures/ErdosProblems/912.lean:53#erdos_912.variants.tao",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

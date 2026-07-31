@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0144",
+  "slug": "erdos-556-three-colour-cycle-ramsey",
+  "title": "Erdős problem #556: three-colour cycle Ramsey bound",
+  "field": "ramsey-theory",
+  "statement": "For every n≥4, the three-colour Ramsey number of Cₙ is at most 4n−3.",
+  "counterexample": {
+    "description": "An integer n≥4 and disjoint red and blue edge sets of K_(4n−3), with all remaining edges green, such that no colour contains an n-cycle.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/556",
+        "role": "status"
+      }
+    ]
+  },
+  "equivalence_group": "three-colour-cycle-ramsey-four-n-minus-three"
+}

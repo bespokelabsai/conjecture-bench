@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0813",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "abc.variants.quality",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem abc.variants.quality (ε : ℝ) (hε : 0 < ε) :\n    {(a, b, c) : ℕ × ℕ × ℕ | 0 < a ∧ 0 < b ∧ 0 < c ∧ ({a, b, c} : Set ℕ).Pairwise Nat.Coprime ∧\n    a + b = c ∧ quality a b c > (1 + ε)}.Finite",
+    "language_version": "Lean 4.27.0",
+    "sha256": "fae19486c6f8ba2ef20a27b0c00a402b4c26b35cb1299f4966d2f9c208494d77",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/ABC.lean#L77",
+    "source_locator": "FormalConjectures/Wikipedia/ABC.lean:77#abc.variants.quality",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

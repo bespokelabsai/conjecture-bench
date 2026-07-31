@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0189",
+  "slug": "fejes-toth-sausage-conjecture",
+  "title": "Fejes Tóth sausage conjecture",
+  "field": "discrete-geometry",
+  "statement": "In every dimension d≥5 and for every finite number of congruent balls, placing their centers collinearly with consecutive balls tangent minimizes the volume of their convex hull.",
+  "counterexample": {
+    "description": "A dimension d≥5 and a finite exact nonoverlapping ball configuration whose convex-hull volume is smaller than that of the corresponding sausage arrangement.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://link.springer.com/article/10.1007/s13366-020-00502-x",
+        "role": "supporting"
+      }
+    ]
+  }
+}

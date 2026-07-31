@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0079",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Algorithmic Origami and Biology",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Strengthen mathematical theory for isometric and rigid embedding relevant to protein folding.",
+    "sha256": "700277969137a24d69e30e2e09ee3e42424c90135ee5d57b3c964044646ee0a8",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/DARPA-010",
+    "source_locator": "dataset ID 79; problem number DARPA-010",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:geometry",
+      "difficulty:L4",
+      "secondary-aggregation",
+      "set:darpa-challenges"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3440",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "What are hyperfuncoids isomorphic to?",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $\\mathfrak{A}$ be an indexed family of sets.\n\nProducts are $\\prod A$ for $A \\in \\prod \\mathfrak{A}$.\n\nHyperfuncoids are filters $\\mathfrak{F} \\Gamma$ on the lattice $\\Gamma$ of all finite unions of products.\n\nProblem Is $\\bigcap^{\\mathsf{\\tmop{FCD}}}$ a bijection from hyperfuncoids $\\mathfrak{F} \\Gamma$ to:\n\n- prestaroids on $\\mathfrak{A}$;\n- staroids on $\\mathfrak{A}$;\n- completary staroids on $\\mathfrak{A}$?\n\nIf yes, is $\\operatorname{up}^{\\Gamma}$ defining the inverse bijection? If not, characterize the image of the function $\\bigcap^{\\mathsf{\\tmop{FCD}}}$ defined on $\\mathfrak{F} \\Gamma$.\n\nConsider also the variant of this problem with the set $\\Gamma$ replaced with the set $\\Gamma^{\\ast}$ of complements of elements of the set $\\Gamma$.",
+    "sha256": "093cc3013f2b3f9f61895f07104bef1ec77d2e4f522595bde165c1fff258c95c",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-59973",
+    "source_locator": "dataset ID 3440; problem number OPG-59973",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-08-082",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 8.82 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let H = C × R = {(z, r) | z ∈ C, r > 0} be the three-dimensional Poincaré\nspace which admits the following action of the group SL2 (C):\n\n                              (az + b)(cz + d) + acr2\n                    �           �       �                                      �\n                        a   b                                      r\n           (z, r)                   =                   ,                        .\n                        c   d     |cz + d|2 + |c|2 r2      |cz + d|2 + |c|2 r2\n                                                    √\nLet o be the ring of integers of the field\n                                       � �K = Q( � D), where D < 0, π a �        prime such\n                                            a b\nthat ππ is a prime in Z and let Γ =                  ∈ SL2 (o) b ≡ 0 (mod π) . Adding\n                                            c d\nto the space Γ \\ H3 two vertices we get a three-dimensional compact space Γ \\ H3 .\n    Calculate r(π) = dim Q H1 (Γ \\ H3 , Q) = dim Q (Γab ⊗ Q).\n    For example, if D = −3 then r(π) is distinct from zero for the first time for π | 73\n(then r(π) = 1), and if D = −4 then r(π) = 1 for π | 137.                          H. Helling",
+    "sha256": "118e6df0a613550c16250dcdf08c3eed02a8e78482476856aebfd1562d663210",
+    "contains_placeholder": false,
+    "unmapped_control_count": 8
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=30",
+    "source_locator": "Kourovka 8.82, main section, page 30",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-038",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.38 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(S. Harper, C. Donoven). The spread of a group G is the greatest nonnegative\ninteger k such that for all nontrivial elements x1 , . . . , xk ∈ G there exists y ∈ G such\nthat ⟨x1 , y⟩ = · · · = ⟨xk , y⟩ = G, or is ∞ in case there is no such maximum. Does\nthere exist a group with spread equal to 1?\n    Such a group must be infinite if it exists (T. C. Burness, R. M. Guralnick, S. Harper,\nAnn. Math., 193 (2021), 619–687).                                                  S. Corson",
+    "sha256": "82651f05cb7e2f9070fb50fc32ca4ecd34a66ddb39c174556bb90050051e80d9",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=170",
+    "source_locator": "Kourovka 21.38, main section, page 170",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

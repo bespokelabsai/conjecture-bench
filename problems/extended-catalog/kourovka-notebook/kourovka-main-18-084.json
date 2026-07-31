@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-084",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.84 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let π be a set of primes. We say that a finite group is a BSπ -group if every\nconjugacy class in this group any two elements of which generate a π-subgroup itself\ngenerates a π-subgroup. Is every normal subgroup of a BSπ -group a BSπ -group?\n    In the case 2 ̸∈ π, an affirmative answer follows from (D. O. Revin, Siberian Math.\nJ., 52, no. 2 (2011), 340–347).                                             D. O. Revin",
+    "sha256": "51d9b39fa8dafbbc413473c0d3733860cda3340ae84f2969bf214710da116fd9",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=124",
+    "source_locator": "Kourovka 18.84, main section, page 124",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

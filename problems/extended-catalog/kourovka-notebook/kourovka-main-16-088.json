@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-088",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.88 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(G. M. Bergman). The width of a group G with respect to a generating set X\nmeans the supremum over all g ∈ G of the least length of a group word in elements\nof X expressing g. A group G has finite width if the width of G with respect to every\ngenerating set is finite. Does there exist a countably infinite group of finite width?\n   All known infinite groups of finite width (infinite permutation groups, infinite-\ndimensional general linear groups, and some other groups) are uncountable\n(G. M. Bergman, Bull. London Math. Soc., 38 (2006), 429–440, and references\ntherein).                                                                    V. Tolstykh",
+    "sha256": "df72b18ac5cf946982d74b465e348b71f0b99b8f18fa61be3bad0f98fe797b1e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=102",
+    "source_locator": "Kourovka 16.88, main section, page 102",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-08-035",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 8.35 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "c) Determine the conjugacy classes of maximal subgroups in the sporadic\nsimple group F1 . See the current status in Atlas of Finite Group Representations\n(http://brauer.maths.qmul.ac.uk/Atlas/spor/M/).                    V. D. Mazurov",
+    "sha256": "b32889d8e587739d23981ff7ccb7095cccda57a5582f293e24b67bed96782d5a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=28",
+    "source_locator": "Kourovka 8.35, main section, page 28",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

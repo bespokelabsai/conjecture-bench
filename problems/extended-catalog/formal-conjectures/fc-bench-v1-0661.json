@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0661",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "mathoverflow_339137",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 12]\ntheorem mathoverflow_339137 (P Q R : ℝ[X]) (hP: P.Monic) (hQ : Q.Monic)\n    (hp : ∀ c ∈ P.coeffs, 0 ≤ c) (hq : ∀ c ∈ Q.coeffs, 0 ≤ c)\n    (h : R = P * Q) (hR : IsZeroOne R) :\n    IsZeroOne P ∧ IsZeroOne Q",
+    "language_version": "Lean 4.27.0",
+    "sha256": "a088098ccdcced657677ee2b2eb53004ee24652384944a7da532817172ede022",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Mathoverflow/339137.lean#L50",
+    "source_locator": "FormalConjectures/Mathoverflow/339137.lean:50#mathoverflow_339137",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Mathoverflow",
+      "AMS-12"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0209"
+  ]
+}

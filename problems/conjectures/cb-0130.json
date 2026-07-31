@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0130",
+  "slug": "erdos-779-primorial-plus-prime",
+  "title": "Erdős problem #779: primorial plus a prime",
+  "field": "number-theory",
+  "statement": "For n>1 and P the product of the first n primes, some prime p with pₙ<p<P makes P+p prime.",
+  "counterexample": {
+    "description": "An integer n>1 for which every prime p with p_n<p<P makes P+p composite, where P is the product of the first n primes.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/779",
+        "role": "status"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0461"
+    ]
+  }
+}

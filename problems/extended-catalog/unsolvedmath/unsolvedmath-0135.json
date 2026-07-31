@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0135",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "No 5 Points on 2-plane in [N]^d",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "What is the largest subset of $[N]^d$ with no 5 points on a 2-plane?",
+    "sha256": "f66b1b45b4be8a4d7dd0ac604be7cc44dafe496fa30d969b0ca84824a8dec18f",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GREEN-047",
+    "source_locator": "dataset ID 135; problem number GREEN-047",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:geometry",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:green-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

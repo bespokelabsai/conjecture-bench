@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0454",
+  "source_registry": "egres-open",
+  "title": "Upper bound on the divisorial gonality of a graph",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "<math>\\rm{gon}(G) \\leq \\frac{|E(G)|-|V(G)|}{2}  + 2 </math>, where <math>\\rm{gon}(G)</math> the denotes the [[divisorial gonality of a graph|divisorial gonality]] of graph <math>G</math>.",
+    "sha256": "6e011b6af50134430f54329ece087e0a7d881f8f41481660678721a76d96b745",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-11-04T13:49:24Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Upper_bound_on_the_divisorial_gonality_of_a_graph&oldid=2313",
+    "source_locator": "EGRES page 454, revision 2313",
+    "source_sha256": "37618a9fc601146234f84e047f376fbd848e7f6761cefb56a4b193ddc1ac05ce",
+    "tags": [
+      "combinatorial-optimization",
+      "Chip-firing"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0291"
+  ]
+}

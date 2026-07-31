@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0948",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "mosers_worm_problem",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 52]\ntheorem mosers_worm_problem :\n    IsGLB {v | ∃ X ∈ WormCovers, volume X = v} answer(sorry)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "b2d8ce72d13071786840efc00898a19a38949d8f4142a887a8f03e3bc587b1f3",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/MoserWorm.lean#L58",
+    "source_locator": "FormalConjectures/Wikipedia/MoserWorm.lean:58#mosers_worm_problem",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-52"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

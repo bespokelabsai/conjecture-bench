@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2684",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.25",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) Conjecture: The noncommutative $A$-ideal of a knot $K$ is exactly the an-\nnihilator of the colored Jones polynomial $($ the infinite dimensional vector\nwhose entries are the colored Jones polynomials of $K)$.\n(b) $($ AJ Conjecture $)$ Let $A(K; L, M)$ be the $A$-polynomial of the knot $K$, and\n$\\alpha(K, q; M, L)$ a polynomial of minimal degree in $L$ and co-prime coeffi-\ncients that annihilates the colored Jones polynomial $J_{n}(K; q)$. Then\n\n$$\n\\alpha(K, -1; M, L) = A(K; L, M)\n$$\n\nup to a factor depending on $M.$",
+    "sha256": "8c59b033af7c2573155e39d94c99a075448dc0b6437530c0dc06c73b7b763163",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.25",
+    "source_locator": "dataset ID 2684; problem number KP-1.25",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

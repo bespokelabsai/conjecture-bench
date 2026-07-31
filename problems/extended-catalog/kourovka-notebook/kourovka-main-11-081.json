@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-081",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.81 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A topological group is said to be F -balanced if for any subset X and any\nneighborhood of the identity U there is a neighborhood of the identity V such that\nV X ⊆ XU . Is every F -balanced group balanced, that is, does it have a basis of\nneighborhoods of the identity consisting of invariant sets?           I. V. Protasov",
+    "sha256": "936ae84437e017789475e889017307401692ed4f55cff4e2e668f8c2458e3def",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=53",
+    "source_locator": "Kourovka 11.81, main section, page 53",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

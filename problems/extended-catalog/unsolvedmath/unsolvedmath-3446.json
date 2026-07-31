@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3446",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Several ways to apply a (multivalued) multiargument function to a family of filters",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem Let $\\mathcal{X}$ be an indexed family of filters on sets. Which of the below items are always pairwise equal?\n\n1. The funcoid corresponding to this function (considered as a single argument function on indexed families) applied to the reloidal product of filters $\\mathcal{X}$.\n\n2. The funcoid corresponding to this function (considered as a single argument function on indexed families) applied to the starred reloidal product of filters $\\mathcal{X}$.\n\n3. $\\bigcap_{F\\in\\operatorname{up}^{\\mathrm{FCD}}\\prod^{\\mathrm{Strd}}\\mathcal{X}}\\langle f \\rangle F$.",
+    "sha256": "67c327e291871ad0e4527d73d322330dda593974bc6f8c58496fafe5a134a340",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-60043",
+    "source_locator": "dataset ID 3446; problem number OPG-60043",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "erdos-0712",
+  "source_registry": "erdos-problems",
+  "title": "Erdős problem #712",
+  "statement": {
+    "representation": "source-reference",
+    "text": null,
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-08-31",
+    "evidence": "pinned Erdős Problems maintainer feed"
+  },
+  "provenance": {
+    "source_url": "https://www.erdosproblems.com/712",
+    "source_locator": "Erdős problem 712",
+    "source_commit": "1fddae4643fac0308db2e557876b78072e30f2e1",
+    "tags": [
+      "graph theory",
+      "turan number",
+      "hypergraphs"
+    ]
+  },
+  "review_flags": [
+    "exact-statement",
+    "status"
+  ]
+}

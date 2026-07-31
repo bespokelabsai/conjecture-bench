@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0801",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "reed_omega_delta_chi_conjecture_for_finite_graphs",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem reed_omega_delta_chi_conjecture_for_finite_graphs :\n  ∀ {V : Type} [Fintype V] [DecidableEq V] (G : SimpleGraph V) [DecidableRel G.Adj],\n    let χ := G.chromaticNumber\n    let ω := G.cliqueNum\n    let Δ := G.maxDegree\n    2 * χ ≤ ω + Δ + 2",
+    "language_version": "Lean 4.27.0",
+    "sha256": "dc1f07be497bea1acdad1dbbdd8e9547a19c5c00d9b1820eb316363a20f9a5a6",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Paper/ReedOmegaDeltaChi.lean#L52",
+    "source_locator": "FormalConjectures/Paper/ReedOmegaDeltaChi.lean:52#reed_omega_delta_chi_conjecture_for_finite_graphs",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Paper",
+      "AMS-5"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0031"
+  ]
+}

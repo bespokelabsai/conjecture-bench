@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-083",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.83 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let X be a class of finite groups that is closed with respect to taking sub-\ngroups, homomorphic images, and extensions. A subgroup H of a finite group G is\nsaid to be X-submaximal if there exists an embedding of G into a group G∗ such that\nG is subnormal in G∗ and H coincides with the intersection of G and an X-maximal\nsubgroup of G∗ . Suppose that all X-submaximal subgroups of a characteristic sub-\ngroup N of a finite group G are conjugate in N . Does it follow that HN/N is an\nX-submaximal subgroup of G/N for every X-submaximal subgroup H of G?\n    For normal subgroups N , this is not true even if N is an X-group or if N does\nnot contain nontrivial X-subgroups. A positive answer is known in the case where N\ncoincides with the F-radical of G for a Fitting class F.\n                                                               D. O. Revin, A. V. Zavarnitsine",
+    "sha256": "8a343886c8309f4d3e555bb25e80321f8e03ccaf402f8e686a1f153f44b509aa",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=156",
+    "source_locator": "Kourovka 20.83, main section, page 156",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

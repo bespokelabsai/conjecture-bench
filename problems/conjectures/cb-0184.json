@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0184",
+  "slug": "kissing-number-dimension-five",
+  "title": "Five-dimensional kissing-number conjecture",
+  "field": "discrete-geometry",
+  "statement": "The kissing number in Euclidean dimension five is 40.",
+  "counterexample": {
+    "description": "A certified spherical code in S⁴ with more than 40 points and pairwise inner products at most one half.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1016/j.ejc.2005.05.001",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "low-dimensional-spherical-codes"
+}

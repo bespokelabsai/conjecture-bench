@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0060",
+  "source_registry": "open-problems-project",
+  "title": "Transforming Polygons via Vertex-Centroid Moves",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Given an arbitrary polygon, transform it by a finite sequence of\n``vertex-centroid'' moves to a regular polygon.\nA \\emph{vertex-centroid move} is a translation of\na vertex $v$ along the line $vm$, where $m$ is the\ncentroid of the vertices of the polygon, i.e.,\n$1/n$-th of the sum of the vertex coordinates.\nVertices may move only one at a time, but in any\norder and any number of times.",
+    "sha256": "87973ba313812e9c230785a2768c42ec7c7f358bb716459200e99fd1b0d684b9",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p60",
+    "source_locator": "TOPP problem 60 (Problems/P.000060)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "polygons"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

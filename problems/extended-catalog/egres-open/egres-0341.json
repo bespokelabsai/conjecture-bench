@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0341",
+  "source_registry": "egres-open",
+  "title": "Orientation-compatible w-vertex cover",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Given a digraph ''D=(V,A)'' and non-negative even-valued arc weights <math>w_a\\ (a \\in A)</math>, can we find in polynomial time a [[Covering number#Vertex cover|''w''-vertex cover]] <math>x</math> of the underlying undirected graph with the additional property that for every node ''v'' with <math>x_v>0</math> there is an arc <math>uv\\in A</math> with <math>x_u+x_v=w_a</math>?",
+    "sha256": "59b42894ae9315c0a978d6be1463638c29b51c94f609034dd9f9f27ce2cba5df",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2013-12-16T19:00:06Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Orientation-compatible_w-vertex_cover&oldid=1600",
+    "source_locator": "EGRES page 341, revision 1600",
+    "source_sha256": "e98dc1cb41d9931bc842d717d327e1e0b234465cb41033c5d3789d94d09b1a66",
+    "tags": [
+      "combinatorial-optimization",
+      "Integer polyhedra",
+      "Stable matchings and kernels"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0949",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "convex_mosers_worm_problem",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 52]\ntheorem convex_mosers_worm_problem :\n    IsGLB {v | ∃ X ∈ WormCovers, Convex ℝ X ∧ volume X = v} answer(sorry)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "ef2b50035f6bf0bb51741ea33a62ce753653081de98dc9742bc3690bcba772ac",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/MoserWorm.lean#L80",
+    "source_locator": "FormalConjectures/Wikipedia/MoserWorm.lean:80#convex_mosers_worm_problem",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-52"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

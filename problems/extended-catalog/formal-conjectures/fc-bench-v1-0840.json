@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0840",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "pillais_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem pillais_conjecture (a b c : ℕ) (ha : 0 < a) (hb : 0 < b) (hc : 0 < c) :\n    { (x, y, m, n) : (ℕ × ℕ × ℕ × ℕ) |\n      1 < x ∧ 1 < y ∧ 1 < m ∧ 1 < n ∧ (m, n) ≠ (2, 2) ∧\n      a * x^n - b * y^m = c }.Finite",
+    "language_version": "Lean 4.27.0",
+    "sha256": "0defa2ca4d089000f4b835be0024d98a9521ee08d35d3f377e98a80acec686a3",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Catalan.lean#L42",
+    "source_locator": "FormalConjectures/Wikipedia/Catalan.lean:42#pillais_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

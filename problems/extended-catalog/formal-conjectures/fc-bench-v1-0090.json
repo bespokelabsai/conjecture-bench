@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0090",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_1150",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 12 30]\ntheorem erdos_1150 :\n    answer(sorry) ↔ ∃ c > 0, ∀ᶠ n in Filter.atTop,\n      ∀ P : ℂ[X],  (∀ i ≤ P.natDegree, P.coeff i = - 1 ∨ P.coeff i = 1) → P.natDegree = n →\n        ⨆ z : Metric.sphere (0 : ℂ) 1, ‖P.eval (z : ℂ)‖ > (1 + c) * Real.sqrt n",
+    "language_version": "Lean 4.27.0",
+    "sha256": "5e60f098a03bb5143df34c9f6a653a22dd479236f8b637bead0a77d21f50cd3a",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/1150.lean#L34",
+    "source_locator": "FormalConjectures/ErdosProblems/1150.lean:34#erdos_1150",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-12",
+      "AMS-30"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

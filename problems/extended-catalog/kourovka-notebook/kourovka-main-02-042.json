@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-02-042",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 2.42 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "What is the structure of the groupoid of quasivarieties\n   a) of all semigroups?\n   b) of all rings?\n   c) of all associative rings?\n   Compare with A. I. Mal’cev, Siberian Math. J., 8, no. 2 (1967), 254–267).\n                                                                              A. I. Mal’cev",
+    "sha256": "6eaa32ddfbbd6de8a4f3f6be61d61c28e28f203a00554d66e7da66229fca05be",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=8",
+    "source_locator": "Kourovka 2.42, main section, page 8",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

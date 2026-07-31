@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0150",
+  "slug": "erdos-848-squarefree-product-avoiding-set",
+  "title": "Erdős problem #848: squarefree-product-avoiding sets",
+  "field": "number-theory",
+  "statement": "The largest A⊆[N] for which ab+1 is never squarefree is always achieved by the numbers congruent to 7 modulo 25.",
+  "counterexample": {
+    "description": "An integer N and a strictly increasing set A⊆[N] larger than the 7 modulo 25 construction, with ab+1 nonsquarefree for every a,b∈A, including a=b.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/848",
+        "role": "status"
+      }
+    ]
+  }
+}

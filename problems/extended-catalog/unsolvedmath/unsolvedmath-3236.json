@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3236",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Double-critical graph conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "A connected simple graph $G$ is called double-critical, if removing any pair of adjacent vertexes lowers the chromatic number by two.\n\nConjecture $K_n$ is the only $n$-chromatic double-critical graph",
+    "sha256": "45e1e11a7ebf69adb756008c87d1ab3b01699017cc9343c22df6182c425da1f5",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-34839",
+    "source_locator": "dataset ID 3236; problem number OPG-34839",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

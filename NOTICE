@@ -1,0 +1,106 @@
+# NOTICE
+
+This repository is a curated collection built on problem collections that
+other people compiled and maintain. Bespoke Labs' own contribution (curation,
+records, tables, schemas, code, and documentation) is licensed under
+LICENSE (code, Apache-2.0) and LICENSE-DATA (data, CC BY 4.0).
+
+Content reproduced from the sources below remains the work of its authors and
+is not relicensed by this repository. Everything reproduced here is credited,
+and we honor removal requests from rights holders. Please cite the original
+collections alongside this repository.
+
+Attribution and inclusion in this NOTICE do not grant rights in upstream
+material. Where an upstream source states no reuse licence, its material
+remains subject to the source's terms and applicable law. Rights holders may
+request correction, replacement with a source pointer, or removal by opening
+an issue or contacting the repository maintainers.
+
+## Curated conjectures
+
+The 302 individually curated conjectures store their source links directly in
+each record's `provenance.sources`. Those links identify provenance and status
+evidence; upstream material remains the work of its authors and is not
+relicensed here.
+
+## Problem families
+
+### Bounds for binary constant weight codes
+- Maintainers: Andries E. Brouwer
+- Home: https://www.win.tue.nl/~aeb/codes/Andw.html
+- Upstream terms: No formal licence stated; a public research reference on code bounds.
+- Held here: Records store the parameters, the two published bounds, and a quoted fragment of the table row. Brouwer's explicit record codes are not redistributed.
+- Requested citation: The page asks for corrections and updates at aeb@cwi.nl and names its own sources: cite A. E. Brouwer, "Bounds for binary constant weight codes", https://www.win.tue.nl/~aeb/codes/Andw.html, together with A. E. Brouwer, J. B. Shearer, N. J. A. Sloane & W. D. Smith, "A new table of constant weight codes", IEEE Trans. Inform. Theory 36 (1990) 1334-1380, and E. Agrell, A. Vardy & K. Zeger, "Upper bounds for constant-weight codes", IEEE Trans. Inform. Theory 46 (2000) 2373-2395, for the entries taken from them.
+
+### Bounds on the minimum distance of linear codes
+- Maintainers: Markus Grassl, Andries E. Brouwer
+- Home: https://codetables.de/
+- Upstream terms: No formal licence stated; a public research reference on code bounds.
+- Held here: Records store the code parameters, the two published bounds, and the quoted table cell. No generator matrices or construction descriptions are copied.
+- Requested citation: Cite M. Grassl, "Bounds on the minimum distance of linear codes and quantum codes", online at http://www.codetables.de, and credit A. E. Brouwer's tables for the entries derived from them.
+
+### Bounds on the minimum distance of non-binary linear codes
+- Maintainers: Markus Grassl, Andries E. Brouwer, Rumen Daskalov
+- Home: https://codetables.de/
+- Upstream terms: No formal licence stated; a public research reference on code bounds.
+- Held here: Records store the code parameters, the two published bounds, and the quoted cell page heading. No generator matrices, construction descriptions or bibliography entries are copied.
+- Requested citation: Cite M. Grassl, "Bounds on the minimum distance of linear codes and quantum codes", online at http://www.codetables.de, and credit A. E. Brouwer's tables for the entries derived from them.
+
+### La Jolla Covering Repository
+- Maintainers: Daniel M. Gordon
+- Home: https://ljcr.dmgordon.org/cover.html
+- Upstream terms: No formal licence stated; a public research repository of covering designs.
+- Held here: Records store parameters, the two bounds, and a quoted bound line. Record coverings are not redistributed.
+- Requested citation: Cite the La Jolla Covering Repository, D. M. Gordon, https://ljcr.dmgordon.org/cover.html
+
+### La Jolla Difference Sets Repository
+- Maintainers: Daniel M. Gordon
+- Home: https://dmgordo.github.io/difference-sets/
+- Upstream terms: CC-BY-4.0
+- Held here: Records store the parameters, the abelian group's invariant factors, and the quoted status entry. No difference sets are copied from the dataset.
+- Requested citation: The dataset ships a CITATION.cff asking that it be cited using that file's metadata: Daniel M. Gordon, "La Jolla Difference Sets Repository", dataset, version 1.0, 2024, https://doi.org/10.5281/zenodo.10775931. The CC-BY-4.0 licence also requires stating what was changed: only open parameter sets are kept here, and no difference sets are copied.
+
+### Small Ramsey Numbers (dynamic survey DS1)
+- Maintainers: Stanisław Radziszowski, Daniel Munro (Leaps in Bounds)
+- Home: https://www.combinatorics.org/ojs/index.php/eljc/article/view/DS1
+- Upstream terms: No formal licence stated; a living survey article published by the Electronic Journal of Combinatorics.
+- Held here: Records store the two clique sizes, the survey's lower and upper bound, and the quoted description and bounds block from the tracker page the row cites. No colourings, critical graphs or reference lists are copied from either source.
+- Requested citation: Cite S. Radziszowski, "Small Ramsey Numbers", Electronic Journal of Combinatorics, Dynamic Survey DS1, https://doi.org/10.37236/21, and credit Leaps in Bounds (D. Munro, https://leapsinbounds.org/) for the per-constant pages.
+
+## Extended catalog sources
+
+### Erdős Problems database
+- Maintainers: Thomas Bloom, Terence Tao, and contributors
+- Home: https://github.com/teorth/erdosproblems
+- Upstream terms: Apache-2.0
+- Held here: metadata and status only; statements are not reproduced
+
+### Formal Conjectures
+- Maintainers: Google DeepMind contributors
+- Home: https://github.com/google-deepmind/formal-conjectures
+- Upstream terms: Apache-2.0
+- Held here: Lean statement headers and digests
+
+### UnsolvedMath 1.1.0
+- Maintainers: ulam.ai community
+- Home: https://www.unsolvedmath.com/
+- Upstream terms: CC BY 4.0 (Hugging Face dataset)
+- Held here: full problem statements with category and difficulty tags
+
+### EGRES Open
+- Maintainers: Egerváry Research Group, ELTE Budapest
+- Home: https://oldlemon.cs.elte.hu/egres/open/
+- Upstream terms: CC BY 3.0 (stated on the site's general disclaimer)
+- Held here: problem statements as wikitext
+
+### The Kourovka Notebook
+- Maintainers: E. I. Khukhro and V. D. Mazurov (editors)
+- Home: https://kourovka-notebook.org/
+- Upstream terms: copyright the editors; no general licence stated
+- Held here: short problem statement texts, reproduced with attribution
+
+### The Open Problems Project
+- Maintainers: Erik D. Demaine, Joseph S. B. Mitchell, Joseph O'Rourke (editors)
+- Home: https://topp.openproblem.net/
+- Upstream terms: no licence stated for the problem text
+- Held here: problem statement texts, reproduced with attribution

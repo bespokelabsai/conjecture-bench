@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-083",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.83 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "We say that an infinite simple group G is a monster of the third kind if for\nevery non-trivial elements a, b, of which at least one is not an involution, there are\ninfinitely many elements g ∈ G such that ⟨a, bg ⟩ = G. (Compare with V. P. Shunkov’s\ndefinitions in Archive, 6.63, 6.64.) Is it true that every simple quasi-Chernikov group\nis a monster of the third kind? This is true for quasi-finite groups (A. I. Sozutov,\nAlgebra and Logic, 36, no. 5 (1997), 336–348). (We say that a non-σ group is quasi-σ\nif all of its proper subgroups have the property σ.)                       A. I. Sozutov",
+    "sha256": "479bfbc989505b20498c2032e7e9016c3fcecdfaf1bb9c45a6a4710e5bada961",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=80",
+    "source_locator": "Kourovka 14.83, main section, page 80",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

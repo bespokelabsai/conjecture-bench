@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1968",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #162",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $\\alpha>0$ and $n\\geq 1$. Let $F(n,\\alpha)$ be the largest $k$ such that there exists some 2-colouring of the edges of $K_n$ in which any induced subgraph $H$ on at least $k$ vertices contains more than $\\alpha\\binom{\\lvert H\\rvert}{2}$ many edges of each colour.\nProve that for every fixed $0\\leq \\alpha \\leq 1/2$, as $n\\to\\infty$, $ F(n,\\alpha)\\sim c_\\alpha \\log n $ for some constant $c_\\alpha$.",
+    "sha256": "36b800dd3109941fad446e3743b89e61cded581b6fc2cae4d67a374709a83730",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-162",
+    "source_locator": "dataset ID 1968; problem number EP-162",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

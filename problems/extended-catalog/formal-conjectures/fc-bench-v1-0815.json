@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0815",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "agoh_giuga.variants.giuga",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem agoh_giuga.variants.giuga : AgohGiugaSum",
+    "language_version": "Lean 4.27.0",
+    "sha256": "22134e4f6e9d13aeaba5f7c9e8ec5239c956797ca3e691a5f560bfbea00585a6",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/AgohGiuga.lean#L66",
+    "source_locator": "FormalConjectures/Wikipedia/AgohGiuga.lean:66#agoh_giuga.variants.giuga",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0044"
+  ]
+}

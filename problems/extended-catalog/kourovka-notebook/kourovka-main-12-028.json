@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-028",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.28 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a group. A function f : G → C is called\n  1) normed if f (1) = 1;\n  2) central if f (gh) = f (hg) for all g, h ∈ G;\n                              f (gk−1 gl )ck cl ⩾ 0 for any g1 , . . . , gn ∈ G and any\n                           P\n  3) positive-definite if\n                           k, l\n      c1 , . . . , cn ∈ C.\nClassify the infinite simple locally finite groups G which possess functions satisfying\n1)–3). The simple Chevalley groups are known to have no such functions, while\nsuch functions exist on locally matrix (or stable) classical groups over finite fields.\nThe question is motivated by the theory of C ∗ -algebras, see § 9 in (A. M. Vershik,\nS. V. Kerov, J. Sov. Math., 38 (1987), 1701–1733). Partial results see in (F. Leinen,\nO. Puglisi, J. Pure Appl. Algebra, 208 (2007), 1003–1021, J. London Math. Soc., 70\n(2004), 678–690).                                                        A. E. Zalesskiı̆",
+    "sha256": "4622cab0ce54fae9be523b1343a8b602dfa226a2e344c23963058a6a509743b4",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=59",
+    "source_locator": "Kourovka 12.28, main section, page 59",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

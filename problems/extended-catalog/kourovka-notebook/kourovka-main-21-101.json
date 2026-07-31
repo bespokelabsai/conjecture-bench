@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-101",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.101 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Which finite almost simple groups are the automorphism groups of regular\npolytopes of rank 3? In other words, which finite almost simple groups are generated\nby three involutions two of which commute?\n   This question has been answered for finite simple groups; see 7.30 in Archive.\n                                                                                   Ya. N. Nuzhin",
+    "sha256": "acedb1b55a7fce140a7f74bad856bcd6872e423f146a73ec0c82e8e0ea3f4021",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=179",
+    "source_locator": "Kourovka 21.101, main section, page 179",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-038",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.38 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that H is a subgroup of a finite soluble group G that covers all\nFrattini chief factors of G and avoids all complemented chief factors of G. Is it true\nthat there are elements x, y ∈ G such that H ∩ H x ∩ H y = HG , where HG is the\nlargest normal subgroup of G contained in H?\n    This is true if H is a prefrattini subgroup of G.               S. F. Kamornikov\n  ∗ Yes, it is true (S. F. Kamornikov, O. L. Shemetkova, J. Algebra, 641 (2024), 1–8).",
+    "sha256": "807726067c0fa48e4b40d21d776073f69eeaa6f7a8389620b78f64ba6d3275e9",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=134",
+    "source_locator": "Kourovka 19.38, main section, page 134",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0132",
+  "slug": "erdos-993-tree-independence-unimodality",
+  "title": "Erdős problem #993: unimodality of tree independent sets",
+  "field": "graph-theory",
+  "statement": "The sequence counting independent sets by size is unimodal for every tree or forest.",
+  "counterexample": {
+    "description": "A finite forest, including a tree as a special case, whose exactly computed independent-set sequence is not unimodal.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/993",
+        "role": "status"
+      }
+    ]
+  }
+}

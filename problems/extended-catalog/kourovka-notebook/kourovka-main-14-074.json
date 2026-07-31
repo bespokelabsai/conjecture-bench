@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-074",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.74 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let k(G) denote the number of conjugacy classes of a finite group G. Is it\ntrue that k(G) ⩽ k(P1 ) · · · k(Ps ), where P1 , . . . , Ps are Sylow subgroups of G such\nthat |G| = |P1 | · · · |Ps |?                                                     L. Pyber",
+    "sha256": "76bf8a9f07ef850b2ddb992881ba232d16a66bb0a402697ef455be820d8f3373",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=79",
+    "source_locator": "Kourovka 14.74, main section, page 79",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

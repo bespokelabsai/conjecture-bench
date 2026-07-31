@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0555",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_968.variants.infinite_increasingTriples",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_968.variants.infinite_increasingTriples :\n    answer(sorry) ↔ {n : ℕ | u n < u (n + 1) ∧ u (n + 1) < u (n + 2)}.Infinite",
+    "language_version": "Lean 4.27.0",
+    "sha256": "8492963af5683d66a6f9f76fe3742ff2ced5ed76b2c5f7e601d39a33c116e483",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/968.lean#L81",
+    "source_locator": "FormalConjectures/ErdosProblems/968.lean:81#erdos_968.variants.infinite_increasingTriples",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

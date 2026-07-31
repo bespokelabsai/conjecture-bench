@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0568",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_996",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 42]\ntheorem erdos_996 : answer(sorry) ↔\n    ∃ (C : ℝ), 0 < C ∧ ∀ (f : Lp ℂ 2 (haarAddCircle (T := 1))) (n : ℕ → ℕ),\n    IsLacunary n →\n    (fun k => (eLpNorm (fourierPartial f k) 2 (haarAddCircle (T := 1))).toReal) =O[atTop]\n    (fun k => 1 / (log (log (log k))) ^ C)\n    →\n    ∀ᵐ x, Tendsto (fun N => (∑ k ∈ .range N, f (n k • x)) / N) atTop\n    (𝓝 (∫ t, f t ∂haarAddCircle))",
+    "language_version": "Lean 4.27.0",
+    "sha256": "371d0e29611bbef7e234e96e2d6f24748070642f0d48a13664be3e914ed13c43",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/996.lean#L41",
+    "source_locator": "FormalConjectures/ErdosProblems/996.lean:41#erdos_996",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-42"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

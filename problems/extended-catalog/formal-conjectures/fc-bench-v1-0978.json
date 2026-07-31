@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0978",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "selfridge_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem selfridge_conjecture :\n    answer(sorry) ↔ IsLeast {k | k.IsSierpinskiNumber} 78557",
+    "language_version": "Lean 4.27.0",
+    "sha256": "f2e3ac0d8e2440a38e18b4378cb08abacc5adaa4821ac403803a2f0da1aa0148",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/SierpinskiNumber.lean#L62",
+    "source_locator": "FormalConjectures/Wikipedia/SierpinskiNumber.lean:62#selfridge_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

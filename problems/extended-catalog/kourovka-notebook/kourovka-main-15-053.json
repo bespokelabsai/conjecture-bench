@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-053",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.53 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let S be the set of all prime numbers p for which there exists a finite simple\ngroup G and an absolutely irreducible G-module V over a field of characteristic p\nsuch that the order of any element in the natural semidirect product V G coincides\nwith the order of some element in G. Is S finite or infinite?       V. D. Mazurov\n   ∗ The set S is finite and consists of 2 and 3. This follows from the complete list of\nfinite simple groups G with a module V in characteristic p satisfying those properties,\nwhich was determined in a number of papers, the last of which is (M. A. Grechkoseeva,\nS. V. Skresanov, Sibirsk. Elektron. Matem. Izv., 17 (2020), 585–589). Then the group\nG must be either 3D4 (2) with p = 2 (V. D. Mazurov, Algebra Logic, 52, no. 5 (2013),\n400–403), or U5 (2) with p = 3 (A. V. Zavarnitsine, Siberian Math. J., 49, no. 2 (2008),\n246–256, and M. A. Grechkoseeva, J. Algebra, 339, no. 1 (2011), 304–319), or U3 (q),\nwhere q is a special Mersenne prime, with p = 2 (A. V. Zavarnitsine, Algebra Logic,\n45, no. 2 (2006), 106–116).",
+    "sha256": "e9cf5d93aae120a0e2d5ffbaffcb92e70fe046f272d75d3696db678df5578552",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=88",
+    "source_locator": "Kourovka 15.53, main section, page 88",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

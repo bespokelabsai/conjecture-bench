@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0945",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "new_mersenne_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem new_mersenne_conjecture (p : ℕ) (hp : Odd p) :\n    NewMersenneConjectureStatement p",
+    "language_version": "Lean 4.27.0",
+    "sha256": "1803fd20bb8efa8d924ba88d797dcba7f1a3654ff77b0d618e4989bcdea85731",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Mersenne.lean#L71",
+    "source_locator": "FormalConjectures/Wikipedia/Mersenne.lean:71#new_mersenne_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0245"
+  ]
+}

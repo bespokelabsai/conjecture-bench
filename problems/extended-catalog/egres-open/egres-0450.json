@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0450",
+  "source_registry": "egres-open",
+  "title": "Edge-covering number of 2-polymatroids",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''f'' be a [[polymatroid function|2-polymatroid function]] on ''S'' that has a [[polymatroid function#Matchings in 2-polymatroids|matroid representation]] <math>M=(S \\times \\{1,2\\},r)</math> with the following property: <math>|C\\cap \\{(e,1),(e,2)\\}| \\leq 1</math> for every <math>e \\in S</math> and every circuit ''C'' of ''M''. Is it true that <math>\\beta(f) \\leq \\beta^*(f)+1</math>, i.e. the [[polymatroid function#Matchings in 2-polymatroids|minimum cover by matchings]] is at most one more than the [[polymatroid function#Matchings in 2-polymatroids|minimum fractional cover by matchings]]?",
+    "sha256": "0d3f85727c9dfe2d7757e71521c5cc049a3c25b5f58d6b9c7328c8be6796663e",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-11-02T11:46:20Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Edge-covering_number_of_2-polymatroids&oldid=2240",
+    "source_locator": "EGRES page 450, revision 2240",
+    "source_sha256": "f2edaf610b8ce99d9091d9370a4483a0ce08bd34a273b89da6aa83f096dbf85b",
+    "tags": [
+      "combinatorial-optimization",
+      "Matchings",
+      "Matroids",
+      "Sub- and supermodular functions"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

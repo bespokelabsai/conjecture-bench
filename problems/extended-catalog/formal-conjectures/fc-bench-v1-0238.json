@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0238",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_331.variants.ruzsa",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_331.variants.ruzsa :\n    answer(sorry) ↔\n      ∀ A B : Set ℕ,\n      (∃ c_A > 0, (fun (n : ℕ) ↦ (count A n : ℝ)) ~[atTop] (fun (n : ℕ) ↦ c_A * (n : ℝ) ^ (1 / 2 : ℝ))) →\n      (∃ c_B > 0, (fun (n : ℕ) ↦ (count B n : ℝ)) ~[atTop] (fun (n : ℕ) ↦ c_B * (n : ℝ) ^ (1 / 2 : ℝ))) →\n      { s : ℕ × ℕ × ℕ × ℕ | let ⟨a₁, a₂, b₁, b₂⟩ := s\n        a₁ ∈ A ∧ a₂ ∈ A ∧ b₁ ∈ B ∧ b₂ ∈ B ∧\n        a₁ ≠ a₂ ∧ a₁ + b₂ = a₂ + b₁ }.Infinite",
+    "language_version": "Lean 4.27.0",
+    "sha256": "466f9a11038f631aa364e43d14093d07dab1de7083fbef5a08e22bac2ba7af36",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/331.lean#L59",
+    "source_locator": "FormalConjectures/ErdosProblems/331.lean:59#erdos_331.variants.ruzsa",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

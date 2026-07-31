@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-091",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.91 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a finite group with an abelian Sylow p-subgroup A. Suppose that\nB is a strongly closed elementary abelian subgroup of A. Without invoking the\nClassification Theorem for Finite Simple Groups (CFSG), prove that G has a normal\nsubgroup N such that B = Ω1 (A ∩ N ).\n    For p = 2, this is a corollary of a theorem of Goldschmidt. For p odd, this has\nbeen proved by Flores and Foote (Adv. Math., 222 (2009), 453–484), but their proof\nrelies on CFSG. A CFSG-free proof in the special case when p = 3 and A has 3-\nrank 3 would already be quite interesting. This case arises in Aschbacher’s treatment\nof the e(G) = 3 problem, and a proof would provide an alternative to part of his\nargument. (For this application, one could assume that all proper simple sections of\nG are known.)                                                             R. Solomon",
+    "sha256": "140f214dbf7420c07359e727b5148f2a521cf9865ec89d08111835c405038f32",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=141",
+    "source_locator": "Kourovka 19.91, main section, page 141",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

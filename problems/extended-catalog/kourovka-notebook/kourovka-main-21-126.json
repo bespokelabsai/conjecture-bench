@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-126",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.126 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(N. Brady). Do there exist finitely presented subgroups of right-angled\nArtin groups whose Dehn functions are super-exponential, or sub-exponential but\nnot polynomial?\n   Such subgroups are known to exist in general CAT(0) groups, whereas the only\nDehn functions currently realized for subgroups of right-angled Artin groups are ex-\nponential and polynomial of arbitrary degree.                              I. Soroko",
+    "sha256": "0c22bde5576799f16ba990891586af2d2a26dc686ad3f10c20b9752f3ccae6e6",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=183",
+    "source_locator": "Kourovka 21.126, main section, page 183",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

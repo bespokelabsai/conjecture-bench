@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-063",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.63 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(E. Zelmanov). Let F be a field of characteristic p > 0, and let Γ be the\nprincipal congruence subgroup of Aut(F [x1 , . . . , xn ]) consisting of all automorphisms\nthat send each variable xi to xi modulo terms of higher degree. Then Γ is a residually-\np group. Does Γ satisfy a pro-p identity?                                      E. I. Khukhro",
+    "sha256": "0a9e715924e4ace6a49affbc9e1535c0bce02828a27bc53bbfcd071aa3f8d98b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=173",
+    "source_locator": "Kourovka 21.63, main section, page 173",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0522",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_918.variants.all_subgraphs.parts.ii",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem erdos_918.variants.all_subgraphs.parts.ii :\n    answer(sorry) ↔ ∀ (ω : Ordinal),\n      ∃ (V : Type u) (G : SimpleGraph V), #V = ℵ_ (ω + 1) ∧ G.chromaticCardinal = ℵ₁ ∧\n      ∀ (H : G.Subgraph) (_ : #H.verts = ℵ_ ω), H.coe.chromaticCardinal ≤ ℵ₀",
+    "language_version": "Lean 4.27.0",
+    "sha256": "56305b69f2c005d43ff1d157746e28e19258c88e90f69b1e4b1f4ea88a7f02e5",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/918.lean#L63",
+    "source_locator": "FormalConjectures/ErdosProblems/918.lean:63#erdos_918.variants.all_subgraphs.parts.ii",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

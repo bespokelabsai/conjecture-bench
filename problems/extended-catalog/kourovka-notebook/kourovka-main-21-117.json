@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-117",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.117 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(a) Does there exist a finitely generated simple group that is of exponential\ngrowth but not of uniformly exponential growth?\n   (b) Does there exist a finitely generated hereditarily just-infinite group that is of\nexponential growth but not of uniformly exponential growth?                  E. Schesler\n  ∗ Yes, Thompson’s group V provides an affirmative answer to both questions\n(R. Sauer, E. Schesler, Preprint, 2026, https://arxiv.org/abs/2605.30163).",
+    "sha256": "d05438a55f7dfc43647207e2edef1aec841884285bd3cbbcc1d5f7813458e719",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=181",
+    "source_locator": "Kourovka 21.117, main section, page 181",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

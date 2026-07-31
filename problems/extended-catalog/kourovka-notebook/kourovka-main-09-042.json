@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-042",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.42 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let Ω be a countable set and let D be the set of total order relations on Ω for\nwhich Ω is order-isomorphic with Q. Does there exist a transitive proper subgroup G\nof Sym(Ω) which is transitive on D?                                  P. M. Neumann\n  ∗ An affirmative answer is consistent with the ZFC axioms of set theory\n(S. M. Corson, S. Shelah, Preprint, 2025, https://arxiv.org/abs/2503.12997).",
+    "sha256": "e13357df09d22c3b66a9533eb15c19142eaa67cdeacb6bac534010b4d6f8076e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=34",
+    "source_locator": "Kourovka 9.42, main section, page 34",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0262",
+  "source_registry": "egres-open",
+  "title": "Minimum polychromatic number for plane graphs with fixed girth",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "For a plane graph <math>G</math>, let <math>g(G)</math> denote the length of the shortest face in <math>G</math>. For a (not necessarily proper) <math>k</math>-coloring of <math>V(G)</math> we say that a face is '''polychromatic''' if all <math>k</math> colors appear on its vertices. A ''k''-coloring of <math>V(G)</math> is called polychromatic if every face of <math>G</math> is polychromatic. The polychromatic number of <math>G</math>, denoted by <math>p(G)</math>, is the largest number <math>k</math> such that there is a polychromatic <math>k</math>-coloring of <math>V(G)</math>. Define <math>p(g)=\\min\\{p(G)|g(G)=g\\}</math>.\n\nDetermine <math>p(g)</math> exactly for every positive integer <math>g</math>. The first open case is <math>g=5</math> where we know that <math>2 \\leq p(5) \\leq 4</math>.",
+    "sha256": "73b9bb547452028df2a31ab87014f3ba82c84627dd4919303968f155cabab9b2",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2015-01-02T13:44:37Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Minimum_polychromatic_number_for_plane_graphs_with_fixed_girth&oldid=1779",
+    "source_locator": "EGRES page 262, revision 1779",
+    "source_sha256": "e244086d64e4b106ee791980ae39a199d8aea706642c1d164067676b1d98850c",
+    "tags": [
+      "combinatorial-optimization",
+      "Colouring"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0302"
+  ]
+}

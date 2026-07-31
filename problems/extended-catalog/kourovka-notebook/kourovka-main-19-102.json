@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-102",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.102 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A subgroup H of a free group F is called inert if r(H ∩ K) ⩽ r(K) for\nevery K ⩽ F ; and compressed if r(H) ⩽ r(K) for every H ⩽ K ⩽ F .\n   Is it true that compressed subgroups are inert?                              E. Ventura\n  ∗ Yes, it is true (A. Jaikin-Zapirain, Preprint, 2024, https://arxiv.org/pdf/2403.\n09515).",
+    "sha256": "e28f147cc8e10590e47b2c3143ba8c177e3eda36814647013bc37c88867378ae",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=142",
+    "source_locator": "Kourovka 19.102, main section, page 142",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

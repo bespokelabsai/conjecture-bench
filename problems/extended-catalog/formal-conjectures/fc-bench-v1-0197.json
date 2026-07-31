@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0197",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_283",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_283 : answer(sorry) ↔ ∀ p : ℤ[X], Condition p",
+    "language_version": "Lean 4.27.0",
+    "sha256": "7e5fdb163800fd89d3b0c473f5a398f0c3ea4ae3a8f6d0c1bc4aea8fc16a93a6",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/283.lean#L51",
+    "source_locator": "FormalConjectures/ErdosProblems/283.lean:51#erdos_283",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

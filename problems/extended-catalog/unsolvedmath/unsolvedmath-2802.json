@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2802",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.4",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(Chen--Yang Volume Conjecture). (a) Prove that, for any hyperbolic 3-manifold $M$,\n\n$$\n\\lim_{\\substack{r\\to\\infty\\\\ r\\ \\mathrm{odd}}}\\frac{1}{r}\\log\\bigl(TV(M;e^{2\\pi i/r})\\bigr)\n=\\frac{1}{2\\pi}\\operatorname{Vol}(M).\n$$\n\n(b) Prove that, for any closed, oriented, hyperbolic 3-manifold $M$,\n\n$$\n\\lim_{\\substack{r\\to\\infty\\\\ r\\ \\mathrm{odd}}}\\frac{1}{r}\\log\\bigl(WRT(M;e^{2\\pi i/r})\\bigr)\n=\\frac{1}{4\\pi}\\bigl(\\operatorname{Vol}(M)-i\\operatorname{CS}(M)\\bigr).\n$$",
+    "sha256": "5a2cedf4d2a446e8bf04ee2ee2af51eab6806c8924ddd7ce36a959e0a95d6db9",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.4",
+    "source_locator": "dataset ID 2802; problem number KP-3.4",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

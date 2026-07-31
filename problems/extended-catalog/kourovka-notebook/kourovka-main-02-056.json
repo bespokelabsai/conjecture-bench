@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-02-056",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 2.56 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Classify up to isomorphism the abelian connected algebraic unipotent linear\ngroups over a field of positive characteristic. This is not difficult in the case of a field\nof characteristic zero. On the other hand, C. Chevalley has solved the classification\nproblem for such groups up to isogeny.                                      V. P. Platonov",
+    "sha256": "579ab30af6ca60ae44bac929b4e41a9494cce3f056f5392c7f2072da2f141053",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=8",
+    "source_locator": "Kourovka 2.56, main section, page 8",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

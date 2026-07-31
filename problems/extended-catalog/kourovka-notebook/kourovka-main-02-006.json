@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-02-006",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 2.6 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "In an N R-group, the set of generalized central elements coincides with the nil-\nkernel. Is the converse true, that is, must a group be an N R-group if the set of\ngeneralized central elements coincides with the nil-kernel?           V. G. Vilyatser",
+    "sha256": "b262f4daf631b208cbf0b8effc8f94fe8f18de4783b78abac499d5f431ec3a07",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=7",
+    "source_locator": "Kourovka 2.6, main section, page 7",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

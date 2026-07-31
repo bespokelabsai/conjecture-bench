@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-030",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.30 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(P. M. Neumann and M. R. Vaughan-Lee). Let G be a perfect and centreless\nfinite group, and let n be the maximum size of a conjugate class in G. Is it true that\n|G| ⩽ n2 ?                                                             I. B. Gorshkov",
+    "sha256": "767b61e18b1646e1f6cceedc2b69b721d321e393d3f241914e252f31174dc058",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=149",
+    "source_locator": "Kourovka 20.30, main section, page 149",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

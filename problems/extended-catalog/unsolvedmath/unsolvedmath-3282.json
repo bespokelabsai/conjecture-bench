@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3282",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "What is the smallest number of disjoint spanning trees made a graph Hamiltonian",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "We are given a complete simple undirected weighted graph $G_1=(V,E)$ and its first arbitrary shortest spanning tree $T_1=(V,E_1)$. We define the next graph $G_2=(V,E\\setminus E_1)$ and find on $G_2$ the second arbitrary shortest spanning tree $T_2=(V,E_2)$. We continue similarly by finding $T_3=(V,E_3)$ on $G_3=(V,E\\setminus \\cup_{i=1}^{2}E_i)$, etc. Let k be the smallest number of disjoint shortest spanning trees as defined above and let $T^{k}=(V,\\cup_{i=1}^{k}E_i)$ be the graph obtained as union of all $k$ disjoint trees.\n\nQuestion 1. What is the smallest number of disjoint spanning trees creates a graph $T^{k}$ containing a Hamiltonian path.\n\nQuestion 2. What is the smallest number of disjoint spanning trees creates a graph $T^{k}$ containing a shortest Hamiltonian path?\n\nQuestions 3 and 4. Replace in questions 1 and 2 a shortest spanning tree by a 1-tree. What is the smallest number of disjoint 1-trees creates a Hamiltonian graph? What is the smallest number of disjoint 1-trees creates a graph containing a shortest Hamiltonian cycle?",
+    "sha256": "aff6e0cdd205d80be5076f8f550bcc7f5a77c26211d83f2d06659325b6ac1892",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-567",
+    "source_locator": "dataset ID 3282; problem number OPG-567",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

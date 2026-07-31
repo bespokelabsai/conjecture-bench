@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0305",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_386.variants.two",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_386.variants.two :\n    answer(sorry) ↔ ∃ᶠ n in .atTop,\n      2 ≤ n - 2 ∧ ∃ p q : ℕ, n.choose 2 = ∏ i ∈ .Ico p q, nth Nat.Prime i",
+    "language_version": "Lean 4.27.0",
+    "sha256": "5d9709129b3aafbd2bd34e937f2bc0a7b6efbb9b77e88d7569510d0ee9336e5d",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/386.lean#L52",
+    "source_locator": "FormalConjectures/ErdosProblems/386.lean:52#erdos_386.variants.two",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

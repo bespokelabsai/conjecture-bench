@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-04-019",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 4.19 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Denote by C the class of all groups G with the following property: if U and V\nare maximal locally soluble subgroups of G, then U and V are conjugate in G (or at\nleast isomorphic). It is almost obvious that a finite group G belongs to C if and only\nif G is soluble. What can be said about the locally finite groups in C?        R. Baer",
+    "sha256": "2ff2ab84806226584e8e3632b18f52ce5ccbefb84a9b4999de40c37e767a8f39",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=12",
+    "source_locator": "Kourovka 4.19, main section, page 12",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

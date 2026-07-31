@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-033",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.33 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that G is a finite group and x is an element of G such that the\nsubgroup ⟨x, y⟩ has odd order for any y conjugate to x in G. Prove, without using\nCFSG, that the normal closure of x in G is a group of odd order.     L. S. Kazarin",
+    "sha256": "9fd479c5470f1156d8678f39c9d90da5132951a56660f8cfdee56880e9ba439a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=59",
+    "source_locator": "Kourovka 12.33, main section, page 59",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

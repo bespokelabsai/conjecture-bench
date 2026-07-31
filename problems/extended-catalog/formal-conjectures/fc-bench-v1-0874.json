@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0874",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "feit_thompson_primes",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem feit_thompson_primes (p q : ℕ) (hp : p.Prime) (hq : q.Prime) (h : p < q) :\n    ¬ (q ^ p - 1) / (q - 1) ∣ (p ^ q - 1) / (p - 1)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "156ec889c4d401eb90b017a8abae974fc86cdb056f0aea9ca69308f0ac4d88eb",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/FeitThompsonPrimeConjecture.lean#L30",
+    "source_locator": "FormalConjectures/Wikipedia/FeitThompsonPrimeConjecture.lean:30#feit_thompson_primes",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0212"
+  ]
+}

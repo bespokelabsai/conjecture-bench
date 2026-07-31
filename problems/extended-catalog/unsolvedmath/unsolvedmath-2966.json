@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2966",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.90",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Do the Chern numbers $c^{2}_{1}$ and $c_{2}$ of every closed, symplectic 4–manifold X that is not a ruled surface satisfy the following?\n\n(a) $c^{2}_{1} \\leq 3c_{2}$.\n\n(b) $c^{2}_{1} =3c_{2}$ >0 if and only if $X =\\mathbb{CP}^{2}$ or X is a complex ball quotient.\n\n(c) $c_{2} \\geq$ 0.",
+    "sha256": "6eec1f276c76d76d4d03d26c9078687fcb8567494487184d71314e5f8a35ebfc",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.90",
+    "source_locator": "dataset ID 2966; problem number KP-4.90",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

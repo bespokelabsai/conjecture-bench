@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-092",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.92 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "What are the soluble hereditary non-one-generator formations of finite groups\nall of whose proper hereditary subformations are one-generated?          A. N. Skiba",
+    "sha256": "cb18351a698bed53184d1d6f596505ae2b68148cbf90af55a0e2a31d2449fe36",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=54",
+    "source_locator": "Kourovka 11.92, main section, page 54",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

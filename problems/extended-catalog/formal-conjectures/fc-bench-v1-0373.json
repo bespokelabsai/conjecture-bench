@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0373",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_488",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 11]\ntheorem erdos_488 : answer(sorry) ↔ ∀ (A : Finset ℕ), A.Nonempty →\n    -- These are needed for the reasons outlined here: https://github.com/google-deepmind/formal-conjectures/pull/256\n    0 ∉ A → 1 ∉ A →\n    letI B := {n ≥ 1 | ∃ a ∈ A, a ∣ n}\n    ∀ᵉ (n : ℕ) (m > n), A.max ≤ n →\n      ((Finset.Icc 1 m).filter (· ∈ B)).card / (m : ℚ) <\n        2 * ((Finset.Icc 1 n).filter (· ∈ B)).card / n",
+    "language_version": "Lean 4.27.0",
+    "sha256": "39ee709128fb807ff2204405ea0b62ebd16d0f03ecbfca718a6eeb0cf3ec676f",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/488.lean#L35",
+    "source_locator": "FormalConjectures/ErdosProblems/488.lean:35#erdos_488",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

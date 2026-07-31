@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0077",
+  "slug": "samuelss-small-deviation-conjecture",
+  "title": "Samuels’s small-deviation conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Samuels’s small-deviation conjecture · 1966. For \\(0\\le\\mu_1\\le\\cdots\\le\\mu_n\\) with \\(\\sum_i\\mu_i<1\\), it predicts that over independent nonnegative \\(X_i\\) with \\(E X_i=\\mu_i\\), \\(\\inf P(\\sum_iX_i<1)=\\min_{0\\le t<n}\\prod_{i=t+1}^n\\left(1-\\frac{\\mu_i}{1-\\sum_{j=1}^t\\mu_j}\\right)\\) (original).",
+  "counterexample": {
+    "description": "Five finitely supported nonnegative rational laws whose derived means are positive, nondecreasing, and sum to less than one, with exact convolution probability strictly below the displayed Samuels bound.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1214/aoms/1177699614",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/1703.05152",
+        "role": "supporting"
+      }
+    ]
+  }
+}

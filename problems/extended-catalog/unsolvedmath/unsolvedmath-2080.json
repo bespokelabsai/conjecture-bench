@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2080",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #373",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Show that the equation $ n! = a_1!a_2!\\cdots a_k!, $ with $n-1>a_1\\geq a_2\\geq \\cdots \\geq a_k\\geq 2$, has only finitely many solutions.",
+    "sha256": "bfd3bd8daa0c7afd8e1b7cbdae682356f986deb2a7d94d0f87677114665a27cc",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-373",
+    "source_locator": "dataset ID 2080; problem number EP-373",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0242",
+    "cb-0243"
+  ]
+}

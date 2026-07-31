@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0080",
+  "slug": "atiyahsutcliffe-determinant-conjecture",
+  "title": "Atiyah–Sutcliffe determinant conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "The normalized Atiyah–Sutcliffe determinant of every configuration of distinct points in R³ is nonzero.",
+  "counterexample": {
+    "description": "Give \\(n\\) distinct algebraic points in \\(\\mathbb R^3\\) whose normalized determinant is zero. Exact number-field arithmetic directly verifies distinctness, directions, and the identity.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/hep-th/0105179",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/html/2410.24124",
+        "role": "supporting"
+      }
+    ]
+  }
+}

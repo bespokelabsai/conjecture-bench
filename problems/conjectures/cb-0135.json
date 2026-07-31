@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0135",
+  "slug": "erdos-1082-distances-in-general-position",
+  "title": "Erdős problem #1082: distinct distances in general position",
+  "field": "discrete-geometry",
+  "statement": "Every n-point planar set with no three collinear determines at least floor(n/2) distances, and some point sees that many distinct distances.",
+  "counterexample": {
+    "description": "A rational point set in general position violating either the global or pinned distinct-distance lower bound.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/1082",
+        "role": "status"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2696",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.37",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) For every link $L \\subset \\mathbb{R}^{3}$, every simple Lie algebra $\\mathfrak{g}$, and every coloring\nof the components of $L$ with irreducible representations of $\\mathfrak{g}$, construct\na bigraded link homology theory that is functorial under link cobordisms,\nand whose Euler characteristic is the Reshetikhin–Turaev link invariant\nassociated to $\\mathfrak{g}$ and $L$.\n(b) For each of the theories above, define an odd version $($ with the same mod\n2 reduction $)$ or explain the obstruction to its existence.",
+    "sha256": "a3daa73a4b6261a049b984a7b23833ee2ed6fb78cb4a6c6f22775ea6a6631ac5",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.37",
+    "source_locator": "dataset ID 2696; problem number KP-1.37",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

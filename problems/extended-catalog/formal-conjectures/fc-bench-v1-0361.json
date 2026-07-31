@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0361",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_457.variants.qnk",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_457.variants.qnk : answer(sorry) ↔ ∃ ε > (0 : ℝ),\n    { (n : ℕ) | (2 + ε) * Real.log n ≤ q n (Real.log n) }.Infinite",
+    "language_version": "Lean 4.27.0",
+    "sha256": "ef61b23fa172e7e5eb684fb5af398ffb9b27b0962af8133cb28619bdf5a5767d",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/457.lean#L54",
+    "source_locator": "FormalConjectures/ErdosProblems/457.lean:54#erdos_457.variants.qnk",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

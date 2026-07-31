@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-093",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.93 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Well-known problem). Let G be a compact topological group which has\nelements of arbitrarily high orders. Must G contain an element of infinite order?\n                                                                            J. Mycielski",
+    "sha256": "7177004af6fbab24eb6479d35aa22025bc775f86f46c3c8f1371534fa3d46708",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=111",
+    "source_locator": "Kourovka 17.93, main section, page 111",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

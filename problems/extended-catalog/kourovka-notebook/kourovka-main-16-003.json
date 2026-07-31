@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-003",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.3 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that if G is a finite group with all conjugacy classes of distinct sizes,\nthen G ∼= S3 ?\n   This is true if G is solvable (J. Zhang, J. Algebra, 170 (1994), 608–624); it is also\nknown that F (G) is nontrivial (Z. Arad, M. Muzychuk, A. Oliver, J. Algebra, 280\n(2004), 537–576).                                                                Z. Arad",
+    "sha256": "90ec7ddbc830efbce78f16e553a862fb49b62d3473be1eee8ccdb260875c8ac6",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=95",
+    "source_locator": "Kourovka 16.3, main section, page 95",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

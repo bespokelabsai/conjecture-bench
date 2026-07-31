@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-13-064",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 13.64 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let πe (G) denote the set of orders of elements of a group G. A group G is\nsaid to be an OCn -group if πe (G) = {1, 2, . . . , n}. Is every OCn -group locally finite?\nDo there exist infinite OCn -groups for n ⩾ 7?                                   W. J. Shi",
+    "sha256": "4f492bb3744597a05c07003750de70074ade64162cd447862241b9f9e03bda32",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=69",
+    "source_locator": "Kourovka 13.64, main section, page 69",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

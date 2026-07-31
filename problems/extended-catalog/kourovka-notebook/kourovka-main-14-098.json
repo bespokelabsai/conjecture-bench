@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-098",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.98 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "We say that a metric space is a 2-end one (a narrow one), if it is quasiiso-\nmetric to the real line R (respectively, to a subset of R). All other spaces are said to\nbe wide. Suppose that the Caley graph Γ = Γ(G, A) of a group G with a finite set of\ngenerators A in the natural metric contains a 2-end subset, and suppose that there is\nε > 0 such that the complement in Γ to the ε-neighbourhood of any connected 2-end\nsubset contains exactly two wide connected components. Is it true that the group G\nin the word metric is quasiisometric to the Euclidean or hyperbolic plane?\n                                                                  V. A. Churkin\n  ∗ Yes, it is true (J. MacManus, Preprint, 2025, https://arxiv.org/abs/2511.\n10759).",
+    "sha256": "4a24f50ab124148e9eb3989208c25a0f91e3eeacb4b5c851e0de45307792c7be",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=81",
+    "source_locator": "Kourovka 14.98, main section, page 81",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

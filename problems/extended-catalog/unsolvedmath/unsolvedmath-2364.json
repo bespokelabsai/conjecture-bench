@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2364",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #885",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For integer $n\\geq 1$ we define the factor difference set of $n$ by $ D(n) = \\{\\lvert a-b\\rvert : n=ab\\}. $ Is it true that, for every $k\\geq 1$, there exist integers $N_1<\\cdots<N_k$ such that $ \\lvert \\cap_i D(N_i)\\rvert \\geq k? $ ",
+    "sha256": "86e84e7e6f98ce99bdb990537535147f48110d930e68d51d0a8aba696ae36956",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-885",
+    "source_locator": "dataset ID 2364; problem number EP-885",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

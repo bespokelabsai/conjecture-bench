@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-147",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.147 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(V. M. Kopytov, N. Ya. Medvedev). A subgroup H of a right-orderable\ngroup G is said to be right-relatively convex if it is convex under some right ordering\non G. Is the lattice of right-relatively convex subgroups of a right-orderable group\nalways a sublattice of the lattice of its subgroups?                       A. V. Zenkov\n  ∗ No, not always (P. Monticone, Preprint, 2026, https://kourovkanotebookorg.\nwordpress.com/wp-content/uploads/2026/06/21_147.pdf).",
+    "sha256": "34ef54faf934b94f9540ce580db0778bbe58496841878926436f9aa34535c5e5",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=185",
+    "source_locator": "Kourovka 21.147, main section, page 185",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

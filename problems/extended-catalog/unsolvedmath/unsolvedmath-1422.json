@@ -1,0 +1,36 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1422",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Cubic Graph Pathwidth",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "What is the maximum pathwidth of an n-vertex cubic graph?",
+    "sha256": "cca2b7dc93e808fc4847f0ae75818a7ba9b8bf623c076e4cc71195d12b148631",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GRAPH-035",
+    "source_locator": "dataset ID 1422; problem number GRAPH-035",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L3",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

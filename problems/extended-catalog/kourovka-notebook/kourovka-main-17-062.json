@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-062",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.62 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Given a free group F and a proper characteristic subgroup C, is it ever\n                                n\npossible to generate the quotient Fn /C by fewer than n elements?    J. Conrad\n   ∗ Yes, it is possible; moreover, for all n ⩾ 2, the free group F admits contin-\n                                                                   n\nuum many pairwise non-isomorphic infinite simple characteristic 2-generated quo-\ntients (R. Coulon, F. Fournier-Facio, https://arxiv.org/abs/2312.11684).",
+    "sha256": "8db98af076a80d11726276e030a7fcf817a9e3c254d743e83725df2465a783c1",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=109",
+    "source_locator": "Kourovka 17.62, main section, page 109",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

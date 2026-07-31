@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0554",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_968",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_968 : answer(sorry) ↔ {n : ℕ | u n < u (n + 1)}.HasPosDensity",
+    "language_version": "Lean 4.27.0",
+    "sha256": "d59301e951db56f7f8a0ea8208cc80bf15a95ea25e3635c7c02d0427ea6c82cf",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/968.lean#L53",
+    "source_locator": "FormalConjectures/ErdosProblems/968.lean:53#erdos_968",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-008",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.8 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "b) Let G be any Lie group (indeed, any separable continuous group) made\ndiscrete: can G act faithfully on a countable set?\n    Comment of 2021: an affirmative answer was obtained for the nilpotent case\n(N. Monod, J. Group Theory, 25, no. 5 (2022), 851–865). Comment of 2025: this\nproblem is reduced to the case of simple Lie groups; in particular, the solvable case is\nsettled (A. Conversano, N. Monod, J. Algebra, 640 (2024), 106–116). P. de la Harpe",
+    "sha256": "543b790e38778afdc8dc4472f4f7895df05f11064471c742b1d252e52427a564",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=83",
+    "source_locator": "Kourovka 15.8, main section, page 83",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

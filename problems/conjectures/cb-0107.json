@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0107",
+  "slug": "graphical-merinowelsh-conjecture",
+  "title": "Graphical Merino–Welsh conjecture",
+  "field": "graph-theory",
+  "statement": "Every loopless bridgeless graph satisfies T_G(1,1)≤max(T_G(2,0),T_G(0,2)).",
+  "counterexample": {
+    "description": "A loopless bridgeless graph with \\(T_G(1,1)>\\max\\{T_G(2,0),T_G(0,2)\\}\\). All three quantities are exact Tutte-polynomial evaluations, allowing deletion–contraction or specialized counting certificates; a 2026 paper still treats the graph statement as open.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "legacy-15-inventory-without-forecasts",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1007/BF01608795",
+        "role": "supporting"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.ejc.2026.104402",
+        "role": "supporting"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-064",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.64 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a non-amenable group.\n   a) Prove that Gn is non-unitarisable for some n.\n   b) At least prove that G∞ , the direct sum (restricted product), is non-unitarisable.\n                                                                                N. Monod",
+    "sha256": "1091e315981b16473d8f84873788f03cd18d00c1a2d5f18c3f786eeb92042862",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=153",
+    "source_locator": "Kourovka 20.64, main section, page 153",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0691",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "mod_216_of_a",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem mod_216_of_a {n : ℕ} (h : a n) : n % 216 = 108",
+    "language_version": "Lean 4.27.0",
+    "sha256": "373cc3686f77afa71b0864b3c8132149d6d0ee5f34a0eee8778f4d9bbe9d3ba1",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OEIS/63880.lean#L83",
+    "source_locator": "FormalConjectures/OEIS/63880.lean:83#mod_216_of_a",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "OEIS",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0233"
+  ]
+}

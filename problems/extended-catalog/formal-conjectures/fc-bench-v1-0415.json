@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0415",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_633",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 51]\nlemma erdos_633 : T ∈ (answer(sorry) : Set <| Triangle ℝ ℝ²) ↔\n    ∀ n, IsCuttable n T → IsSquare n",
+    "language_version": "Lean 4.27.0",
+    "sha256": "7df3a4fb8f6bb7af371fedd9684a2dcd95ccd2976150659f98522c0b826387d3",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/633.lean#L73",
+    "source_locator": "FormalConjectures/ErdosProblems/633.lean:73#erdos_633",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5",
+      "AMS-51"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

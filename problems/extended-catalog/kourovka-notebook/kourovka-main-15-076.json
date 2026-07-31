@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-076",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.76 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "b) If Θ is a variety of groups, then let Θ0 denote the category of all free groups\nof finite rank in Θ. It is proved (G. Mashevitzky, B. Plotkin, E. Plotkin J. Algebra,\n282 (2004), 490–512) that if Θ is the variety of all groups, then every automorphism\nof the category Θ0 is an inner one. The same is true if Θ is the variety of all nilpotent\ngroups of class ⩽ d, for d ⩾ 2 (A. Tsurkov, Int. J. Algebra Comput., 17 (2007),\n1273–1281). Is this true for the varieties of solvable groups? of metabelian groups?\n    An automorphism φ of a category is called inner if it is isomorphic to the identity\nautomorphism. Let s : 1 → φ be a function defining this isomorphism. Then for\nevery object A we have an isomorphism sA : A → φ(A) and for any morphism of\nobjects µ : A → B we have φ(µ) = sB µs−1   A .                              B. I. Plotkin",
+    "sha256": "5b91203521055f941f31dc9d95a73a9e2219a99918db858867a7cf75c00a8e32",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=91",
+    "source_locator": "Kourovka 15.76, main section, page 91",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

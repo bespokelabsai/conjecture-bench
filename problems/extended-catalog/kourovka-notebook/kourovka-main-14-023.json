@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-023",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.23 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let Fn be a free group with basis {x1 , . . . , xn }, and let |·| be the length function\nwith respect to this basis. For α ∈ Aut Fn we put ||α|| = max{|α(x1 )|, . . . , |α(xn )|}.\nIs it true that there is a recursive function f : N → N with the following property:\nfor any α ∈ Aut Fn there is a basis {y1 , . . . , yk } of Fix(α) = {x | α(x) = x} such that\n|yi | ⩽ f (||α||) for all i = 1, . . . , k?                                   O. V. Bogopolski",
+    "sha256": "e519a69c9c17b8d9dba20b4c15a878441525bfcf383b21ee5286abb66284e637",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=74",
+    "source_locator": "Kourovka 14.23, main section, page 74",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

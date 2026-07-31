@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2655",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.146",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(Well-known problem). A classifying space for a group $G$ is a connected CW-complex with fundamental group $G$ and all higher homotopy groups trivial. A group is of type $F_n$ if it has a classifying space with finite $n$-skeleton. For example, type $F_1$ is equivalent to finite generation, and type $F_2$ is equivalent to finite presentability. Type $F_\\infty$ means type $F_n$ for all $n$. For $n\\geqslant 3$, does every group of type $F_{n-1}$ embed as a subgroup of a group of type $F_n$? Or even in a group of type $F_\\infty$?",
+    "sha256": "3124d0e748db47f13af8cdac7337d07c891bf9ce5addfc3bc2545da7a7886700",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.146",
+    "source_locator": "dataset ID 2655; problem number KOU-21.146",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

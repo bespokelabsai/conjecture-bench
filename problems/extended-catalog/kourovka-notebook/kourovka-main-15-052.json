@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-052",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.52 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Well-known problem). By a famous theorem of Wielandt the sequence G0 =\nG, G1 , . . ., where Gi+1 = Aut Gi , stabilizes for any finite group G with trivial centre.\nDoes there exist a function f of natural argument such that |Gi | ⩽ f (|G|) for all i =\n0, 1, . . . for an arbitrary finite group G and the same kind of sequence? V. D. Mazurov",
+    "sha256": "829c64988eceaa164ca7b6e49799462ad8cb9a175ca4a4b530d8522d0bb7b0ca",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=88",
+    "source_locator": "Kourovka 15.52, main section, page 88",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

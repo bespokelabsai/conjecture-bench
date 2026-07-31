@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0876",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "infinite_fermat_primes",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem infinite_fermat_primes : answer(sorry) ↔ Infinite {n : ℕ | Prime n.fermatNumber}",
+    "language_version": "Lean 4.27.0",
+    "sha256": "9664dadf27a3d19f0e73cf9b1944100f2b05ac04232c422dcbbecbebba7c6400",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Fermat.lean#L37",
+    "source_locator": "FormalConjectures/Wikipedia/Fermat.lean:37#infinite_fermat_primes",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

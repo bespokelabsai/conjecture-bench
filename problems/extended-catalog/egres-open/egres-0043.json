@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0043",
+  "source_registry": "egres-open",
+  "title": "Berge's conjecture on path partitions",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''D'' be a digraph without loops and ''k'' a positive integer.  For a partition <math>\\Pi</math> of ''V(D)'' into directed paths (a '''path partition''') let \n\n<math>|\\Pi|_k=\\sum_{P \\in \\Pi}\\min\\{|P|,k\\},</math>\n\nwhere <math>|P|</math> is the number of nodes of the path (which can be 1). A '''partial k-colouring''' is the union of ''k'' stable sets.  Is it true that for every path partition <math>\\Pi</math> minimizing <math>|\\Pi|_k</math>, there exists a partial ''k''-colouring which meets each path <math>P\\in \\Pi</math> in <math>\\min\\{|P|,k\\}</math> stable sets?",
+    "sha256": "8ec9064a252623ca91565d8a705bb8fb419d9a0e78cb283c30631ea7f46864e0",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-05-30T14:06:03Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Berge's_conjecture_on_path_partitions&oldid=2013",
+    "source_locator": "EGRES page 43, revision 2013",
+    "source_sha256": "d849672e96943aeb973e125df99831de2a881e9954bf5f6e54957216d326a55b",
+    "tags": [
+      "combinatorial-optimization",
+      "Colouring",
+      "Cycles and paths"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0288"
+  ]
+}

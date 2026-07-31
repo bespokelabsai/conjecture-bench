@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0179",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_260",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_260 : answer(sorry) ↔\n                  ∀ a : ℕ → ℤ, ∀ s : ℝ,\n                  StrictMono a →\n                  Tendsto (fun n => (a n : ℝ ) / n ) atTop atTop →\n                  HasSum (fun n => (a n : ℝ ) / 2 ^ a n) s → Irrational s",
+    "language_version": "Lean 4.27.0",
+    "sha256": "854df428302c1fd4d66baa75948a6269a5a353037313d0ed51edf681e14d1d68",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/260.lean#L33",
+    "source_locator": "FormalConjectures/ErdosProblems/260.lean:33#erdos_260",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

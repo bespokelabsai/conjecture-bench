@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-072",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.72 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that a variety of groups V is non-regular, that is, the free group\nFn+1 (V) is embeddable in Fn (V) for some n. Is it true that then every countable\ngroup in V is embeddable in an n-generated group in V?           A. Yu. Olshanskii",
+    "sha256": "46cfa767b12bbba62e6f95760bb5f7eab0f57b73e7c09ddfd121a915dd98bcc8",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=52",
+    "source_locator": "Kourovka 11.72, main section, page 52",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

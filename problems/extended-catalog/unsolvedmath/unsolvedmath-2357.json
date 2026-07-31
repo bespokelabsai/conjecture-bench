@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2357",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #875",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $A=\\{a_1<a_2<\\cdots\\}\\subset \\mathbb{N}$ be an infinite set such that the sets $ S_r = \\{ a_1+\\cdots +a_r : a_1<\\cdots<a_r\\in A\\} $ are disjoint for distinct $r\\geq 1$. How fast can such a sequence grow? How small can $a_{n+1}-a_n$ be? In particular, for which $c$ is it possible that $a_{n+1}-a_n\\leq n^{c}$?",
+    "sha256": "658ba066d09d84e2e108ace35be591d7a81e3b9db916e6bba71c36df26365e21",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-875",
+    "source_locator": "dataset ID 2357; problem number EP-875",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

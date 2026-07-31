@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3063",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Rota's unimodal conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $M$ be a matroid of rank $r$, and for $0 \\le i \\le r$ let $w_i$ be the number of closed sets of rank $i$.\n\nConjecture $w_0,w_1,\\ldots,w_r$ is unimodal.\n\nConjecture $w_0,w_1,\\ldots,w_r$ is log-concave.",
+    "sha256": "f0d3dba8b7f9f83cd0c78a3ab122a940a4ffab19439019b65aa884c8b250bf55",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-361",
+    "source_locator": "dataset ID 3063; problem number OPG-361",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:combinatorics",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

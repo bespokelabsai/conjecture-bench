@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-04-042",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 4.42 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For what natural numbers n does the following equality hold:\n                    GLn (R) = Dn (R) · On (R) · U Tn (R) · GLn (Z)?\nFor notation, see, for instance, (M. I. Kargapolov, Ju. I. Merzljakov, Fundamentals of\nthe Theory of Groups, Springer, New York, 1979). For given n this equality im-\nplies the affirmative solution of Minkowski’s problem on the product of n linear forms\n(A. M. Macbeath, Proc. Glasgow Math. Assoc., 5, no. 2 (1961), 86–89), which remains\nopen for n ⩾ 6. It is known that the equality holds for n ⩽ 3 (Kh. N. Narzullayev,\nMath. Notes, 18 (1975), 713–719); on the other hand, it does not hold for all suf-\nficiently large n (N. S. Akhmedov, Zapiski Nauchn. Seminarov LOMI, 67 (1977),\n86–107 (Russian)).                                                    Yu. I. Merzlyakov",
+    "sha256": "4fa4ebedcc9813278e13659156d6ab4ddd4a9193bd9780126fe49f87634d3013",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=13",
+    "source_locator": "Kourovka 4.42, main section, page 13",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-088",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.88 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let u be an element of a free group F . Is it true that there is v ∈ F (that\n                                              r                                r\ndepends on u) that cannot be a subword of any cyclically reduced word φ(u), where\nφ is an automorphism of Fr ?                                              V. Shpilrain\n  ∗ Yes, it is true (L. Koch-Hyde, S. O’Connor, E. Olive, V. Shpilrain, Preprint, 2025,\nhttps://arxiv.org/abs/2505.00477).",
+    "sha256": "25ce21efa2c508d7bf152de5ea1da8a72efb38702fc6eb07a871ef6017662b02",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=157",
+    "source_locator": "Kourovka 20.88, main section, page 157",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

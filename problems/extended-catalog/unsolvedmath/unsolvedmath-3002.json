@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3002",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.126",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) If M is a closed, orientable hyperbolic 4-manifold then it always has signature 0, because its Pontryagin class vanishes [Che55]. This implies that M bounds a compact, orientable 5-manifold. Is M always a geometric boundary?\n\n(b) For general n, suppose that M is a closed hyperbolic n-manifold. Is M a geometric boundary?",
+    "sha256": "91273fe228e02a2bfade5c0ff9d717ed95b188b0008e9487df399300733913ee",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.126",
+    "source_locator": "dataset ID 3002; problem number KP-4.126",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

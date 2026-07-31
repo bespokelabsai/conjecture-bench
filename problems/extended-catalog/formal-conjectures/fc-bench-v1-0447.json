@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0447",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_727.variants.k_2",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_727.variants.k_2 :\n    letI k := 2\n    answer(sorry) ↔ Set.Infinite {n : ℕ | (Nat.factorial (n + k)) ^ 2 ∣ Nat.factorial (2 * n)}",
+    "language_version": "Lean 4.27.0",
+    "sha256": "292701d567a589aaaae3c1356228b9b4e8d65f7c6c92ee06483754514b1a12b8",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/727.lean#L41",
+    "source_locator": "FormalConjectures/ErdosProblems/727.lean:41#erdos_727.variants.k_2",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

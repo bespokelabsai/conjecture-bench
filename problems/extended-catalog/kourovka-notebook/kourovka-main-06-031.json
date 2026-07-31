@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-06-031",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 6.31 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "b) Let G be a finitely generated residually finite group, d(G) the minimal\nnumber of its generators, and δ(G) the minimal number of topological generators\nof the profinite completion of G. It is known that there exist groups G for which\nd(G) > δ(G) (G. A. Noskov, Math. Notes, 33, no. 4 (1983), 249–254). Is the function\nd bounded on the set of groups G with the fixed value of δ(G) ⩾ 2? O. V. Mel’nikov",
+    "sha256": "41cc0fb831df14e2bd87f61302fe8d0ccf724deceb648789152a919ac08411d1",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=19",
+    "source_locator": "Kourovka 6.31, main section, page 19",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

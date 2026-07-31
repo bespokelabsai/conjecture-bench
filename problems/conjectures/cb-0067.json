@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0067",
+  "slug": "borsuk-in-dimension-four",
+  "title": "Borsuk in dimension four",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "Every bounded subset of R⁴ can be partitioned into five subsets, each of strictly smaller diameter.",
+  "counterexample": {
+    "description": "Six to thirty distinct rational points of affine dimension four whose exact diameter graph is not 5-colorable. A complete check derives every diameter edge and exhausts all five-colorings.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://teorth.github.io/optimizationproblems/constants/28a.html",
+        "role": "supporting"
+      },
+      {
+        "url": "https://eudml.org/doc/212639",
+        "role": "supporting"
+      }
+    ]
+  }
+}

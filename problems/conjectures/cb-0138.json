@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0138",
+  "slug": "erdos-307-prime-reciprocal-product",
+  "title": "Erdős problem #307: a product of reciprocal-prime sums",
+  "field": "number-theory",
+  "statement": "There do not exist finite prime sets P,Q for which the product of their reciprocal sums equals one.",
+  "counterexample": {
+    "description": "Two finite sets of certified primes whose exact reciprocal sums have product one.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/307",
+        "role": "status"
+      }
+    ]
+  }
+}

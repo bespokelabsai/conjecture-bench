@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-019",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.19 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let p be a prime, and Fp the class of finitely generated groups acting faith-\nfully on a p-regular rooted tree by finite automata. Any group in Fp is residually-p\n(residually in the class of finite p-groups) and has word problem that is solvable in\n(at worst) exponential time. There exist therefore groups that are residually-p, have\na solvable word problem, and do not belong to Fp ; though no concrete example is\nknown. For instance:\n    a) Is it true that some (or even all) the groups given in (R. I. Grigorchuk, Math.\nUSSR–Sb., 54 (1986), 185–205) do not belong to Fp when the sequence ω is com-\nputable, but not periodic?\n  ∗ b) Does Z ≀ (Z ≀ Z) belong to F ? (Here the wreath products are restricted.)\n    See (A. M. Brunner, S. Sidki, J. Algebra, 257 (2002), 51–64) and (R. I. Grigorchuk,\nV. V. Nekrashevich, V. I. Sushchanskiı̆, in: Dynamical systems, automata, and infinite\ngroups. Proc. Steklov Inst. Math., 231 (2000), 128–203).          L. Bartholdi, S. Sidki\n  ∗ b) Yes, it does (A. C. Dantas, J. R. Oliveira, T. M. G. Santos, Preprint, 2024,\nhttps://arxiv.org/pdf/2405.16678).",
+    "sha256": "6539ba7b8c07aeadef6cd180438b2487b7038caaac07be8b9341ffd59f5f5f32",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=85",
+    "source_locator": "Kourovka 15.19, main section, page 85",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

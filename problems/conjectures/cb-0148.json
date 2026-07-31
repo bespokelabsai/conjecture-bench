@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0148",
+  "slug": "erdos-742-diameter-two-critical-graph",
+  "title": "Erdős problem #742: diameter-two edge-critical graphs",
+  "field": "graph-theory",
+  "statement": "Every n-vertex diameter-two graph in which deleting any edge increases the diameter has at most n²/4 edges.",
+  "counterexample": {
+    "description": "A finite graph satisfying the diameter and edge-critical conditions with more than n²/4 edges.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/742",
+        "role": "status"
+      }
+    ]
+  }
+}

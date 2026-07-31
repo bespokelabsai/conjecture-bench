@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0116",
+  "slug": "erdos-23-triangle-free-bipartization",
+  "title": "Erdős problem #23: triangle-free bipartization",
+  "field": "graph-theory",
+  "statement": "Every triangle-free graph on 5n vertices can be made bipartite by deleting at most n² edges.",
+  "counterexample": {
+    "description": "A triangle-free graph on v=5k vertices whose exact minimum edge-bipartization size is greater than k².",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/23",
+        "role": "status"
+      }
+    ]
+  }
+}

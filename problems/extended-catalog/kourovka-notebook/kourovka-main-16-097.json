@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-097",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.97 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a torsion-free group with all subgroups subnormal of defect at\nmost n. Must G then be nilpotent of class at most n? (This is known to be true for\nn < 5).                                                             G. Traustason",
+    "sha256": "27cdec47714cf615d2d71cd58f5b0e2632006b7fd165e514e273e95c02749333",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=103",
+    "source_locator": "Kourovka 16.97, main section, page 103",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0190",
+  "slug": "square-peg-conjecture",
+  "title": "Square peg conjecture",
+  "field": "topology",
+  "statement": "Every Jordan curve in the plane contains four points that are the vertices of a square.",
+  "counterexample": {
+    "description": "A finitely described Jordan curve with a proof-producing real-algebraic certificate that it contains no inscribed square.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2103.06922",
+        "role": "supporting"
+      }
+    ]
+  }
+}

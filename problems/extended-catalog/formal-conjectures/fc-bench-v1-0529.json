@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0529",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_931.variants.exists_prime",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_931.variants.exists_prime (k₁ k₂ n₁ n₂ : ℕ) (h₁ : k₂ ≤ k₁) (h₂ : 3 ≤ k₂)\n    (h₃ : n₁ + k₁ ≤ n₂) (h₄ : (∏ i ∈ Finset.Icc 1 k₁, (n₁ + i)).primeFactors =\n      (∏ j ∈ Finset.Icc 1 k₂, (n₂ + j)).primeFactors) :\n    ∃ (p : ℕ), p.Prime ∧ n₁ ≤ p ∧ p ≤ n₂",
+    "language_version": "Lean 4.27.0",
+    "sha256": "3df7914b0b036f3d47c9dd0032644b94a1ca62f7ccbae6b79d78fb3adc0af9d5",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/931.lean#L71",
+    "source_locator": "FormalConjectures/ErdosProblems/931.lean:71#erdos_931.variants.exists_prime",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0273"
+  ]
+}

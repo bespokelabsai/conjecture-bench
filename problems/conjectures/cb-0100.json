@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0100",
+  "slug": "centrally-symmetric-viterbo-conjecture",
+  "title": "Centrally symmetric Viterbo conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Every centrally symmetric convex body X in R^(2n) satisfies c_EHZ(X)^n≤n!·vol(X).",
+  "counterexample": {
+    "description": "A symmetric rational polytope with \\(c_{EHZ}(X)^n>n!\\operatorname{vol}(X)\\) suffices. Exact volume and certified global action or billiard computation verify it.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2405.16513",
+        "role": "supporting"
+      },
+      {
+        "url": "https://link.springer.com/article/10.1007/s40316-025-00251-0",
+        "role": "supporting"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0971",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "irrational_eleven",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11 33]\ntheorem irrational_eleven : ∃ x, Irrational x ∧ riemannZeta 11 = x",
+    "language_version": "Lean 4.27.0",
+    "sha256": "335e6ee8dd0715fb56c50d0685e199ee73404749e8c9b3a4e844b54a5d3b2871",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/RiemannZetaValues.lean#L51",
+    "source_locator": "FormalConjectures/Wikipedia/RiemannZetaValues.lean:51#irrational_eleven",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11",
+      "AMS-33"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3445",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Which outer reloids are equal to inner ones",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Warning: This formulation is vague (not exact).\n\nQuestion Characterize the set $\\{f\\in\\mathsf{FCD} \\mid (\\mathsf{RLD})_{\\mathrm{in}} f=(\\mathsf{RLD})_{\\mathrm{out}} f\\}$. In other words, simplify this formula.\n\nThe problem seems rather difficult.",
+    "sha256": "5fed8c0f473cc89f2e60b4901164067056748d4c155f95ee33be5a917ba8b1f3",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-60026",
+    "source_locator": "dataset ID 3445; problem number OPG-60026",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

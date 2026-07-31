@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2884",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.8",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let X be a closed, simply connected, smooth 4-manifold, and T a smoothly embedded torus in X with $\\pi_{1}(X$ −T) =1 and $[T]^{2}$ =0. Let $X_{K}$ be the result of Fintushel–Stern knot surgery on X along a knot K. If $K_{1}$ and $K_{2}$ are two prime knots such that $X_{K,1}$ and $X_{K,2}$ are diffeomorphic, does it follow that $K_{1}$ is either $K_{2}$ or its mirror?",
+    "sha256": "c41af1f680083483c42d350b885b433e7edd07e3847b08396410507cee1f1d28",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.8",
+    "source_locator": "dataset ID 2884; problem number KP-4.8",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

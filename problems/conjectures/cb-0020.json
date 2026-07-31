@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0020",
+  "slug": "conways-thrackle-conjecture",
+  "title": "Conway’s Thrackle conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Conway’s Thrackle conjecture · late 1960s, commonly dated 1969. A planar thrackle drawing has no more edges than vertices.",
+  "counterexample": {
+    "description": "A simple graph with more edges than vertices and a general-position rational straight-line drawing in which every two edges meet exactly once, either at their common endpoint or at one proper crossing.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://topp.openproblem.net/p30",
+        "role": "supporting"
+      }
+    ]
+  }
+}

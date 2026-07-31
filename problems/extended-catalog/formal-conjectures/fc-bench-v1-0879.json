@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0879",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "fermat_catalan",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem fermat_catalan : fermatCatalanConjecture",
+    "language_version": "Lean 4.27.0",
+    "sha256": "6247a62af538a7b1745abb9336f4146b6728b7be1dfdaa1c62888f3bfcf83ada",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/FermatCatalanConjecture.lean#L55",
+    "source_locator": "FormalConjectures/Wikipedia/FermatCatalanConjecture.lean:55#fermat_catalan",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

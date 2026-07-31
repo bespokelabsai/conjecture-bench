@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-055",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.55 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does there exist a finite p-group G and a central augmented automorphism φ\nof ZG such that φ, if extended to Zb p G, the p-adic group ring, is not conjugation by\nunit in Z\n        b p G followed by a homomorphism induced from a group automorphism?\n                                                                     K. W. Roggenkamp",
+    "sha256": "92c7e51b78df83d0b62bd6ed6356312d7b48dc905506d15c2d71677a44c285bc",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=35",
+    "source_locator": "Kourovka 9.55, main section, page 35",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

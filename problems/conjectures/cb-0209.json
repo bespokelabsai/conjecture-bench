@@ -1,0 +1,42 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0209",
+  "slug": "unfair-zero-one-polynomial-factors",
+  "title": "Unfair zero–one polynomial conjecture",
+  "field": "algebra-and-probability",
+  "statement": "If two monic real polynomials with nonnegative coefficients have a product whose coefficients are all 0 or 1, then every coefficient of each factor is itself 0 or 1.",
+  "counterexample": {
+    "description": "Two monic polynomials with nonnegative rational coefficients whose exact product is zero–one although at least one factor has a coefficient outside {0,1}.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2209.09843",
+        "role": "status-and-partial-progress"
+      },
+      {
+        "url": "https://arxiv.org/abs/2307.07363",
+        "role": "computational-progress"
+      },
+      {
+        "url": "https://mathoverflow.net/questions/339137",
+        "role": "original-question"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Mathoverflow/339137.lean#L50",
+        "role": "formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0661"
+    ]
+  },
+  "equivalence_group": "unfair-zero-one-polynomial-factors"
+}

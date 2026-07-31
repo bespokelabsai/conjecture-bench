@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0183",
+  "slug": "euler-idoneal-number-list-conjecture",
+  "title": "Euler idoneal-number list conjecture",
+  "field": "number-theory",
+  "statement": "The known list of 65 idoneal numbers is complete.",
+  "counterexample": {
+    "description": "An integer outside the known list with a finite reduction-form certificate proving it is idoneal.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://oeis.org/A000926",
+        "role": "supporting"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-031",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.31 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let ω(G) denote the set of element orders of a finite group G, and h(G) the\nnumber of pairwise nonisomorphic finite groups H with ω(H) = ω(G). Find h(L),\nwhere\n   a) L is the symmetric group of degree 10;\n   b) L is the automorphism group of the simple sporadic Janko group J2 ;\n   c) P SL(2, q) < L ⩽ Aut(P SL(2, q)).\nSee the current status in (M. A. Grechkoseeva, V. D. Mazurov, W. J. Shi, A. V. Vasil’ev,\nN. Yang, Commun. Math. Stat., 11, no. 2 (2023), 169–194; Subsection 4.2).\n                                                         M. A. Grechkoseeva, A. V. Vasil’ev",
+    "sha256": "cc7e01fb36285050b4c9756ae7b7f0ac0a5255728825cfe5bf3b2d69254158e4",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=149",
+    "source_locator": "Kourovka 20.31, main section, page 149",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0091",
+  "slug": "exact-beckfiala-t-bound",
+  "title": "Exact Beck–Fiala \\(t\\)-bound",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Exact Beck–Fiala \\(t\\)-bound · 1981. Beck and Fiala conjectured discrepancy at most \\(t\\) when every element occurs in at most \\(t\\) sets (historical form).",
+  "counterexample": {
+    "description": "Give a bounded-column-sum incidence matrix for which no sign vector keeps every row imbalance at most \\(t\\). SAT/DRAT certifies all colorings.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/0012365X94001524",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2607.14238",
+        "role": "supporting"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0171",
+  "slug": "white-symmetric-exchange-conjecture",
+  "title": "White symmetric-exchange conjecture",
+  "field": "matroid-theory",
+  "statement": "Any two tuples of matroid bases with the same multiset union are connected by symmetric exchanges.",
+  "counterexample": {
+    "description": "A finite matroid and two equal-union basis tuples in different components of the symmetric-exchange graph.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2510.04163",
+        "role": "supporting"
+      }
+    ]
+  }
+}

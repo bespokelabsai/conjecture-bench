@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1953",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #142",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $r_k(N)$ be the largest possible size of a subset of $\\{1,\\ldots,N\\}$ that does not contain any non-trivial $k$-term arithmetic progression. Prove an asymptotic formula for $r_k(N)$.",
+    "sha256": "db9c093000a97ccde913762a3194a1439c6e4b5223d68cf919f8c1165112c01c",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-142",
+    "source_locator": "dataset ID 1953; problem number EP-142",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

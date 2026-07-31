@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0005",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "independentDominationOdd",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem independentDominationOdd (hIso : 0 < G.minDegree) (hOdd : Odd G.maxDegree) :\n    let D := G.maxDegree\n    let i := G.indepDominationNumber\n    let n := Fintype.card V\n    (D + 1) * (D + 3) * i ≤ (D^2 + 3) * n",
+    "language_version": "Lean 4.27.0",
+    "sha256": "e63ab08bc1d5addc040f0e4a25c5fda763466249c5a289636363821155631db1",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Arxiv/2107.00295/IndependentDomination.lean#L49",
+    "source_locator": "FormalConjectures/Arxiv/2107.00295/IndependentDomination.lean:49#independentDominationOdd",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Arxiv",
+      "AMS-5"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0206"
+  ]
+}

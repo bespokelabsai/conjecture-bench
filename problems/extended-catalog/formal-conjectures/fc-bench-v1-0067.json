@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0067",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_1093.parts.ii",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem erdos_1093.parts.ii :\n    {x : ℕ × ℕ | let k := x.1; let n := x.2; 2 * k ≤ n ∧ deficiency n k > 1 ∧\n      ∀ p, p.Prime → (p ∣ choose n k) → k < p}.Finite",
+    "language_version": "Lean 4.27.0",
+    "sha256": "6bf52d915f216b1271a4d0498f092d416aa0a8072c040633d438e1a8437fe266",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/1093.lean#L47",
+    "source_locator": "FormalConjectures/ErdosProblems/1093.lean:47#erdos_1093.parts.ii",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

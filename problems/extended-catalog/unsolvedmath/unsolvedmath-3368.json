@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3368",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Distribution and upper bound of mimic numbers",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem\n\nLet the notation $a|b$ denote \" $a$ divides $b$ \". The mimic function in number theory is defined as follows [1].\n\nDefinition For any positive integer $\\mathcal{N} = \\sum_{i=0}^{n}\\mathcal{X}_{i}\\mathcal{M}^{i}$ divisible by $\\mathcal{D}$, the mimic function, $f(\\mathcal{D} | \\mathcal{N})$, is given by,\n\n$$f(\\mathcal{D} | \\mathcal{N}) = \\sum_{i=0}^{n}\\mathcal{X}_{i}(\\mathcal{M}-\\mathcal{D})^{i}$$\n\nBy using this definition of mimic function, the mimic number of any non-prime integer is defined as follows [1].\n\nDefinition The number $m$ is defined to be the mimic number of any positive integer $\\mathcal{N} = \\sum_{i=0}^{n}\\mathcal{X}_{i}\\mathcal{M}^{i}$, with respect to $\\mathcal{D}$, for the minimum value of which $f^{m}(\\mathcal{D} | \\mathcal{N}) = \\mathcal{D}$.\n\nGiven these two definitions and a positive integer $\\mathcal{D}$, find the distribution of mimic numbers of those numbers divisible by $\\mathcal{D}$.\n\nAgain, find whether there is an upper bound of mimic numbers for a set of numbers divisible by any fixed positive integer $\\mathcal{D}$.",
+    "sha256": "25edeb19dfd8267a71a30263c3f4a35d575bc9729e91ef8f931c93f6d8fa1170",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-36961",
+    "source_locator": "dataset ID 3368; problem number OPG-36961",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

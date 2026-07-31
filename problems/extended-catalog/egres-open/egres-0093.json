@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0093",
+  "source_registry": "egres-open",
+  "title": "Maximum weakly stable matchings in graphs without odd preference cycles",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''(G,<)'' be a [[Stable matching#preference system|preference system with ties]] where in every odd cycle there is a node that prefers its clockwise neighbour to its other neighbour, and there is another node that prefers its anti-clockwise neighbour to its other neighbour. How well can we approximate the maximum size [[Stable matching#Stable matching|weakly stable matching]]?",
+    "sha256": "85ae46cbcdafdfc10fe63b718bf7761a606b24561426e110e5477403d1e98dd3",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2021-11-15T13:57:59Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Maximum_weakly_stable_matchings_in_graphs_without_odd_preference_cycles&oldid=2456",
+    "source_locator": "EGRES page 93, revision 2456",
+    "source_sha256": "db8eb615207cbdde03f59811b29a14f0f477fed104f9e58b96d84b3637a1c1f7",
+    "tags": [
+      "combinatorial-optimization",
+      "Stable matchings and kernels"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

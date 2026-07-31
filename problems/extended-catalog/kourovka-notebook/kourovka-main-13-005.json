@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-13-005",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 13.5 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Groups A and B are said to be locally equivalent if for every finitely generated\nsubgroup X ⩽ A there is a subgroup Y ⩽ B isomorphic to X, and conversely, for\nevery finitely generated subgroup Y ⩽ B there is a subgroup X ⩽ A, isomorphic\nto Y . We call a group G categorical if G is isomorphic to any group that is locally\nequivalent to G. Is it true that a periodic locally soluble group G is categorical if and\nonly if G is hyperfinite with Chernikov Sylow subgroups? (A group is hyperfinite if\nit has a well ordered ascending normal series with finite factors.)        V. V. Belyaev",
+    "sha256": "8d9b0210c1d11c8033ded35e587999c14d6100fc7b3979ffb4b3268f435b3c9c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=65",
+    "source_locator": "Kourovka 13.5, main section, page 65",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

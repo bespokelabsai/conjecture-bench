@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1943",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #124",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For any $d\\geq 1$ and $k\\geq 0$ let $P(d,k)$ be the set of integers which are the sum of distinct powers $d^i$ with $i\\geq k$. Let $3\\leq d_1<d_2<\\cdots <d_r$ be integers such that $ \\sum_{1\\leq i\\leq r}\\frac{1}{d_r-1}\\geq 1. $ Can all sufficiently large integers be written as a sum of the shape $\\sum_i c_ia_i$ where $c_i\\in \\{0,1\\}$ and $a_i\\in P(d_i,0)$?\nIf we further have $\\mathrm{gcd}(d_1,\\ldots,d_r)=1$ then, for any $k\\geq 1$, can all sufficiently large integers be written as a sum of the shape $\\sum_i c_ia_i$ where $c_i\\in \\{0,1\\}$ and $a_i\\in P(d_i,k)$?",
+    "sha256": "67ff259a87cf17e9ba8fa66cb2555fef2741878afc705643be72e6dd91b87c01",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-124",
+    "source_locator": "dataset ID 1943; problem number EP-124",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-066",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.66 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A Schmidt (p, q)-group is a finite non-nilpotent group all of whose proper\nsubgroups are nilpotent and whose Sylow p-subgroup is normal. The N -critical graph\nΓN c (G) of a finite group G is a directed graph on the vertex set of all prime divisors of\n|G| in which (p, q) is an edge of ΓN c (G) if and only if G has a Schmidt (p, q)-subgroup.\nSuppose that a finite group G is such that G = AB = AC = BC, where A, B, C are\nsubgroups of G. Is ΓN c (G) = ΓN c (A) ∪ ΓN c (B) ∪ ΓN c (C)? This is true if A, B, C are\nsoluble.                                                     V. I. Murashka, A. F. Vasil’ev",
+    "sha256": "254183373b4e4dbc3a6ec9d4e9c180a3501e64e7a5158a2189819d9cbc676f2d",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=153",
+    "source_locator": "Kourovka 20.66, main section, page 153",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

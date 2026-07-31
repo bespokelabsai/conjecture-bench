@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2311",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #796",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $k\\geq 2$ and let $g_k(n)$ be the largest possible size of $A\\subseteq \\{1,\\ldots,n\\}$ such that every $m$ has $<k$ solutions to $m=a_1a_2$ with $a_1<a_2\\in A$.\nIs it true that $ g_3(n)=\\frac{\\log\\log n}{\\log n}n+(c+o(1))\\frac{n}{\\log n} $ for some constant $c$?",
+    "sha256": "f55a82ad2352bca88cd197e3d4afc8b458a335bbe26a210a46faaeb12bde48ca",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-796",
+    "source_locator": "dataset ID 2311; problem number EP-796",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

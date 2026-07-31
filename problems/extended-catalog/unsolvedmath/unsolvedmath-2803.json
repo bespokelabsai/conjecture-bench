@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2803",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.5",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) Do there exist closed non-Haken hyperbolic 3-manifolds with arbitrarily large injectivity radius?\n\n(b) Does there exist a cofinal tower of regular covers of closed hyperbolic 3-manifolds where all of the manifolds in the tower are non-Haken?\n\n(c) Is there a tower of hyperbolic rational homology spheres for which all fundamental groups are not left-orderable, the manifolds contain no coorientable taut foliations, or the manifolds are L-spaces? (The three properties listed are connected via the L-space conjecture. See Problem 3.48)",
+    "sha256": "44664cd28d2c0a04595c517e2f205ba67dd89abb9e715aa9f47995584045ae5e",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.5",
+    "source_locator": "dataset ID 2803; problem number KP-3.5",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

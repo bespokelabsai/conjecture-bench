@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0552",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_961",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_961 : answer(sorry) ↔ ∃ C : ℕ, ∀ᶠ k : ℕ in atTop, f k < log k ^ C",
+    "language_version": "Lean 4.27.0",
+    "sha256": "1da7b34d5b92225444be37b17e6cbde82f7ffbbac9e269baa4853445d97431b6",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/961.lean#L70",
+    "source_locator": "FormalConjectures/ErdosProblems/961.lean:70#erdos_961",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

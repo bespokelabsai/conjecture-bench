@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0017",
+  "slug": "the-1-32-3-conjecture",
+  "title": "The 1/3–2/3 conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Every finite poset that is not a chain has incomparable elements x,y such that, among its linear extensions, both P(x<y) and P(y<x) are at least 1/3.",
+  "counterexample": {
+    "description": "A refutation is a poset for which, for every incomparable pair \\(x,y\\), either \\(P(x<y)<1/3\\) or \\(P(y<x)<1/3\\) over uniform linear extensions. Exact extension DP verifies it.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/1/3%E2%80%932/3_conjecture",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/1706.04985",
+        "role": "supporting"
+      }
+    ]
+  }
+}

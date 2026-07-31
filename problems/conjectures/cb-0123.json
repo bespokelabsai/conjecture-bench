@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0123",
+  "slug": "erdos-488-divisibility-density",
+  "title": "Erdős problem #488: divisibility-set density",
+  "field": "number-theory",
+  "statement": "For a finite set A and its multiples B, every m>n≥max(A) satisfies |B∩[1,m]|/m < 2|B∩[1,n]|/n.",
+  "counterexample": {
+    "description": "A finite integer set A and integers m>n≥max(A) violating the strict density inequality.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/488",
+        "role": "status"
+      }
+    ]
+  }
+}

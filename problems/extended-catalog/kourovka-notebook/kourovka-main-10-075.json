@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-10-075",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 10.75 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that a group G contains an element a of prime order p such that\nthe normalizer of every finite subgroup containing a has finite periodic part and all\nsubgroups ⟨a, ag ⟩, g ∈ G, are finite and almost all of them are soluble. Does G possess\na periodic part if p > 2? It was proved in (V. P. Shunkov, Groups with involutions,\nPreprints no. 4, 5, 12 of the Comput. centre of SO AN SSSR, Krasnoyarsk, 1986\n(Russian)) that if a is a point, then the answer is affirmative; on the other hand, a\ngroup with a point a of order 2 satisfying the given hypothesis, which has no periodic\npart, was exhibited in the same works. For the definition of a point see (V. I. Senashov,\nV. P. Shunkov, Algebra and Logic, 22, no. 1 (1983), 66–81).                V. P. Shunkov",
+    "sha256": "d4c5cfb33d882fd3500a295f00e857cc88aea5fbce9a3c80069f0ac4e47ffee3",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=44",
+    "source_locator": "Kourovka 10.75, main section, page 44",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

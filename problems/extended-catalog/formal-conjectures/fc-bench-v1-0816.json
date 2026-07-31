@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0816",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "agrawal_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem agrawal_conjecture :\n  answer(sorry) ↔\n    ∀ (n r : ℕ), n > 1 → r > 0 → n.gcd r = 1 →\n      let R := Polynomial (ZMod n)\n      let X : R := Polynomial.X\n      let I : Ideal R := Ideal.span ({X^r - 1} : Set R)\n      Ideal.Quotient.mk I ((X - 1)^n) = Ideal.Quotient.mk I (X^n - 1) →\n      (n.Prime ∨ (n^2 : ZMod r) = 1)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "729966c68f2d2a293e295a0f4a5e76303eec5842c0dbfc4417e01c1f78b1937b",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Agrawal.lean#L48",
+    "source_locator": "FormalConjectures/Wikipedia/Agrawal.lean:48#agrawal_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0262"
+  ]
+}

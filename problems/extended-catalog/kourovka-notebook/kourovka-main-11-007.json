@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-007",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.7 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "a) Find conditions for a group G, given by its presentation, under which the\nproperty         some term of the lower central series of G is a free group        (∗)\nimplies the residual finiteness of G.\n   b) Find conditions on the structure of a residually finite group G which ensure\nproperty (∗) for G.                                                       K. Bencsáth",
+    "sha256": "029a8b26ebb6d1af4ca3e82ad3d8ea4a06cc4a3f5dcd60fff106ea7fc931d684",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=46",
+    "source_locator": "Kourovka 11.7, main section, page 46",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

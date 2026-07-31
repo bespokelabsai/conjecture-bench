@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0003",
+  "source_registry": "open-problems-project",
+  "title": "Voronoi Diagram of Lines in 3D",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "What is the combinatorial complexity of the Voronoi diagram\nof a set of lines (or line segments) in three dimensions?",
+    "sha256": "74c47bb8d9e9f499fa0df56ee45205902d4eefe2e130774d4ce8691cf2b85bb2",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p3",
+    "source_locator": "TOPP problem 3 (Problems/P.000003)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "Voronoi diagrams"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

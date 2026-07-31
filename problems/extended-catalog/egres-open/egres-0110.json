@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0110",
+  "source_registry": "egres-open",
+  "title": "Cyclic orderings of matroids",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''M'' be a [[wikipedia:Matroid|matroid]] on ground set ''S'', and suppose that ''S'' can be partitioned into k bases. Is it true that there is a cyclic ordering of the elements of ''S'' such that any <math>|S|/k</math> consecutive elements in this ordering form a basis?",
+    "sha256": "3710075a8e0250cb730c0f0ddfcd0ad819d4e16485ea9a5ed15c84838f9b6acf",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2023-09-22T07:03:22Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Cyclic_orderings_of_matroids&oldid=2502",
+    "source_locator": "EGRES page 110, revision 2502",
+    "source_sha256": "f29b5181604de9e326709f92404f9229766bd0a4e4ae5b879269470d00b93341",
+    "tags": [
+      "combinatorial-optimization",
+      "Matroids"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0281"
+  ]
+}

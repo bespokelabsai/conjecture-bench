@@ -1,0 +1,36 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1486",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Whitehead Conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Is every connected subcomplex of a 2-dimensional aspherical CW complex also aspherical?",
+    "sha256": "a03f095fe40b2b9f52c4fc416094e2e02be70883802589191d78739448b5468c",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/TOP-008",
+    "source_locator": "dataset ID 1486; problem number TOP-008",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L4",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

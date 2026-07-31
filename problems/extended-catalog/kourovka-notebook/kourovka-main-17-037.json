@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-037",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.37 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is there an integer n such that for all m > n the alternating group A\n                                                                                  m has\nno non-trivial Am -permutable subgroups? (See the definition in 17.112.)\n                                                         A. F. Vasil’ev, A. N. Skiba\n  ∗ Yes, there is (N. Yang, A. Galt, Bull. Malays. Math. Sci. Soc. (2), 46, no. 5\n(2023), Paper no. 177, 16 p.).",
+    "sha256": "a1ab0e79528e2bad76932be5b255e8b9295af5c774245e68bdf9f24748612274",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=106",
+    "source_locator": "Kourovka 17.37, main section, page 106",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

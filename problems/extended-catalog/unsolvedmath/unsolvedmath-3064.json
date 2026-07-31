@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3064",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Bases of many weights",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $G$ be an (additive) abelian group, and for every $S \\subseteq G$ let ${\\mathit stab}(S) = \\{ g \\in G: g + S = S \\}$.\n\nConjecture Let $M$ be a matroid on $E$, let $w: E \\rightarrow G$ be a map, put $S = \\{ \\sum_{b \\in B} w(b): B \\mbox{ is a base} \\}$ and $H = {\\mathit stab}(S)$. Then $$|S| \\ge |H| \\left( 1 - rk(M) + \\sum_{Q \\in G/H} rk(w^{-1}(Q)) \\right).$$",
+    "sha256": "e3c7888402aafcd3393433fc03fd786e29f9ac3c16a6de86779c9d0bf9f51204",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-369",
+    "source_locator": "dataset ID 3064; problem number OPG-369",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:combinatorics",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-017",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.17 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let IMA(G) denote the subgroup of the automorphism group Aut G consisting\nof all automorphisms that act trivially on the second derived quotient G/G′′ . Find\ngenerators and defining relations for IMA(Fn ), where Fn is a free group of rank n ⩾ 3.\n                                                                         V. G. Bardakov",
+    "sha256": "c1193bdf4393202d831487505fe1f6ee6a86c6f6280a78de088fdea6ebbeafd3",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=73",
+    "source_locator": "Kourovka 14.17, main section, page 73",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

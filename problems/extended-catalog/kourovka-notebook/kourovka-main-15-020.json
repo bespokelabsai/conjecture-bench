@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-020",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.20 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(B. Hartley). An infinite transitive permutation group is said to be barely\ntransitive if each of its proper subgroups has only finite orbits. Can a locally finite\nbarely transitive group coincide with its derived subgroup?\n    Note that there are no simple locally finite barely transitive groups (B. Hartley,\nM. Kuzucuoǧlu, Proc. Edinburgh Math. Soc., 40 (1997), 483–490), any locally finite\nbarely transitive group is a p-group for some prime p, and if the stabilizer of a point\nin a locally finite barely transitive group G is soluble of derived length d, then G is\nsoluble of derived length bounded by a function of d (V. V. Belyaev, M. Kuzucuoǧlu,\nAlgebra and Logic, 42 (2003), 147–152).                  V. V. Belyaev, M. Kuzucuoǧlu",
+    "sha256": "e057dc9d0ca324534774af01e1b1cade23b1776ac29cd81b734ffcdc9bac4d3c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=85",
+    "source_locator": "Kourovka 15.20, main section, page 85",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

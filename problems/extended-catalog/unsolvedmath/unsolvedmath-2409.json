@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2409",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #959",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $A\\subset \\mathbb{R}^2$ be a set of size $n$ and let $\\{d_1,\\ldots,d_k\\}$ be the set of distinct distances determined by $A$. Let $f(d)$ be the number of times the distance $d$ is determined, and suppose the $d_i$ are ordered such that $ f(d_1)\\geq f(d_2)\\geq \\cdots \\geq f(d_k). $ Estimate $ \\max (f(d_1)-f(d_2)), $ where the maximum is taken over all $A$ of size $n$.",
+    "sha256": "3ad64bff7574fb8c9b0d975874023ef4ff454e000c6383bb8e3c5c15396e0b3a",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-959",
+    "source_locator": "dataset ID 2409; problem number EP-959",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

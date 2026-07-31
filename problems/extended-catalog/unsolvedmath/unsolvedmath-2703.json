@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2703",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.44",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) If $K \\in \\mathcal{F}_{n}$ for all $n$, is $K$ topologically slice?\n(b) If $K \\in \\mathcal{T}_{n}$ for all $n$, is $K$ smoothly slice?",
+    "sha256": "b16ae3a0af823336b74e0b3004834cc595cfa74cb33aff424830981eb7772f65",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.44",
+    "source_locator": "dataset ID 2703; problem number KP-1.44",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-011",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.11 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let F ⩽ H be free groups such that there exists a free group G of finite rank\nwith F ⩽ G ⩽ H, and let r be the least of the ranks of such groups G. Which, if any,\nof the following statements must hold?\n    (i) There is a largest G of rank r between F and H.\n   (i′ ) For any two G1 , G2 of rank r between F and H, the subgroup ⟨G1 , G2 ⟩ has\nrank r.\n   (ii) There is a smallest G of rank r between F and H.\n  (ii′ ) For any two G1 , G2 of rank r between F and H, the subgroup G1 ∩ G2 has\nrank r.\n     If (i) holds for all such F and H, then so does (i′ ). If (ii) holds for all F , H, then\nso does (ii′ ). The converse of the former implication holds because subgroups of a free\ngroup of any fixed finite rank satisfy ACC, but I don’t see a way to get the converse\nof the other implication.                                                    G. M. Bergman",
+    "sha256": "810ff6db6fc1a6a3093079c1c112f39f31f4670b74a667a4fc7ba748da99e45c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=145",
+    "source_locator": "Kourovka 20.11, main section, page 145",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

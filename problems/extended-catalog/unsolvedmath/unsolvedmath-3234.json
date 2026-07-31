@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3234",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Counting 3-colorings of the hex lattice",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem Find $\\lim_{n \\rightarrow \\infty} (\\chi( H_n, 3)) ^{ 1 / |V(H_n)| }$.",
+    "sha256": "5892f1588020cbc859e2de8510ff5ec5947a4d4f97c1de4485347792ce0e8693",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-1764",
+    "source_locator": "dataset ID 3234; problem number OPG-1764",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

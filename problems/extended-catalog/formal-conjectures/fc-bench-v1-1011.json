@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-1011",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "union_closed.variants.cardinality_even_of_union_closed_tight",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem union_closed.variants.cardinality_even_of_union_closed_tight\n    [Nonempty n] (hA : A ≠ {∅} ∧ A ≠ ∅) (hA : IsUnionClosed A)\n    (UCC_tight : ∀ i, #{x ∈ A | i ∈ x} = (1 / 2 : ℝ) * #A) :\n    ∃ k, #A = 2 ^ k",
+    "language_version": "Lean 4.27.0",
+    "sha256": "ed434c1ce3a45e2452431c4946d04551304db825a6146ef15f77a54f16142a55",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/UnionClosed.lean#L206",
+    "source_locator": "FormalConjectures/Wikipedia/UnionClosed.lean:206#union_closed.variants.cardinality_even_of_union_closed_tight",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-5"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0253"
+  ]
+}

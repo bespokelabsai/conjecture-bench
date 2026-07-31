@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-067",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.67 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that φ is an automorphism of a finite soluble group G, and let r\nbe the (Prüfer) rank of the fixed-point subgroup CG (φ). Is the Fitting height of G\nbounded terms of |φ| and r?\n   This is known to be true in the case where |φ| is a product of at most two prime\npowers (B. Hartley, Preprint, 1994, https://kourovkanotebookorg.wordpress.\ncom/wp-content/uploads/2025/08/hartley94-prepr-mims.pdf). An affirmative\nanswer to this question would imply an affirmative answer to 13.8(b). E. I. Khukhro",
+    "sha256": "f3743127bd416dd19930e5efa94447a767cbaf2aea3543b97b9d74d6f016eda2",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=174",
+    "source_locator": "Kourovka 21.67, main section, page 174",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

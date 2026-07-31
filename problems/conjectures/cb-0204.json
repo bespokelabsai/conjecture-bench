@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0204",
+  "slug": "strong-sensitivity",
+  "title": "Strong sensitivity conjecture",
+  "field": "computational-complexity",
+  "statement": "Every Boolean function f:{0,1}ⁿ→{0,1} has block sensitivity bs(f) at most the square of its sensitivity s(f).",
+  "counterexample": {
+    "description": "A complete Boolean truth table, an input, and more than s(f)² pairwise disjoint blocks whose individual flips all change the function at that input.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Paper/StrongSensitivityConjecture.lean#L98",
+        "role": "status-and-formal-source"
+      },
+      {
+        "url": "https://arxiv.org/abs/1907.00847",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/1108.3494",
+        "role": "known-lower-bound"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0804"
+    ]
+  },
+  "equivalence_group": "strong-sensitivity"
+}

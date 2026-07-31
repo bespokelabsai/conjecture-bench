@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-077",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.77 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does there exist an infinite finitely generated residually finite binary finite\ngroup all of whose Sylow subgroups are finite? A. V. Rozhkov (Dr. of Sci. Disser.,\n1997) showed that such a group does exist if the condition of finiteness of the Sylow\nsubgroups is weakened to local finiteness.                              V. P. Shunkov",
+    "sha256": "1763fe465900d9b6bca55b2d3c6d3bc4dd8d14a1c8ddda2df8b9a10971eaa7cb",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=36",
+    "source_locator": "Kourovka 9.77, main section, page 36",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-13-012",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 13.12 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is the group of all automorphisms of an arbitrary hyperbolic group finitely\npresented?\n    Comment of 2001: This is proved for the group of automorphisms of a torsion-\nfree hyperbolic group that cannot be decomposed into a free product (Z. Sela, Geom.\nFunct. Anal., 7, no. 3 (1997) 561–593).                           O. V. Bogopolski",
+    "sha256": "13b4ee7e1b3dc719094994027602951caecda2c478347c1f79bd8c1203b7e874",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=66",
+    "source_locator": "Kourovka 13.12, main section, page 66",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

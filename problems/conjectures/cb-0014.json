@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0014",
+  "slug": "bouchets-6-flow-conjecture",
+  "title": "Bouchet’s 6-Flow conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Bouchet’s 6-Flow conjecture · 1983. Every flow-admissible signed graph has a nowhere-zero integer 6-flow.",
+  "counterexample": {
+    "description": "A refutation is a flow-admissible signed graph whose bounded integer-flow SAT or ILP encoding is infeasible. Include admissibility evidence and a proof certificate.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2601.05692",
+        "role": "supporting"
+      }
+    ]
+  }
+}

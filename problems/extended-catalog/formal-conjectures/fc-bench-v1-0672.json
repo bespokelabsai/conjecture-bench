@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0672",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "riemannHypothesis",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem riemannHypothesis : RiemannHypothesis",
+    "language_version": "Lean 4.27.0",
+    "sha256": "17361dac5e33130543bd0078a431654808a11ccf2e870da183c689994c8bbc08",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Millenium/RiemannHypothesis.lean#L57",
+    "source_locator": "FormalConjectures/Millenium/RiemannHypothesis.lean:57#riemannHypothesis",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Millenium",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0052"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-007",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.7 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let n ⩾ 665 be an odd integer. Is it true that the group of outer automorphisms\nOut(B(m, n)) of the free Burnside group B(m, n) for m > 2 is complete, that is, has\ntrivial center and all its automorphisms are inner?                    V. S. Atabekyan",
+    "sha256": "cd803948eb17d6a51a86d8685b1f99c555cdb9dae2dea4fc361b0eddb588bfd0",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=116",
+    "source_locator": "Kourovka 18.7, main section, page 116",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

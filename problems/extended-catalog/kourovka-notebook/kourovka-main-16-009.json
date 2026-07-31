@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-009",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.9 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "An element g of a free group Fn on the free generators x1 , . . . , xn is called a\npalindrome with respect to these generators if the reduced word representing g is the\nsame when read from left to right or from right to left. The palindromic length of an\nelement w ∈ Fn is the smallest number of palindromes in Fn whose product is w. Is\nthere an algorithm for finding the palindromic length of a given element of Fn ?\n                                        V. G. Bardakov, V. A. Tolstykh, V. E. Shpilrain",
+    "sha256": "f7f02c212cb24670a37e039a4b0689b2ca2ccbfc0fbd041aa04411456447ca93",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=95",
+    "source_locator": "Kourovka 16.9, main section, page 95",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

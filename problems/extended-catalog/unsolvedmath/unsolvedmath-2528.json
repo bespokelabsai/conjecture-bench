@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2528",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.19",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Suppose that S and M are groups of finite Morley rank, S is an infinite group, and M is a non-trivial connected group definably and faithfully acting on S. This action is said to be irreducible if M does not leave invariant any definable non-trivial proper subgroup of S. Prove that if S is a simple group such that every proper definable subgroup of S is nilpotent, and the action of M on S is irreducible, then this action is equivalent to the action of S on itself by conjugation.",
+    "sha256": "49f89eb2ea715f1773615dffd0264c0757196ec7358d1149b76fe4e71678de01",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.19",
+    "source_locator": "dataset ID 2528; problem number KOU-21.19",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

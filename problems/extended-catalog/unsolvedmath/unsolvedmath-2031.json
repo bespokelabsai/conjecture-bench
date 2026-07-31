@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2031",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #288",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Is it true that there are only finitely many pairs of intervals $I_1,I_2$ such that $ \\sum_{n_1\\in I_1}\\frac{1}{n_1}+\\sum_{n_2\\in I_2}\\frac{1}{n_2}\\in \\mathbb{N}? $ ",
+    "sha256": "bcfaef2d2bab7cbd76a850d1c072ee49ca43da3484cc90e4f93c90371b875ebb",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-288",
+    "source_locator": "dataset ID 2031; problem number EP-288",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0218",
+  "slug": "oeis-a034693-prime-progression",
+  "title": "OEIS A034693 bounded-multiplier conjecture",
+  "field": "number-theory",
+  "statement": "For every integer n>1 there is an integer k<n such that nk+1 is prime.",
+  "counterexample": {
+    "description": "An integer n>1 for which every number nk+1 with 0≤k<n is composite or one.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://oeis.org/A034693",
+        "role": "status-and-primary-index"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OEIS/34693.lean#L57",
+        "role": "formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0684"
+    ]
+  },
+  "equivalence_group": "oeis-a034693-least-prime-progression"
+}

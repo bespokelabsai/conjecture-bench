@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-10-071",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 10.71 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that the centralizer of any automorphism (any finite set of automor-\nphisms) in the automorphism group of a free group of finite rank is a finitely presented\ngroup? This is true in the case of rank 2 and in the case of inner automorphisms for\nany finite rank.                                                          V. A. Churkin",
+    "sha256": "29d94d957f792f12b1a44be4d4bc3b69b664ce069c54bb20b6cab801a8968974",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=44",
+    "source_locator": "Kourovka 10.71, main section, page 44",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0940",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "density_of_hyperbolicity",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 37]\ntheorem density_of_hyperbolicity :\n    mandelbrotSet ⊆ closure {c | ∃ m z, IsAttractingCycle (fun z ↦ z ^ 2 + c) m z}",
+    "language_version": "Lean 4.27.0",
+    "sha256": "ed3e79ffe66ba9c7d5d9da5034bf8059989181e21bf116a0819cce48ab89e452",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Mandelbrot.lean#L143",
+    "source_locator": "FormalConjectures/Wikipedia/Mandelbrot.lean:143#density_of_hyperbolicity",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-37"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

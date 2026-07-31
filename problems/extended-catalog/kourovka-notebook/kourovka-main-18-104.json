@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-104",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.104 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Construct an example of a pro-p group G and a proper abstract normal\nsubgroup K such that G/K is perfect.                          John S. Wilson",
+    "sha256": "a6f67b22b42a365d6f7f3063c3101ba827ebd8b5e6233b00c68d74744084fd5f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=127",
+    "source_locator": "Kourovka 18.104, main section, page 127",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

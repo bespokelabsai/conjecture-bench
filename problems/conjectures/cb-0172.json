@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0172",
+  "slug": "hajos-cycle-decomposition-conjecture",
+  "title": "Hajós cycle-decomposition conjecture",
+  "field": "graph-theory",
+  "statement": "Every simple Eulerian graph on n vertices decomposes into at most floor((n−1)/2) cycles.",
+  "counterexample": {
+    "description": "A connected simple graph with positive even degrees whose exact minimum edge-partition into simple cycles exceeds floor((n−1)/2).",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1002/jgt.22516",
+        "role": "supporting"
+      }
+    ]
+  }
+}

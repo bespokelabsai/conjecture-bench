@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-098",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.98 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that G is a solvable finite group and A is a group of automorphisms\nof G of relatively prime order. Is there a bound for the Fitting height h(G) of G in\nterms of A and h(CG (A)), or even in terms of the length l(A) of the longest chain of\nnested subgroups of A and h(CG (A))?\n   When A is solvable, it is proved in (A. Turull, J. Algebra, 86 (1984), 555–566)\nthat h(G) ⩽ h(CG (A)) + 2l(A) and this bound is best possible for h(CG (A)) > 0.\nFor A non-solvable some results are in (H. Kurzweil, Manuscripta Math., 41 (1983),\n233–305).                                                                   A. Turull",
+    "sha256": "8676d807811dcc506e79a3728892d7be16cd7aa79f9ce708cce530cc39e3b0a8",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=103",
+    "source_locator": "Kourovka 16.98, main section, page 103",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

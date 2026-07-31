@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2492",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #1105",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "The anti-Ramsey number $\\mathrm{AR}(n,G)$ is the maximum possible number of colours in which the edges of $K_n$ can be coloured without creating a rainbow copy of $G$ (i.e. one in which all edges have different colours).\nLet $C_k$ be the cycle on $k$ vertices. Is it true that $ \\mathrm{AR}(n,C_k)=\\left(\\frac{k-2}{2}+\\frac{1}{k-1}\\right)n+O(1)? $ Let $P_k$ be the path on $k$ vertices and $\\ell=\\lfloor\\frac{k-1}{2}\\rfloor$. If $n\\geq k\\geq 5$ then is $\\mathrm{AR}(n,P_k)$ equal to $ \\max\\left(\\binom{k-2}{2}+1, \\binom{\\ell-1}{2}+(\\ell-1)(n-\\ell+1)+\\epsilon\\right) $ where $\\epsilon=1$ if $k$ is odd and $\\epsilon=2$ otherwise?",
+    "sha256": "636d0f35920ebeca7f4110179511bfca25f052f86966154640ed69ec2d58d0c4",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-1105",
+    "source_locator": "dataset ID 2492; problem number EP-1105",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

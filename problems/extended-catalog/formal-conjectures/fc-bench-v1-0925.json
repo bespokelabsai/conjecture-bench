@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0925",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "lehmer_mahler_measure_problem.variants.best",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem lehmer_mahler_measure_problem.variants.best (f : ℤ[X])\n    (hf : mahlerMeasureZ f > 1) : mahlerMeasureZ f ≥ mahlerMeasureZ lehmerPolynomial",
+    "language_version": "Lean 4.27.0",
+    "sha256": "1fda04ee171ee24a63e3c12aa88b1818e94bff4ad0591b9087760e8a7cfa5cd9",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/LehmerMahlerMeasureProblem.lean#L54",
+    "source_locator": "FormalConjectures/Wikipedia/LehmerMahlerMeasureProblem.lean:54#lehmer_mahler_measure_problem.variants.best",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0051"
+  ]
+}

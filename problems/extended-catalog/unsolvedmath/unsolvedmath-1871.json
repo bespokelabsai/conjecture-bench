@@ -1,0 +1,36 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1871",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős-Selfridge Classification: Infinitely Many Primes in Each Class",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "In the Erdős-Selfridge classification of primes, are there infinitely many primes in each class? Prime $p$ is in class 1 if the only prime divisors of $p+1$ are 2 or 3; and $p$ is in class $r$ if every prime factor of $p+1$ is in some class $\\le r-1$, with equality for at least one prime factor.",
+    "sha256": "f40ccc3d35dd8a75db09316dff790b9a8c901f2e88317b203adc557ad544a974",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GUY-A18",
+    "source_locator": "dataset ID 1871; problem number GUY-A18",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L3",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

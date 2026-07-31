@@ -1,0 +1,36 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1867",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Pomerance's Questions on Good Primes",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Call prime $p_n$ good if $p_n^2 > p_{n-i}p_{n+i}$ for all $i$, $1 \\le i \\le n-1$. Is it true that the set of $n$ for which $p_n$ is good has density 0? Are there infinitely many $n$ with $p_n p_{n+1} > p_{n-i} p_{n+1+i}$ for all $i$, $1 \\le i \\le n-1$?",
+    "sha256": "c6de8cdd66e417e68dda66b8eff5c920f354c96cca8502776393073454750ae3",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GUY-A14a",
+    "source_locator": "dataset ID 1867; problem number GUY-A14a",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L3",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

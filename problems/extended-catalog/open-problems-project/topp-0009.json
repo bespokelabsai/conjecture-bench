@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0009",
+  "source_registry": "open-problems-project",
+  "title": "Edge-Unfolding Convex Polyhedra",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Can every convex polyhedron be cut along its edges and unfolded\nflat to a single, nonoverlapping, simple polygon?",
+    "sha256": "d13c0e9b17e7dd19e7b675060a01361d0fb2adbbaef992b034c9da1400d63627",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p9",
+    "source_locator": "TOPP problem 9 (Problems/P.000009)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "folding and unfolding",
+      "polyhedra"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0081"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-04-040",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 4.40 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let C be a fixed non-trivial group (for instance, C = Z/2Z). As it is shown in\n(Yu. I. Merzlyakov, Algebra and Logic, 9, no. 5 (1970), 326–337), for any two groups\nA and B, all split extensions of B by A can be imbedded in a certain unified way into\nthe direct product A × Aut (B ≀ C). How are they situated in it? Yu. I. Merzlyakov",
+    "sha256": "4500fb6e974050f37e87395881c3f839b9c64ccfcf1048b7f87aa7ad5d4dc90b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=13",
+    "source_locator": "Kourovka 4.40, main section, page 13",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

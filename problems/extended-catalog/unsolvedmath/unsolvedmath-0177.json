@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0177",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Random Walk Mixing on Alternating Groups",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Pick $x_1, \\dots, x_k \\in A_n$ at random. Is it true that, almost surely as $n \\to \\infty$, the random walk on this set of generators and their inverses equidistributes in time $O(n \\log n)$?",
+    "sha256": "6e95ae324a7bcbd00cf86618f408dd34af9f17b8b6eafd3dc8626cacffcb6f06",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GREEN-089",
+    "source_locator": "dataset ID 177; problem number GREEN-089",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:algebra",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:green-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

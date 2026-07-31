@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2921",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.45",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let X be a closed simply connected smooth 4-manifold and let $\\Sigma$ be a closed, orientable surface. Fix a smooth embedding of $f: \\Sigma \\hookrightarrow X$ to serve as a basepoint. For which $k\\geq 0$ does the equality\n$$\n\\ker i_{*}=\\ker s_{*}\n$$\n hold, where\n$$\n\\begin{aligned} i_{*}&:\\pi_{k}(\\operatorname{Emb}^{DIFF}(\\Sigma,X^{\\circ});f)\\to \\pi_{k}(\\operatorname{Emb}^{TOP}(\\Sigma,X^{\\circ});f),\\\\ s_{*}&:\\pi_{k}(\\operatorname{Emb}^{DIFF}(\\Sigma,X^{\\circ});f)\\to \\operatorname*{colim}_{N\\to\\infty}\\pi_{k}(\\operatorname{Emb}^{DIFF}(\\Sigma,X^{\\circ}\\#_{N}S^{2}\\times S^{2});f). \\end{aligned}\n$$\n Here $i_*$ is induced by inclusion and $s_*$ by stabilization. To make sense of this for k=0, define $keri_{*}$ and $kers_{*}$ to be the preimages under $i_{*}$ and $s_{*}$ respectively of [f].",
+    "sha256": "355d203625f717c825b11422d30c11a8b26605e5d5edb3f1f305ae156e049aa7",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.45",
+    "source_locator": "dataset ID 2921; problem number KP-4.45",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

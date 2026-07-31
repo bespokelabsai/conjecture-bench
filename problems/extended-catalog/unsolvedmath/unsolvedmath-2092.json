@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2092",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #390",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $f(n)$ be the minimal $m$ such that $ n! = a_1\\cdots a_k $ with $n< a_1<\\cdots <a_k=m$. Is there (and what is it) a constant $c$ such that $ f(n)-2n \\sim c\\frac{n}{\\log n}? $ ",
+    "sha256": "1c1c777d182c0b6d494b1b42c9eeeea384bed60615ea220fa8cdca39994cfdf6",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-390",
+    "source_locator": "dataset ID 2092; problem number EP-390",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

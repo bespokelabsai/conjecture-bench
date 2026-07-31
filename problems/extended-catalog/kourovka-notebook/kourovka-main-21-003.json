@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-003",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.3 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G = An or Sn and let H, K be soluble subgroups of G. For all sufficiently\nlarge n, can we always find an element x ∈ G such that H ∩ K x = 1? Does this hold\nfor all n ⩾ 21?\n    Note that the conclusion is false when G = S20 and H = K = (S4 ≀ S4 ) × S4 .\n                                         M. Anagnostopoulou-Merkouri, T. C. Burness",
+    "sha256": "a58397db01f0f557751a40eaced269dd1ebc4b129b3adcf699881b4d1cb1ab41",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=164",
+    "source_locator": "Kourovka 21.3, main section, page 164",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

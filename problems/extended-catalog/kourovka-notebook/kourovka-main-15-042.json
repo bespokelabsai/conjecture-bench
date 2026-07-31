@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-042",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.42 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that the group algebra k[F ] of R. Thompson’s group F (see 12.20)\nover a field k satisfies the Ore condition, that is, for any a, b ∈ k[F ] there exist\nu, v ∈ k[F ] such that au = bv and either u or v is nonzero? If the answer is negative,\nthen F is not amenable.\n    Comment of 2026: If the answer is positive, then F is amenable (so problem\n15.42 is equivalent to 12.20), because the “if and only if” statement holds for groups\nsatisfying Kaplansky’s zero-divisor conjecture (D. Kielak, Prepint, 2026, https://\narxiv.org/pdf/1605.09133v2), and F does satisfy it.                         V. S. Guba",
+    "sha256": "fbb662b7fc6d813dfbd7186830a50f255e69a324b43d399af45050cf310de896",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=87",
+    "source_locator": "Kourovka 15.42, main section, page 87",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

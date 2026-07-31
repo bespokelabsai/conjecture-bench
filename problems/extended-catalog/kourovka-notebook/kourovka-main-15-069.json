@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-069",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.69 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that every hyperbolic group has a free normal subgroup with the\nfactor-group of finite exponent?                                  A. Yu. Olshanskii",
+    "sha256": "b8eb16ba6ccbcd4c25595857f80d5718b78782ffa706413b4fc8c32a8f6fe2ca",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=90",
+    "source_locator": "Kourovka 15.69, main section, page 90",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0145",
+  "slug": "erdos-580-half-dense-tree-containment",
+  "title": "Erdős problem #580: half-dense tree containment",
+  "field": "graph-theory",
+  "statement": "If at least n/2 vertices of an n-vertex graph have degree at least n/2, then the graph contains every tree on at most n/2 vertices.",
+  "counterexample": {
+    "description": "A graph meeting the degree condition and a tree of permitted order that has no embedding.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/580",
+        "role": "status"
+      }
+    ]
+  }
+}

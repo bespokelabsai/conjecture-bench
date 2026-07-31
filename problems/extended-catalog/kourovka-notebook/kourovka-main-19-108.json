@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-108",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.108 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let P be a finite p-group, where p is an odd prime. Let χ be a complex\nirreducible character of P . If χ(x) ̸= 0 for some x ∈ P , is it true that the order of x\nmust divide |P |/χ(1)2 ?                                                        T. Wilde",
+    "sha256": "a44524dbebb33117a07c37dc0edad9b68cc2fb68c04fad69e1612b4e01039997",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=143",
+    "source_locator": "Kourovka 19.108, main section, page 143",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

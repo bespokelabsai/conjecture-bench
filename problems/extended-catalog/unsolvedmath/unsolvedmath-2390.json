@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2390",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #934",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $h_t(d)$ be minimal such that every graph $G$ with $h_t(d)$ edges and maximal degree $\\leq d$ contains two edges whose shortest path between them has length $\\geq t$.\nEstimate $h_t(d)$.",
+    "sha256": "3fe2f649f0d730d24b7e0ef022333d99e121c867cb01254a4d1807c2bb46e2e3",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-934",
+    "source_locator": "dataset ID 2390; problem number EP-934",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

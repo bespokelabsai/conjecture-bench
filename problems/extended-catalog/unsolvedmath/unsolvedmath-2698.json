@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2698",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.39",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) Do the algebraic knots freely generate a subgroup of the smooth concor-\ndance group $\\mathcal{C}$?\n(b) Do the algebraic knots freely generate a subgroup of the topological con-\ncordance group $\\mathcal{C}^{\\mathrm{TOP}}$?",
+    "sha256": "cef4790cf4a21e0a57bb3e8879620cd9286e646fee8382d18e2b4198187a6d08",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.39",
+    "source_locator": "dataset ID 2698; problem number KP-1.39",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

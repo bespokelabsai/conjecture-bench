@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2307",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #790",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $l(n)$ be maximal such that if $A\\subset\\mathbb{Z}$ with $\\lvert A\\rvert=n$ then there exists a sum-free $B\\subseteq A$ with $\\lvert B\\rvert \\geq l(n)$ - that is, $B$ is such that there are no solutions to $ a_1=a_2+\\cdots+a_r $ with $a_i\\in B$ all distinct.\nEstimate $l(n)$. In particular, is it true that $l(n)n^{-1/2}\\to \\infty$? Is it true that $l(n)< n^{1-c}$ for some $c>0$?",
+    "sha256": "73ebc33e426892291d4e12d774d2af0dc18e819dd6785a3d29048b695188f404",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-790",
+    "source_locator": "dataset ID 2307; problem number EP-790",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

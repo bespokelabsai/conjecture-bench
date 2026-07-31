@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-037",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.37 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(J. G. Thompson). For a finite group G and natural number n, set G(n) =\n{x ∈ G | xn = 1} and define the type of G to be the function whose value at n is the\norder of G(n). Is it true that a group is soluble if its type is the same as that of a\nsoluble one?                                                A. S. Kondratiev, W. J. Shi\n  ∗ No, not always (P. Piwek, Algebra Number Theory, 19, no. 8 (2025), 1663–1670).",
+    "sha256": "6ae5dc54917d179328462def3cbccf8dce6074b705fa751b253c8e7c9b9f0249",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=59",
+    "source_locator": "Kourovka 12.37, main section, page 59",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

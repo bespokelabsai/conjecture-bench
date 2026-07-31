@@ -1,0 +1,36 @@
+{
+  "slug": "brouwer-constant-weight-codes",
+  "name": "Bounds for binary constant weight codes",
+  "maintainers": [
+    "Andries E. Brouwer"
+  ],
+  "homepage": "https://www.win.tue.nl/~aeb/codes/Andw.html",
+  "license": "No formal licence stated; a public research reference on code bounds.",
+  "credit": {
+    "statement": "Constant weight code records come from the table of bounds for binary constant weight codes compiled and maintained by Andries E. Brouwer, which builds on the table of A. E. Brouwer, J. B. Shearer, N. J. A. Sloane and W. D. Smith, and on the upper bounds of Erik Agrell, Alexander Vardy and Kenneth Zeger.",
+    "requested_citation": "The page asks for corrections and updates at aeb@cwi.nl and names its own sources: cite A. E. Brouwer, \"Bounds for binary constant weight codes\", https://www.win.tue.nl/~aeb/codes/Andw.html, together with A. E. Brouwer, J. B. Shearer, N. J. A. Sloane & W. D. Smith, \"A new table of constant weight codes\", IEEE Trans. Inform. Theory 36 (1990) 1334-1380, and E. Agrell, A. Vardy & K. Zeger, \"Upper bounds for constant-weight codes\", IEEE Trans. Inform. Theory 46 (2000) 2373-2395, for the entries taken from them.",
+    "citation_url": "https://www.win.tue.nl/~aeb/codes/Andw.html"
+  },
+  "retrieval": {
+    "method": "Fetch the published grid of bounds on A(n, d, w), read the cells printed as a lower-upper range, and quote the row fragment running from the row label n through that cell. Rows whose fragment is not unique in the normalised page are refused rather than recorded.",
+    "urls": [
+      "https://www.win.tue.nl/~aeb/codes/Andw.html"
+    ],
+    "retrieved": "2026-07-23",
+    "upstream_version": "no version stamp published; the page is edited in place"
+  },
+  "redistribution": {
+    "policy": "metadata-only",
+    "note": "Records store the parameters, the two published bounds, and a quoted fragment of the table row. Brouwer's explicit record codes are not redistributed."
+  },
+  "caveats": [
+    "The table has no per-cell pages, so the evidence quote is a fragment of the grid rather than prose naming its own parameters; each recorded fragment was required to be unique on the page, and the URL fragment names the distance.",
+    "A cell printed as a single number is treated as settled and never recorded; a cell printed as lower-upper is treated as open. That convention is the source's, not a proof, and it is what decides which cells appear here.",
+    "The d=4 table states that it carries lower bounds only, so none of its cells can be shown open from this page and none are recorded, even though many are open.",
+    "The page states that unmarked lower bounds for n at most 28 come from the 1990 BSSS table and unmarked upper bounds come from the Johnson bound or from Agrell, Vardy and Zeger; every bound here is a published claim and is not reproved, only checked against a recomputed Johnson bound.",
+    "The page lists seven d=6 parameter sets whose BSSS lower bound can no longer be backed by an explicit code, so for those cells the recorded record is a claim with no surviving construction.",
+    "The page carries no version stamp and is edited in place; it changed between two fetches during this retrieval, raising four d=6 lower bounds, so quotes can become stale.",
+    "Improving a lower bound narrows the gap but does not close the cell: the exact value stays unknown until the bounds meet.",
+    "This release includes only cells whose one-step improvement target is at most 5000 codewords; the upstream table extends far beyond that."
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-062",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.62 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "The spectrum of a finite group is the set of orders of its elements. Let ω be a\nfinite set of positive integers. A group G is said to be ω-critical if the spectrum of G\ncoincides with ω, but the spectrum of every proper section of G is not equal to ω.\n     a) Does there exist a number n such that for every finite simple group G the\nnumber of ω(G)-critical groups is less than n?\n    b) For every finite simple group G, find all ω(G)-critical groups. V. D. Mazurov",
+    "sha256": "5838483b3e1e3a7004b0588d6e326d31f92cbfa517303998e8c0ceeb7e2a40ec",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=122",
+    "source_locator": "Kourovka 18.62, main section, page 122",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

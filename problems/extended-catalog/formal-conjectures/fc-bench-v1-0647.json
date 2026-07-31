@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0647",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "green_77",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 52]\ntheorem green_77 :\n    answer(sorry) ↔\n    ∃ (o : ℕ → ℝ), Tendsto o atTop (𝓝 0) ∧\n      α ≪ fun n ↦ n ^ (-2 + o n)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "52c8c07555eea09a4a522367bbc3c81769ddd799b1ea41442d3052b9ebc15886",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/77.lean#L35",
+    "source_locator": "FormalConjectures/GreensOpenProblems/77.lean:35#green_77",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-5",
+      "AMS-52"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0145",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_193",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem erdos_193 :\n    answer(sorry) ↔ ∀ S : Set (Fin 3 → ℤ), S.Finite →\n      /- The statement's $A = \\lbrace a_1, a_2, \\ldots \\rbrace$ is an infinite set.\n\n      If the sequence only takes finitely many values, one value has to repeat infinitely many\n      times, which would yield a trivial collinear triple (x, x, x). In this case, the conjecture\n      would hold for degenerate S-walks. Another case is constant S-walks, which would render the\n      conjecture trivially false (finite loop ranges have no 3 distinct points).\n\n      Assuming the authors intend to stay away from these degenerate cases, we formalize this by\n      requiring an infinite range (and require distinct points). -/\n      ∀ a : ℕ → Fin 3 → ℤ, IsSWalk S a → (range a).Infinite →\n      HasCollinearTriple ℚ (range (fun n ↦ (↑) ∘ a n : ℕ → Fin 3 → ℚ))",
+    "language_version": "Lean 4.27.0",
+    "sha256": "8f05a43a3f9f1a7ebdb35ce76a646a36c911d9f1c19d2b0170fe7561cf1e6d24",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/193.lean#L47",
+    "source_locator": "FormalConjectures/ErdosProblems/193.lean:47#erdos_193",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

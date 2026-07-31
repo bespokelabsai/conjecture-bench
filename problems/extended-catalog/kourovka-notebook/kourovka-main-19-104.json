@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-104",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.104 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is there an algorithm which decides whether a given subgroup of F is inert?\n      An algorithm to decide whether a given H is compressed is known.   E. Ventura\n  ∗ Yes, there is (A. Jaikin-Zapirain, Preprint, 2024, https://arxiv.org/pdf/2403.\n09515).",
+    "sha256": "a732d5bdaf502b13f4eee8cbd532200e827f5b8961abbb351978415447a44aaf",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=142",
+    "source_locator": "Kourovka 19.104, main section, page 142",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

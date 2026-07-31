@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-079",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.79 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Conjecture: Suppose that G is a non-abelian simple group and H is a finite\ngroup such that Cod(G) = Cod(H). Then G ∼      = H.\n    Comment of 2025: The conjecture is proved for G of type PSL(2, q) (A. Bahri,\nZ. Akhlaghi, B. Khosravi, Bull. Austral. Math. Soc., 104, no. 2 (2021), 278–286);\nPSL(3, q) or PSU(3, q) (Y. Liu, Y. Yang, Results Math., 78, no. 1 (2023), article No. 7);\na sporadic simple group (M. Dolorfino, L. Martin, Z. Slonim, Y. Sun, Y. Yang, Bull.\nAustral. Math. Soc., 109, no. 1 (2024), 57–66); an alternating group (M. Dolorfino,\nL. Martin, Z. Slonim, Y. Sun, Y. Yang, Bull. Austral. Math. Soc., 110, no. 1 (2024),\n115–120); 2 F4 (q 2 ) (Y. Yang, J. Group Theory, 27, no. 1 (2024), 141–155); PSL(n, q)\nor a simple exceptional group of Lie type (H. P. Tong Viet, Math. Nachr., 298, no. 4\n(2025), 1356–1369).                                                             G. Qian",
+    "sha256": "ecc0114f9b8b5dd956c44899ca54c0387540084d884c4ebb1664e6c6226c3308",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=155",
+    "source_locator": "Kourovka 20.79, main section, page 155",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

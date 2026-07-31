@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0989",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "twoFivePerfect",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem twoFivePerfect : ¬ ∃ n, PerfectFor n 2 5",
+    "language_version": "Lean 4.27.0",
+    "sha256": "b5d11543152fd379e1c4a1fa19c566ea5eb906931441a0d68f47fd50e97b8690",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Superperfectnumbers.lean#L40",
+    "source_locator": "FormalConjectures/Wikipedia/Superperfectnumbers.lean:40#twoFivePerfect",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

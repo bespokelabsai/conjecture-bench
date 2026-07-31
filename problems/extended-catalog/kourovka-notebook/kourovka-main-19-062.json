@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-062",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.62 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let A = {Ar | r ∈ Φ} be an elementary carpet of type  P Φ of rank         l ⩾ 2 (see\n7.28). For p ∈ Φ, define a set of additive subgroups Bp =       Cij,rs Air Ajs , where the\nsum is taken over all natural numbers i, j and roots r, s ∈ Φ such that ir + js = p. It\nis known that the set B = {Bp | p ∈ Φ} is a carpet called the derived carpet of A. It\nis also known that for Φ = Al the set B is a closed (admissible) carpet, which means\nthat its carpet subgroup does not contain new root elements. Is every derived carpet\nof type Φ over a commutative ring closed (admissible)?\n    Comment of 2025: An affirmative answer was obtained for Φ of type Bl , Cl , or\nF4 when GCD(p, 2) = 1, and for Φ of type G2 when GCD(p, 6) = 1 (Ya. N. Nuzhin,\nJ. Siberian Fed. Univ. Ser. Math. Phys., 16, no. 6 (2023), 732–737). Ya. N. Nuzhin",
+    "sha256": "f63d5ed6b95eff4b13f7e48372d38a82b44e25894fb177358f3e6823f64c00ee",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=137",
+    "source_locator": "Kourovka 19.62, main section, page 137",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

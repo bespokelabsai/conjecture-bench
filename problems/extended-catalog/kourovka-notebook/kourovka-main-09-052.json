@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-052",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.52 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does a finitely presented soluble group of finite rank have soluble conjugacy\nproblem? Note: there is an algorithm to decide conjugacy to a given element of the\ngroup.                                                             D. J. S. Robinson",
+    "sha256": "5a7cc3190b883be8c2481f5eadcc0928a54fa63c749b19d7a8f748ea735fb8f5",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=35",
+    "source_locator": "Kourovka 9.52, main section, page 35",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

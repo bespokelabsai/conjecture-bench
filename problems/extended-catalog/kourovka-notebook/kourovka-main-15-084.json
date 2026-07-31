@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-084",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.84 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Yu. I. Merzlyakov (Sov. Math. Dokl., 19 (1978), 64–68) proved that if the\ncomplex\n�       �numbers\n           �      α,�β, γ are �\n                              each at least 3 �in absolute value, then the matrices\n     1   α       1   0                  1−γ    −γ\n             ,               , and                    generate a free group of rank three.\n     0   1       β   1                   γ    1+γ\nAre there rational numbers α, β, γ, each less than 3 in absolute value, with the same\nproperty?                                                            Yu. V. Sosnovskiı̆",
+    "sha256": "dd11aaa91f3d4600c08b34a0872b25f4385813f02e91b6ee5153010d7ae4be47",
+    "contains_placeholder": false,
+    "unmapped_control_count": 6
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=92",
+    "source_locator": "Kourovka 15.84, main section, page 92",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

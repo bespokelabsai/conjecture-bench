@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-04-005",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 4.5 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "b) Is it true that an arbitrary finitely presented group has either polynomial or\nexponential growth?                                                         S. I. Adian",
+    "sha256": "f4dd7d9b7037eb825ea7638edd7bba1fcd6ed9b646b9c0fd0303b77eb3548097",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=12",
+    "source_locator": "Kourovka 4.5, main section, page 12",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

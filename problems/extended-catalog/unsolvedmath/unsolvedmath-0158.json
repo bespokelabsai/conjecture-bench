@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0158",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Sets with No Unique Sum Representations",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "What is the size of the smallest set $A \\subset \\mathbb{Z}/p\\mathbb{Z}$ (with at least two elements) for which no element in the sumset $A + A$ has a unique representation?",
+    "sha256": "edd340b13f875e27666f54f174000afd6208dd8cef2970f6ea65026f2ed8d6d8",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GREEN-070",
+    "source_locator": "dataset ID 158; problem number GREEN-070",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:combinatorics",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:green-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

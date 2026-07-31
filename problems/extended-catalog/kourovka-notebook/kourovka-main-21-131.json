@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-131",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.131 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Construct a homomorphism of a subgroup of a Golod group (see 9.76) onto\nan infinite AT -group as defined in (A. V. Rozhkov, Math. Notes, 40, no. 5 (1986),\n827–836). Cf. 13.55                                              A. V. Timofeenko",
+    "sha256": "9fd5aeb68b39a595bd1a82169f8dcb23d19767c6485dab4f94e465dcccfbb8dc",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=183",
+    "source_locator": "Kourovka 21.131, main section, page 183",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

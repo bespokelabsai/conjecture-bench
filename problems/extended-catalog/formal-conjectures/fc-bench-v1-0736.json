@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0736",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "beaver_math_olympiad_problem_2_antihydra.variants.set",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 11 68]\ntheorem beaver_math_olympiad_problem_2_antihydra.variants.set\n    (a : ℕ → ℕ) (a_ini : a 0 = 8)\n    (a_rec : ∀ n, a (n + 1) = (3 * a n) / 2) (n : ℕ) :\n    ((Finset.Ico 0 n).filter fun x ↦ Odd (a x)).card ≤\n      2 * ((Finset.Ico 0 n).filter fun x ↦ Even (a x)).card",
+    "language_version": "Lean 4.27.0",
+    "sha256": "a8d705264bfb17986f090ec4e3be1a91c6ecf70e2ee1f22a1287d1bb6018e4fd",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Other/BeaverMathOlympiad.lean#L110",
+    "source_locator": "FormalConjectures/Other/BeaverMathOlympiad.lean:110#beaver_math_olympiad_problem_2_antihydra.variants.set",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Other",
+      "AMS-5",
+      "AMS-11",
+      "AMS-68"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0229"
+  ]
+}

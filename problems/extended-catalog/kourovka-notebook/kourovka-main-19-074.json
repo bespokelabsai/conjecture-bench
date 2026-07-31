@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-074",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.74 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A subgroup H of a group G is called pronormal if H and H g are conjugate in\n⟨H, H g ⟩ for every g ∈ G. A subgroup H of a group G is called abnormal if g ∈ ⟨H, H g ⟩\nfor every g ∈ G.\n    Does there exist an infinite group that does not contain nontrivial proper pronor-\nmal subgroups?\n    The question is equivalent to the following: does there exist an infinite simple\ngroup that does not contain proper abnormal subgroups?                     D. O. Revin\n  ∗ Yes, it does (S. Corson, Monatsh. Math. (2025) https://doi.org/10.1007/\ns00605-025-02116-8.",
+    "sha256": "d0e96b397e0b1b520b7e79badcd69c9d50915f161cf21d5eca782b8b73f59fd9",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=139",
+    "source_locator": "Kourovka 19.74, main section, page 139",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

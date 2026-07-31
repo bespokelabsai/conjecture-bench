@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0062",
+  "slug": "stanley-tree-chromatic-symmetric-function",
+  "title": "Stanley tree chromatic symmetric function",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "No two nonisomorphic trees have the same chromatic symmetric function.",
+  "counterexample": {
+    "description": "Nonisomorphic trees \\(T,U\\) with \\(X_T=X_U\\). Canonical graph encodings, isomorphism checking, and exact power-sum coefficients verify a collision.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1801.07363",
+        "role": "supporting"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0012365X26000336",
+        "role": "supporting"
+      }
+    ]
+  }
+}

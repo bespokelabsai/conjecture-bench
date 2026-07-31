@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-04-006",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 4.6 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(P. Hall). Are the projective groups in the variety of metabelian groups free?\n                                                                        V. A. Artamonov",
+    "sha256": "f7da6eed5f3b49399d6ff1b228a8038283d1a29d766bed41344a2235461f413b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=12",
+    "source_locator": "Kourovka 4.6, main section, page 12",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

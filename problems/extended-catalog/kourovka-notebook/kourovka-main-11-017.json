@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-017",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.17 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a finite group and let d = d(G) be the least positive integer such\nthat G satisfies a law [x, r y] = [x, r+d y] for some nonnegative integer r = r(G).\n   a) Let e = 1 if d(G) is even and e = 2 otherwise. Is it true that the exponent of\nG/F (G) divides e · d(G)?\n   b) If G is a nonabelian simple group, does the exponent of G divide d(G)?\n   Part a) is true for soluble groups (N. D. Gupta, H. Heineken, Math. Z., 95 (1967),\n276–287). I have checked part b) for An , P SL(2, q), and a number of sporadic groups.\n                                                                               R. Brandl",
+    "sha256": "ae09b3152b18a72aa617e2fd8064662724b9e859793e0bca67dd8de3974d84c1",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=47",
+    "source_locator": "Kourovka 11.17, main section, page 47",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

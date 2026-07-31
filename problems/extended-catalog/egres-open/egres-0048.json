@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0048",
+  "source_registry": "egres-open",
+  "title": "Parity constrained strongly connected orientations",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Find a good characterization for undirected graphs having a strongly connected (more generally ''k''-edge-connected) orientation so that the in-degree of every node is odd.",
+    "sha256": "a1c290322272811c4f624eab7c0a9989416fca052cdd675f3c077fd77aa14f7f",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2015-11-18T17:54:46Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Parity_constrained_strongly_connected_orientations&oldid=1983",
+    "source_locator": "EGRES page 48, revision 1983",
+    "source_sha256": "909b247970d2c316812a274080474fa0089e5e38158a1098f2988182fcc6b710",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity",
+      "Orientations"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

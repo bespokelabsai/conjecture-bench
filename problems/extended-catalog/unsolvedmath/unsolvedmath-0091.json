@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0091",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Hilbert's 18th Problem: Polyhedra and Space-Filling",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Are there only finitely many essentially different space-filling convex polyhedra? Is there a polyhedron which tiles space but not in a lattice arrangement?",
+    "sha256": "58924eadf61c81c51bbab4091001cf04248a0b407c783b4a7c96970921aeed39",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/HIL-018",
+    "source_locator": "dataset ID 91; problem number HIL-018",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:geometry",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:hilbert-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

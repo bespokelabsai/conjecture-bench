@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-071",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.71 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that every infinite 2-transitive permutation groups with locally soluble\npoint stabilizer has a non-trivial irreducible finite-dimensional representation over\nsome field?                                                                 A. N. Fomin",
+    "sha256": "52563ee576cc9dae1e3b40822b40bead6bbd1711c8034ba3434d6b9e429b23d5",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=36",
+    "source_locator": "Kourovka 9.71, main section, page 36",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

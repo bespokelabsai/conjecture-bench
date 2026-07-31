@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-13-049",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 13.49 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(V. I. Malykhin). Can a topological group be partitioned into two dense\nsubsets, if there are infinitely many free ultrafilters on the group converging to the\nidentity?                                                                I. V. Protasov",
+    "sha256": "88405d790ebe27abfcdcaf5d020f8e28589ab2ae1a0ef4a94d307b29b9ea8b4f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=68",
+    "source_locator": "Kourovka 13.49, main section, page 68",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

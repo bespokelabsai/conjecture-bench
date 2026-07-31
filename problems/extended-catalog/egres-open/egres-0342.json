@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0342",
+  "source_registry": "egres-open",
+  "title": "Extreme direction Sperner for square 0-1 matrix",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''A'' be an <math>n \\times n</math> 0-1 matrix, and suppose that the facets of the polyhedron <math>P=\\{x: A x \\leq {\\mathbf 1},\\ x \\leq {\\mathbf 1}\\} </math> are coloured by <math>n</math> colours such that a facet with extreme direction <math>-e_i</math> does not get colour <math>i</math>, and every colour appears twice. Can we find in polynomial time a vertex that is incident to facets of every colour (a ''panchromatic vertex'')?",
+    "sha256": "a181aba8b17c4ffd58b7c12fb78d0c41717a8e7c3117f50ec13f06a94736bb72",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2014-12-28T21:59:14Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Extreme_direction_Sperner_for_square_0-1_matrix&oldid=1774",
+    "source_locator": "EGRES page 342, revision 1774",
+    "source_sha256": "4ee6c2b4f52c8e69e33d31190096dd4b5b00a366d9f57005fd48df0ec88c814f",
+    "tags": [
+      "combinatorial-optimization",
+      "Colouring"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

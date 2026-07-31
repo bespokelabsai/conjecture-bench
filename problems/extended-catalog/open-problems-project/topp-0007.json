@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0007",
+  "source_registry": "open-problems-project",
+  "title": "$k$-sets",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "What is the maximum number of $k$-sets? (Equivalently, what\nis the maximum complexity of a $k$-level in an arrangement of\nhyperplanes?)",
+    "sha256": "780e23b16edffeff4642d62ace87fd1e543401e1711019e454d4e589fb516db5",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p7",
+    "source_locator": "TOPP problem 7 (Problems/P.000007)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "combinatorial geometry",
+      "point sets"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

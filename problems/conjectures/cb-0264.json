@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0264",
+  "slug": "finite-magma-equation-677-implies-255",
+  "title": "Finite magma equation 677→255 implication",
+  "field": "universal-algebra",
+  "statement": "Every finite magma satisfying x = y ◇ (x ◇ ((y ◇ x) ◇ y)) for all x,y also satisfies x = ((x ◇ x) ◇ x) ◇ x for all x.",
+  "counterexample": {
+    "description": "A finite multiplication table satisfying equation 677 for every ordered pair but violating equation 255 at at least one element.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Other/EquationalTheories_677_255.lean#L63",
+        "role": "formal-source"
+      },
+      {
+        "url": "https://teorth.github.io/equational_theories/blueprint/677-chapter.html",
+        "role": "live-definition-and-status-source"
+      },
+      {
+        "url": "https://teorth.github.io/equational_theories/paper.pdf",
+        "role": "primary-open-problem-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0738",
+      "fc-bench-v1-0739"
+    ]
+  },
+  "equivalence_group": "equational-theories-677-255"
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3304",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Strong matchings and covers",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $H$ be a hypergraph. A strongly maximal matching is a matching $F \\subseteq E(H)$ so that $|F' \\setminus F| \\le |F \\setminus F'|$ for every matching $F'$. A strongly minimal cover is a (vertex) cover $X \\subseteq V(H)$ so that $|X' \\setminus X| \\ge |X \\setminus X'|$ for every cover $X'$.\n\nConjecture If $H$ is a (possibly infinite) hypergraph in which all edges have size $\\le k$ for some integer $k$, then $H$ has a strongly maximal matching and a strongly minimal cover.",
+    "sha256": "d9f5d3a81b43d40a5b411c473bc876546df43090f4bb93e5585627fc3ab68dbe",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-690",
+    "source_locator": "dataset ID 3304; problem number OPG-690",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

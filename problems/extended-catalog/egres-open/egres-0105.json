@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0105",
+  "source_registry": "egres-open",
+  "title": "Maximum weight bounded fractional matching",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Given a graph ''G=(V,E)'', and weight and capacity functions <math>w,u: E \\to {\\mathbb R_+}</math> defined on the edge set, is there a combinatorial, strongly polynomial algorithm to find a vector ''x'' maximizing ''wx'' subject to the constraints <math>x \\in P(G)</math> and <math>x \\leq u</math>, where ''P(G)'' is the convex hull of the incidence vectors of perfect matchings of ''G''?",
+    "sha256": "4b1fe50b5f857ee820b2d51de71e35de082d98d386cadf37600a2eb6909617d0",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2014-01-15T18:16:27Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Maximum_weight_bounded_fractional_matching&oldid=1619",
+    "source_locator": "EGRES page 105, revision 1619",
+    "source_sha256": "7d1db5d2739692d1962fe18f830ac4f90eae2366860e3ebc59c68e138874b330",
+    "tags": [
+      "combinatorial-optimization",
+      "Integer polyhedra",
+      "Matchings"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

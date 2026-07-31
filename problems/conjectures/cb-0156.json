@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0156",
+  "slug": "topp-38-compatible-triangulations",
+  "title": "Compatible triangulations",
+  "field": "computational-geometry",
+  "statement": "Any two general-position planar n-point sets with equal convex-hull size have combinatorially compatible triangulations.",
+  "counterexample": {
+    "description": "Two rational seven-point sets, each with a triangular convex hull and four interior points, for which exhaustive straight-line triangulation catalogs have no isomorphic face lattices.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "topp-open-finite",
+    "sources": [
+      {
+        "url": "https://topp.openproblem.net/p38",
+        "role": "maintained-status-and-statement"
+      },
+      {
+        "url": "https://doi.org/10.1016/S0304-3975(02)00428-0",
+        "role": "original-conjecture-and-three-interior-point-theorem"
+      },
+      {
+        "url": "https://arxiv.org/abs/2508.04602",
+        "role": "recent-open-conjecture-context"
+      }
+    ],
+    "discovery_records": [
+      "topp-0038"
+    ]
+  },
+  "equivalence_group": "compatible-point-set-triangulations"
+}

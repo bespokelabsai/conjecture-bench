@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-065",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.65 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Given a complex irreducible character χ ∈ Irr(G) of a finite group G, let Q(χ)\ndenote the field extension of Q obtained by adjoining to Q all the values of χ. We say\nthat a finite group G is k-rational if |Q(χ) : Q| divides k for every χ ∈ Irr(G). Does\nthere exist a real-valued function f such that if p is the order of a cyclic composition\nfactor of a k-rational group G, then p ⩽ f (k)?\n    If k = 1, then we know that p ⩽ 11 by a theorem of J. G. Thompson (J. Algebra,\n319 (2008), 558–594).                                                          A. Moretó",
+    "sha256": "590f269f715a4efa9cda68e368e5673a76dbccd0695293237efd6a9386eb03bb",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=153",
+    "source_locator": "Kourovka 20.65, main section, page 153",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0935",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "exists_magic_square_squares",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem exists_magic_square_squares :\n    answer(sorry) ↔ ∃ m : Fin 3 → Fin 3 → ℕ, ∃ t : ℕ,\n       m.Injective2 ∧\n       (∀ i j, 0 < (m i j) ∧ IsSquare (m i j)) ∧\n       (∀ i, ∑ j, m i j = t) ∧\n       (∀ j, ∑ i, m i j = t) ∧\n       m 0 0 + m 1 1 + m 2 2 = t ∧\n       m 0 2 + m 1 1 + m 2 0 = t",
+    "language_version": "Lean 4.27.0",
+    "sha256": "08dadea9d8a42483f2a10ebfa552690140b97df6c7eef5e8f63ee7ab366d7e0f",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/MagicSquares.lean#L39",
+    "source_locator": "FormalConjectures/Wikipedia/MagicSquares.lean:39#exists_magic_square_squares",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

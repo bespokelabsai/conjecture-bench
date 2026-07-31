@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-074",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.74 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For every prime p find a finite p-group of nilpotence class p such that its\nlattice of normal subgroups cannot be embedded into the subgroup lattice of any\nabelian group. (Solved for p = 2, 3.)                                   P. P. Pálfy",
+    "sha256": "b5845c0fd44e27ba618829cb29b3c8b8a4c6715f9f14d677eca9adf77355fe52",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=91",
+    "source_locator": "Kourovka 15.74, main section, page 91",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

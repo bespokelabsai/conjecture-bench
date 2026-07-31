@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-05-014",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 5.14 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "An intersection of some Sylow 2-subgroups is called a Sylow intersection and\nan intersection of a pair of Sylow 2-subgroups is called a paired Sylow intersection.\n   a) Describe the finite groups all of whose 2-local subgroups have odd indices.\n   b) Describe the finite groups all of whose normalizers of Sylow intersections have\nodd indices.\n   c) Describe the finite groups all of whose normalizers of paired Sylow intersections\nhave odd indices.\n   d) Describe the finite groups in which for any two Sylow 2-subgroups P and Q,\nthe intersection P ∩ Q is normal in some Sylow 2-subgroup of ⟨P, Q⟩.\n                                         V. V. Kabanov, A. A. Makhnëv, A. I. Starostin",
+    "sha256": "15d68935f6056e2c4e5305e42dfb53c9dcb209cdc2d4296d129b6047dbe6988f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=15",
+    "source_locator": "Kourovka 5.14, main section, page 15",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

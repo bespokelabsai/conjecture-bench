@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2584",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.75",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Given two distinct sets $P_1$ and $P_2$ of odd primes none of which is a subset of the other, is it true that $\\langle \\operatorname{CT}_{P_1}(\\mathbb Z),\\operatorname{CT}_{P_2}(\\mathbb Z)\\rangle \\lneq \\operatorname{CT}_{P_1\\cup P_2}(\\mathbb Z)$?",
+    "sha256": "aac7c6552834606afa4f34a1289bde54c78e41d2bb8a252287675b307760553d",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.75",
+    "source_locator": "dataset ID 2584; problem number KOU-21.75",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

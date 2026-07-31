@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3431",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "A conjecture about direct product of funcoids",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture Let $f_1$ and $f_2$ are monovalued, entirely defined funcoids with $\\operatorname{Src}f_1=\\operatorname{Src}f_2=A$. Then there exists a pointfree funcoid $f_1 \\times^{\\left( D \\right)} f_2$ such that (for every filter $x$ on $A$ ) $$\\left\\langle f_1 \\times^{\\left( D \\right)} f_2 \\right\\rangle x = \\bigcup \\left\\{ \\langle f_1\\rangle X \\times^{\\mathsf{FCD}} \\langle f_2\\rangle X \\hspace{1em} | \\hspace{1em} X \\in \\mathrm{atoms}^{\\mathfrak{A}} x \\right\\}.$$ (The join operation is taken on the lattice of filters with reversed order.)\n\nA positive solution of this problem may open a way to prove that some funcoids-related categories are cartesian closed.",
+    "sha256": "fc3e24d2453d85fa79308cef7f1c4c79ca215b53bf177e9d7729c23ac9fd1651",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-37540",
+    "source_locator": "dataset ID 3431; problem number OPG-37540",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

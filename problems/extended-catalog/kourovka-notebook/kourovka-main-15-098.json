@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-098",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.98 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let F be a saturated formation, and G a finite soluble minimal non-F-group\nsuch that GF is a Sylow p-subgroup of G. Is it true that GF is isomorphic to a factor\ngroup of the Sylow p-subgroup of P SU (3, p2n )? This is true for the formation of\nfinite nilpotent groups (V. D. Mazurov, S. A. Syskin, Math. Notes, 14, no. 2 (1973),\n683–686; A. Kh. Zhurtov, S. A. Syskin, Siberian Math. J., 26, no. 2 (1987), 235–239).\n                                                                        L. A. Shemetkov",
+    "sha256": "a481719c32ee628e92e2568c3f7c4e147419af54272f9d57e392755720af0292",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=94",
+    "source_locator": "Kourovka 15.98, main section, page 94",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

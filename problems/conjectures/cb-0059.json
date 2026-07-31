@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0059",
+  "slug": "alontarsi-latin-square-parity",
+  "title": "Alon–Tarsi Latin-square parity",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "For every positive even n, the numbers of even and odd Latin squares of order n are different.",
+  "counterexample": {
+    "description": "An even order \\(n\\) having equally many even and odd Latin squares. Equality needs an exact signed-count or determinant-coefficient certificate.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://ntt-review.jp/archive/ntttechnical.php?contents=ntr202409fa5.pdf&mode=show_pdf",
+        "role": "supporting"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0012365X19301372",
+        "role": "supporting"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0015",
+  "source_registry": "open-problems-project",
+  "title": "Output-sensitive Convex Hull in $\\R^d$",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "What is the best output-sensitive convex hull algorithm\nfor $n$ points in $\\R^d$?",
+    "sha256": "022e2bbd4d938fe65d351da04171f05d16e050f61db60813db8fa6471838c789",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p15",
+    "source_locator": "TOPP problem 15 (Problems/P.000015)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "convex hulls"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

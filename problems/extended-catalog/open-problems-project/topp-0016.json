@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0016",
+  "source_registry": "open-problems-project",
+  "title": "Simple Polygonalizations",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Can the number of simple polygonalizations of\na set of $n$ points in the plane be computed in polynomial time?\nA \\emph{simple polygonalization} is a\nsimple polygon whose vertices are the points.",
+    "sha256": "0e2d55998399a5f809822cd53936ebe8448228dbbcac36383ebd6e20d2cbf371",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p16",
+    "source_locator": "TOPP problem 16 (Problems/P.000016)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "point sets",
+      "polygons"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

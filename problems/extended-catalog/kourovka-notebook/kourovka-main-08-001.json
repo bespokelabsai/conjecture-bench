@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-08-001",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 8.1 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Characterize all groups (or at least all soluble groups) G and fields F such that\nevery irreducible F G-module has finite dimension over the centre of its endomorphism\nring. For some partial answers see (B. A. F. Wehrfritz, Glasgow Math. J., 24, no. 1\n(1983), 169–176).                                                    B. A. F. Wehrfritz",
+    "sha256": "36a5ac0f251e74f4c7e97ce80a2193122d0125a6335fcf051d611f1ef0265965",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=26",
+    "source_locator": "Kourovka 8.1, main section, page 26",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

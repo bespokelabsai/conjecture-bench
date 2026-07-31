@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-114",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.114 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does there exist an irreducible 5′ -subgroup G of GL(V ) for some finite F5 -\nspace V such that the number of conjugacy classes of the semidirect product V G is\nequal to |V | but G is not cyclic?\n   Such a subgroup exists if 5 is replaced by p = 2, 3 but does not exist for primes\np > 5 (J. Group Theory, 14 (2011), 175–199).                               P. Schmid",
+    "sha256": "ee54f15e0cca1435262e1fcda764da1a8642046b8fe531f51f4718885b142169",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=128",
+    "source_locator": "Kourovka 18.114, main section, page 128",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

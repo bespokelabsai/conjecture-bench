@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0170",
+  "slug": "brualdi-partial-transversal-conjecture",
+  "title": "Brualdi partial-transversal conjecture",
+  "field": "design-theory",
+  "statement": "Every Latin square of order n has a partial transversal of size n−1.",
+  "counterexample": {
+    "description": "A Latin square for which the maximum partial transversal has size at most n−2.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2310.19779",
+        "role": "supporting"
+      }
+    ]
+  }
+}

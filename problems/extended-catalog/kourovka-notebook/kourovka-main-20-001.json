@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-001",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.1 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For k ⩾ 1, a group G is said to be totally k-closed if in each of its faithful\npermutation representations, say on a set Ω, G is the largest subgroup of Sym(Ω)\nwhich leaves invariant each of the G-orbits in the induced action on the set of ordered\nk-tuples Ωk .\n   Are there any finite insoluble totally 2-closed groups with nontrivial Fitting sub-\ngroup?\n   The finite totally 2-closed groups which are either soluble or have trivial Fitting\nsubgroup are known.      M. Arezoomand, M. A. Iranmanesh, C. E. Praeger, G. Tracey",
+    "sha256": "d56a27a6bd8a1880acaefc556c2fa173577fb5591b3c5a087e728ec1119f39d2",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=144",
+    "source_locator": "Kourovka 20.1, main section, page 144",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

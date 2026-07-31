@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0454",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_750",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem erdos_750 :\n    answer(sorry) ↔ ∀ (f : ℕ → ℝ≥0) (hf : atTop.Tendsto f atTop),\n      ∃ (V : Type*) (G : SimpleGraph V), G.chromaticNumber = ⊤ ∧\n        ∀ (m : ℕ) (S : Set V), 0 < m → S.ncard = m →\n          ∃ I ⊆ S, G.IsIndepSet I ∧ m / 2 - f m ≤ I.ncard",
+    "language_version": "Lean 4.27.0",
+    "sha256": "a35f081b50f8af6eca6292dbba7cc514a8875fca2a82d4fdb03883acfd441954",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/750.lean#L40",
+    "source_locator": "FormalConjectures/ErdosProblems/750.lean:40#erdos_750",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

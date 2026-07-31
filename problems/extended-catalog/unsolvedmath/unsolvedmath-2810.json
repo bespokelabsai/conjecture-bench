@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2810",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.12",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) Considering all closed, orientable, $\\pi_1$-injective surfaces (possibly non-embedded) in all closed hyperbolic 3-manifolds, what is the infimum of the areas of all these surfaces?\n\n(b) One can ask the same question, but considering just closed, orientable, $\\pi_1$-injective surfaces of a fixed genus g.\n\n(c) One can also consider only closed, orientable, embedded $\\pi_1$-injective surfaces.\n\n(d) Alternatively, one can consider all closed, orientable, essential surfaces in all hyperbolic 3-manifolds M, allowing M not to be closed.",
+    "sha256": "6f73df336b785d602d78bcefa20b567c40fed78f5b6ef64d0cd11b8895bdb744",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.12",
+    "source_locator": "dataset ID 2810; problem number KP-3.12",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

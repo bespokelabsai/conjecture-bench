@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0134",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Smooth Surfaces Intersecting 2-planes",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $\\Gamma$ be a smooth codimension 2 surface in $\\mathbb{R}^n$. Must $\\Gamma$ intersect some 2-dimensional plane in 5 points, if $n$ is sufficiently large?",
+    "sha256": "0aeae8bbe622dff3dd4f906103312bb156d979f256b5329f67c5f8b90d56f298",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GREEN-046",
+    "source_locator": "dataset ID 134; problem number GREEN-046",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:geometry",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:green-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

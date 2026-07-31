@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-099",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.99 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Consider the group B = ⟨a, b | (bab−1 )a(bab−1 )−1 = a2 ⟩ introduced by\nBaumslag in 1969. The same relation is satisfied by the functions f (x) = 2x and\ng(x) = 2x under the operation of composition in the group of germs of monotonically\nincreasing to ∞ continuous functions on (0, ∞), where two functions are identified if\nthey coincide for all sufficiently large arguments. Is the representation a → f , b → g\nof the group B faithful?                                              A. Yu. Olshanskii\n  ∗ No, it is not (C.-F. Nyberg-Brodda, Preprint, 2026, https://arxiv.org/abs/\n2606.27408).",
+    "sha256": "148ce4283a1fd3be3dda5e94eeee2a39f9ec65453a64d8f0714ea29a2b935acb",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=112",
+    "source_locator": "Kourovka 17.99, main section, page 112",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-07-005",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 7.5 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "We say that a group is indecomposable if any two of its proper subgroups generate\na proper subgroup. Describe the indecomposable periodic metabelian groups.\n                                                                                V. V. Belyaev",
+    "sha256": "2c93e39a5d20736dda007c89eb51d1b30dd5fd6322130e10d3f5116c4090f25e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=22",
+    "source_locator": "Kourovka 7.5, main section, page 22",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

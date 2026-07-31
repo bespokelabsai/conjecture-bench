@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1884",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #14",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $A\\subseteq \\mathbb{N}$. Let $B\\subseteq \\mathbb{N}$ be the set of integers which are representable in exactly one way as the sum of two elements from $A$.\nIs it true that for all $\\epsilon>0$ and large $N$ $ \\lvert \\{1,\\ldots,N\\}\\backslash B\\rvert \\gg_\\epsilon N^{1/2-\\epsilon}? $ Is it possible that $ \\lvert \\{1,\\ldots,N\\}\\backslash B\\rvert =o(N^{1/2})? $ ",
+    "sha256": "969fa9408e1472034a0bcc1dc7a915cb11c89fb74b2fecd09846ffa1ef2ca7d8",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-14",
+    "source_locator": "dataset ID 1884; problem number EP-14",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

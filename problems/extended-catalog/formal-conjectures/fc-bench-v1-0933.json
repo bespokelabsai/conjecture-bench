@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0933",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "no_lychrel_numbers_base10",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem no_lychrel_numbers_base10 :\n    answer(sorry) ↔ ∀ n : ℕ, 0 < n → ¬ IsLychrel10 n",
+    "language_version": "Lean 4.27.0",
+    "sha256": "278520c6a07e7017970e627d7c7ee1d4fc4faf633b5c9090103007b3cfca4864",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/LychrelNumbers.lean#L69",
+    "source_locator": "FormalConjectures/Wikipedia/LychrelNumbers.lean:69#no_lychrel_numbers_base10",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

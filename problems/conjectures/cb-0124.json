@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0124",
+  "slug": "erdos-548-tree-embedding-edge-density",
+  "title": "Erdős problem #548: dense-graph tree embedding",
+  "field": "graph-theory",
+  "statement": "Every n-vertex graph with at least ((k−1)/2)n+1 edges contains every tree on k+1 vertices.",
+  "counterexample": {
+    "description": "Integers n,k, an n-vertex graph meeting the edge threshold, and a (k+1)-vertex tree that does not embed.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/548",
+        "role": "status"
+      }
+    ]
+  }
+}

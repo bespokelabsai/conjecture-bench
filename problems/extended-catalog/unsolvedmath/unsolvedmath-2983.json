@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2983",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.107",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problems about contact hypersurfaces:\n\n(a) Let (Y, $\\xi)$ be a contact manifold and $(\\mathbb{R} \\times Y, \\omega)$ its symplectization. Let f:Y $\\to \\mathbb{R} \\times Y$ be a smooth embedding such thatf induces an isomorphism on homology. When can we isotope f so that its image is a contact type hypersurface?\n\n(b) Special case: Is every embedded 3-sphere $Y \\subset (\\mathbb{R}^{4}, \\omega_{std})$ smoothly isotopic to a hypersurface of contact type?\n\n(c) Is there any contact rational homology sphere other than $(S^{3}, \\xi_{std})$ which embeds as a contact type hypersurface in $(\\mathbb{R}^{4}, \\omega_{std}))$?",
+    "sha256": "2712fd61a063e67793c4ee45b26f6337233d8f857419101cd79ca61d0a4e952c",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.107",
+    "source_locator": "dataset ID 2983; problem number KP-4.107",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

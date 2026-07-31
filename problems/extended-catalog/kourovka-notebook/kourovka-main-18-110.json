@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-110",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.110 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "The non-p-soluble length of a finite group G is the number of non-p-soluble\nfactors in a shortest normal series each of whose factors either is p-soluble or is a\ndirect product of non-abelian simple groups of order divisible by p. For a given prime\np and a given proper group variety V, is there a bound for the non-p-soluble length\nof finite groups whose Sylow p-subgroups belong to V?\n    Comment of 2021: the existence of such a bound is proved for p = 2 (F. Fumagalli,\nF. Leinen, O. Puglisi, Proc. London Math. Soc. (3), 125, no. 5 (2022), 1066–1082).\n                                                           E. I. Khukhro, P. Shumyatsky",
+    "sha256": "fdfc4bceeea342d968e8e6fe3ba3a773608932bfe0018a2fd4875a23b44ec7a3",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=128",
+    "source_locator": "Kourovka 18.110, main section, page 128",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

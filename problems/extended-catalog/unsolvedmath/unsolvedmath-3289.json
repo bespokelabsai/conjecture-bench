@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3289",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Multicolour Erdős--Hajnal Conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture For every fixed $k\\geq2$ and fixed colouring $\\chi$ of $E(K_k)$ with $m$ colours, there exists $\\varepsilon>0$ such that every colouring of the edges of $K_n$ contains either $k$ vertices whose edges are coloured according to $\\chi$ or $n^\\varepsilon$ vertices whose edges are coloured with at most $m-1$ colours.",
+    "sha256": "5a0738319f2983c7939e8b7d9d8c5ac6664269cf05bbb75dbbc6a256c5d6e70f",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-60042",
+    "source_locator": "dataset ID 3289; problem number OPG-60042",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

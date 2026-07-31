@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0222",
+  "slug": "oeis-a232174-two-prime-representation",
+  "title": "OEIS A232174 two-prime representation conjecture",
+  "field": "additive-number-theory",
+  "statement": "Every integer n>1 can be written as n=x+y with positive integers x,y such that x+ny and x²+ny² are both prime.",
+  "counterexample": {
+    "description": "An integer n>1 for which exhaustive checking of all positive splits n=x+y finds no split satisfying both prime conditions.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://oeis.org/A232174",
+        "role": "status-and-primary-index"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OEIS/232174.lean#L58",
+        "role": "formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0676"
+    ]
+  },
+  "equivalence_group": "sun-a232174-prime-pair-representation"
+}

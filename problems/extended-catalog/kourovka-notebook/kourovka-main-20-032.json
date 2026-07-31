@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-032",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.32 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(E. Rapaport Strasser). The Lovász conjecture states that a vertex-transitive\nconnected graph is Hamiltonian. In the special case of Cayley graphs, one can\nask the following. Consider a set A which generates a group G and is symmetric\n(x ∈ A implies x−1 ∈ A). Is there a list a1 , a2 , . . . , an of elements of A such that\na1 , a1 a2 , a1 a2 a3 , . . . , a1 a2 · · · an is a complete list of the elements of G? B. Green",
+    "sha256": "15a398c1ff89e4396e574121bd36c97c5429ebf6ad99be162db24fb0520f251e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=149",
+    "source_locator": "Kourovka 20.32, main section, page 149",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

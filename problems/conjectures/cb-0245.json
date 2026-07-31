@@ -1,0 +1,35 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0245",
+  "slug": "new-mersenne-conjecture",
+  "title": "New Mersenne conjecture",
+  "field": "number-theory",
+  "statement": "For every odd natural number p, if any two of these hold—2^p−1 is prime, (2^p+1)/3 is prime, or p=2^k±1 or 4^k±3 for some k—then all three hold.",
+  "counterexample": {
+    "description": "An odd p for which deterministic primality tests and exact special-form enumeration show that exactly two of the three conditions hold.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://mathworld.wolfram.com/NewMersennePrimeConjecture.html",
+        "role": "status-and-problem-source"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Mersenne.lean#L71",
+        "role": "formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0945",
+      "fc-bench-v1-0946"
+    ]
+  },
+  "equivalence_group": "new-mersenne-three-conditions"
+}

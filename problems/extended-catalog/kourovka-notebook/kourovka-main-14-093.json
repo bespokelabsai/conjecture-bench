@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-093",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.93 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let N (Z/pZ) be the group defined in Archive, 12.24 (the so-called “Notting-\nham group”, or the “Wild group”). Find relations of N (Z/pZ) as a pro-p-group (it\nhas two generators, e. g., x + x2 and x/(1 − x)). Comment of 2009: for p > 2 see\nprogress in (M. V. Ershov, J. London Math. Soc., 71 (2005), 362–378). I. B. Fesenko",
+    "sha256": "6b5f9a106c4bc6f1fbfab01dc7a45188605a179a935cf9fd9ccbe84cef530625",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=81",
+    "source_locator": "Kourovka 14.93, main section, page 81",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

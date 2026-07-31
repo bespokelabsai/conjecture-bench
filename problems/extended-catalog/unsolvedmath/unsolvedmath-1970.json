@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1970",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #168",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $F(N)$ be the size of the largest subset of $\\{1,\\ldots,N\\}$ which does not contain any set of the form $\\{n,2n,3n\\}$. What is $  \\lim_{N\\to \\infty}\\frac{F(N)}{N}? $ Is this limit irrational?",
+    "sha256": "89e9bca1f1723e8b7c0087d8ce94d812d75e7605591592f6d784ac27133ca8fb",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-168",
+    "source_locator": "dataset ID 1970; problem number EP-168",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

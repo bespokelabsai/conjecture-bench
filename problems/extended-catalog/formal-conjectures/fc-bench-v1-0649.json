@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0649",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "green_9_ii",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem green_9_ii : answer(sorry) ↔\n    ∃ c > (0 : ℝ), (fun (N : ℕ) ↦ (r 5 N : ℝ))\n      ≪ fun (N : ℕ) ↦ (N : ℝ) * (Real.log N) ^ (-c)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "ce8f0cb7fef3659ba7392a00f914f14992a6cd87318f23ce6df3a1713e64ab18",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/9.lean#L51",
+    "source_locator": "FormalConjectures/GreensOpenProblems/9.lean:51#green_9_ii",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

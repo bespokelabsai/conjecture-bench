@@ -1,0 +1,46 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0288",
+  "slug": "berge-strong-path-partition",
+  "title": "Berge’s strong path-partition conjecture",
+  "field": "directed-graph-theory-and-coloring",
+  "statement": "Let D be a finite loopless digraph and k a positive integer. Define the k-norm of a path partition Π by |Π|ₖ=Σ_{P∈Π} min(|V(P)|,k). Every path partition of minimum k-norm has an orthogonal partial k-coloring: k pairwise disjoint stable sets of the underlying graph such that each P∈Π meets min(|V(P)|,k) distinct color classes.",
+  "counterexample": {
+    "description": "A loopless digraph and a provided 3-optimal directed-path partition for which exhaustive search proves that no partial 3-coloring is orthogonal to that partition. A complete check independently recomputes path feasibility, minimum 3-norm, and the full coloring obstruction.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/open/Berge%27s_conjecture_on_path_partitions",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Berge%27s_conjecture_on_path_partitions&oldid=2013",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.disc.2005.12.039",
+        "role": "survey-and-partial-results"
+      },
+      {
+        "url": "https://arxiv.org/abs/1708.06691",
+        "role": "2017-open-formulation-and-special-classes"
+      },
+      {
+        "url": "https://arxiv.org/abs/2603.17115",
+        "role": "2026-related-open-status-and-relaxations"
+      }
+    ],
+    "discovery_records": [
+      "egres-0043"
+    ]
+  },
+  "equivalence_group": "berge-strong-path-partition"
+}

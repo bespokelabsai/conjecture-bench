@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0941",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "density_of_hyperbolicity_general_exponent",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 37]\ntheorem density_of_hyperbolicity_general_exponent {n : ℕ} (hn : 2 ≤ n) :\n    multibrotSet n ⊆ closure {c | ∃ m z, IsAttractingCycle (fun z ↦ z ^ n + c) m z}",
+    "language_version": "Lean 4.27.0",
+    "sha256": "a1bee49744c06c433e2742cb597d59388506e041b15cbf7fb2719f0a0327ab1c",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Mandelbrot.lean#L151",
+    "source_locator": "FormalConjectures/Wikipedia/Mandelbrot.lean:151#density_of_hyperbolicity_general_exponent",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-37"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

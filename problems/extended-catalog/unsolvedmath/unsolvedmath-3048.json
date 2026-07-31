@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3048",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Sequence defined on multisets",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture Define a $2 \\times n$ array of positive integers where the first row consists of some distinct positive integers arranged in increasing order, and the second row consists of any positive integers in any order. Create a new array where the first row consists of all the integers that occur in the first array, arranged in increasing order, and the second row consists of their multiplicities. Repeat the process. For example, starting with the array $[1; 1]$, the sequence is: $[1; 1]$-> $[1; 2]$-> $[1, 2; 1, 1]$-> $[1, 2; 3, 1]$-> $[1, 2, 3; 2, 1, 1]$-> $[1, 2, 3; 3, 2, 1]$-> $[1, 2, 3; 2, 2, 2]$-> $[1, 2, 3; 1, 4, 1]$-> $[1, 2, 3, 4; 3, 1, 1, 1]$-> $[1, 2, 3, 4; 4, 1, 2, 1]$-> $[1, 2, 3, 4; 3, 2, 1, 2]$-> $[1, 2, 3, 4; 2, 3, 2, 1]$, and we now have a fixed point (loop of one array).\n\nThe process always results in a loop of 1, 2, or 3 arrays.",
+    "sha256": "7dd60927848ca40f9028ba4d3cfd3ccde781fe76464f043ee8708f7f8f13ae40",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-37226",
+    "source_locator": "dataset ID 3048; problem number OPG-37226",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

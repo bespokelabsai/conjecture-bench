@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-07-058",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 7.58 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that F is an absolutely free group, R a normal subgroup of F , and\nlet V be a variety of groups. It is well-known (H. Neumann, Varieties of Groups,\nSpringer, Berlin, 1967) that the group F/V(R) is isomorphically embeddable in the\nV-verbal wreath product of a V-free group of the same rank as F with F/R. Find\na criterion indicating which elements of this wreath product belong to the image of\nthis embedding. A criterion is known in the case where V is the variety of all abelian\ngroups (V. N. Remeslennikov, V. G. Sokolov, Algebra and Logic, 9, no. 5 (1970), 342–\n349).                                                                 G. G. Yabanzhi",
+    "sha256": "6452f7233558f774c1a06710e77a1be68c8b7be44aac43d073a1156e77202f79",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=25",
+    "source_locator": "Kourovka 7.58, main section, page 25",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2202",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #597",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $G$ be a graph on at most $\\aleph_1$ vertices which contains no $K_4$ and no $K_{\\aleph_0,\\aleph_0}$ (the complete bipartite graph with $\\aleph_0$ vertices in each class). Is it true that $ \\omega_1^2 \\to (\\omega_1\\omega, G)^2? $ What about finite $G$?",
+    "sha256": "e1ddf1133624eeab985539248adeddfdadad03460489fd79792a33d2faffbaed",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-597",
+    "source_locator": "dataset ID 2202; problem number EP-597",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

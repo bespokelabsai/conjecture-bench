@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3337",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Fixed-point logic with counting",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Question Can either of the following be expressed in fixed-point logic plus counting:\n\n- Given a graph, does it have a perfect matching, i.e., a set $M$ of edges such that every vertex is incident to exactly one edge from $M$?\n- Given a square matrix over a finite field (regarded as a structure in the natural way, as described in [BGS02]), what is its determinant?",
+    "sha256": "486f9af9b5ea5c4d6078688f0cea4f8cf2b1911382a9391fe949e1a567273aa0",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-37424",
+    "source_locator": "dataset ID 3337; problem number OPG-37424",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:logic",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

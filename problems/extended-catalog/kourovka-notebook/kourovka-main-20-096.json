@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-096",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.96 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is a periodic group a Frobenius group if it has a proper non-trivial normal\nabelian subgroup that contains the centralizer of each of its non-identity elements?\n                                                                            A. I. Sozutov\n  ∗ Yes, it is (D. V. Lytkina, V. D. Mazurov, Siberian Math. J., 64, no. 6 (2023), 1350–\n1353).",
+    "sha256": "867536a0f87a5719d964c5f493cae9db4dee41605b249158c558674edcb003c9",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=158",
+    "source_locator": "Kourovka 20.96, main section, page 158",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

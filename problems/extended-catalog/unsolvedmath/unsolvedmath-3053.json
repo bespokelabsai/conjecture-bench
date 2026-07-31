@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3053",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "The Double Cap Conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture The largest measure of a Lebesgue measurable subset of the unit sphere of $\\mathbb{R}^n$ containing no pair of orthogonal vectors is attained by two open caps of geodesic radius $\\pi/4$ around the north and south poles.",
+    "sha256": "c09f898b1df8c6b2e1451b5f879721e0f0f79e5d1b4e47d61e289c6e2d6416eb",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-60000",
+    "source_locator": "dataset ID 3053; problem number OPG-60000",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

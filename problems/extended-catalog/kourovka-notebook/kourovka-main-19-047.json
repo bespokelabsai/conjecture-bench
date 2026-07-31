@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-047",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.47 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let K be a finite extension of degree n of a field k of odd characteristic.\nThe multiplicative group K ∗ embeds into the group of all k-linear automorphisms\nAutk (K) by the rule t(x) = tx for all x ∈ K. For a fixed basis of K over k, the group\nAutk (K) is isomorphic to GL(n, k). The image of K ∗ is called a nonsplit maximal\ntorus corresponding to the extension K/k and is denoted by T (K/k). A subgroup of\nGL(n, k) is said to be rich in transvections if it contains all elementary transvections.\n   Let H be a subgroup of GL(n, k) which contains T (K/k) and a one-dimensional\ntransformation. Is H rich in transvections?                                V. A. Koı̆baev",
+    "sha256": "a5eaec365279a14c2ad241b2bccaf69535b8fcc10f738245d941ef3589871809",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=136",
+    "source_locator": "Kourovka 19.47, main section, page 136",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0200",
+  "slug": "singer-l2-cohomology-conjecture",
+  "title": "Singer L²-cohomology conjecture",
+  "field": "geometric-topology",
+  "statement": "The reduced L²-homology of the universal cover of a closed aspherical n-manifold vanishes outside the middle dimension.",
+  "counterexample": {
+    "description": "A finite aspherical closed-manifold complex with a certified nonzero off-middle L²-Betti number.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2311.17830",
+        "role": "supporting"
+      }
+    ]
+  }
+}

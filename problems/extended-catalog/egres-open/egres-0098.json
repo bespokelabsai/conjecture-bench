@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0098",
+  "source_registry": "egres-open",
+  "title": "Maximum weight k-element subsets of perfect matchings",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Given a bipartite graph ''G'' with edge weights, can we find in polynomial time a maximum weight ''k''-element matching in ''G'' that can be extended to a perfect matching?",
+    "sha256": "741181d4aa40d41987e15903739359d0e1afd57b013f6b43f3c1753f4f60ab64",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2015-07-01T17:36:29Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Maximum_weight_k-element_subsets_of_perfect_matchings&oldid=1845",
+    "source_locator": "EGRES page 98, revision 1845",
+    "source_sha256": "fbf9e51f61caf036d366bce08f13027d857224366b768a301352cbe87a75edb3",
+    "tags": [
+      "combinatorial-optimization",
+      "Matchings",
+      "Matroids"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

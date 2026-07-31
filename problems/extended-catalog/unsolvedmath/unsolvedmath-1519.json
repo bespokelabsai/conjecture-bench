@@ -1,0 +1,36 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1519",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Hardy-Littlewood Conjecture F (Primes in Quadratic Polynomials)",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For a polynomial $f(x) = ax^2 + bx + c$ with $a > 0$, $\\gcd(a,b,c) = 1$, and discriminant $\\Delta = b^2 - 4ac$ not a perfect square, the polynomial takes infinitely many prime values. Furthermore, the number $P(n)$ of primes of the form $f(x) \\leq n$ satisfies an asymptotic formula $P(n) \\sim A \\cdot \\frac{\\sqrt{n}}{\\log n}$ where $A$ depends on $a, b, c$ but not on $n$.",
+    "sha256": "56dc5221273a39bb53a840b0ff9095e6ca36055c98a8dd79d9fa23c9c5e0ae42",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/HL-F",
+    "source_locator": "dataset ID 1519; problem number HL-F",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L4",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-011",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.11 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Yu. I. Merzlyakov). It is a well-known fact that for the ring R = Q[x, y] the\nelementary group E2 (R) is distinct from SL2 (R). Find a minimal subset A ⊆ SL2 (R)\nsuch that ⟨E2 (R), A⟩ = SL2 (R).                                      V. G. Bardakov",
+    "sha256": "00aeff446e1f9b95bd3bcfd65f1a321c0f78503de24df8fbec27c034e3886b9d",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=73",
+    "source_locator": "Kourovka 14.11, main section, page 73",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

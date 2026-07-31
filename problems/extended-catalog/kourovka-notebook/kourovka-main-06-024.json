@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-06-024",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 6.24 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "The membership problem for the braid group on four strings. It is known\n(T. A. Makanina, Math. Notes, 29, no. 1 (1981), 16–17) that the membership problem\nis undecidable for braid groups with more than four strings.         G. S. Makanin",
+    "sha256": "f89e0661ebd1c94b43d78aee5a714791b6aec398a6f33900ec3aca4d87e59ce2",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=19",
+    "source_locator": "Kourovka 6.24, main section, page 19",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

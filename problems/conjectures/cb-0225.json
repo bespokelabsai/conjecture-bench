@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0225",
+  "slug": "oeis-a303656-squares-powers-three-five",
+  "title": "OEIS A303656 squares-and-powers conjecture",
+  "field": "additive-number-theory",
+  "statement": "Every integer n>1 can be written as n=a²+b²+3^c+5^d for nonnegative integers a,b,c,d.",
+  "counterexample": {
+    "description": "An integer n>1 outside the exact sumset of two squares, a nonnegative power of three, and a nonnegative power of five.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://oeis.org/A303656",
+        "role": "status-and-primary-index"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OEIS/303656.lean#L61",
+        "role": "formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0681"
+    ]
+  },
+  "equivalence_group": "sun-a303656-squares-powers"
+}

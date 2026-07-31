@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-098",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.98 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a group of permutations of the set of positive integers N isomorphic\nto the additive group of rational numbers. Must there be an element g ∈ G such that\nthe set {a − ag | a ∈ N} is infinite?                                 N. M. Suchkov\n  ∗ Yes, it must (N. M. Suchkov, A. A. Shlepkin, D. A. Taysnyov, Siberian Math. J.,\n65 (2024), 1390–1394).",
+    "sha256": "4b0d7eef00046a091a52aaaeb6362c5b29470b2660d1c5997992d9755562ce4b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=159",
+    "source_locator": "Kourovka 20.98, main section, page 159",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0960",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "pollock_tetrahedral",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem pollock_tetrahedral (N : ℕ) :\n    ∃ f : Fin 5 → ℕ, N = ∑ i, tetrahedral (f i)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "95517b9a0087ecebf8d1434206ae593872bde668f18ae261d950696dbe8a5bd4",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/PollocksConjecture.lean#L55",
+    "source_locator": "FormalConjectures/Wikipedia/PollocksConjecture.lean:55#pollock_tetrahedral",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0216"
+  ]
+}

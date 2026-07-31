@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-023",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.23 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is there, for some n > 2 and a ring A with 1, a matrix in En (A) that is\nnonscalar modulo any proper ideal and is not a commutator?        L. Vaserstein",
+    "sha256": "1743a901579962ef58ec082617e43b598de4257a506214b3621f5f8c756be428",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=97",
+    "source_locator": "Kourovka 16.23, main section, page 97",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

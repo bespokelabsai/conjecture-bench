@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0873",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "two_pow_three_pow_transcendental",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem two_pow_three_pow_transcendental (t : ℝ) (h : Irrational t) :\n    Transcendental ℚ (2 ^ t : ℝ) ∨ Transcendental ℚ (3 ^ t : ℝ)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "3bd00af4efbb0864c7643362856d2f2325f1d5824494b028506ef35665263a22",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Exponentials.lean#L44",
+    "source_locator": "FormalConjectures/Wikipedia/Exponentials.lean:44#two_pow_three_pow_transcendental",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

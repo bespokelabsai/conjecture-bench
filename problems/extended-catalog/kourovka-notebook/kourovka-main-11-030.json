@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-030",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.30 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that the rank of a torsion-free soluble group is equal to the rank\nof any of its subgroups of finite index? The answer is affirmative for groups having\na rational series (D. I. Zaitsev, in: Groups with restrictions on subgroups, Naukova\ndumka, Kiev, 1971, 115–130 (Russian)). We note also that every torsion-free soluble\ngroup of finite rank contains a subgroup of finite index which has a rational series.\n                                                                             D. I. Zaitsev",
+    "sha256": "4dedecc83cb4572d0c9c9edf2c990c843819b8eada74e5c025e1d6a660e79961",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=48",
+    "source_locator": "Kourovka 11.30, main section, page 48",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

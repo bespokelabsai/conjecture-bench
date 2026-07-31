@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use ConjectureBench, please cite it using this metadata."
+title: "ConjectureBench: A Curated Collection of Open Mathematics Problems"
+type: dataset
+authors:
+  - given-names: Anirudha
+    family-names: Ramesh
+    affiliation: Bespoke Labs
+  - given-names: Shreyas
+    family-names: Pimpalgaonkar
+    affiliation: Bespoke Labs
+repository-code: "https://github.com/bespokelabsai/conjecture-bench"
+url: "https://github.com/bespokelabsai/conjecture-bench"
+license: CC-BY-4.0
+keywords:
+  - mathematics
+  - open problems
+  - conjectures
+  - dataset

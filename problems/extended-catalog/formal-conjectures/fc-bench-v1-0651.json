@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0651",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "green_94",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 28]\ntheorem green_94 :\n   answer(sorry) ↔ ∀ A : Set ℝ,\n   MeasurableSet A ∧ volume A > 0 →\n   ∃ a b : ℝ, a ≠ 0 ∧ ∀ n : ℕ, a * (1 / 2^n) + b ∈ A",
+    "language_version": "Lean 4.27.0",
+    "sha256": "f7aa234cb8a2e6b94d259d7cbed9ea17291b3e81dddff1a414a8ef2f6f70ee4b",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/94.lean#L46",
+    "source_locator": "FormalConjectures/GreensOpenProblems/94.lean:46#green_94",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-28"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

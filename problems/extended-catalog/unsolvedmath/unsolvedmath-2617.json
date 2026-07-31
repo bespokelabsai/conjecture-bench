@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2617",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.108",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For a finite group $G$ let $\\operatorname{Cod}(G)$ denote the set of irreducible character codegrees of $G$ (see 20.78). Define $\\sigma(G)=\\max\\{|\\pi(m)|:m\\in\\operatorname{Cod}(G)\\}$, where $\\pi(m)$ denotes the set of prime divisors of an integer $m$. Can the constant $k$ be taken as 4?",
+    "sha256": "479bb236eae58abe69d8b998a6cc496d94631fedd6e159ed05151b4a1c1ffa76",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.108",
+    "source_locator": "dataset ID 2617; problem number KOU-21.108",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

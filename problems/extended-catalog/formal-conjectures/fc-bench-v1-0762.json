@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0762",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "growthRateZn",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem growthRateZn : answer(sorry) ↔\n    Filter.Tendsto (fun n => (1 : ℝ) / n * Real.log (z n / n.factorial)) Filter.atTop\n      (nhds (-1))",
+    "language_version": "Lean 4.27.0",
+    "sha256": "fde73df3a847a1b3d5d9a88bf74406ee79bb4d7b41dce7b10f84c9c41ec8d806",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Paper/LatinSquare.lean#L121",
+    "source_locator": "FormalConjectures/Paper/LatinSquare.lean:121#growthRateZn",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Paper",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

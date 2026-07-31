@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-080",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.80 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a finite group, and χ an irreducible complex character of G. We call\nχ a P-character if χ is a constituent of (1H )G for some maximal subgroup H of G;\nand χ is said to be monomial if χ is induced by a linear character of a subgroup of G.\n   Conjecture: G is solvable if and only if all its P-characters are monomial.\n   The necessity part of the conjecture is true (G. Qian, Y. Yang, Commun. Algebra,\n46, no. 1 (2018), 167–175).                                                   G. Qian",
+    "sha256": "264dfa501f22589b35ec944690d522040c95316f5e21305159c54194b203d47a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=155",
+    "source_locator": "Kourovka 20.80, main section, page 155",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

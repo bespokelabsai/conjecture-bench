@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0474",
+  "source_registry": "egres-open",
+  "title": "Rota's conjecture on disjoint bases",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let <math>M</math> be a matroid of rank ''n'' whose ground set ''S'' can be partitioned into ''n'' disjoint bases <math>B_1,\\dots,B_n</math>. Is it true that <math>B_1,\\dots,B_n</math> always have ''n'' disjoint transversals that are bases of <math>M</math>?",
+    "sha256": "e0cc44fa74048d2654a862ef0da01aa2f68c31a1abc1fc8d7dc7c3df054e8556",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2018-10-19T16:33:25Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Rota's_conjecture_on_disjoint_bases&oldid=2439",
+    "source_locator": "EGRES page 474, revision 2439",
+    "source_sha256": "ebb87d0486ef30b93e18c861443b3d9f7b77080242d57b085d210dc461a9dbb2",
+    "tags": [
+      "combinatorial-optimization",
+      "Matroids",
+      "Packing common bases"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0112"
+  ]
+}

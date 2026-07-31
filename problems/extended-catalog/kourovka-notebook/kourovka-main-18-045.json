@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-045",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.45 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a finite p-group of maximal class such that all its irreducible charac-\nters are induced from linear characters of normal subgroups. Let S be the set of the\nderived subgroups of the members of the central series of G. Is there a logarithmic\nbound for the derived length of G in terms of |S|?                         T. M. Keller",
+    "sha256": "2990c93b1d59f78c57562ed7439019cc8b16d81ceca0fa0fc91d8219b479bd10",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=120",
+    "source_locator": "Kourovka 18.45, main section, page 120",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

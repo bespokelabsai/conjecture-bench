@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0173",
+  "slug": "graham-graph-pebbling-product-conjecture",
+  "title": "Graham graph-pebbling product conjecture",
+  "field": "graph-theory",
+  "statement": "For all finite connected graphs G,H, the pebbling number of G□H is at most the product of the pebbling numbers of G and H.",
+  "counterexample": {
+    "description": "Finite connected graphs G,H, a target in G□H, and an unsolvable configuration containing exactly π(G)π(H) pebbles.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1016/j.tcs.2019.11.033",
+        "role": "supporting"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0012365X2500127X",
+        "role": "status"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0954"
+    ]
+  }
+}

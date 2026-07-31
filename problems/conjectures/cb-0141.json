@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0141",
+  "slug": "erdos-475-distinct-partial-sums",
+  "title": "Erdős problem #475: distinct partial sums in finite fields",
+  "field": "additive-combinatorics",
+  "statement": "Every finite nonzero subset of a prime field has an ordering with all partial sums distinct.",
+  "counterexample": {
+    "description": "A prime p and a sorted nonzero subset A of F_p for which exact exhaustive search proves that every ordering repeats one of its nonempty partial sums.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/475",
+        "role": "status"
+      },
+      {
+        "url": "https://arxiv.org/abs/2003.05939",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "graham-distinct-partial-sums-prime-fields"
+}

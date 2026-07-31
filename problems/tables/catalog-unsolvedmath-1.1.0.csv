@@ -1,0 +1,2076 @@
+id,kind,title,source,family,status
+unsolvedmath-0001,catalog,P versus NP Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-0002,catalog,The Riemann Hypothesis,unsolvedmath-1.1.0,,open
+unsolvedmath-0003,catalog,Yang–Mills Existence and Mass Gap,unsolvedmath-1.1.0,,open
+unsolvedmath-0004,catalog,Navier–Stokes Existence and Smoothness,unsolvedmath-1.1.0,,open
+unsolvedmath-0005,catalog,Birch and Swinnerton-Dyer Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0006,catalog,Hodge Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0008,catalog,Odd Perfect Numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-0009,catalog,Collatz Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0010,catalog,The Hadwiger-Nelson Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-0011,catalog,Twin Prime Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0012,catalog,Goldbach's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0013,catalog,ABC Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0014,catalog,Hadwiger Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0015,catalog,Reconstruction Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0018,catalog,Smooth 4-Dimensional Poincaré Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0019,catalog,Sphere Packing in Higher Dimensions,unsolvedmath-1.1.0,,open
+unsolvedmath-0020,catalog,Inverse Galois Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-0021,catalog,Kaplansky's Conjectures,unsolvedmath-1.1.0,,open
+unsolvedmath-0022,catalog,Continuum Hypothesis,unsolvedmath-1.1.0,,open
+unsolvedmath-0025,catalog,Legendre's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0026,catalog,Are there infinitely many Mersenne primes?,unsolvedmath-1.1.0,,open
+unsolvedmath-0027,catalog,Are there infinitely many perfect powers in the Fibonacci sequence?,unsolvedmath-1.1.0,,open
+unsolvedmath-0028,catalog,Gilbreath's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0029,catalog,"Ramsey Number R(5,5)",unsolvedmath-1.1.0,,open
+unsolvedmath-0030,catalog,The Lonely Runner Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0031,catalog,The Graceful Tree Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0032,catalog,The Kakeya Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0033,catalog,The Moving Sofa Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-0034,catalog,The Volume Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0036,catalog,The Standard Conjectures on Algebraic Cycles,unsolvedmath-1.1.0,,open
+unsolvedmath-0037,catalog,The Abundance Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0038,catalog,The Köthe Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0040,catalog,The Regularity Problem for Euler Equations,unsolvedmath-1.1.0,,open
+unsolvedmath-0041,catalog,Singular Cardinals Hypothesis,unsolvedmath-1.1.0,,open
+unsolvedmath-0042,catalog,Whitehead Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-0043,catalog,The Unique Games Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0044,catalog,The Polynomial Hirsch Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0045,catalog,Hilbert's 12th Problem: Extension of Kronecker-Weber Theorem,unsolvedmath-1.1.0,,open
+unsolvedmath-0046,catalog,Hilbert's 16th Problem: Topology of Algebraic Curves and Limit Cycles,unsolvedmath-1.1.0,,open
+unsolvedmath-0047,catalog,Landau's Fourth Problem: Primes of the Form n² + 1,unsolvedmath-1.1.0,,open
+unsolvedmath-0048,catalog,Smale's 4th Problem: Integer Zeros of Polynomials,unsolvedmath-1.1.0,,open
+unsolvedmath-0049,catalog,Smale's 5th Problem: Height Bounds for Diophantine Curves,unsolvedmath-1.1.0,,open
+unsolvedmath-0050,catalog,Smale's 6th Problem: Finiteness of Central Configurations,unsolvedmath-1.1.0,,open
+unsolvedmath-0051,catalog,Smale's 7th Problem: Distribution of Points on the 2-Sphere,unsolvedmath-1.1.0,,open
+unsolvedmath-0052,catalog,Smale's 9th Problem: Linear Programming in Polynomial Time,unsolvedmath-1.1.0,,open
+unsolvedmath-0053,catalog,Smale's 10th Problem: The Pugh Closing Lemma,unsolvedmath-1.1.0,,open
+unsolvedmath-0054,catalog,The Jacobian Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0055,catalog,Frankl's Union-Closed Sets Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0056,catalog,Inscribed Square Problem (Toeplitz Conjecture),unsolvedmath-1.1.0,,open
+unsolvedmath-0057,catalog,Brocard's Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-0059,catalog,The Cycle Double Cover Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0060,catalog,The Erdős-Straus Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0061,catalog,Hilbert's 6th Problem: Axiomatization of Physics,unsolvedmath-1.1.0,,open
+unsolvedmath-0062,catalog,Hilbert's 13th Problem: Seventh Degree Equations,unsolvedmath-1.1.0,,open
+unsolvedmath-0064,catalog,Smale's 12th Problem: Centralizers of Diffeomorphisms,unsolvedmath-1.1.0,,open
+unsolvedmath-0066,catalog,The Dynamics of Networks,unsolvedmath-1.1.0,,open
+unsolvedmath-0068,catalog,21st Century Fluids,unsolvedmath-1.1.0,,open
+unsolvedmath-0069,catalog,Biological Quantum Field Theory,unsolvedmath-1.1.0,,open
+unsolvedmath-0070,catalog,Beyond Convex Optimization,unsolvedmath-1.1.0,,open
+unsolvedmath-0071,catalog,Mathematics of Quantum Computing,unsolvedmath-1.1.0,,open
+unsolvedmath-0072,catalog,Game Theory at Scale,unsolvedmath-1.1.0,,open
+unsolvedmath-0074,catalog,Computation at Scale,unsolvedmath-1.1.0,,open
+unsolvedmath-0075,catalog,Fundamental Laws of Biology,unsolvedmath-1.1.0,,open
+unsolvedmath-0076,catalog,Computational Duality,unsolvedmath-1.1.0,,open
+unsolvedmath-0077,catalog,Occam's Razor in Many Dimensions,unsolvedmath-1.1.0,,open
+unsolvedmath-0078,catalog,Physical Consequences of Perelman's Proof,unsolvedmath-1.1.0,,open
+unsolvedmath-0079,catalog,Algorithmic Origami and Biology,unsolvedmath-1.1.0,,open
+unsolvedmath-0080,catalog,Optimal Nanostructures,unsolvedmath-1.1.0,,open
+unsolvedmath-0081,catalog,The Geometry of Genome Space,unsolvedmath-1.1.0,,open
+unsolvedmath-0082,catalog,Symmetries and Action Principles for Biology,unsolvedmath-1.1.0,,open
+unsolvedmath-0083,catalog,Geometric Langlands and Quantum Physics,unsolvedmath-1.1.0,,open
+unsolvedmath-0084,catalog,"Arithmetic Langlands, Topology, and Geometry",unsolvedmath-1.1.0,,open
+unsolvedmath-0085,catalog,Hilbert's 7th Problem: Transcendence of Certain Numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-0086,catalog,Hilbert's 9th Problem: Reciprocity Laws,unsolvedmath-1.1.0,,open
+unsolvedmath-0087,catalog,Hilbert's 11th Problem: Quadratic Forms over Algebraic Number Fields,unsolvedmath-1.1.0,,open
+unsolvedmath-0088,catalog,Hilbert's 14th Problem: Finite Generation of Rings,unsolvedmath-1.1.0,,open
+unsolvedmath-0089,catalog,Hilbert's 15th Problem: Schubert's Enumerative Calculus,unsolvedmath-1.1.0,,open
+unsolvedmath-0090,catalog,Hilbert's 17th Problem: Expression of Definite Forms,unsolvedmath-1.1.0,,open
+unsolvedmath-0091,catalog,Hilbert's 18th Problem: Polyhedra and Space-Filling,unsolvedmath-1.1.0,,open
+unsolvedmath-0092,catalog,Large Sum-Free Sets,unsolvedmath-1.1.0,,open
+unsolvedmath-0093,catalog,Restricted Sumset Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-0095,catalog,Product-Free Sets in Finite Groups,unsolvedmath-1.1.0,,open
+unsolvedmath-0096,catalog,Ulam's Sequence,unsolvedmath-1.1.0,,open
+unsolvedmath-0097,catalog,Almost Sum-Free Sets,unsolvedmath-1.1.0,,open
+unsolvedmath-0098,catalog,Sum-Free Subsets of [N]^d,unsolvedmath-1.1.0,,open
+unsolvedmath-0099,catalog,Progressions in Subsets of Z/NZ,unsolvedmath-1.1.0,,open
+unsolvedmath-0100,catalog,Roth's Theorem with Random Common Differences,unsolvedmath-1.1.0,,open
+unsolvedmath-0102,catalog,Tuples in Dense Sets,unsolvedmath-1.1.0,,open
+unsolvedmath-0103,catalog,4-term APs in Fourier Uniform Sets,unsolvedmath-1.1.0,,open
+unsolvedmath-0104,catalog,Lipschitz AP-Free Graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-0105,catalog,Linear Equation x + 3y = 2z + 2w,unsolvedmath-1.1.0,,open
+unsolvedmath-0106,catalog,Progressions in F_3^n with Boolean Common Differences,unsolvedmath-1.1.0,,open
+unsolvedmath-0107,catalog,Corner Problem in Product Sets,unsolvedmath-1.1.0,,open
+unsolvedmath-0108,catalog,Multidimensional Szemerédi Theorem Bounds,unsolvedmath-1.1.0,,open
+unsolvedmath-0109,catalog,Large Sieve and Quadratic Sets,unsolvedmath-1.1.0,,open
+unsolvedmath-0110,catalog,Small Sieve Maximal Sets,unsolvedmath-1.1.0,,open
+unsolvedmath-0111,catalog,Large Cosets in Iterated Sumsets,unsolvedmath-1.1.0,,open
+unsolvedmath-0112,catalog,Largest Coset in 2A,unsolvedmath-1.1.0,,open
+unsolvedmath-0113,catalog,Additive Complements and Cosets,unsolvedmath-1.1.0,,open
+unsolvedmath-0114,catalog,Partitions and Large Cosets,unsolvedmath-1.1.0,,open
+unsolvedmath-0116,catalog,Gowers Box Norms over Finite Fields,unsolvedmath-1.1.0,,open
+unsolvedmath-0117,catalog,Inverse Theorem for Gowers Norms,unsolvedmath-1.1.0,,open
+unsolvedmath-0118,catalog,Φ(G) and Φ'(G) Coincidence,unsolvedmath-1.1.0,,open
+unsolvedmath-0119,catalog,Sumsets Containing Composites,unsolvedmath-1.1.0,,open
+unsolvedmath-0120,catalog,Sums of Smooth Numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-0121,catalog,Sumsets of Perfect Squares,unsolvedmath-1.1.0,,open
+unsolvedmath-0122,catalog,Covering Squares with Sumsets,unsolvedmath-1.1.0,,open
+unsolvedmath-0123,catalog,Products of Primes Modulo p,unsolvedmath-1.1.0,,open
+unsolvedmath-0124,catalog,Multiplicatively Closed Set Density,unsolvedmath-1.1.0,,open
+unsolvedmath-0125,catalog,Primes with p-2 Having Odd Omega,unsolvedmath-1.1.0,,open
+unsolvedmath-0126,catalog,Difference Sets Containing Squares,unsolvedmath-1.1.0,,open
+unsolvedmath-0127,catalog,Gaps Between Sums of Two Squares,unsolvedmath-1.1.0,,open
+unsolvedmath-0128,catalog,Waring's Problem Over Finite Fields,unsolvedmath-1.1.0,,open
+unsolvedmath-0129,catalog,Cubic Curves in F_p^2,unsolvedmath-1.1.0,,open
+unsolvedmath-0130,catalog,Collinear Triples and Cubic Curves,unsolvedmath-1.1.0,,open
+unsolvedmath-0131,catalog,Erdős-Szekeres with Visibility,unsolvedmath-1.1.0,,open
+unsolvedmath-0132,catalog,Collinear 4-tuples Force Collinear 5-tuples,unsolvedmath-1.1.0,,open
+unsolvedmath-0133,catalog,No Three in Line in [N]^2,unsolvedmath-1.1.0,,open
+unsolvedmath-0134,catalog,Smooth Surfaces Intersecting 2-planes,unsolvedmath-1.1.0,,open
+unsolvedmath-0135,catalog,No 5 Points on 2-plane in [N]^d,unsolvedmath-1.1.0,,open
+unsolvedmath-0136,catalog,Balanced Ham Sandwich Line,unsolvedmath-1.1.0,,open
+unsolvedmath-0137,catalog,Sparse Hitting Set for Rectangles,unsolvedmath-1.1.0,,open
+unsolvedmath-0138,catalog,Small Triangles in the Unit Disc,unsolvedmath-1.1.0,,open
+unsolvedmath-0139,catalog,Axis-Parallel Rectangles in Dense Sets,unsolvedmath-1.1.0,,open
+unsolvedmath-0140,catalog,Equidistribution of Integer Multiples,unsolvedmath-1.1.0,,open
+unsolvedmath-0141,catalog,Random Permutations Fixing k-Sets,unsolvedmath-1.1.0,,open
+unsolvedmath-0142,catalog,Comparable Elements in Integer Lattices,unsolvedmath-1.1.0,,open
+unsolvedmath-0143,catalog,Stable Density on Subspaces,unsolvedmath-1.1.0,,open
+unsolvedmath-0144,catalog,Almost Invariant Sets Under Affine Maps,unsolvedmath-1.1.0,,open
+unsolvedmath-0145,catalog,Trace Reconstruction,unsolvedmath-1.1.0,,open
+unsolvedmath-0146,catalog,"Irreducibility of Random {0,1} Polynomials",unsolvedmath-1.1.0,,open
+unsolvedmath-0149,catalog,N Queens Problem Asymptotics,unsolvedmath-1.1.0,,open
+unsolvedmath-0150,catalog,Bounds for Birch's Theorem,unsolvedmath-1.1.0,,open
+unsolvedmath-0151,catalog,Solutions to Polynomial Equations in Dense Sets,unsolvedmath-1.1.0,,open
+unsolvedmath-0152,catalog,Residually Finite Groups,unsolvedmath-1.1.0,,open
+unsolvedmath-0153,catalog,Rado's Boundedness Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-0154,catalog,Monochromatic x+y and xy,unsolvedmath-1.1.0,,open
+unsolvedmath-0155,catalog,"Affine Translates of {0,1,3}",unsolvedmath-1.1.0,,open
+unsolvedmath-0156,catalog,Restricted Sumsets in Partitions,unsolvedmath-1.1.0,,open
+unsolvedmath-0157,catalog,Sum of Cubes in F_3^n,unsolvedmath-1.1.0,,open
+unsolvedmath-0158,catalog,Sets with No Unique Sum Representations,unsolvedmath-1.1.0,,open
+unsolvedmath-0159,catalog,Uniform Random Variables with Uniform Sum,unsolvedmath-1.1.0,,open
+unsolvedmath-0160,catalog,Large Subsets of Approximate Groups,unsolvedmath-1.1.0,,open
+unsolvedmath-0161,catalog,Structured Subsets with Bounded Doubling,unsolvedmath-1.1.0,,open
+unsolvedmath-0162,catalog,Sidon Set Size Bounds,unsolvedmath-1.1.0,,open
+unsolvedmath-0163,catalog,Large Gaps in Dilates,unsolvedmath-1.1.0,,open
+unsolvedmath-0164,catalog,Optimal Sidon Bases,unsolvedmath-1.1.0,,open
+unsolvedmath-0165,catalog,Structure of Sets with Bounded Representation,unsolvedmath-1.1.0,,open
+unsolvedmath-0167,catalog,Disjoint Sumsets Construction,unsolvedmath-1.1.0,,open
+unsolvedmath-0168,catalog,Cap Sets in F_7^n,unsolvedmath-1.1.0,,open
+unsolvedmath-0169,catalog,Covering by Random Translates,unsolvedmath-1.1.0,,open
+unsolvedmath-0170,catalog,Hamming Ball Covering Growth,unsolvedmath-1.1.0,,open
+unsolvedmath-0171,catalog,Pyjama Set Covering,unsolvedmath-1.1.0,,open
+unsolvedmath-0172,catalog,Cohn-Elkies Scheme for Circle Packings,unsolvedmath-1.1.0,,open
+unsolvedmath-0173,catalog,Covering by Residue Classes,unsolvedmath-1.1.0,,open
+unsolvedmath-0174,catalog,Sieving by Many Small Primes,unsolvedmath-1.1.0,,open
+unsolvedmath-0175,catalog,Residue Class Multiple Coverage,unsolvedmath-1.1.0,,open
+unsolvedmath-0176,catalog,Maximal Covering Interval,unsolvedmath-1.1.0,,open
+unsolvedmath-0177,catalog,Random Walk Mixing on Alternating Groups,unsolvedmath-1.1.0,,open
+unsolvedmath-0178,catalog,Bounds for Approximate Group Classification,unsolvedmath-1.1.0,,open
+unsolvedmath-1097,catalog,N-Queens Problem Asymptotics,unsolvedmath-1.1.0,,open
+unsolvedmath-1098,catalog,Bounds for Homogeneous Polynomial Zeros,unsolvedmath-1.1.0,,open
+unsolvedmath-1099,catalog,Polynomial Solutions in Dense Sets,unsolvedmath-1.1.0,,open
+unsolvedmath-1100,catalog,Sofic Groups,unsolvedmath-1.1.0,,open
+unsolvedmath-1102,catalog,Hadamard Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1103,catalog,Köthe Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1104,catalog,Connes Embedding Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1105,catalog,Jacobson's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1106,catalog,Zauner's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1107,catalog,Casas-Alvero Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1108,catalog,Andrews-Curtis Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1109,catalog,Bounded Burnside Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1110,catalog,Herzog-Schönheim Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1112,catalog,Existence of Perfect Cuboids,unsolvedmath-1.1.0,,open
+unsolvedmath-1114,catalog,McKay Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1115,catalog,Are All Groups Surjunctive?,unsolvedmath-1.1.0,,open
+unsolvedmath-1119,catalog,Catalan-Mersenne Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1120,catalog,Are There Infinitely Many Mersenne Primes?,unsolvedmath-1.1.0,,open
+unsolvedmath-1121,catalog,Sphere Packing Problem in Higher Dimensions,unsolvedmath-1.1.0,,open
+unsolvedmath-1122,catalog,Mahler's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1123,catalog,The Illumination Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1124,catalog,Kakeya Needle Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1125,catalog,Bellman's Lost in a Forest Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1131,catalog,The Union-Closed Sets Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1132,catalog,Singmaster's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1135,catalog,The Continuum Hypothesis,unsolvedmath-1.1.0,,open
+unsolvedmath-1137,catalog,Are There Infinitely Many Sophie Germain Primes?,unsolvedmath-1.1.0,,open
+unsolvedmath-1138,catalog,The Hodge Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1140,catalog,The Birch and Swinnerton-Dyer Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1141,catalog,The Weinstein Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1142,catalog,The Painlevé Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1144,catalog,Cereceda's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1146,catalog,The Whitehead Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1149,catalog,The Knaster Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1153,catalog,Polignac's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1156,catalog,The Babai Conjecture on Graph Isomorphism,unsolvedmath-1.1.0,,open
+unsolvedmath-1157,catalog,Pillai's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1158,catalog,Erdős-Straus Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1159,catalog,The Gauss Circle Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1160,catalog,Birch-Tate Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1161,catalog,Hilbert's Fifteenth Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1162,catalog,Hilbert's Sixteenth Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1163,catalog,The Inscribed Square Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1164,catalog,Falconer's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1165,catalog,The Total Coloring Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1171,catalog,The Odd Perfect Number Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1172,catalog,Firoozbakht's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1173,catalog,The Tate Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1176,catalog,Suslin's Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1179,catalog,Schinzel's Hypothesis H,unsolvedmath-1.1.0,,open
+unsolvedmath-1180,catalog,The Uniform Boundedness Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1181,catalog,The Pierce-Birkhoff Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1182,catalog,Serre's Positivity Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1183,catalog,Artin's Conjecture on Primitive Roots,unsolvedmath-1.1.0,,open
+unsolvedmath-1184,catalog,The abc Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1185,catalog,The Shephard's Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1187,catalog,The Andrews-Curtis Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1188,catalog,The Bounded Burnside Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1189,catalog,The Guralnick-Thompson Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1190,catalog,The Herzog-Schönheim Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1191,catalog,The Inverse Galois Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1192,catalog,The Isomorphism Problem for Coxeter Groups,unsolvedmath-1.1.0,,open
+unsolvedmath-1193,catalog,Infinitude of Leinster Groups,unsolvedmath-1.1.0,,open
+unsolvedmath-1194,catalog,Existence of Generalized Moonshine,unsolvedmath-1.1.0,,open
+unsolvedmath-1195,catalog,Finiteness of Finitely Presented Periodic Groups,unsolvedmath-1.1.0,,open
+unsolvedmath-1196,catalog,The Surjunctivity Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1197,catalog,The Sofic Groups Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1198,catalog,Arthur's Conjectures,unsolvedmath-1.1.0,,open
+unsolvedmath-1199,catalog,Dade's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1200,catalog,The Demazure Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1203,catalog,The Spherical Bernstein Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1204,catalog,The Carathéodory Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1205,catalog,The Cartan-Hadamard Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1206,catalog,Chern's Affine Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1207,catalog,Chern's Conjecture for Hypersurfaces in Spheres,unsolvedmath-1.1.0,,open
+unsolvedmath-1208,catalog,The Closed Curve Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1209,catalog,The Filling Area Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1210,catalog,The Hopf Conjectures,unsolvedmath-1.1.0,,open
+unsolvedmath-1211,catalog,The Osserman Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1212,catalog,Yau's Conjecture on First Eigenvalues,unsolvedmath-1.1.0,,open
+unsolvedmath-1213,catalog,The Hadwiger Covering Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1214,catalog,The Happy Ending Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1215,catalog,The Heilbronn Triangle Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1216,catalog,Kalai's $3^d$ Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1217,catalog,The Unit Distance Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1219,catalog,Ehrhart's Volume Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1220,catalog,The Cherlin-Zilber Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1221,catalog,The Generalized Star Height Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1222,catalog,Hilbert's Tenth Problem for Number Fields,unsolvedmath-1.1.0,,open
+unsolvedmath-1224,catalog,Borsuk's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1225,catalog,The Kissing Number Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1226,catalog,Ulam's Packing Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1227,catalog,Sphere Packing in High Dimensions,unsolvedmath-1.1.0,,open
+unsolvedmath-1231,catalog,The Cap Set Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1235,catalog,The Sunflower Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1236,catalog,"Ramsey Number $R(5,5)$",unsolvedmath-1.1.0,,open
+unsolvedmath-1239,catalog,Gauss Circle Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1240,catalog,Grimm's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1241,catalog,Hall's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1242,catalog,Lehmer's Totient Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1243,catalog,Magic Square of Squares,unsolvedmath-1.1.0,,open
+unsolvedmath-1244,catalog,Mahler's 3/2 Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1245,catalog,Newman's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1246,catalog,Scholz Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1248,catalog,Infinitely Many Perfect Numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-1250,catalog,Quasiperfect Numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-1251,catalog,Almost Perfect Numbers Beyond Powers of 2,unsolvedmath-1.1.0,,open
+unsolvedmath-1252,catalog,The Number of Idoneal Numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-1253,catalog,Amicable Numbers of Opposite Parity,unsolvedmath-1.1.0,,open
+unsolvedmath-1254,catalog,Infinitely Many Amicable Pairs,unsolvedmath-1.1.0,,open
+unsolvedmath-1255,catalog,Infinitely Many Giuga Numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-1256,catalog,Lychrel Numbers in Base 10,unsolvedmath-1.1.0,,open
+unsolvedmath-1257,catalog,Odd Weird Numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-1258,catalog,Normality of Pi,unsolvedmath-1.1.0,,open
+unsolvedmath-1259,catalog,Normality of Irrational Algebraic Numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-1260,catalog,Is 10 a Solitary Number?,unsolvedmath-1.1.0,,open
+unsolvedmath-1262,catalog,Erdős Conjecture on Arithmetic Progressions,unsolvedmath-1.1.0,,open
+unsolvedmath-1263,catalog,Erdős-Turán Conjecture on Additive Bases,unsolvedmath-1.1.0,,open
+unsolvedmath-1265,catalog,Lander-Parkin-Selfridge Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1266,catalog,Lemoine's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1267,catalog,Recamán's Sequence Completeness,unsolvedmath-1.1.0,,open
+unsolvedmath-1268,catalog,Skolem Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1269,catalog,Waring's Problem: Exact Values,unsolvedmath-1.1.0,,open
+unsolvedmath-1270,catalog,Density of Ulam Numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-1271,catalog,Class Number Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1272,catalog,Hilbert's Twelfth Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1273,catalog,Leopoldt's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1274,catalog,Lindelöf Hypothesis,unsolvedmath-1.1.0,,open
+unsolvedmath-1275,catalog,Hilbert-Pólya Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1276,catalog,Grand Riemann Hypothesis,unsolvedmath-1.1.0,,open
+unsolvedmath-1277,catalog,Montgomery's Pair Correlation Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1278,catalog,Dirichlet's Divisor Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1279,catalog,Erdős-Ulam Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1281,catalog,Four Exponentials Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1282,catalog,Irrationality of Euler's Constant,unsolvedmath-1.1.0,,open
+unsolvedmath-1283,catalog,Transcendence of Apéry's Constant,unsolvedmath-1.1.0,,open
+unsolvedmath-1284,catalog,Littlewood Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1285,catalog,Integer Factorization in Polynomial Time,unsolvedmath-1.1.0,,open
+unsolvedmath-1286,catalog,Beal's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1289,catalog,Fermat-Catalan Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1292,catalog,Bunyakovsky Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1293,catalog,Dickson's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1294,catalog,Brocard's Conjecture (Prime Gaps),unsolvedmath-1.1.0,,open
+unsolvedmath-1295,catalog,Agoh-Giuga Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1296,catalog,Elliott-Halberstam Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1297,catalog,Birch–Tate Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1300,catalog,Crouzeix's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1302,catalog,Perfect Cuboid,unsolvedmath-1.1.0,,open
+unsolvedmath-1305,catalog,Zauner's Conjecture (SIC-POVM),unsolvedmath-1.1.0,,open
+unsolvedmath-1308,catalog,Andrews–Curtis Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1310,catalog,Herzog–Schönheim Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1318,catalog,Navier-Stokes Regularity,unsolvedmath-1.1.0,,open
+unsolvedmath-1319,catalog,1/3–2/3 Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1320,catalog,Lonely Runner Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1321,catalog,Union-Closed Sets Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1322,catalog,No-Three-in-Line Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1324,catalog,Sunflower Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1327,catalog,Cycle Double Cover Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1328,catalog,Erdős–Hajnal Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1329,catalog,Lovász Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1330,catalog,Hadwiger–Nelson Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1331,catalog,Unknotting Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1332,catalog,Borel Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1333,catalog,Volume Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1334,catalog,Novikov Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1335,catalog,Kakeya Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1336,catalog,Illumination Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1338,catalog,MLC Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1339,catalog,Weinstein Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1340,catalog,Birkhoff Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1341,catalog,Abundance Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1343,catalog,Vaught Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1344,catalog,Cherlin-Zilber Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1346,catalog,Yang-Mills Existence and Mass Gap,unsolvedmath-1.1.0,,open
+unsolvedmath-1347,catalog,Partition Principle Implies Axiom of Choice,unsolvedmath-1.1.0,,open
+unsolvedmath-1348,catalog,Woodin's GCH below Strongly Compact Cardinals,unsolvedmath-1.1.0,,open
+unsolvedmath-1349,catalog,GCH and Diamond Principle,unsolvedmath-1.1.0,,open
+unsolvedmath-1350,catalog,GCH and Suslin Trees,unsolvedmath-1.1.0,,open
+unsolvedmath-1352,catalog,Ultimate Core Model,unsolvedmath-1.1.0,,open
+unsolvedmath-1353,catalog,Woodin's Ω-Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1354,catalog,Strongly Compact vs Supercompact Cardinals,unsolvedmath-1.1.0,,open
+unsolvedmath-1355,catalog,Jónsson Algebra on ℵ_ω,unsolvedmath-1.1.0,,open
+unsolvedmath-1356,catalog,Open Coloring Axiom and Continuum Hypothesis,unsolvedmath-1.1.0,,open
+unsolvedmath-1357,catalog,Reinhardt Cardinals without Choice,unsolvedmath-1.1.0,,open
+unsolvedmath-1358,catalog,Sudoku: Unique Solution Puzzles,unsolvedmath-1.1.0,,open
+unsolvedmath-1359,catalog,Sudoku: Minimal Puzzles Count,unsolvedmath-1.1.0,,open
+unsolvedmath-1360,catalog,Maximum Givens in Minimal Sudoku,unsolvedmath-1.1.0,,open
+unsolvedmath-1361,catalog,Tic-Tac-Toe Winning Dimension,unsolvedmath-1.1.0,,open
+unsolvedmath-1362,catalog,Perfect Chess,unsolvedmath-1.1.0,,open
+unsolvedmath-1363,catalog,Perfect Komi in Go,unsolvedmath-1.1.0,,open
+unsolvedmath-1364,catalog,Cap Set Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1365,catalog,Octal Games Periodicity,unsolvedmath-1.1.0,,open
+unsolvedmath-1366,catalog,Grundy's Game Periodicity,unsolvedmath-1.1.0,,open
+unsolvedmath-1367,catalog,Rendezvous Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1369,catalog,Kissing Number Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1372,catalog,Tammes Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1373,catalog,Carathéodory Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1374,catalog,Cartan-Hadamard Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1375,catalog,Chern's Conjecture (Affine Geometry),unsolvedmath-1.1.0,,open
+unsolvedmath-1376,catalog,Hopf Conjectures,unsolvedmath-1.1.0,,open
+unsolvedmath-1377,catalog,Yau's Conjecture on First Eigenvalue,unsolvedmath-1.1.0,,open
+unsolvedmath-1378,catalog,Hadwiger Conjecture (Covering),unsolvedmath-1.1.0,,open
+unsolvedmath-1379,catalog,Happy Ending Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1380,catalog,Heilbronn Triangle Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1381,catalog,Kalai's 3^d Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1382,catalog,Orchard-Planting Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1383,catalog,Unit Distance Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1384,catalog,Bellman's Lost-in-a-Forest Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1385,catalog,Borromean Rings Question,unsolvedmath-1.1.0,,open
+unsolvedmath-1386,catalog,Danzer's Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1388,catalog,Brouwer's Conjecture on Graph Laplacians,unsolvedmath-1.1.0,,open
+unsolvedmath-1389,catalog,Eternal Domination vs Domination Number,unsolvedmath-1.1.0,,open
+unsolvedmath-1390,catalog,Graham's Pebbling Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1391,catalog,Meyniel's Conjecture on Cop Number,unsolvedmath-1.1.0,,open
+unsolvedmath-1392,catalog,Graph Coloring Game Monotonicity,unsolvedmath-1.1.0,,open
+unsolvedmath-1393,catalog,1-Factorization Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1394,catalog,Perfect 1-Factorization Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1395,catalog,Cereceda's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1396,catalog,Earth-Moon Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1397,catalog,Gyárfás-Sumner Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1398,catalog,Jaeger's Petersen Coloring Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1399,catalog,List Coloring Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1400,catalog,Overfull Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1401,catalog,Total Coloring Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1402,catalog,Albertson Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1403,catalog,Conway's Thrackle Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1404,catalog,GNRS Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1405,catalog,Harborth's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1406,catalog,Negami's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1407,catalog,Turán's Brick Factory Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1408,catalog,Guy's Crossing Number Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1409,catalog,Universal Point Sets,unsolvedmath-1.1.0,,open
+unsolvedmath-1410,catalog,Conference Graph Existence,unsolvedmath-1.1.0,,open
+unsolvedmath-1411,catalog,Conway's 99-Graph Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1412,catalog,Degree Diameter Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1413,catalog,Moore Graph Existence,unsolvedmath-1.1.0,,open
+unsolvedmath-1414,catalog,Barnette's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1415,catalog,Chvátal's Toughness Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1416,catalog,Cycle Double Cover Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1417,catalog,Erdős-Gyárfás Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1418,catalog,Erdős-Hajnal Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1419,catalog,Linear Arboricity Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1420,catalog,Lovász Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1421,catalog,Oberwolfach Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1422,catalog,Cubic Graph Pathwidth,unsolvedmath-1.1.0,,open
+unsolvedmath-1423,catalog,Snake-in-the-Box Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1424,catalog,Sumner's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1425,catalog,Tuza's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1426,catalog,Unfriendly Partition Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1427,catalog,Zarankiewicz Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1428,catalog,Vizing's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1429,catalog,Hamiltonian Decomposition of Hypergraphs,unsolvedmath-1.1.0,,open
+unsolvedmath-1430,catalog,Word-Representable Graphs: Letter Copies Bound,unsolvedmath-1.1.0,,open
+unsolvedmath-1431,catalog,Characterization of Word-Representable Planar Graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-1432,catalog,Word-Representable Graphs: Forbidden Subgraph Characterization,unsolvedmath-1.1.0,,open
+unsolvedmath-1433,catalog,Word-Representable Near-Triangulations,unsolvedmath-1.1.0,,open
+unsolvedmath-1434,catalog,Representation Number 3 Classification,unsolvedmath-1.1.0,,open
+unsolvedmath-1435,catalog,Crown Graphs and Longest Word-Representants,unsolvedmath-1.1.0,,open
+unsolvedmath-1436,catalog,Line Graphs of Non-Word-Representable Graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-1437,catalog,Translating Graph Problems to Word Problems,unsolvedmath-1.1.0,,open
+unsolvedmath-1438,catalog,Imbalance Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1439,catalog,Implicit Graph Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1440,catalog,Ryser's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1441,catalog,Second Neighborhood Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1442,catalog,Teschner's Bondage Number Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1443,catalog,Tutte's 5-Flow Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1444,catalog,Tutte's 4-Flow Conjecture for Petersen-Minor-Free Graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-1445,catalog,Woodall's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1446,catalog,Birch-Tate Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1447,catalog,Casas-Alvero Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1448,catalog,Connes Embedding Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1449,catalog,Crouzeix's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1450,catalog,Determinantal Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1451,catalog,Eilenberg-Ganea Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1452,catalog,Farrell-Jones Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1453,catalog,Finite Lattice Representation Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1454,catalog,Hadamard Matrix Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1455,catalog,Köthe Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1456,catalog,Perfect Cuboid,unsolvedmath-1.1.0,,open
+unsolvedmath-1457,catalog,Rota's Basis Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1458,catalog,Cherlin-Zilber Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1459,catalog,Generalized Star Height Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1460,catalog,Hilbert's Tenth Problem for Number Fields,unsolvedmath-1.1.0,,open
+unsolvedmath-1461,catalog,Vaught Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1462,catalog,Tarski's Exponential Function Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1463,catalog,Stable Field Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1464,catalog,Henson Graphs Finite Model Property,unsolvedmath-1.1.0,,open
+unsolvedmath-1465,catalog,O-Minimal Theory with Trans-Exponential Growth,unsolvedmath-1.1.0,,open
+unsolvedmath-1466,catalog,Infinite Minimal Field Algebraic Closure,unsolvedmath-1.1.0,,open
+unsolvedmath-1467,catalog,Keisler's Order,unsolvedmath-1.1.0,,open
+unsolvedmath-1468,catalog,Serre's Conjecture II,unsolvedmath-1.1.0,,open
+unsolvedmath-1469,catalog,Serre's Positivity Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1470,catalog,Uniform Boundedness Conjecture for Rational Points,unsolvedmath-1.1.0,,open
+unsolvedmath-1479,catalog,Baum-Connes Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1480,catalog,Berge Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1481,catalog,Borel Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1482,catalog,Hilbert-Smith Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1483,catalog,Novikov Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1484,catalog,Unknotting Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1485,catalog,Volume Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1486,catalog,Whitehead Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1487,catalog,Zeeman Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1488,catalog,1/3-2/3 Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1489,catalog,Lonely Runner Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1490,catalog,Sunflower Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1491,catalog,Union-Closed Sets Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1492,catalog,"Ramsey Number R(5,5)",unsolvedmath-1.1.0,,open
+unsolvedmath-1495,catalog,Singmaster's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1496,catalog,Odd Perfect Numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-1497,catalog,Infinitude of Perfect Numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-1498,catalog,Quasiperfect Numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-1499,catalog,Lychrel Numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-1500,catalog,Odd Weird Numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-1501,catalog,Infinitude of Amicable Pairs,unsolvedmath-1.1.0,,open
+unsolvedmath-1502,catalog,Pi Normality,unsolvedmath-1.1.0,,open
+unsolvedmath-1503,catalog,Algebraic Number Normality,unsolvedmath-1.1.0,,open
+unsolvedmath-1504,catalog,Gilbreath's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1505,catalog,Lander-Parkin-Selfridge Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1506,catalog,Class Number Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1507,catalog,Hilbert's 12th Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1508,catalog,Leopoldt's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1509,catalog,Siegel Zeros,unsolvedmath-1.1.0,,open
+unsolvedmath-1510,catalog,Schanuel's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1511,catalog,Euler-Mascheroni Constant Irrationality,unsolvedmath-1.1.0,,open
+unsolvedmath-1512,catalog,Littlewood Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1513,catalog,Four Exponentials Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1514,catalog,Integer Factorization Polynomial Time,unsolvedmath-1.1.0,,open
+unsolvedmath-1515,catalog,Navier-Stokes Existence and Smoothness,unsolvedmath-1.1.0,,open
+unsolvedmath-1516,catalog,Sphere Packing Problem Higher Dimensions,unsolvedmath-1.1.0,,open
+unsolvedmath-1517,catalog,Hardy-Littlewood Conjecture A (Prime k-tuples),unsolvedmath-1.1.0,,open
+unsolvedmath-1518,catalog,Hardy-Littlewood Conjecture B (Second Conjecture),unsolvedmath-1.1.0,,open
+unsolvedmath-1519,catalog,Hardy-Littlewood Conjecture F (Primes in Quadratic Polynomials),unsolvedmath-1.1.0,,open
+unsolvedmath-1855,catalog,The Prime Number Race,unsolvedmath-1.1.0,,open
+unsolvedmath-1857,catalog,Erdős $3000 Conjecture on Arithmetic Progressions,unsolvedmath-1.1.0,,open
+unsolvedmath-1858,catalog,Consecutive Primes in Arithmetic Progression,unsolvedmath-1.1.0,,open
+unsolvedmath-1859,catalog,Infinitude of Sophie Germain Primes,unsolvedmath-1.1.0,,open
+unsolvedmath-1860,catalog,Shanks Chains of Length 7,unsolvedmath-1.1.0,,open
+unsolvedmath-1861,catalog,Erdős $5000 Problem on Prime Gaps,unsolvedmath-1.1.0,,open
+unsolvedmath-1862,catalog,Twin Prime Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1863,catalog,General Patterns of Consecutive Primes,unsolvedmath-1.1.0,,open
+unsolvedmath-1864,catalog,Gilbreath's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-1865,catalog,Erdős $100 Problem on Increasing and Decreasing Gaps,unsolvedmath-1.1.0,,open
+unsolvedmath-1866,catalog,Erdős Conjecture on Carmichael Numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-1867,catalog,Pomerance's Questions on Good Primes,unsolvedmath-1.1.0,,open
+unsolvedmath-1868,catalog,Congruent Products of Consecutive Numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-1869,catalog,Walking to Infinity on Gaussian Primes,unsolvedmath-1.1.0,,open
+unsolvedmath-1870,catalog,Giuga's Conjecture on Prime Characterization,unsolvedmath-1.1.0,,open
+unsolvedmath-1871,catalog,Erdős-Selfridge Classification: Infinitely Many Primes in Each Class,unsolvedmath-1.1.0,,open
+unsolvedmath-1872,catalog,Erdős Conjecture on $n - 2^k$ Prime,unsolvedmath-1.1.0,,open
+unsolvedmath-1873,catalog,Cohen-Selfridge Problem on $\pm p^a \pm 2^b$,unsolvedmath-1.1.0,,open
+unsolvedmath-1874,catalog,Density of Symmetric Primes,unsolvedmath-1.1.0,,open
+unsolvedmath-1875,catalog,Square Pseudoprimes,unsolvedmath-1.1.0,,open
+unsolvedmath-1876,catalog,Selfridge-Wagstaff-Pomerance Prize Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-1877,catalog,Even Fibonacci Pseudoprimes,unsolvedmath-1.1.0,,open
+unsolvedmath-1878,catalog,Erdős Problem #1,unsolvedmath-1.1.0,,open
+unsolvedmath-1879,catalog,Erdős Problem #3,unsolvedmath-1.1.0,,open
+unsolvedmath-1880,catalog,Erdős Problem #5,unsolvedmath-1.1.0,,open
+unsolvedmath-1881,catalog,Erdős Problem #9,unsolvedmath-1.1.0,,open
+unsolvedmath-1882,catalog,Erdős Problem #10,unsolvedmath-1.1.0,,open
+unsolvedmath-1883,catalog,Erdős Problem #12,unsolvedmath-1.1.0,,open
+unsolvedmath-1884,catalog,Erdős Problem #14,unsolvedmath-1.1.0,,open
+unsolvedmath-1885,catalog,Erdős Problem #15,unsolvedmath-1.1.0,,open
+unsolvedmath-1886,catalog,Erdős Problem #17,unsolvedmath-1.1.0,,open
+unsolvedmath-1887,catalog,Erdős Problem #18,unsolvedmath-1.1.0,,open
+unsolvedmath-1888,catalog,Erdős Problem #20,unsolvedmath-1.1.0,,open
+unsolvedmath-1889,catalog,Erdős Problem #25,unsolvedmath-1.1.0,,open
+unsolvedmath-1890,catalog,Erdős Problem #28,unsolvedmath-1.1.0,,open
+unsolvedmath-1891,catalog,Erdős Problem #30,unsolvedmath-1.1.0,,open
+unsolvedmath-1892,catalog,Erdős Problem #32,unsolvedmath-1.1.0,,open
+unsolvedmath-1893,catalog,Erdős Problem #33,unsolvedmath-1.1.0,,open
+unsolvedmath-1894,catalog,Erdős Problem #36,unsolvedmath-1.1.0,,open
+unsolvedmath-1895,catalog,Erdős Problem #38,unsolvedmath-1.1.0,,open
+unsolvedmath-1896,catalog,Erdős Problem #39,unsolvedmath-1.1.0,,open
+unsolvedmath-1897,catalog,Erdős Problem #40,unsolvedmath-1.1.0,,open
+unsolvedmath-1898,catalog,Erdős Problem #41,unsolvedmath-1.1.0,,open
+unsolvedmath-1899,catalog,Erdős Problem #42,unsolvedmath-1.1.0,,open
+unsolvedmath-1900,catalog,Erdős Problem #43,unsolvedmath-1.1.0,,open
+unsolvedmath-1901,catalog,Erdős Problem #44,unsolvedmath-1.1.0,,open
+unsolvedmath-1902,catalog,Erdős Problem #50,unsolvedmath-1.1.0,,open
+unsolvedmath-1903,catalog,Erdős Problem #51,unsolvedmath-1.1.0,,open
+unsolvedmath-1904,catalog,Erdős Problem #52,unsolvedmath-1.1.0,,open
+unsolvedmath-1905,catalog,Erdős Problem #60,unsolvedmath-1.1.0,,open
+unsolvedmath-1906,catalog,Erdős Problem #61,unsolvedmath-1.1.0,,open
+unsolvedmath-1907,catalog,Erdős Problem #62,unsolvedmath-1.1.0,,open
+unsolvedmath-1908,catalog,Erdős Problem #65,unsolvedmath-1.1.0,,open
+unsolvedmath-1909,catalog,Erdős Problem #66,unsolvedmath-1.1.0,,open
+unsolvedmath-1910,catalog,Erdős Problem #68,unsolvedmath-1.1.0,,open
+unsolvedmath-1911,catalog,Erdős Problem #70,unsolvedmath-1.1.0,,open
+unsolvedmath-1912,catalog,Erdős Problem #74,unsolvedmath-1.1.0,,open
+unsolvedmath-1913,catalog,Erdős Problem #75,unsolvedmath-1.1.0,,open
+unsolvedmath-1914,catalog,Erdős Problem #77,unsolvedmath-1.1.0,,open
+unsolvedmath-1915,catalog,Erdős Problem #78,unsolvedmath-1.1.0,,open
+unsolvedmath-1916,catalog,Erdős Problem #80,unsolvedmath-1.1.0,,open
+unsolvedmath-1917,catalog,Erdős Problem #81,unsolvedmath-1.1.0,,open
+unsolvedmath-1918,catalog,Erdős Problem #82,unsolvedmath-1.1.0,,open
+unsolvedmath-1919,catalog,Erdős Problem #84,unsolvedmath-1.1.0,,open
+unsolvedmath-1920,catalog,Erdős Problem #86,unsolvedmath-1.1.0,,open
+unsolvedmath-1921,catalog,Erdős Problem #87,unsolvedmath-1.1.0,,open
+unsolvedmath-1922,catalog,Erdős Problem #89,unsolvedmath-1.1.0,,open
+unsolvedmath-1923,catalog,Erdős Problem #90,unsolvedmath-1.1.0,,open
+unsolvedmath-1924,catalog,Erdős Problem #91,unsolvedmath-1.1.0,,open
+unsolvedmath-1925,catalog,Erdős Problem #92,unsolvedmath-1.1.0,,open
+unsolvedmath-1926,catalog,Erdős Problem #96,unsolvedmath-1.1.0,,open
+unsolvedmath-1927,catalog,Erdős Problem #98,unsolvedmath-1.1.0,,open
+unsolvedmath-1928,catalog,Erdős Problem #99,unsolvedmath-1.1.0,,open
+unsolvedmath-1929,catalog,Erdős Problem #100,unsolvedmath-1.1.0,,open
+unsolvedmath-1930,catalog,Erdős Problem #101,unsolvedmath-1.1.0,,open
+unsolvedmath-1931,catalog,Erdős Problem #102,unsolvedmath-1.1.0,,open
+unsolvedmath-1932,catalog,Erdős Problem #103,unsolvedmath-1.1.0,,open
+unsolvedmath-1933,catalog,Erdős Problem #104,unsolvedmath-1.1.0,,open
+unsolvedmath-1934,catalog,Erdős Problem #108,unsolvedmath-1.1.0,,open
+unsolvedmath-1935,catalog,Erdős Problem #111,unsolvedmath-1.1.0,,open
+unsolvedmath-1936,catalog,Erdős Problem #112,unsolvedmath-1.1.0,,open
+unsolvedmath-1937,catalog,Erdős Problem #114,unsolvedmath-1.1.0,,open
+unsolvedmath-1938,catalog,Erdős Problem #117,unsolvedmath-1.1.0,,open
+unsolvedmath-1939,catalog,Erdős Problem #119,unsolvedmath-1.1.0,,open
+unsolvedmath-1940,catalog,Erdős Problem #120,unsolvedmath-1.1.0,,open
+unsolvedmath-1941,catalog,Erdős Problem #122,unsolvedmath-1.1.0,,open
+unsolvedmath-1942,catalog,Erdős Problem #123,unsolvedmath-1.1.0,,open
+unsolvedmath-1943,catalog,Erdős Problem #124,unsolvedmath-1.1.0,,open
+unsolvedmath-1944,catalog,Erdős Problem #125,unsolvedmath-1.1.0,,open
+unsolvedmath-1945,catalog,Erdős Problem #126,unsolvedmath-1.1.0,,open
+unsolvedmath-1946,catalog,Erdős Problem #129,unsolvedmath-1.1.0,,open
+unsolvedmath-1947,catalog,Erdős Problem #130,unsolvedmath-1.1.0,,open
+unsolvedmath-1948,catalog,Erdős Problem #131,unsolvedmath-1.1.0,,open
+unsolvedmath-1949,catalog,Erdős Problem #132,unsolvedmath-1.1.0,,open
+unsolvedmath-1950,catalog,Erdős Problem #137,unsolvedmath-1.1.0,,open
+unsolvedmath-1951,catalog,Erdős Problem #138,unsolvedmath-1.1.0,,open
+unsolvedmath-1952,catalog,Erdős Problem #141,unsolvedmath-1.1.0,,open
+unsolvedmath-1953,catalog,Erdős Problem #142,unsolvedmath-1.1.0,,open
+unsolvedmath-1954,catalog,Erdős Problem #143,unsolvedmath-1.1.0,,open
+unsolvedmath-1955,catalog,Erdős Problem #145,unsolvedmath-1.1.0,,open
+unsolvedmath-1956,catalog,Erdős Problem #146,unsolvedmath-1.1.0,,open
+unsolvedmath-1957,catalog,Erdős Problem #148,unsolvedmath-1.1.0,,open
+unsolvedmath-1958,catalog,Erdős Problem #149,unsolvedmath-1.1.0,,open
+unsolvedmath-1959,catalog,Erdős Problem #151,unsolvedmath-1.1.0,,open
+unsolvedmath-1960,catalog,Erdős Problem #152,unsolvedmath-1.1.0,,open
+unsolvedmath-1961,catalog,Erdős Problem #153,unsolvedmath-1.1.0,,open
+unsolvedmath-1962,catalog,Erdős Problem #155,unsolvedmath-1.1.0,,open
+unsolvedmath-1963,catalog,Erdős Problem #156,unsolvedmath-1.1.0,,open
+unsolvedmath-1964,catalog,Erdős Problem #158,unsolvedmath-1.1.0,,open
+unsolvedmath-1965,catalog,Erdős Problem #159,unsolvedmath-1.1.0,,open
+unsolvedmath-1966,catalog,Erdős Problem #160,unsolvedmath-1.1.0,,open
+unsolvedmath-1967,catalog,Erdős Problem #161,unsolvedmath-1.1.0,,open
+unsolvedmath-1968,catalog,Erdős Problem #162,unsolvedmath-1.1.0,,open
+unsolvedmath-1969,catalog,Erdős Problem #165,unsolvedmath-1.1.0,,open
+unsolvedmath-1970,catalog,Erdős Problem #168,unsolvedmath-1.1.0,,open
+unsolvedmath-1971,catalog,Erdős Problem #169,unsolvedmath-1.1.0,,open
+unsolvedmath-1972,catalog,Erdős Problem #170,unsolvedmath-1.1.0,,open
+unsolvedmath-1973,catalog,Erdős Problem #172,unsolvedmath-1.1.0,,open
+unsolvedmath-1974,catalog,Erdős Problem #173,unsolvedmath-1.1.0,,open
+unsolvedmath-1975,catalog,Erdős Problem #174,unsolvedmath-1.1.0,,open
+unsolvedmath-1976,catalog,Erdős Problem #176,unsolvedmath-1.1.0,,open
+unsolvedmath-1977,catalog,Erdős Problem #177,unsolvedmath-1.1.0,,open
+unsolvedmath-1978,catalog,Erdős Problem #180,unsolvedmath-1.1.0,,open
+unsolvedmath-1979,catalog,Erdős Problem #181,unsolvedmath-1.1.0,,open
+unsolvedmath-1980,catalog,Erdős Problem #183,unsolvedmath-1.1.0,,open
+unsolvedmath-1981,catalog,Erdős Problem #184,unsolvedmath-1.1.0,,open
+unsolvedmath-1982,catalog,Erdős Problem #187,unsolvedmath-1.1.0,,open
+unsolvedmath-1983,catalog,Erdős Problem #188,unsolvedmath-1.1.0,,open
+unsolvedmath-1984,catalog,Erdős Problem #190,unsolvedmath-1.1.0,,open
+unsolvedmath-1985,catalog,Erdős Problem #193,unsolvedmath-1.1.0,,open
+unsolvedmath-1986,catalog,Erdős Problem #195,unsolvedmath-1.1.0,,open
+unsolvedmath-1987,catalog,Erdős Problem #196,unsolvedmath-1.1.0,,open
+unsolvedmath-1988,catalog,Erdős Problem #197,unsolvedmath-1.1.0,,open
+unsolvedmath-1989,catalog,Erdős Problem #200,unsolvedmath-1.1.0,,open
+unsolvedmath-1990,catalog,Erdős Problem #201,unsolvedmath-1.1.0,,open
+unsolvedmath-1991,catalog,Erdős Problem #202,unsolvedmath-1.1.0,,open
+unsolvedmath-1992,catalog,Erdős Problem #203,unsolvedmath-1.1.0,,open
+unsolvedmath-1993,catalog,Erdős Problem #208,unsolvedmath-1.1.0,,open
+unsolvedmath-1994,catalog,Erdős Problem #212,unsolvedmath-1.1.0,,open
+unsolvedmath-1995,catalog,Erdős Problem #213,unsolvedmath-1.1.0,,open
+unsolvedmath-1996,catalog,Erdős Problem #217,unsolvedmath-1.1.0,,open
+unsolvedmath-1997,catalog,Erdős Problem #218,unsolvedmath-1.1.0,,open
+unsolvedmath-1998,catalog,Erdős Problem #222,unsolvedmath-1.1.0,,open
+unsolvedmath-1999,catalog,Erdős Problem #233,unsolvedmath-1.1.0,,open
+unsolvedmath-2000,catalog,Erdős Problem #234,unsolvedmath-1.1.0,,open
+unsolvedmath-2001,catalog,Erdős Problem #236,unsolvedmath-1.1.0,,open
+unsolvedmath-2002,catalog,Erdős Problem #238,unsolvedmath-1.1.0,,open
+unsolvedmath-2003,catalog,Erdős Problem #241,unsolvedmath-1.1.0,,open
+unsolvedmath-2004,catalog,Erdős Problem #243,unsolvedmath-1.1.0,,open
+unsolvedmath-2005,catalog,Erdős Problem #244,unsolvedmath-1.1.0,,open
+unsolvedmath-2006,catalog,Erdős Problem #247,unsolvedmath-1.1.0,,open
+unsolvedmath-2007,catalog,Erdős Problem #249,unsolvedmath-1.1.0,,open
+unsolvedmath-2008,catalog,Erdős Problem #251,unsolvedmath-1.1.0,,open
+unsolvedmath-2009,catalog,Erdős Problem #252,unsolvedmath-1.1.0,,open
+unsolvedmath-2010,catalog,Erdős Problem #254,unsolvedmath-1.1.0,,open
+unsolvedmath-2011,catalog,Erdős Problem #256,unsolvedmath-1.1.0,,open
+unsolvedmath-2012,catalog,Erdős Problem #257,unsolvedmath-1.1.0,,open
+unsolvedmath-2013,catalog,Erdős Problem #258,unsolvedmath-1.1.0,,open
+unsolvedmath-2014,catalog,Erdős Problem #260,unsolvedmath-1.1.0,,open
+unsolvedmath-2015,catalog,Erdős Problem #261,unsolvedmath-1.1.0,,open
+unsolvedmath-2016,catalog,Erdős Problem #263,unsolvedmath-1.1.0,,open
+unsolvedmath-2017,catalog,Erdős Problem #264,unsolvedmath-1.1.0,,open
+unsolvedmath-2018,catalog,Erdős Problem #265,unsolvedmath-1.1.0,,open
+unsolvedmath-2019,catalog,Erdős Problem #267,unsolvedmath-1.1.0,,open
+unsolvedmath-2020,catalog,Erdős Problem #269,unsolvedmath-1.1.0,,open
+unsolvedmath-2021,catalog,Erdős Problem #271,unsolvedmath-1.1.0,,open
+unsolvedmath-2022,catalog,Erdős Problem #272,unsolvedmath-1.1.0,,open
+unsolvedmath-2023,catalog,Erdős Problem #273,unsolvedmath-1.1.0,,open
+unsolvedmath-2024,catalog,Erdős Problem #274,unsolvedmath-1.1.0,,open
+unsolvedmath-2025,catalog,Erdős Problem #276,unsolvedmath-1.1.0,,open
+unsolvedmath-2026,catalog,Erdős Problem #278,unsolvedmath-1.1.0,,open
+unsolvedmath-2027,catalog,Erdős Problem #279,unsolvedmath-1.1.0,,open
+unsolvedmath-2028,catalog,Erdős Problem #281,unsolvedmath-1.1.0,,open
+unsolvedmath-2029,catalog,Erdős Problem #282,unsolvedmath-1.1.0,,open
+unsolvedmath-2030,catalog,Erdős Problem #283,unsolvedmath-1.1.0,,open
+unsolvedmath-2031,catalog,Erdős Problem #288,unsolvedmath-1.1.0,,open
+unsolvedmath-2032,catalog,Erdős Problem #289,unsolvedmath-1.1.0,,open
+unsolvedmath-2033,catalog,Erdős Problem #291,unsolvedmath-1.1.0,,open
+unsolvedmath-2034,catalog,Erdős Problem #293,unsolvedmath-1.1.0,,open
+unsolvedmath-2035,catalog,Erdős Problem #295,unsolvedmath-1.1.0,,open
+unsolvedmath-2036,catalog,Erdős Problem #301,unsolvedmath-1.1.0,,open
+unsolvedmath-2037,catalog,Erdős Problem #302,unsolvedmath-1.1.0,,open
+unsolvedmath-2038,catalog,Erdős Problem #304,unsolvedmath-1.1.0,,open
+unsolvedmath-2039,catalog,Erdős Problem #306,unsolvedmath-1.1.0,,open
+unsolvedmath-2040,catalog,Erdős Problem #311,unsolvedmath-1.1.0,,open
+unsolvedmath-2041,catalog,Erdős Problem #312,unsolvedmath-1.1.0,,open
+unsolvedmath-2042,catalog,Erdős Problem #313,unsolvedmath-1.1.0,,open
+unsolvedmath-2043,catalog,Erdős Problem #317,unsolvedmath-1.1.0,,open
+unsolvedmath-2044,catalog,Erdős Problem #318,unsolvedmath-1.1.0,,open
+unsolvedmath-2045,catalog,Erdős Problem #319,unsolvedmath-1.1.0,,open
+unsolvedmath-2046,catalog,Erdős Problem #320,unsolvedmath-1.1.0,,open
+unsolvedmath-2047,catalog,Erdős Problem #321,unsolvedmath-1.1.0,,open
+unsolvedmath-2048,catalog,Erdős Problem #322,unsolvedmath-1.1.0,,open
+unsolvedmath-2049,catalog,Erdős Problem #323,unsolvedmath-1.1.0,,open
+unsolvedmath-2050,catalog,Erdős Problem #324,unsolvedmath-1.1.0,,open
+unsolvedmath-2051,catalog,Erdős Problem #325,unsolvedmath-1.1.0,,open
+unsolvedmath-2052,catalog,Erdős Problem #326,unsolvedmath-1.1.0,,open
+unsolvedmath-2053,catalog,Erdős Problem #327,unsolvedmath-1.1.0,,open
+unsolvedmath-2054,catalog,Erdős Problem #329,unsolvedmath-1.1.0,,open
+unsolvedmath-2055,catalog,Erdős Problem #330,unsolvedmath-1.1.0,,open
+unsolvedmath-2056,catalog,Erdős Problem #332,unsolvedmath-1.1.0,,open
+unsolvedmath-2057,catalog,Erdős Problem #334,unsolvedmath-1.1.0,,open
+unsolvedmath-2058,catalog,Erdős Problem #335,unsolvedmath-1.1.0,,open
+unsolvedmath-2059,catalog,Erdős Problem #336,unsolvedmath-1.1.0,,open
+unsolvedmath-2060,catalog,Erdős Problem #338,unsolvedmath-1.1.0,,open
+unsolvedmath-2061,catalog,Erdős Problem #340,unsolvedmath-1.1.0,,open
+unsolvedmath-2062,catalog,Erdős Problem #341,unsolvedmath-1.1.0,,open
+unsolvedmath-2063,catalog,Erdős Problem #342,unsolvedmath-1.1.0,,open
+unsolvedmath-2064,catalog,Erdős Problem #345,unsolvedmath-1.1.0,,open
+unsolvedmath-2065,catalog,Erdős Problem #346,unsolvedmath-1.1.0,,open
+unsolvedmath-2066,catalog,Erdős Problem #348,unsolvedmath-1.1.0,,open
+unsolvedmath-2067,catalog,Erdős Problem #349,unsolvedmath-1.1.0,,open
+unsolvedmath-2068,catalog,Erdős Problem #351,unsolvedmath-1.1.0,,open
+unsolvedmath-2069,catalog,Erdős Problem #352,unsolvedmath-1.1.0,,open
+unsolvedmath-2070,catalog,Erdős Problem #354,unsolvedmath-1.1.0,,open
+unsolvedmath-2071,catalog,Erdős Problem #357,unsolvedmath-1.1.0,,open
+unsolvedmath-2072,catalog,Erdős Problem #358,unsolvedmath-1.1.0,,open
+unsolvedmath-2073,catalog,Erdős Problem #359,unsolvedmath-1.1.0,,open
+unsolvedmath-2074,catalog,Erdős Problem #361,unsolvedmath-1.1.0,,open
+unsolvedmath-2075,catalog,Erdős Problem #365,unsolvedmath-1.1.0,,open
+unsolvedmath-2076,catalog,Erdős Problem #367,unsolvedmath-1.1.0,,open
+unsolvedmath-2077,catalog,Erdős Problem #368,unsolvedmath-1.1.0,,open
+unsolvedmath-2078,catalog,Erdős Problem #369,unsolvedmath-1.1.0,,open
+unsolvedmath-2079,catalog,Erdős Problem #371,unsolvedmath-1.1.0,,open
+unsolvedmath-2080,catalog,Erdős Problem #373,unsolvedmath-1.1.0,,open
+unsolvedmath-2081,catalog,Erdős Problem #374,unsolvedmath-1.1.0,,open
+unsolvedmath-2082,catalog,Erdős Problem #376,unsolvedmath-1.1.0,,open
+unsolvedmath-2083,catalog,Erdős Problem #377,unsolvedmath-1.1.0,,open
+unsolvedmath-2084,catalog,Erdős Problem #380,unsolvedmath-1.1.0,,open
+unsolvedmath-2085,catalog,Erdős Problem #382,unsolvedmath-1.1.0,,open
+unsolvedmath-2086,catalog,Erdős Problem #383,unsolvedmath-1.1.0,,open
+unsolvedmath-2087,catalog,Erdős Problem #385,unsolvedmath-1.1.0,,open
+unsolvedmath-2088,catalog,Erdős Problem #386,unsolvedmath-1.1.0,,open
+unsolvedmath-2089,catalog,Erdős Problem #387,unsolvedmath-1.1.0,,open
+unsolvedmath-2090,catalog,Erdős Problem #388,unsolvedmath-1.1.0,,open
+unsolvedmath-2091,catalog,Erdős Problem #389,unsolvedmath-1.1.0,,open
+unsolvedmath-2092,catalog,Erdős Problem #390,unsolvedmath-1.1.0,,open
+unsolvedmath-2093,catalog,Erdős Problem #393,unsolvedmath-1.1.0,,open
+unsolvedmath-2094,catalog,Erdős Problem #394,unsolvedmath-1.1.0,,open
+unsolvedmath-2095,catalog,Erdős Problem #396,unsolvedmath-1.1.0,,open
+unsolvedmath-2096,catalog,Erdős Problem #400,unsolvedmath-1.1.0,,open
+unsolvedmath-2097,catalog,Erdős Problem #404,unsolvedmath-1.1.0,,open
+unsolvedmath-2098,catalog,Erdős Problem #406,unsolvedmath-1.1.0,,open
+unsolvedmath-2099,catalog,Erdős Problem #408,unsolvedmath-1.1.0,,open
+unsolvedmath-2100,catalog,Erdős Problem #409,unsolvedmath-1.1.0,,open
+unsolvedmath-2101,catalog,Erdős Problem #410,unsolvedmath-1.1.0,,open
+unsolvedmath-2102,catalog,Erdős Problem #411,unsolvedmath-1.1.0,,open
+unsolvedmath-2103,catalog,Erdős Problem #412,unsolvedmath-1.1.0,,open
+unsolvedmath-2104,catalog,Erdős Problem #413,unsolvedmath-1.1.0,,open
+unsolvedmath-2105,catalog,Erdős Problem #414,unsolvedmath-1.1.0,,open
+unsolvedmath-2106,catalog,Erdős Problem #415,unsolvedmath-1.1.0,,open
+unsolvedmath-2107,catalog,Erdős Problem #416,unsolvedmath-1.1.0,,open
+unsolvedmath-2108,catalog,Erdős Problem #417,unsolvedmath-1.1.0,,open
+unsolvedmath-2109,catalog,Erdős Problem #420,unsolvedmath-1.1.0,,open
+unsolvedmath-2110,catalog,Erdős Problem #421,unsolvedmath-1.1.0,,open
+unsolvedmath-2111,catalog,Erdős Problem #422,unsolvedmath-1.1.0,,open
+unsolvedmath-2112,catalog,Erdős Problem #423,unsolvedmath-1.1.0,,open
+unsolvedmath-2113,catalog,Erdős Problem #424,unsolvedmath-1.1.0,,open
+unsolvedmath-2114,catalog,Erdős Problem #425,unsolvedmath-1.1.0,,open
+unsolvedmath-2115,catalog,Erdős Problem #428,unsolvedmath-1.1.0,,open
+unsolvedmath-2116,catalog,Erdős Problem #430,unsolvedmath-1.1.0,,open
+unsolvedmath-2117,catalog,Erdős Problem #431,unsolvedmath-1.1.0,,open
+unsolvedmath-2118,catalog,Erdős Problem #432,unsolvedmath-1.1.0,,open
+unsolvedmath-2119,catalog,Erdős Problem #436,unsolvedmath-1.1.0,,open
+unsolvedmath-2120,catalog,Erdős Problem #445,unsolvedmath-1.1.0,,open
+unsolvedmath-2121,catalog,Erdős Problem #450,unsolvedmath-1.1.0,,open
+unsolvedmath-2122,catalog,Erdős Problem #451,unsolvedmath-1.1.0,,open
+unsolvedmath-2123,catalog,Erdős Problem #452,unsolvedmath-1.1.0,,open
+unsolvedmath-2124,catalog,Erdős Problem #454,unsolvedmath-1.1.0,,open
+unsolvedmath-2125,catalog,Erdős Problem #455,unsolvedmath-1.1.0,,open
+unsolvedmath-2126,catalog,Erdős Problem #456,unsolvedmath-1.1.0,,open
+unsolvedmath-2127,catalog,Erdős Problem #457,unsolvedmath-1.1.0,,open
+unsolvedmath-2128,catalog,Erdős Problem #460,unsolvedmath-1.1.0,,open
+unsolvedmath-2129,catalog,Erdős Problem #461,unsolvedmath-1.1.0,,open
+unsolvedmath-2130,catalog,Erdős Problem #462,unsolvedmath-1.1.0,,open
+unsolvedmath-2131,catalog,Erdős Problem #463,unsolvedmath-1.1.0,,open
+unsolvedmath-2132,catalog,Erdős Problem #467,unsolvedmath-1.1.0,,open
+unsolvedmath-2133,catalog,Erdős Problem #468,unsolvedmath-1.1.0,,open
+unsolvedmath-2134,catalog,Erdős Problem #469,unsolvedmath-1.1.0,,open
+unsolvedmath-2135,catalog,Erdős Problem #470,unsolvedmath-1.1.0,,open
+unsolvedmath-2136,catalog,Erdős Problem #472,unsolvedmath-1.1.0,,open
+unsolvedmath-2137,catalog,Erdős Problem #477,unsolvedmath-1.1.0,,open
+unsolvedmath-2138,catalog,Erdős Problem #478,unsolvedmath-1.1.0,,open
+unsolvedmath-2139,catalog,Erdős Problem #479,unsolvedmath-1.1.0,,open
+unsolvedmath-2140,catalog,Erdős Problem #483,unsolvedmath-1.1.0,,open
+unsolvedmath-2141,catalog,Erdős Problem #486,unsolvedmath-1.1.0,,open
+unsolvedmath-2142,catalog,Erdős Problem #488,unsolvedmath-1.1.0,,open
+unsolvedmath-2143,catalog,Erdős Problem #489,unsolvedmath-1.1.0,,open
+unsolvedmath-2144,catalog,Erdős Problem #495,unsolvedmath-1.1.0,,open
+unsolvedmath-2145,catalog,Erdős Problem #500,unsolvedmath-1.1.0,,open
+unsolvedmath-2146,catalog,Erdős Problem #501,unsolvedmath-1.1.0,,open
+unsolvedmath-2147,catalog,Erdős Problem #503,unsolvedmath-1.1.0,,open
+unsolvedmath-2148,catalog,Erdős Problem #507,unsolvedmath-1.1.0,,open
+unsolvedmath-2149,catalog,Erdős Problem #508,unsolvedmath-1.1.0,,open
+unsolvedmath-2150,catalog,Erdős Problem #509,unsolvedmath-1.1.0,,open
+unsolvedmath-2151,catalog,Erdős Problem #510,unsolvedmath-1.1.0,,open
+unsolvedmath-2152,catalog,Erdős Problem #513,unsolvedmath-1.1.0,,open
+unsolvedmath-2153,catalog,Erdős Problem #514,unsolvedmath-1.1.0,,open
+unsolvedmath-2154,catalog,Erdős Problem #517,unsolvedmath-1.1.0,,open
+unsolvedmath-2155,catalog,Erdős Problem #520,unsolvedmath-1.1.0,,open
+unsolvedmath-2156,catalog,Erdős Problem #521,unsolvedmath-1.1.0,,open
+unsolvedmath-2157,catalog,Erdős Problem #522,unsolvedmath-1.1.0,,open
+unsolvedmath-2158,catalog,Erdős Problem #524,unsolvedmath-1.1.0,,open
+unsolvedmath-2159,catalog,Erdős Problem #528,unsolvedmath-1.1.0,,open
+unsolvedmath-2160,catalog,Erdős Problem #529,unsolvedmath-1.1.0,,open
+unsolvedmath-2161,catalog,Erdős Problem #530,unsolvedmath-1.1.0,,open
+unsolvedmath-2162,catalog,Erdős Problem #531,unsolvedmath-1.1.0,,open
+unsolvedmath-2163,catalog,Erdős Problem #533,unsolvedmath-1.1.0,,open
+unsolvedmath-2164,catalog,Erdős Problem #535,unsolvedmath-1.1.0,,open
+unsolvedmath-2165,catalog,Erdős Problem #536,unsolvedmath-1.1.0,,open
+unsolvedmath-2166,catalog,Erdős Problem #538,unsolvedmath-1.1.0,,open
+unsolvedmath-2167,catalog,Erdős Problem #539,unsolvedmath-1.1.0,,open
+unsolvedmath-2168,catalog,Erdős Problem #543,unsolvedmath-1.1.0,,open
+unsolvedmath-2169,catalog,Erdős Problem #544,unsolvedmath-1.1.0,,open
+unsolvedmath-2170,catalog,Erdős Problem #545,unsolvedmath-1.1.0,,open
+unsolvedmath-2171,catalog,Erdős Problem #550,unsolvedmath-1.1.0,,open
+unsolvedmath-2172,catalog,Erdős Problem #552,unsolvedmath-1.1.0,,open
+unsolvedmath-2173,catalog,Erdős Problem #554,unsolvedmath-1.1.0,,open
+unsolvedmath-2174,catalog,Erdős Problem #555,unsolvedmath-1.1.0,,open
+unsolvedmath-2175,catalog,Erdős Problem #557,unsolvedmath-1.1.0,,open
+unsolvedmath-2176,catalog,Erdős Problem #558,unsolvedmath-1.1.0,,open
+unsolvedmath-2177,catalog,Erdős Problem #560,unsolvedmath-1.1.0,,open
+unsolvedmath-2178,catalog,Erdős Problem #561,unsolvedmath-1.1.0,,open
+unsolvedmath-2179,catalog,Erdős Problem #562,unsolvedmath-1.1.0,,open
+unsolvedmath-2180,catalog,Erdős Problem #563,unsolvedmath-1.1.0,,open
+unsolvedmath-2181,catalog,Erdős Problem #564,unsolvedmath-1.1.0,,open
+unsolvedmath-2182,catalog,Erdős Problem #566,unsolvedmath-1.1.0,,open
+unsolvedmath-2183,catalog,Erdős Problem #567,unsolvedmath-1.1.0,,open
+unsolvedmath-2184,catalog,Erdős Problem #568,unsolvedmath-1.1.0,,open
+unsolvedmath-2185,catalog,Erdős Problem #569,unsolvedmath-1.1.0,,open
+unsolvedmath-2186,catalog,Erdős Problem #571,unsolvedmath-1.1.0,,open
+unsolvedmath-2187,catalog,Erdős Problem #572,unsolvedmath-1.1.0,,open
+unsolvedmath-2188,catalog,Erdős Problem #573,unsolvedmath-1.1.0,,open
+unsolvedmath-2189,catalog,Erdős Problem #574,unsolvedmath-1.1.0,,open
+unsolvedmath-2190,catalog,Erdős Problem #575,unsolvedmath-1.1.0,,open
+unsolvedmath-2191,catalog,Erdős Problem #576,unsolvedmath-1.1.0,,open
+unsolvedmath-2192,catalog,Erdős Problem #579,unsolvedmath-1.1.0,,open
+unsolvedmath-2193,catalog,Erdős Problem #584,unsolvedmath-1.1.0,,open
+unsolvedmath-2194,catalog,Erdős Problem #585,unsolvedmath-1.1.0,,open
+unsolvedmath-2195,catalog,Erdős Problem #588,unsolvedmath-1.1.0,,open
+unsolvedmath-2196,catalog,Erdős Problem #589,unsolvedmath-1.1.0,,open
+unsolvedmath-2197,catalog,Erdős Problem #591,unsolvedmath-1.1.0,,open
+unsolvedmath-2198,catalog,Erdős Problem #592,unsolvedmath-1.1.0,,open
+unsolvedmath-2199,catalog,Erdős Problem #593,unsolvedmath-1.1.0,,open
+unsolvedmath-2200,catalog,Erdős Problem #595,unsolvedmath-1.1.0,,open
+unsolvedmath-2201,catalog,Erdős Problem #596,unsolvedmath-1.1.0,,open
+unsolvedmath-2202,catalog,Erdős Problem #597,unsolvedmath-1.1.0,,open
+unsolvedmath-2203,catalog,Erdős Problem #598,unsolvedmath-1.1.0,,open
+unsolvedmath-2204,catalog,Erdős Problem #600,unsolvedmath-1.1.0,,open
+unsolvedmath-2205,catalog,Erdős Problem #601,unsolvedmath-1.1.0,,open
+unsolvedmath-2206,catalog,Erdős Problem #602,unsolvedmath-1.1.0,,open
+unsolvedmath-2207,catalog,Erdős Problem #603,unsolvedmath-1.1.0,,open
+unsolvedmath-2208,catalog,Erdős Problem #604,unsolvedmath-1.1.0,,open
+unsolvedmath-2209,catalog,Erdős Problem #609,unsolvedmath-1.1.0,,open
+unsolvedmath-2210,catalog,Erdős Problem #610,unsolvedmath-1.1.0,,open
+unsolvedmath-2211,catalog,Erdős Problem #611,unsolvedmath-1.1.0,,open
+unsolvedmath-2212,catalog,Erdős Problem #612,unsolvedmath-1.1.0,,open
+unsolvedmath-2213,catalog,Erdős Problem #614,unsolvedmath-1.1.0,,open
+unsolvedmath-2214,catalog,Erdős Problem #616,unsolvedmath-1.1.0,,open
+unsolvedmath-2215,catalog,Erdős Problem #619,unsolvedmath-1.1.0,,open
+unsolvedmath-2216,catalog,Erdős Problem #620,unsolvedmath-1.1.0,,open
+unsolvedmath-2217,catalog,Erdős Problem #623,unsolvedmath-1.1.0,,open
+unsolvedmath-2218,catalog,Erdős Problem #624,unsolvedmath-1.1.0,,open
+unsolvedmath-2219,catalog,Erdős Problem #625,unsolvedmath-1.1.0,,open
+unsolvedmath-2220,catalog,Erdős Problem #626,unsolvedmath-1.1.0,,open
+unsolvedmath-2221,catalog,Erdős Problem #627,unsolvedmath-1.1.0,,open
+unsolvedmath-2222,catalog,Erdős Problem #629,unsolvedmath-1.1.0,,open
+unsolvedmath-2223,catalog,Erdős Problem #633,unsolvedmath-1.1.0,,open
+unsolvedmath-2224,catalog,Erdős Problem #634,unsolvedmath-1.1.0,,open
+unsolvedmath-2225,catalog,Erdős Problem #635,unsolvedmath-1.1.0,,open
+unsolvedmath-2226,catalog,Erdős Problem #638,unsolvedmath-1.1.0,,open
+unsolvedmath-2227,catalog,Erdős Problem #640,unsolvedmath-1.1.0,,open
+unsolvedmath-2228,catalog,Erdős Problem #642,unsolvedmath-1.1.0,,open
+unsolvedmath-2229,catalog,Erdős Problem #643,unsolvedmath-1.1.0,,open
+unsolvedmath-2230,catalog,Erdős Problem #644,unsolvedmath-1.1.0,,open
+unsolvedmath-2231,catalog,Erdős Problem #650,unsolvedmath-1.1.0,,open
+unsolvedmath-2232,catalog,Erdős Problem #652,unsolvedmath-1.1.0,,open
+unsolvedmath-2233,catalog,Erdős Problem #653,unsolvedmath-1.1.0,,open
+unsolvedmath-2234,catalog,Erdős Problem #654,unsolvedmath-1.1.0,,open
+unsolvedmath-2235,catalog,Erdős Problem #655,unsolvedmath-1.1.0,,open
+unsolvedmath-2236,catalog,Erdős Problem #657,unsolvedmath-1.1.0,,open
+unsolvedmath-2237,catalog,Erdős Problem #660,unsolvedmath-1.1.0,,open
+unsolvedmath-2238,catalog,Erdős Problem #661,unsolvedmath-1.1.0,,open
+unsolvedmath-2239,catalog,Erdős Problem #662,unsolvedmath-1.1.0,,open
+unsolvedmath-2240,catalog,Erdős Problem #663,unsolvedmath-1.1.0,,open
+unsolvedmath-2241,catalog,Erdős Problem #665,unsolvedmath-1.1.0,,open
+unsolvedmath-2242,catalog,Erdős Problem #667,unsolvedmath-1.1.0,,open
+unsolvedmath-2243,catalog,Erdős Problem #668,unsolvedmath-1.1.0,,open
+unsolvedmath-2244,catalog,Erdős Problem #669,unsolvedmath-1.1.0,,open
+unsolvedmath-2245,catalog,Erdős Problem #670,unsolvedmath-1.1.0,,open
+unsolvedmath-2246,catalog,Erdős Problem #671,unsolvedmath-1.1.0,,open
+unsolvedmath-2247,catalog,Erdős Problem #675,unsolvedmath-1.1.0,,open
+unsolvedmath-2248,catalog,Erdős Problem #676,unsolvedmath-1.1.0,,open
+unsolvedmath-2249,catalog,Erdős Problem #677,unsolvedmath-1.1.0,,open
+unsolvedmath-2250,catalog,Erdős Problem #679,unsolvedmath-1.1.0,,open
+unsolvedmath-2251,catalog,Erdős Problem #680,unsolvedmath-1.1.0,,open
+unsolvedmath-2252,catalog,Erdős Problem #681,unsolvedmath-1.1.0,,open
+unsolvedmath-2253,catalog,Erdős Problem #683,unsolvedmath-1.1.0,,open
+unsolvedmath-2254,catalog,Erdős Problem #684,unsolvedmath-1.1.0,,open
+unsolvedmath-2255,catalog,Erdős Problem #685,unsolvedmath-1.1.0,,open
+unsolvedmath-2256,catalog,Erdős Problem #686,unsolvedmath-1.1.0,,open
+unsolvedmath-2257,catalog,Erdős Problem #687,unsolvedmath-1.1.0,,open
+unsolvedmath-2258,catalog,Erdős Problem #688,unsolvedmath-1.1.0,,open
+unsolvedmath-2259,catalog,Erdős Problem #689,unsolvedmath-1.1.0,,open
+unsolvedmath-2260,catalog,Erdős Problem #690,unsolvedmath-1.1.0,,open
+unsolvedmath-2261,catalog,Erdős Problem #691,unsolvedmath-1.1.0,,open
+unsolvedmath-2262,catalog,Erdős Problem #693,unsolvedmath-1.1.0,,open
+unsolvedmath-2263,catalog,Erdős Problem #694,unsolvedmath-1.1.0,,open
+unsolvedmath-2264,catalog,Erdős Problem #695,unsolvedmath-1.1.0,,open
+unsolvedmath-2265,catalog,Erdős Problem #696,unsolvedmath-1.1.0,,open
+unsolvedmath-2266,catalog,Erdős Problem #700,unsolvedmath-1.1.0,,open
+unsolvedmath-2267,catalog,Erdős Problem #701,unsolvedmath-1.1.0,,open
+unsolvedmath-2268,catalog,Erdős Problem #704,unsolvedmath-1.1.0,,open
+unsolvedmath-2269,catalog,Erdős Problem #705,unsolvedmath-1.1.0,,open
+unsolvedmath-2270,catalog,Erdős Problem #706,unsolvedmath-1.1.0,,open
+unsolvedmath-2271,catalog,Erdős Problem #708,unsolvedmath-1.1.0,,open
+unsolvedmath-2272,catalog,Erdős Problem #709,unsolvedmath-1.1.0,,open
+unsolvedmath-2273,catalog,Erdős Problem #710,unsolvedmath-1.1.0,,open
+unsolvedmath-2274,catalog,Erdős Problem #711,unsolvedmath-1.1.0,,open
+unsolvedmath-2275,catalog,Erdős Problem #712,unsolvedmath-1.1.0,,open
+unsolvedmath-2276,catalog,Erdős Problem #713,unsolvedmath-1.1.0,,open
+unsolvedmath-2277,catalog,Erdős Problem #714,unsolvedmath-1.1.0,,open
+unsolvedmath-2278,catalog,Erdős Problem #719,unsolvedmath-1.1.0,,open
+unsolvedmath-2279,catalog,Erdős Problem #724,unsolvedmath-1.1.0,,open
+unsolvedmath-2280,catalog,Erdős Problem #725,unsolvedmath-1.1.0,,open
+unsolvedmath-2281,catalog,Erdős Problem #726,unsolvedmath-1.1.0,,open
+unsolvedmath-2282,catalog,Erdős Problem #727,unsolvedmath-1.1.0,,open
+unsolvedmath-2283,catalog,Erdős Problem #730,unsolvedmath-1.1.0,,open
+unsolvedmath-2284,catalog,Erdős Problem #731,unsolvedmath-1.1.0,,open
+unsolvedmath-2285,catalog,Erdős Problem #734,unsolvedmath-1.1.0,,open
+unsolvedmath-2286,catalog,Erdős Problem #738,unsolvedmath-1.1.0,,open
+unsolvedmath-2287,catalog,Erdős Problem #740,unsolvedmath-1.1.0,,open
+unsolvedmath-2288,catalog,Erdős Problem #741,unsolvedmath-1.1.0,,open
+unsolvedmath-2289,catalog,Erdős Problem #749,unsolvedmath-1.1.0,,open
+unsolvedmath-2290,catalog,Erdős Problem #750,unsolvedmath-1.1.0,,open
+unsolvedmath-2291,catalog,Erdős Problem #757,unsolvedmath-1.1.0,,open
+unsolvedmath-2292,catalog,Erdős Problem #761,unsolvedmath-1.1.0,,open
+unsolvedmath-2293,catalog,Erdős Problem #766,unsolvedmath-1.1.0,,open
+unsolvedmath-2294,catalog,Erdős Problem #768,unsolvedmath-1.1.0,,open
+unsolvedmath-2295,catalog,Erdős Problem #769,unsolvedmath-1.1.0,,open
+unsolvedmath-2296,catalog,Erdős Problem #770,unsolvedmath-1.1.0,,open
+unsolvedmath-2297,catalog,Erdős Problem #773,unsolvedmath-1.1.0,,open
+unsolvedmath-2298,catalog,Erdős Problem #774,unsolvedmath-1.1.0,,open
+unsolvedmath-2299,catalog,Erdős Problem #776,unsolvedmath-1.1.0,,open
+unsolvedmath-2300,catalog,Erdős Problem #778,unsolvedmath-1.1.0,,open
+unsolvedmath-2301,catalog,Erdős Problem #782,unsolvedmath-1.1.0,,open
+unsolvedmath-2302,catalog,Erdős Problem #783,unsolvedmath-1.1.0,,open
+unsolvedmath-2303,catalog,Erdős Problem #786,unsolvedmath-1.1.0,,open
+unsolvedmath-2304,catalog,Erdős Problem #787,unsolvedmath-1.1.0,,open
+unsolvedmath-2305,catalog,Erdős Problem #788,unsolvedmath-1.1.0,,open
+unsolvedmath-2306,catalog,Erdős Problem #789,unsolvedmath-1.1.0,,open
+unsolvedmath-2307,catalog,Erdős Problem #790,unsolvedmath-1.1.0,,open
+unsolvedmath-2308,catalog,Erdős Problem #791,unsolvedmath-1.1.0,,open
+unsolvedmath-2309,catalog,Erdős Problem #792,unsolvedmath-1.1.0,,open
+unsolvedmath-2310,catalog,Erdős Problem #793,unsolvedmath-1.1.0,,open
+unsolvedmath-2311,catalog,Erdős Problem #796,unsolvedmath-1.1.0,,open
+unsolvedmath-2312,catalog,Erdős Problem #802,unsolvedmath-1.1.0,,open
+unsolvedmath-2313,catalog,Erdős Problem #805,unsolvedmath-1.1.0,,open
+unsolvedmath-2314,catalog,Erdős Problem #809,unsolvedmath-1.1.0,,open
+unsolvedmath-2315,catalog,Erdős Problem #810,unsolvedmath-1.1.0,,open
+unsolvedmath-2316,catalog,Erdős Problem #811,unsolvedmath-1.1.0,,open
+unsolvedmath-2317,catalog,Erdős Problem #812,unsolvedmath-1.1.0,,open
+unsolvedmath-2318,catalog,Erdős Problem #813,unsolvedmath-1.1.0,,open
+unsolvedmath-2319,catalog,Erdős Problem #817,unsolvedmath-1.1.0,,open
+unsolvedmath-2320,catalog,Erdős Problem #819,unsolvedmath-1.1.0,,open
+unsolvedmath-2321,catalog,Erdős Problem #820,unsolvedmath-1.1.0,,open
+unsolvedmath-2322,catalog,Erdős Problem #821,unsolvedmath-1.1.0,,open
+unsolvedmath-2323,catalog,Erdős Problem #824,unsolvedmath-1.1.0,,open
+unsolvedmath-2324,catalog,Erdős Problem #825,unsolvedmath-1.1.0,,open
+unsolvedmath-2325,catalog,Erdős Problem #826,unsolvedmath-1.1.0,,open
+unsolvedmath-2326,catalog,Erdős Problem #827,unsolvedmath-1.1.0,,open
+unsolvedmath-2327,catalog,Erdős Problem #828,unsolvedmath-1.1.0,,open
+unsolvedmath-2328,catalog,Erdős Problem #829,unsolvedmath-1.1.0,,open
+unsolvedmath-2329,catalog,Erdős Problem #830,unsolvedmath-1.1.0,,open
+unsolvedmath-2330,catalog,Erdős Problem #831,unsolvedmath-1.1.0,,open
+unsolvedmath-2331,catalog,Erdős Problem #836,unsolvedmath-1.1.0,,open
+unsolvedmath-2332,catalog,Erdős Problem #837,unsolvedmath-1.1.0,,open
+unsolvedmath-2333,catalog,Erdős Problem #838,unsolvedmath-1.1.0,,open
+unsolvedmath-2334,catalog,Erdős Problem #839,unsolvedmath-1.1.0,,open
+unsolvedmath-2335,catalog,Erdős Problem #840,unsolvedmath-1.1.0,,open
+unsolvedmath-2336,catalog,Erdős Problem #846,unsolvedmath-1.1.0,,open
+unsolvedmath-2337,catalog,Erdős Problem #847,unsolvedmath-1.1.0,,open
+unsolvedmath-2338,catalog,Erdős Problem #849,unsolvedmath-1.1.0,,open
+unsolvedmath-2339,catalog,Erdős Problem #850,unsolvedmath-1.1.0,,open
+unsolvedmath-2340,catalog,Erdős Problem #851,unsolvedmath-1.1.0,,open
+unsolvedmath-2341,catalog,Erdős Problem #852,unsolvedmath-1.1.0,,open
+unsolvedmath-2342,catalog,Erdős Problem #853,unsolvedmath-1.1.0,,open
+unsolvedmath-2343,catalog,Erdős Problem #854,unsolvedmath-1.1.0,,open
+unsolvedmath-2344,catalog,Erdős Problem #856,unsolvedmath-1.1.0,,open
+unsolvedmath-2345,catalog,Erdős Problem #857,unsolvedmath-1.1.0,,open
+unsolvedmath-2346,catalog,Erdős Problem #858,unsolvedmath-1.1.0,,open
+unsolvedmath-2347,catalog,Erdős Problem #859,unsolvedmath-1.1.0,,open
+unsolvedmath-2348,catalog,Erdős Problem #860,unsolvedmath-1.1.0,,open
+unsolvedmath-2349,catalog,Erdős Problem #863,unsolvedmath-1.1.0,,open
+unsolvedmath-2350,catalog,Erdős Problem #864,unsolvedmath-1.1.0,,open
+unsolvedmath-2351,catalog,Erdős Problem #865,unsolvedmath-1.1.0,,open
+unsolvedmath-2352,catalog,Erdős Problem #866,unsolvedmath-1.1.0,,open
+unsolvedmath-2353,catalog,Erdős Problem #869,unsolvedmath-1.1.0,,open
+unsolvedmath-2354,catalog,Erdős Problem #870,unsolvedmath-1.1.0,,open
+unsolvedmath-2355,catalog,Erdős Problem #872,unsolvedmath-1.1.0,,open
+unsolvedmath-2356,catalog,Erdős Problem #873,unsolvedmath-1.1.0,,open
+unsolvedmath-2357,catalog,Erdős Problem #875,unsolvedmath-1.1.0,,open
+unsolvedmath-2358,catalog,Erdős Problem #876,unsolvedmath-1.1.0,,open
+unsolvedmath-2359,catalog,Erdős Problem #878,unsolvedmath-1.1.0,,open
+unsolvedmath-2360,catalog,Erdős Problem #879,unsolvedmath-1.1.0,,open
+unsolvedmath-2361,catalog,Erdős Problem #881,unsolvedmath-1.1.0,,open
+unsolvedmath-2362,catalog,Erdős Problem #883,unsolvedmath-1.1.0,,open
+unsolvedmath-2363,catalog,Erdős Problem #884,unsolvedmath-1.1.0,,open
+unsolvedmath-2364,catalog,Erdős Problem #885,unsolvedmath-1.1.0,,open
+unsolvedmath-2365,catalog,Erdős Problem #886,unsolvedmath-1.1.0,,open
+unsolvedmath-2366,catalog,Erdős Problem #887,unsolvedmath-1.1.0,,open
+unsolvedmath-2367,catalog,Erdős Problem #888,unsolvedmath-1.1.0,,open
+unsolvedmath-2368,catalog,Erdős Problem #889,unsolvedmath-1.1.0,,open
+unsolvedmath-2369,catalog,Erdős Problem #890,unsolvedmath-1.1.0,,open
+unsolvedmath-2370,catalog,Erdős Problem #891,unsolvedmath-1.1.0,,open
+unsolvedmath-2371,catalog,Erdős Problem #892,unsolvedmath-1.1.0,,open
+unsolvedmath-2372,catalog,Erdős Problem #893,unsolvedmath-1.1.0,,open
+unsolvedmath-2373,catalog,Erdős Problem #896,unsolvedmath-1.1.0,,open
+unsolvedmath-2374,catalog,Erdős Problem #901,unsolvedmath-1.1.0,,open
+unsolvedmath-2375,catalog,Erdős Problem #902,unsolvedmath-1.1.0,,open
+unsolvedmath-2376,catalog,Erdős Problem #906,unsolvedmath-1.1.0,,open
+unsolvedmath-2377,catalog,Erdős Problem #911,unsolvedmath-1.1.0,,open
+unsolvedmath-2378,catalog,Erdős Problem #912,unsolvedmath-1.1.0,,open
+unsolvedmath-2379,catalog,Erdős Problem #913,unsolvedmath-1.1.0,,open
+unsolvedmath-2380,catalog,Erdős Problem #917,unsolvedmath-1.1.0,,open
+unsolvedmath-2381,catalog,Erdős Problem #918,unsolvedmath-1.1.0,,open
+unsolvedmath-2382,catalog,Erdős Problem #919,unsolvedmath-1.1.0,,open
+unsolvedmath-2383,catalog,Erdős Problem #920,unsolvedmath-1.1.0,,open
+unsolvedmath-2384,catalog,Erdős Problem #928,unsolvedmath-1.1.0,,open
+unsolvedmath-2385,catalog,Erdős Problem #929,unsolvedmath-1.1.0,,open
+unsolvedmath-2386,catalog,Erdős Problem #930,unsolvedmath-1.1.0,,open
+unsolvedmath-2387,catalog,Erdős Problem #931,unsolvedmath-1.1.0,,open
+unsolvedmath-2388,catalog,Erdős Problem #932,unsolvedmath-1.1.0,,open
+unsolvedmath-2389,catalog,Erdős Problem #933,unsolvedmath-1.1.0,,open
+unsolvedmath-2390,catalog,Erdős Problem #934,unsolvedmath-1.1.0,,open
+unsolvedmath-2391,catalog,Erdős Problem #935,unsolvedmath-1.1.0,,open
+unsolvedmath-2392,catalog,Erdős Problem #936,unsolvedmath-1.1.0,,open
+unsolvedmath-2393,catalog,Erdős Problem #938,unsolvedmath-1.1.0,,open
+unsolvedmath-2394,catalog,Erdős Problem #939,unsolvedmath-1.1.0,,open
+unsolvedmath-2395,catalog,Erdős Problem #940,unsolvedmath-1.1.0,,open
+unsolvedmath-2396,catalog,Erdős Problem #942,unsolvedmath-1.1.0,,open
+unsolvedmath-2397,catalog,Erdős Problem #943,unsolvedmath-1.1.0,,open
+unsolvedmath-2398,catalog,Erdős Problem #944,unsolvedmath-1.1.0,,open
+unsolvedmath-2399,catalog,Erdős Problem #945,unsolvedmath-1.1.0,,open
+unsolvedmath-2400,catalog,Erdős Problem #948,unsolvedmath-1.1.0,,open
+unsolvedmath-2401,catalog,Erdős Problem #949,unsolvedmath-1.1.0,,open
+unsolvedmath-2402,catalog,Erdős Problem #950,unsolvedmath-1.1.0,,open
+unsolvedmath-2403,catalog,Erdős Problem #951,unsolvedmath-1.1.0,,open
+unsolvedmath-2404,catalog,Erdős Problem #952,unsolvedmath-1.1.0,,open
+unsolvedmath-2405,catalog,Erdős Problem #953,unsolvedmath-1.1.0,,open
+unsolvedmath-2406,catalog,Erdős Problem #954,unsolvedmath-1.1.0,,open
+unsolvedmath-2407,catalog,Erdős Problem #955,unsolvedmath-1.1.0,,open
+unsolvedmath-2408,catalog,Erdős Problem #956,unsolvedmath-1.1.0,,open
+unsolvedmath-2409,catalog,Erdős Problem #959,unsolvedmath-1.1.0,,open
+unsolvedmath-2410,catalog,Erdős Problem #960,unsolvedmath-1.1.0,,open
+unsolvedmath-2411,catalog,Erdős Problem #961,unsolvedmath-1.1.0,,open
+unsolvedmath-2412,catalog,Erdős Problem #962,unsolvedmath-1.1.0,,open
+unsolvedmath-2413,catalog,Erdős Problem #963,unsolvedmath-1.1.0,,open
+unsolvedmath-2414,catalog,Erdős Problem #968,unsolvedmath-1.1.0,,open
+unsolvedmath-2415,catalog,Erdős Problem #969,unsolvedmath-1.1.0,,open
+unsolvedmath-2416,catalog,Erdős Problem #970,unsolvedmath-1.1.0,,open
+unsolvedmath-2417,catalog,Erdős Problem #971,unsolvedmath-1.1.0,,open
+unsolvedmath-2418,catalog,Erdős Problem #972,unsolvedmath-1.1.0,,open
+unsolvedmath-2419,catalog,Erdős Problem #973,unsolvedmath-1.1.0,,open
+unsolvedmath-2420,catalog,Erdős Problem #975,unsolvedmath-1.1.0,,open
+unsolvedmath-2421,catalog,Erdős Problem #976,unsolvedmath-1.1.0,,open
+unsolvedmath-2422,catalog,Erdős Problem #978,unsolvedmath-1.1.0,,open
+unsolvedmath-2423,catalog,Erdős Problem #979,unsolvedmath-1.1.0,,open
+unsolvedmath-2424,catalog,Erdős Problem #983,unsolvedmath-1.1.0,,open
+unsolvedmath-2425,catalog,Erdős Problem #985,unsolvedmath-1.1.0,,open
+unsolvedmath-2426,catalog,Erdős Problem #986,unsolvedmath-1.1.0,,open
+unsolvedmath-2427,catalog,Erdős Problem #987,unsolvedmath-1.1.0,,open
+unsolvedmath-2428,catalog,Erdős Problem #990,unsolvedmath-1.1.0,,open
+unsolvedmath-2429,catalog,Erdős Problem #992,unsolvedmath-1.1.0,,open
+unsolvedmath-2430,catalog,Erdős Problem #995,unsolvedmath-1.1.0,,open
+unsolvedmath-2431,catalog,Erdős Problem #996,unsolvedmath-1.1.0,,open
+unsolvedmath-2432,catalog,Erdős Problem #997,unsolvedmath-1.1.0,,open
+unsolvedmath-2433,catalog,Erdős Problem #1002,unsolvedmath-1.1.0,,open
+unsolvedmath-2434,catalog,Erdős Problem #1003,unsolvedmath-1.1.0,,open
+unsolvedmath-2435,catalog,Erdős Problem #1004,unsolvedmath-1.1.0,,open
+unsolvedmath-2436,catalog,Erdős Problem #1005,unsolvedmath-1.1.0,,open
+unsolvedmath-2437,catalog,Erdős Problem #1011,unsolvedmath-1.1.0,,open
+unsolvedmath-2438,catalog,Erdős Problem #1013,unsolvedmath-1.1.0,,open
+unsolvedmath-2439,catalog,Erdős Problem #1014,unsolvedmath-1.1.0,,open
+unsolvedmath-2440,catalog,Erdős Problem #1016,unsolvedmath-1.1.0,,open
+unsolvedmath-2441,catalog,Erdős Problem #1017,unsolvedmath-1.1.0,,open
+unsolvedmath-2442,catalog,Erdős Problem #1021,unsolvedmath-1.1.0,,open
+unsolvedmath-2443,catalog,Erdős Problem #1022,unsolvedmath-1.1.0,,open
+unsolvedmath-2444,catalog,Erdős Problem #1029,unsolvedmath-1.1.0,,open
+unsolvedmath-2445,catalog,Erdős Problem #1030,unsolvedmath-1.1.0,,open
+unsolvedmath-2446,catalog,Erdős Problem #1032,unsolvedmath-1.1.0,,open
+unsolvedmath-2447,catalog,Erdős Problem #1033,unsolvedmath-1.1.0,,open
+unsolvedmath-2448,catalog,Erdős Problem #1035,unsolvedmath-1.1.0,,open
+unsolvedmath-2449,catalog,Erdős Problem #1038,unsolvedmath-1.1.0,,open
+unsolvedmath-2450,catalog,Erdős Problem #1039,unsolvedmath-1.1.0,,open
+unsolvedmath-2451,catalog,Erdős Problem #1040,unsolvedmath-1.1.0,,open
+unsolvedmath-2452,catalog,Erdős Problem #1049,unsolvedmath-1.1.0,,open
+unsolvedmath-2453,catalog,Erdős Problem #1051,unsolvedmath-1.1.0,,open
+unsolvedmath-2454,catalog,Erdős Problem #1052,unsolvedmath-1.1.0,,open
+unsolvedmath-2455,catalog,Erdős Problem #1053,unsolvedmath-1.1.0,,open
+unsolvedmath-2456,catalog,Erdős Problem #1054,unsolvedmath-1.1.0,,open
+unsolvedmath-2457,catalog,Erdős Problem #1055,unsolvedmath-1.1.0,,open
+unsolvedmath-2458,catalog,Erdős Problem #1056,unsolvedmath-1.1.0,,open
+unsolvedmath-2459,catalog,Erdős Problem #1057,unsolvedmath-1.1.0,,open
+unsolvedmath-2460,catalog,Erdős Problem #1059,unsolvedmath-1.1.0,,open
+unsolvedmath-2461,catalog,Erdős Problem #1060,unsolvedmath-1.1.0,,open
+unsolvedmath-2462,catalog,Erdős Problem #1061,unsolvedmath-1.1.0,,open
+unsolvedmath-2463,catalog,Erdős Problem #1062,unsolvedmath-1.1.0,,open
+unsolvedmath-2464,catalog,Erdős Problem #1063,unsolvedmath-1.1.0,,open
+unsolvedmath-2465,catalog,Erdős Problem #1065,unsolvedmath-1.1.0,,open
+unsolvedmath-2466,catalog,Erdős Problem #1066,unsolvedmath-1.1.0,,open
+unsolvedmath-2467,catalog,Erdős Problem #1068,unsolvedmath-1.1.0,,open
+unsolvedmath-2468,catalog,Erdős Problem #1070,unsolvedmath-1.1.0,,open
+unsolvedmath-2469,catalog,Erdős Problem #1071,unsolvedmath-1.1.0,,open
+unsolvedmath-2470,catalog,Erdős Problem #1072,unsolvedmath-1.1.0,,open
+unsolvedmath-2471,catalog,Erdős Problem #1073,unsolvedmath-1.1.0,,open
+unsolvedmath-2472,catalog,Erdős Problem #1074,unsolvedmath-1.1.0,,open
+unsolvedmath-2473,catalog,Erdős Problem #1075,unsolvedmath-1.1.0,,open
+unsolvedmath-2474,catalog,Erdős Problem #1083,unsolvedmath-1.1.0,,open
+unsolvedmath-2475,catalog,Erdős Problem #1084,unsolvedmath-1.1.0,,open
+unsolvedmath-2476,catalog,Erdős Problem #1085,unsolvedmath-1.1.0,,open
+unsolvedmath-2477,catalog,Erdős Problem #1086,unsolvedmath-1.1.0,,open
+unsolvedmath-2478,catalog,Erdős Problem #1087,unsolvedmath-1.1.0,,open
+unsolvedmath-2479,catalog,Erdős Problem #1088,unsolvedmath-1.1.0,,open
+unsolvedmath-2480,catalog,Erdős Problem #1089,unsolvedmath-1.1.0,,open
+unsolvedmath-2481,catalog,Erdős Problem #1091,unsolvedmath-1.1.0,,open
+unsolvedmath-2482,catalog,Erdős Problem #1092,unsolvedmath-1.1.0,,open
+unsolvedmath-2483,catalog,Erdős Problem #1093,unsolvedmath-1.1.0,,open
+unsolvedmath-2484,catalog,Erdős Problem #1094,unsolvedmath-1.1.0,,open
+unsolvedmath-2485,catalog,Erdős Problem #1095,unsolvedmath-1.1.0,,open
+unsolvedmath-2486,catalog,Erdős Problem #1096,unsolvedmath-1.1.0,,open
+unsolvedmath-2487,catalog,Erdős Problem #1097,unsolvedmath-1.1.0,,open
+unsolvedmath-2488,catalog,Erdős Problem #1100,unsolvedmath-1.1.0,,open
+unsolvedmath-2489,catalog,Erdős Problem #1101,unsolvedmath-1.1.0,,open
+unsolvedmath-2490,catalog,Erdős Problem #1103,unsolvedmath-1.1.0,,open
+unsolvedmath-2491,catalog,Erdős Problem #1104,unsolvedmath-1.1.0,,open
+unsolvedmath-2492,catalog,Erdős Problem #1105,unsolvedmath-1.1.0,,open
+unsolvedmath-2493,catalog,Erdős Problem #1106,unsolvedmath-1.1.0,,open
+unsolvedmath-2494,catalog,Erdős Problem #1107,unsolvedmath-1.1.0,,open
+unsolvedmath-2495,catalog,Erdős Problem #1108,unsolvedmath-1.1.0,,open
+unsolvedmath-2496,catalog,Erdős Problem #1109,unsolvedmath-1.1.0,,open
+unsolvedmath-2497,catalog,Erdős Problem #1110,unsolvedmath-1.1.0,,open
+unsolvedmath-2498,catalog,Erdős Problem #1111,unsolvedmath-1.1.0,,open
+unsolvedmath-2499,catalog,Erdős Problem #1112,unsolvedmath-1.1.0,,open
+unsolvedmath-2500,catalog,Erdős Problem #1113,unsolvedmath-1.1.0,,open
+unsolvedmath-2501,catalog,Erdős Problem #1117,unsolvedmath-1.1.0,,open
+unsolvedmath-2502,catalog,Erdős Problem #1120,unsolvedmath-1.1.0,,open
+unsolvedmath-2503,catalog,Erdős Problem #1122,unsolvedmath-1.1.0,,open
+unsolvedmath-2504,catalog,Erdős Problem #1129,unsolvedmath-1.1.0,,open
+unsolvedmath-2505,catalog,Erdős Problem #1130,unsolvedmath-1.1.0,,open
+unsolvedmath-2506,catalog,Erdős Problem #1131,unsolvedmath-1.1.0,,open
+unsolvedmath-2507,catalog,Erdős Problem #1132,unsolvedmath-1.1.0,,open
+unsolvedmath-2508,catalog,Erdős Problem #1133,unsolvedmath-1.1.0,,open
+unsolvedmath-2509,catalog,Erdős Problem #1135,unsolvedmath-1.1.0,,open
+unsolvedmath-2510,catalog,Kourovka Notebook Problem 21.1,unsolvedmath-1.1.0,,open
+unsolvedmath-2511,catalog,Kourovka Notebook Problem 21.2,unsolvedmath-1.1.0,,open
+unsolvedmath-2512,catalog,Kourovka Notebook Problem 21.3,unsolvedmath-1.1.0,,open
+unsolvedmath-2513,catalog,Kourovka Notebook Problem 21.4,unsolvedmath-1.1.0,,open
+unsolvedmath-2514,catalog,Kourovka Notebook Problem 21.5,unsolvedmath-1.1.0,,open
+unsolvedmath-2515,catalog,Kourovka Notebook Problem 21.6,unsolvedmath-1.1.0,,open
+unsolvedmath-2516,catalog,Kourovka Notebook Problem 21.7,unsolvedmath-1.1.0,,open
+unsolvedmath-2518,catalog,Kourovka Notebook Problem 21.9,unsolvedmath-1.1.0,,open
+unsolvedmath-2519,catalog,Kourovka Notebook Problem 21.10,unsolvedmath-1.1.0,,open
+unsolvedmath-2520,catalog,Kourovka Notebook Problem 21.11,unsolvedmath-1.1.0,,open
+unsolvedmath-2522,catalog,Kourovka Notebook Problem 21.13,unsolvedmath-1.1.0,,open
+unsolvedmath-2525,catalog,Kourovka Notebook Problem 21.16,unsolvedmath-1.1.0,,open
+unsolvedmath-2526,catalog,Kourovka Notebook Problem 21.17,unsolvedmath-1.1.0,,open
+unsolvedmath-2528,catalog,Kourovka Notebook Problem 21.19,unsolvedmath-1.1.0,,open
+unsolvedmath-2529,catalog,Kourovka Notebook Problem 21.20,unsolvedmath-1.1.0,,open
+unsolvedmath-2530,catalog,Kourovka Notebook Problem 21.21,unsolvedmath-1.1.0,,open
+unsolvedmath-2531,catalog,Kourovka Notebook Problem 21.22,unsolvedmath-1.1.0,,open
+unsolvedmath-2532,catalog,Kourovka Notebook Problem 21.23,unsolvedmath-1.1.0,,open
+unsolvedmath-2534,catalog,Kourovka Notebook Problem 21.25,unsolvedmath-1.1.0,,open
+unsolvedmath-2535,catalog,Kourovka Notebook Problem 21.26,unsolvedmath-1.1.0,,open
+unsolvedmath-2536,catalog,Kourovka Notebook Problem 21.27,unsolvedmath-1.1.0,,open
+unsolvedmath-2537,catalog,Kourovka Notebook Problem 21.28,unsolvedmath-1.1.0,,open
+unsolvedmath-2538,catalog,Kourovka Notebook Problem 21.29,unsolvedmath-1.1.0,,open
+unsolvedmath-2539,catalog,Kourovka Notebook Problem 21.30,unsolvedmath-1.1.0,,open
+unsolvedmath-2540,catalog,Kourovka Notebook Problem 21.31,unsolvedmath-1.1.0,,open
+unsolvedmath-2541,catalog,Kourovka Notebook Problem 21.32,unsolvedmath-1.1.0,,open
+unsolvedmath-2542,catalog,Kourovka Notebook Problem 21.33,unsolvedmath-1.1.0,,open
+unsolvedmath-2543,catalog,Kourovka Notebook Problem 21.34,unsolvedmath-1.1.0,,open
+unsolvedmath-2544,catalog,Kourovka Notebook Problem 21.35,unsolvedmath-1.1.0,,open
+unsolvedmath-2545,catalog,Kourovka Notebook Problem 21.36,unsolvedmath-1.1.0,,open
+unsolvedmath-2546,catalog,Kourovka Notebook Problem 21.37,unsolvedmath-1.1.0,,open
+unsolvedmath-2547,catalog,Kourovka Notebook Problem 21.38,unsolvedmath-1.1.0,,open
+unsolvedmath-2548,catalog,Kourovka Notebook Problem 21.39,unsolvedmath-1.1.0,,open
+unsolvedmath-2549,catalog,Kourovka Notebook Problem 21.40,unsolvedmath-1.1.0,,open
+unsolvedmath-2550,catalog,Kourovka Notebook Problem 21.41,unsolvedmath-1.1.0,,open
+unsolvedmath-2551,catalog,Kourovka Notebook Problem 21.42,unsolvedmath-1.1.0,,open
+unsolvedmath-2553,catalog,Kourovka Notebook Problem 21.44,unsolvedmath-1.1.0,,open
+unsolvedmath-2554,catalog,Kourovka Notebook Problem 21.45,unsolvedmath-1.1.0,,open
+unsolvedmath-2555,catalog,Kourovka Notebook Problem 21.46,unsolvedmath-1.1.0,,open
+unsolvedmath-2556,catalog,Kourovka Notebook Problem 21.47,unsolvedmath-1.1.0,,open
+unsolvedmath-2557,catalog,Kourovka Notebook Problem 21.48,unsolvedmath-1.1.0,,open
+unsolvedmath-2558,catalog,Kourovka Notebook Problem 21.49,unsolvedmath-1.1.0,,open
+unsolvedmath-2559,catalog,Kourovka Notebook Problem 21.50,unsolvedmath-1.1.0,,open
+unsolvedmath-2560,catalog,Kourovka Notebook Problem 21.51,unsolvedmath-1.1.0,,open
+unsolvedmath-2561,catalog,Kourovka Notebook Problem 21.52,unsolvedmath-1.1.0,,open
+unsolvedmath-2562,catalog,Kourovka Notebook Problem 21.53,unsolvedmath-1.1.0,,open
+unsolvedmath-2563,catalog,Kourovka Notebook Problem 21.54,unsolvedmath-1.1.0,,open
+unsolvedmath-2564,catalog,Kourovka Notebook Problem 21.55,unsolvedmath-1.1.0,,open
+unsolvedmath-2565,catalog,Kourovka Notebook Problem 21.56,unsolvedmath-1.1.0,,open
+unsolvedmath-2566,catalog,Kourovka Notebook Problem 21.57,unsolvedmath-1.1.0,,open
+unsolvedmath-2568,catalog,Kourovka Notebook Problem 21.59,unsolvedmath-1.1.0,,open
+unsolvedmath-2569,catalog,Kourovka Notebook Problem 21.60,unsolvedmath-1.1.0,,open
+unsolvedmath-2570,catalog,Kourovka Notebook Problem 21.61,unsolvedmath-1.1.0,,open
+unsolvedmath-2571,catalog,Kourovka Notebook Problem 21.62,unsolvedmath-1.1.0,,open
+unsolvedmath-2572,catalog,Kourovka Notebook Problem 21.63,unsolvedmath-1.1.0,,open
+unsolvedmath-2573,catalog,Kourovka Notebook Problem 21.64,unsolvedmath-1.1.0,,open
+unsolvedmath-2574,catalog,Kourovka Notebook Problem 21.65,unsolvedmath-1.1.0,,open
+unsolvedmath-2575,catalog,Kourovka Notebook Problem 21.66,unsolvedmath-1.1.0,,open
+unsolvedmath-2576,catalog,Kourovka Notebook Problem 21.67,unsolvedmath-1.1.0,,open
+unsolvedmath-2577,catalog,Kourovka Notebook Problem 21.68,unsolvedmath-1.1.0,,open
+unsolvedmath-2578,catalog,Kourovka Notebook Problem 21.69,unsolvedmath-1.1.0,,open
+unsolvedmath-2579,catalog,Kourovka Notebook Problem 21.70,unsolvedmath-1.1.0,,open
+unsolvedmath-2580,catalog,Kourovka Notebook Problem 21.71,unsolvedmath-1.1.0,,open
+unsolvedmath-2581,catalog,Kourovka Notebook Problem 21.72,unsolvedmath-1.1.0,,open
+unsolvedmath-2582,catalog,Kourovka Notebook Problem 21.73,unsolvedmath-1.1.0,,open
+unsolvedmath-2583,catalog,Kourovka Notebook Problem 21.74,unsolvedmath-1.1.0,,open
+unsolvedmath-2584,catalog,Kourovka Notebook Problem 21.75,unsolvedmath-1.1.0,,open
+unsolvedmath-2585,catalog,Kourovka Notebook Problem 21.76,unsolvedmath-1.1.0,,open
+unsolvedmath-2586,catalog,Kourovka Notebook Problem 21.77,unsolvedmath-1.1.0,,open
+unsolvedmath-2587,catalog,Kourovka Notebook Problem 21.78,unsolvedmath-1.1.0,,open
+unsolvedmath-2588,catalog,Kourovka Notebook Problem 21.79,unsolvedmath-1.1.0,,open
+unsolvedmath-2589,catalog,Kourovka Notebook Problem 21.80,unsolvedmath-1.1.0,,open
+unsolvedmath-2590,catalog,Kourovka Notebook Problem 21.81,unsolvedmath-1.1.0,,open
+unsolvedmath-2591,catalog,Kourovka Notebook Problem 21.82,unsolvedmath-1.1.0,,open
+unsolvedmath-2592,catalog,Kourovka Notebook Problem 21.83,unsolvedmath-1.1.0,,open
+unsolvedmath-2593,catalog,Kourovka Notebook Problem 21.84,unsolvedmath-1.1.0,,open
+unsolvedmath-2594,catalog,Kourovka Notebook Problem 21.85,unsolvedmath-1.1.0,,open
+unsolvedmath-2595,catalog,Kourovka Notebook Problem 21.86,unsolvedmath-1.1.0,,open
+unsolvedmath-2596,catalog,Kourovka Notebook Problem 21.87,unsolvedmath-1.1.0,,open
+unsolvedmath-2597,catalog,Kourovka Notebook Problem 21.88,unsolvedmath-1.1.0,,open
+unsolvedmath-2598,catalog,Kourovka Notebook Problem 21.89,unsolvedmath-1.1.0,,open
+unsolvedmath-2599,catalog,Kourovka Notebook Problem 21.90,unsolvedmath-1.1.0,,open
+unsolvedmath-2600,catalog,Kourovka Notebook Problem 21.91,unsolvedmath-1.1.0,,open
+unsolvedmath-2601,catalog,Kourovka Notebook Problem 21.92,unsolvedmath-1.1.0,,open
+unsolvedmath-2602,catalog,Kourovka Notebook Problem 21.93,unsolvedmath-1.1.0,,open
+unsolvedmath-2603,catalog,Kourovka Notebook Problem 21.94,unsolvedmath-1.1.0,,open
+unsolvedmath-2604,catalog,Kourovka Notebook Problem 21.95,unsolvedmath-1.1.0,,open
+unsolvedmath-2605,catalog,Kourovka Notebook Problem 21.96,unsolvedmath-1.1.0,,open
+unsolvedmath-2606,catalog,Kourovka Notebook Problem 21.97,unsolvedmath-1.1.0,,open
+unsolvedmath-2607,catalog,Kourovka Notebook Problem 21.98,unsolvedmath-1.1.0,,open
+unsolvedmath-2608,catalog,Kourovka Notebook Problem 21.99,unsolvedmath-1.1.0,,open
+unsolvedmath-2609,catalog,Kourovka Notebook Problem 21.100,unsolvedmath-1.1.0,,open
+unsolvedmath-2610,catalog,Kourovka Notebook Problem 21.101,unsolvedmath-1.1.0,,open
+unsolvedmath-2611,catalog,Kourovka Notebook Problem 21.102,unsolvedmath-1.1.0,,open
+unsolvedmath-2612,catalog,Kourovka Notebook Problem 21.103,unsolvedmath-1.1.0,,open
+unsolvedmath-2613,catalog,Kourovka Notebook Problem 21.104,unsolvedmath-1.1.0,,open
+unsolvedmath-2614,catalog,Kourovka Notebook Problem 21.105,unsolvedmath-1.1.0,,open
+unsolvedmath-2615,catalog,Kourovka Notebook Problem 21.106,unsolvedmath-1.1.0,,open
+unsolvedmath-2616,catalog,Kourovka Notebook Problem 21.107,unsolvedmath-1.1.0,,open
+unsolvedmath-2617,catalog,Kourovka Notebook Problem 21.108,unsolvedmath-1.1.0,,open
+unsolvedmath-2618,catalog,Kourovka Notebook Problem 21.109,unsolvedmath-1.1.0,,open
+unsolvedmath-2619,catalog,Kourovka Notebook Problem 21.110,unsolvedmath-1.1.0,,open
+unsolvedmath-2620,catalog,Kourovka Notebook Problem 21.111,unsolvedmath-1.1.0,,open
+unsolvedmath-2621,catalog,Kourovka Notebook Problem 21.112,unsolvedmath-1.1.0,,open
+unsolvedmath-2622,catalog,Kourovka Notebook Problem 21.113,unsolvedmath-1.1.0,,open
+unsolvedmath-2623,catalog,Kourovka Notebook Problem 21.114,unsolvedmath-1.1.0,,open
+unsolvedmath-2624,catalog,Kourovka Notebook Problem 21.115,unsolvedmath-1.1.0,,open
+unsolvedmath-2625,catalog,Kourovka Notebook Problem 21.116,unsolvedmath-1.1.0,,open
+unsolvedmath-2626,catalog,Kourovka Notebook Problem 21.117,unsolvedmath-1.1.0,,open
+unsolvedmath-2627,catalog,Kourovka Notebook Problem 21.118,unsolvedmath-1.1.0,,open
+unsolvedmath-2628,catalog,Kourovka Notebook Problem 21.119,unsolvedmath-1.1.0,,open
+unsolvedmath-2629,catalog,Kourovka Notebook Problem 21.120,unsolvedmath-1.1.0,,open
+unsolvedmath-2630,catalog,Kourovka Notebook Problem 21.121,unsolvedmath-1.1.0,,open
+unsolvedmath-2631,catalog,Kourovka Notebook Problem 21.122,unsolvedmath-1.1.0,,open
+unsolvedmath-2632,catalog,Kourovka Notebook Problem 21.123,unsolvedmath-1.1.0,,open
+unsolvedmath-2633,catalog,Kourovka Notebook Problem 21.124,unsolvedmath-1.1.0,,open
+unsolvedmath-2634,catalog,Kourovka Notebook Problem 21.125,unsolvedmath-1.1.0,,open
+unsolvedmath-2635,catalog,Kourovka Notebook Problem 21.126,unsolvedmath-1.1.0,,open
+unsolvedmath-2636,catalog,Kourovka Notebook Problem 21.127,unsolvedmath-1.1.0,,open
+unsolvedmath-2637,catalog,Kourovka Notebook Problem 21.128,unsolvedmath-1.1.0,,open
+unsolvedmath-2638,catalog,Kourovka Notebook Problem 21.129,unsolvedmath-1.1.0,,open
+unsolvedmath-2639,catalog,Kourovka Notebook Problem 21.130,unsolvedmath-1.1.0,,open
+unsolvedmath-2640,catalog,Kourovka Notebook Problem 21.131,unsolvedmath-1.1.0,,open
+unsolvedmath-2641,catalog,Kourovka Notebook Problem 21.132,unsolvedmath-1.1.0,,open
+unsolvedmath-2642,catalog,Kourovka Notebook Problem 21.133,unsolvedmath-1.1.0,,open
+unsolvedmath-2643,catalog,Kourovka Notebook Problem 21.134,unsolvedmath-1.1.0,,open
+unsolvedmath-2644,catalog,Kourovka Notebook Problem 21.135,unsolvedmath-1.1.0,,open
+unsolvedmath-2645,catalog,Kourovka Notebook Problem 21.136,unsolvedmath-1.1.0,,open
+unsolvedmath-2646,catalog,Kourovka Notebook Problem 21.137,unsolvedmath-1.1.0,,open
+unsolvedmath-2647,catalog,Kourovka Notebook Problem 21.138,unsolvedmath-1.1.0,,open
+unsolvedmath-2648,catalog,Kourovka Notebook Problem 21.139,unsolvedmath-1.1.0,,open
+unsolvedmath-2649,catalog,Kourovka Notebook Problem 21.140,unsolvedmath-1.1.0,,open
+unsolvedmath-2650,catalog,Kourovka Notebook Problem 21.141,unsolvedmath-1.1.0,,open
+unsolvedmath-2651,catalog,Kourovka Notebook Problem 21.142,unsolvedmath-1.1.0,,open
+unsolvedmath-2652,catalog,Kourovka Notebook Problem 21.143,unsolvedmath-1.1.0,,open
+unsolvedmath-2653,catalog,Kourovka Notebook Problem 21.144,unsolvedmath-1.1.0,,open
+unsolvedmath-2654,catalog,Kourovka Notebook Problem 21.145,unsolvedmath-1.1.0,,open
+unsolvedmath-2655,catalog,Kourovka Notebook Problem 21.146,unsolvedmath-1.1.0,,open
+unsolvedmath-2656,catalog,Kourovka Notebook Problem 21.147,unsolvedmath-1.1.0,,open
+unsolvedmath-2657,catalog,Kourovka Notebook Problem 21.148,unsolvedmath-1.1.0,,open
+unsolvedmath-2658,catalog,Kourovka Notebook Problem 21.149,unsolvedmath-1.1.0,,open
+unsolvedmath-2660,catalog,Kirby Problem 1.1,unsolvedmath-1.1.0,,open
+unsolvedmath-2661,catalog,Kirby Problem 1.2,unsolvedmath-1.1.0,,open
+unsolvedmath-2662,catalog,Kirby Problem 1.3,unsolvedmath-1.1.0,,open
+unsolvedmath-2663,catalog,Kirby Problem 1.4,unsolvedmath-1.1.0,,open
+unsolvedmath-2664,catalog,Kirby Problem 1.5,unsolvedmath-1.1.0,,open
+unsolvedmath-2665,catalog,Kirby Problem 1.6,unsolvedmath-1.1.0,,open
+unsolvedmath-2666,catalog,Kirby Problem 1.7,unsolvedmath-1.1.0,,open
+unsolvedmath-2667,catalog,Kirby Problem 1.8,unsolvedmath-1.1.0,,open
+unsolvedmath-2668,catalog,Kirby Problem 1.9,unsolvedmath-1.1.0,,open
+unsolvedmath-2669,catalog,Kirby Problem 1.10,unsolvedmath-1.1.0,,open
+unsolvedmath-2670,catalog,Kirby Problem 1.11,unsolvedmath-1.1.0,,open
+unsolvedmath-2671,catalog,Kirby Problem 1.12,unsolvedmath-1.1.0,,open
+unsolvedmath-2672,catalog,Kirby Problem 1.13,unsolvedmath-1.1.0,,open
+unsolvedmath-2673,catalog,Kirby Problem 1.14,unsolvedmath-1.1.0,,open
+unsolvedmath-2674,catalog,Kirby Problem 1.15,unsolvedmath-1.1.0,,open
+unsolvedmath-2675,catalog,Kirby Problem 1.16,unsolvedmath-1.1.0,,open
+unsolvedmath-2676,catalog,Kirby Problem 1.17,unsolvedmath-1.1.0,,open
+unsolvedmath-2677,catalog,Kirby Problem 1.18,unsolvedmath-1.1.0,,open
+unsolvedmath-2678,catalog,Kirby Problem 1.19,unsolvedmath-1.1.0,,open
+unsolvedmath-2679,catalog,Kirby Problem 1.20,unsolvedmath-1.1.0,,open
+unsolvedmath-2680,catalog,Kirby Problem 1.21,unsolvedmath-1.1.0,,open
+unsolvedmath-2681,catalog,Kirby Problem 1.22,unsolvedmath-1.1.0,,open
+unsolvedmath-2682,catalog,Kirby Problem 1.23,unsolvedmath-1.1.0,,open
+unsolvedmath-2683,catalog,Kirby Problem 1.24,unsolvedmath-1.1.0,,open
+unsolvedmath-2684,catalog,Kirby Problem 1.25,unsolvedmath-1.1.0,,open
+unsolvedmath-2685,catalog,Kirby Problem 1.26,unsolvedmath-1.1.0,,open
+unsolvedmath-2686,catalog,Kirby Problem 1.27,unsolvedmath-1.1.0,,open
+unsolvedmath-2687,catalog,Kirby Problem 1.28,unsolvedmath-1.1.0,,open
+unsolvedmath-2688,catalog,Kirby Problem 1.29,unsolvedmath-1.1.0,,open
+unsolvedmath-2689,catalog,Kirby Problem 1.30,unsolvedmath-1.1.0,,open
+unsolvedmath-2690,catalog,Kirby Problem 1.31,unsolvedmath-1.1.0,,open
+unsolvedmath-2691,catalog,Kirby Problem 1.32,unsolvedmath-1.1.0,,open
+unsolvedmath-2692,catalog,Kirby Problem 1.33,unsolvedmath-1.1.0,,open
+unsolvedmath-2693,catalog,Kirby Problem 1.34,unsolvedmath-1.1.0,,open
+unsolvedmath-2694,catalog,Kirby Problem 1.35,unsolvedmath-1.1.0,,open
+unsolvedmath-2695,catalog,Kirby Problem 1.36,unsolvedmath-1.1.0,,open
+unsolvedmath-2696,catalog,Kirby Problem 1.37,unsolvedmath-1.1.0,,open
+unsolvedmath-2697,catalog,Kirby Problem 1.38,unsolvedmath-1.1.0,,open
+unsolvedmath-2698,catalog,Kirby Problem 1.39,unsolvedmath-1.1.0,,open
+unsolvedmath-2699,catalog,Kirby Problem 1.40,unsolvedmath-1.1.0,,open
+unsolvedmath-2700,catalog,Kirby Problem 1.41,unsolvedmath-1.1.0,,open
+unsolvedmath-2701,catalog,Kirby Problem 1.42,unsolvedmath-1.1.0,,open
+unsolvedmath-2702,catalog,Kirby Problem 1.43,unsolvedmath-1.1.0,,open
+unsolvedmath-2703,catalog,Kirby Problem 1.44,unsolvedmath-1.1.0,,open
+unsolvedmath-2704,catalog,Kirby Problem 1.45,unsolvedmath-1.1.0,,open
+unsolvedmath-2705,catalog,Kirby Problem 1.46,unsolvedmath-1.1.0,,open
+unsolvedmath-2706,catalog,Kirby Problem 1.47,unsolvedmath-1.1.0,,open
+unsolvedmath-2707,catalog,Kirby Problem 1.48,unsolvedmath-1.1.0,,open
+unsolvedmath-2708,catalog,Kirby Problem 1.49,unsolvedmath-1.1.0,,open
+unsolvedmath-2709,catalog,Kirby Problem 1.50,unsolvedmath-1.1.0,,open
+unsolvedmath-2710,catalog,Kirby Problem 1.51,unsolvedmath-1.1.0,,open
+unsolvedmath-2711,catalog,Kirby Problem 1.52,unsolvedmath-1.1.0,,open
+unsolvedmath-2712,catalog,Kirby Problem 1.53,unsolvedmath-1.1.0,,open
+unsolvedmath-2713,catalog,Kirby Problem 1.54,unsolvedmath-1.1.0,,open
+unsolvedmath-2714,catalog,Kirby Problem 1.55,unsolvedmath-1.1.0,,open
+unsolvedmath-2715,catalog,Kirby Problem 1.56,unsolvedmath-1.1.0,,open
+unsolvedmath-2716,catalog,Kirby Problem 1.57,unsolvedmath-1.1.0,,open
+unsolvedmath-2717,catalog,Kirby Problem 1.58,unsolvedmath-1.1.0,,open
+unsolvedmath-2718,catalog,Kirby Problem 1.59,unsolvedmath-1.1.0,,open
+unsolvedmath-2719,catalog,Kirby Problem 1.60,unsolvedmath-1.1.0,,open
+unsolvedmath-2720,catalog,Kirby Problem 1.61,unsolvedmath-1.1.0,,open
+unsolvedmath-2721,catalog,Kirby Problem 1.62,unsolvedmath-1.1.0,,open
+unsolvedmath-2722,catalog,Kirby Problem 1.63,unsolvedmath-1.1.0,,open
+unsolvedmath-2723,catalog,Kirby Problem 1.64,unsolvedmath-1.1.0,,open
+unsolvedmath-2724,catalog,Kirby Problem 1.65,unsolvedmath-1.1.0,,open
+unsolvedmath-2725,catalog,Kirby Problem 1.66,unsolvedmath-1.1.0,,open
+unsolvedmath-2726,catalog,Kirby Problem 1.67,unsolvedmath-1.1.0,,open
+unsolvedmath-2727,catalog,Kirby Problem 1.68,unsolvedmath-1.1.0,,open
+unsolvedmath-2728,catalog,Kirby Problem 1.69,unsolvedmath-1.1.0,,open
+unsolvedmath-2729,catalog,Kirby Problem 1.70,unsolvedmath-1.1.0,,open
+unsolvedmath-2730,catalog,Kirby Problem 1.71,unsolvedmath-1.1.0,,open
+unsolvedmath-2731,catalog,Kirby Problem 1.72,unsolvedmath-1.1.0,,open
+unsolvedmath-2732,catalog,Kirby Problem 1.73,unsolvedmath-1.1.0,,open
+unsolvedmath-2733,catalog,Kirby Problem 1.74,unsolvedmath-1.1.0,,open
+unsolvedmath-2734,catalog,Kirby Problem 1.75,unsolvedmath-1.1.0,,open
+unsolvedmath-2735,catalog,Kirby Problem 1.76,unsolvedmath-1.1.0,,open
+unsolvedmath-2736,catalog,Kirby Problem 1.77,unsolvedmath-1.1.0,,open
+unsolvedmath-2737,catalog,Kirby Problem 1.78,unsolvedmath-1.1.0,,open
+unsolvedmath-2738,catalog,Kirby Problem 1.79,unsolvedmath-1.1.0,,open
+unsolvedmath-2739,catalog,Kirby Problem 1.80,unsolvedmath-1.1.0,,open
+unsolvedmath-2740,catalog,Kirby Problem 1.81,unsolvedmath-1.1.0,,open
+unsolvedmath-2741,catalog,Kirby Problem 1.82,unsolvedmath-1.1.0,,open
+unsolvedmath-2742,catalog,Kirby Problem 1.83,unsolvedmath-1.1.0,,open
+unsolvedmath-2743,catalog,Kirby Problem 1.84,unsolvedmath-1.1.0,,open
+unsolvedmath-2744,catalog,Kirby Problem 1.85,unsolvedmath-1.1.0,,open
+unsolvedmath-2745,catalog,Kirby Problem 1.86,unsolvedmath-1.1.0,,open
+unsolvedmath-2746,catalog,Kirby Problem 1.87,unsolvedmath-1.1.0,,open
+unsolvedmath-2747,catalog,Kirby Problem 1.88,unsolvedmath-1.1.0,,open
+unsolvedmath-2748,catalog,Kirby Problem 1.89,unsolvedmath-1.1.0,,open
+unsolvedmath-2749,catalog,Kirby Problem 2.1,unsolvedmath-1.1.0,,open
+unsolvedmath-2750,catalog,Kirby Problem 2.2,unsolvedmath-1.1.0,,open
+unsolvedmath-2751,catalog,Kirby Problem 2.3,unsolvedmath-1.1.0,,open
+unsolvedmath-2752,catalog,Kirby Problem 2.4,unsolvedmath-1.1.0,,open
+unsolvedmath-2753,catalog,Kirby Problem 2.5,unsolvedmath-1.1.0,,open
+unsolvedmath-2754,catalog,Kirby Problem 2.6,unsolvedmath-1.1.0,,open
+unsolvedmath-2755,catalog,Kirby Problem 2.7,unsolvedmath-1.1.0,,open
+unsolvedmath-2756,catalog,Kirby Problem 2.8,unsolvedmath-1.1.0,,open
+unsolvedmath-2757,catalog,Kirby Problem 2.9,unsolvedmath-1.1.0,,open
+unsolvedmath-2758,catalog,Kirby Problem 2.10,unsolvedmath-1.1.0,,open
+unsolvedmath-2759,catalog,Kirby Problem 2.11,unsolvedmath-1.1.0,,open
+unsolvedmath-2760,catalog,Kirby Problem 2.12,unsolvedmath-1.1.0,,open
+unsolvedmath-2761,catalog,Kirby Problem 2.13,unsolvedmath-1.1.0,,open
+unsolvedmath-2762,catalog,Kirby Problem 2.14,unsolvedmath-1.1.0,,open
+unsolvedmath-2763,catalog,Kirby Problem 2.15,unsolvedmath-1.1.0,,open
+unsolvedmath-2764,catalog,Kirby Problem 2.16,unsolvedmath-1.1.0,,open
+unsolvedmath-2765,catalog,Kirby Problem 2.17,unsolvedmath-1.1.0,,open
+unsolvedmath-2766,catalog,Kirby Problem 2.18,unsolvedmath-1.1.0,,open
+unsolvedmath-2767,catalog,Kirby Problem 2.19,unsolvedmath-1.1.0,,open
+unsolvedmath-2768,catalog,Kirby Problem 2.20,unsolvedmath-1.1.0,,open
+unsolvedmath-2769,catalog,Kirby Problem 2.21,unsolvedmath-1.1.0,,open
+unsolvedmath-2770,catalog,Kirby Problem 2.22,unsolvedmath-1.1.0,,open
+unsolvedmath-2771,catalog,Kirby Problem 2.23,unsolvedmath-1.1.0,,open
+unsolvedmath-2772,catalog,Kirby Problem 2.24,unsolvedmath-1.1.0,,open
+unsolvedmath-2773,catalog,Kirby Problem 2.25,unsolvedmath-1.1.0,,open
+unsolvedmath-2774,catalog,Kirby Problem 2.26,unsolvedmath-1.1.0,,open
+unsolvedmath-2775,catalog,Kirby Problem 2.27,unsolvedmath-1.1.0,,open
+unsolvedmath-2776,catalog,Kirby Problem 2.28,unsolvedmath-1.1.0,,open
+unsolvedmath-2777,catalog,Kirby Problem 2.29,unsolvedmath-1.1.0,,open
+unsolvedmath-2778,catalog,Kirby Problem 2.30,unsolvedmath-1.1.0,,open
+unsolvedmath-2779,catalog,Kirby Problem 2.31,unsolvedmath-1.1.0,,open
+unsolvedmath-2780,catalog,Kirby Problem 2.32,unsolvedmath-1.1.0,,open
+unsolvedmath-2781,catalog,Kirby Problem 2.33,unsolvedmath-1.1.0,,open
+unsolvedmath-2782,catalog,Kirby Problem 2.34,unsolvedmath-1.1.0,,open
+unsolvedmath-2783,catalog,Kirby Problem 2.35,unsolvedmath-1.1.0,,open
+unsolvedmath-2784,catalog,Kirby Problem 2.36,unsolvedmath-1.1.0,,open
+unsolvedmath-2785,catalog,Kirby Problem 2.37,unsolvedmath-1.1.0,,open
+unsolvedmath-2786,catalog,Kirby Problem 2.38,unsolvedmath-1.1.0,,open
+unsolvedmath-2787,catalog,Kirby Problem 2.39,unsolvedmath-1.1.0,,open
+unsolvedmath-2788,catalog,Kirby Problem 2.40,unsolvedmath-1.1.0,,open
+unsolvedmath-2789,catalog,Kirby Problem 2.41,unsolvedmath-1.1.0,,open
+unsolvedmath-2790,catalog,Kirby Problem 2.42,unsolvedmath-1.1.0,,open
+unsolvedmath-2791,catalog,Kirby Problem 2.43,unsolvedmath-1.1.0,,open
+unsolvedmath-2792,catalog,Kirby Problem 2.44,unsolvedmath-1.1.0,,open
+unsolvedmath-2793,catalog,Kirby Problem 2.45,unsolvedmath-1.1.0,,open
+unsolvedmath-2794,catalog,Kirby Problem 2.46,unsolvedmath-1.1.0,,open
+unsolvedmath-2795,catalog,Kirby Problem 2.47,unsolvedmath-1.1.0,,open
+unsolvedmath-2796,catalog,Kirby Problem 2.48,unsolvedmath-1.1.0,,open
+unsolvedmath-2797,catalog,Kirby Problem 2.49,unsolvedmath-1.1.0,,open
+unsolvedmath-2798,catalog,Kirby Problem 2.50,unsolvedmath-1.1.0,,open
+unsolvedmath-2799,catalog,Kirby Problem 3.1,unsolvedmath-1.1.0,,open
+unsolvedmath-2800,catalog,Kirby Problem 3.2,unsolvedmath-1.1.0,,open
+unsolvedmath-2801,catalog,Kirby Problem 3.3,unsolvedmath-1.1.0,,open
+unsolvedmath-2802,catalog,Kirby Problem 3.4,unsolvedmath-1.1.0,,open
+unsolvedmath-2803,catalog,Kirby Problem 3.5,unsolvedmath-1.1.0,,open
+unsolvedmath-2804,catalog,Kirby Problem 3.6,unsolvedmath-1.1.0,,open
+unsolvedmath-2805,catalog,Kirby Problem 3.7,unsolvedmath-1.1.0,,open
+unsolvedmath-2806,catalog,Kirby Problem 3.8,unsolvedmath-1.1.0,,open
+unsolvedmath-2807,catalog,Kirby Problem 3.9,unsolvedmath-1.1.0,,open
+unsolvedmath-2808,catalog,Kirby Problem 3.10,unsolvedmath-1.1.0,,open
+unsolvedmath-2809,catalog,Kirby Problem 3.11,unsolvedmath-1.1.0,,open
+unsolvedmath-2810,catalog,Kirby Problem 3.12,unsolvedmath-1.1.0,,open
+unsolvedmath-2811,catalog,Kirby Problem 3.13,unsolvedmath-1.1.0,,open
+unsolvedmath-2812,catalog,Kirby Problem 3.14,unsolvedmath-1.1.0,,open
+unsolvedmath-2813,catalog,Kirby Problem 3.15,unsolvedmath-1.1.0,,open
+unsolvedmath-2814,catalog,Kirby Problem 3.16,unsolvedmath-1.1.0,,open
+unsolvedmath-2815,catalog,Kirby Problem 3.17,unsolvedmath-1.1.0,,open
+unsolvedmath-2816,catalog,Kirby Problem 3.18,unsolvedmath-1.1.0,,open
+unsolvedmath-2817,catalog,Kirby Problem 3.19,unsolvedmath-1.1.0,,open
+unsolvedmath-2818,catalog,Kirby Problem 3.20,unsolvedmath-1.1.0,,open
+unsolvedmath-2819,catalog,Kirby Problem 3.21,unsolvedmath-1.1.0,,open
+unsolvedmath-2820,catalog,Kirby Problem 3.22,unsolvedmath-1.1.0,,open
+unsolvedmath-2821,catalog,Kirby Problem 3.23,unsolvedmath-1.1.0,,open
+unsolvedmath-2822,catalog,Kirby Problem 3.24,unsolvedmath-1.1.0,,open
+unsolvedmath-2823,catalog,Kirby Problem 3.25,unsolvedmath-1.1.0,,open
+unsolvedmath-2824,catalog,Kirby Problem 3.26,unsolvedmath-1.1.0,,open
+unsolvedmath-2825,catalog,Kirby Problem 3.27,unsolvedmath-1.1.0,,open
+unsolvedmath-2826,catalog,Kirby Problem 3.28,unsolvedmath-1.1.0,,open
+unsolvedmath-2827,catalog,Kirby Problem 3.29,unsolvedmath-1.1.0,,open
+unsolvedmath-2828,catalog,Kirby Problem 3.30,unsolvedmath-1.1.0,,open
+unsolvedmath-2829,catalog,Kirby Problem 3.31,unsolvedmath-1.1.0,,open
+unsolvedmath-2830,catalog,Kirby Problem 3.32,unsolvedmath-1.1.0,,open
+unsolvedmath-2831,catalog,Kirby Problem 3.33,unsolvedmath-1.1.0,,open
+unsolvedmath-2832,catalog,Kirby Problem 3.34,unsolvedmath-1.1.0,,open
+unsolvedmath-2833,catalog,Kirby Problem 3.35,unsolvedmath-1.1.0,,open
+unsolvedmath-2834,catalog,Kirby Problem 3.36,unsolvedmath-1.1.0,,open
+unsolvedmath-2835,catalog,Kirby Problem 3.37,unsolvedmath-1.1.0,,open
+unsolvedmath-2836,catalog,Kirby Problem 3.38,unsolvedmath-1.1.0,,open
+unsolvedmath-2837,catalog,Kirby Problem 3.39,unsolvedmath-1.1.0,,open
+unsolvedmath-2838,catalog,Kirby Problem 3.40,unsolvedmath-1.1.0,,open
+unsolvedmath-2839,catalog,Kirby Problem 3.41,unsolvedmath-1.1.0,,open
+unsolvedmath-2840,catalog,Kirby Problem 3.42,unsolvedmath-1.1.0,,open
+unsolvedmath-2841,catalog,Kirby Problem 3.43,unsolvedmath-1.1.0,,open
+unsolvedmath-2842,catalog,Kirby Problem 3.44,unsolvedmath-1.1.0,,open
+unsolvedmath-2843,catalog,Kirby Problem 3.45,unsolvedmath-1.1.0,,open
+unsolvedmath-2844,catalog,Kirby Problem 3.46,unsolvedmath-1.1.0,,open
+unsolvedmath-2845,catalog,Kirby Problem 3.47,unsolvedmath-1.1.0,,open
+unsolvedmath-2846,catalog,Kirby Problem 3.48,unsolvedmath-1.1.0,,open
+unsolvedmath-2847,catalog,Kirby Problem 3.49,unsolvedmath-1.1.0,,open
+unsolvedmath-2848,catalog,Kirby Problem 3.50,unsolvedmath-1.1.0,,open
+unsolvedmath-2849,catalog,Kirby Problem 3.51,unsolvedmath-1.1.0,,open
+unsolvedmath-2850,catalog,Kirby Problem 3.52,unsolvedmath-1.1.0,,open
+unsolvedmath-2851,catalog,Kirby Problem 3.53,unsolvedmath-1.1.0,,open
+unsolvedmath-2852,catalog,Kirby Problem 3.54,unsolvedmath-1.1.0,,open
+unsolvedmath-2853,catalog,Kirby Problem 3.55,unsolvedmath-1.1.0,,open
+unsolvedmath-2854,catalog,Kirby Problem 3.56,unsolvedmath-1.1.0,,open
+unsolvedmath-2855,catalog,Kirby Problem 3.57,unsolvedmath-1.1.0,,open
+unsolvedmath-2856,catalog,Kirby Problem 3.58,unsolvedmath-1.1.0,,open
+unsolvedmath-2857,catalog,Kirby Problem 3.59,unsolvedmath-1.1.0,,open
+unsolvedmath-2858,catalog,Kirby Problem 3.60,unsolvedmath-1.1.0,,open
+unsolvedmath-2859,catalog,Kirby Problem 3.61,unsolvedmath-1.1.0,,open
+unsolvedmath-2860,catalog,Kirby Problem 3.62,unsolvedmath-1.1.0,,open
+unsolvedmath-2861,catalog,Kirby Problem 3.63,unsolvedmath-1.1.0,,open
+unsolvedmath-2862,catalog,Kirby Problem 3.64,unsolvedmath-1.1.0,,open
+unsolvedmath-2863,catalog,Kirby Problem 3.65,unsolvedmath-1.1.0,,open
+unsolvedmath-2864,catalog,Kirby Problem 3.66,unsolvedmath-1.1.0,,open
+unsolvedmath-2865,catalog,Kirby Problem 3.67,unsolvedmath-1.1.0,,open
+unsolvedmath-2866,catalog,Kirby Problem 3.68,unsolvedmath-1.1.0,,open
+unsolvedmath-2867,catalog,Kirby Problem 3.69,unsolvedmath-1.1.0,,open
+unsolvedmath-2868,catalog,Kirby Problem 3.70,unsolvedmath-1.1.0,,open
+unsolvedmath-2869,catalog,Kirby Problem 3.71,unsolvedmath-1.1.0,,open
+unsolvedmath-2870,catalog,Kirby Problem 3.72,unsolvedmath-1.1.0,,open
+unsolvedmath-2871,catalog,Kirby Problem 3.73,unsolvedmath-1.1.0,,open
+unsolvedmath-2872,catalog,Kirby Problem 3.74,unsolvedmath-1.1.0,,open
+unsolvedmath-2873,catalog,Kirby Problem 3.75,unsolvedmath-1.1.0,,open
+unsolvedmath-2874,catalog,Kirby Problem 3.76,unsolvedmath-1.1.0,,open
+unsolvedmath-2875,catalog,Kirby Problem 3.77,unsolvedmath-1.1.0,,open
+unsolvedmath-2876,catalog,Kirby Problem 3.78,unsolvedmath-1.1.0,,open
+unsolvedmath-2877,catalog,Kirby Problem 4.1,unsolvedmath-1.1.0,,open
+unsolvedmath-2878,catalog,Kirby Problem 4.2,unsolvedmath-1.1.0,,open
+unsolvedmath-2879,catalog,Kirby Problem 4.3,unsolvedmath-1.1.0,,open
+unsolvedmath-2880,catalog,Kirby Problem 4.4,unsolvedmath-1.1.0,,open
+unsolvedmath-2881,catalog,Kirby Problem 4.5,unsolvedmath-1.1.0,,open
+unsolvedmath-2882,catalog,Kirby Problem 4.6,unsolvedmath-1.1.0,,open
+unsolvedmath-2883,catalog,Kirby Problem 4.7,unsolvedmath-1.1.0,,open
+unsolvedmath-2884,catalog,Kirby Problem 4.8,unsolvedmath-1.1.0,,open
+unsolvedmath-2885,catalog,Kirby Problem 4.9,unsolvedmath-1.1.0,,open
+unsolvedmath-2886,catalog,Kirby Problem 4.10,unsolvedmath-1.1.0,,open
+unsolvedmath-2887,catalog,Kirby Problem 4.11,unsolvedmath-1.1.0,,open
+unsolvedmath-2888,catalog,Kirby Problem 4.12,unsolvedmath-1.1.0,,open
+unsolvedmath-2889,catalog,Kirby Problem 4.13,unsolvedmath-1.1.0,,open
+unsolvedmath-2890,catalog,Kirby Problem 4.14,unsolvedmath-1.1.0,,open
+unsolvedmath-2891,catalog,Kirby Problem 4.15,unsolvedmath-1.1.0,,open
+unsolvedmath-2892,catalog,Kirby Problem 4.16,unsolvedmath-1.1.0,,open
+unsolvedmath-2893,catalog,Kirby Problem 4.17,unsolvedmath-1.1.0,,open
+unsolvedmath-2894,catalog,Kirby Problem 4.18,unsolvedmath-1.1.0,,open
+unsolvedmath-2895,catalog,Kirby Problem 4.19,unsolvedmath-1.1.0,,open
+unsolvedmath-2896,catalog,Kirby Problem 4.20,unsolvedmath-1.1.0,,open
+unsolvedmath-2897,catalog,Kirby Problem 4.21,unsolvedmath-1.1.0,,open
+unsolvedmath-2898,catalog,Kirby Problem 4.22,unsolvedmath-1.1.0,,open
+unsolvedmath-2899,catalog,Kirby Problem 4.23,unsolvedmath-1.1.0,,open
+unsolvedmath-2900,catalog,Kirby Problem 4.24,unsolvedmath-1.1.0,,open
+unsolvedmath-2901,catalog,Kirby Problem 4.25,unsolvedmath-1.1.0,,open
+unsolvedmath-2902,catalog,Kirby Problem 4.26,unsolvedmath-1.1.0,,open
+unsolvedmath-2903,catalog,Kirby Problem 4.27,unsolvedmath-1.1.0,,open
+unsolvedmath-2904,catalog,Kirby Problem 4.28,unsolvedmath-1.1.0,,open
+unsolvedmath-2905,catalog,Kirby Problem 4.29,unsolvedmath-1.1.0,,open
+unsolvedmath-2906,catalog,Kirby Problem 4.30,unsolvedmath-1.1.0,,open
+unsolvedmath-2907,catalog,Kirby Problem 4.31,unsolvedmath-1.1.0,,open
+unsolvedmath-2908,catalog,Kirby Problem 4.32,unsolvedmath-1.1.0,,open
+unsolvedmath-2909,catalog,Kirby Problem 4.33,unsolvedmath-1.1.0,,open
+unsolvedmath-2910,catalog,Kirby Problem 4.34,unsolvedmath-1.1.0,,open
+unsolvedmath-2911,catalog,Kirby Problem 4.35,unsolvedmath-1.1.0,,open
+unsolvedmath-2912,catalog,Kirby Problem 4.36,unsolvedmath-1.1.0,,open
+unsolvedmath-2913,catalog,Kirby Problem 4.37,unsolvedmath-1.1.0,,open
+unsolvedmath-2914,catalog,Kirby Problem 4.38,unsolvedmath-1.1.0,,open
+unsolvedmath-2915,catalog,Kirby Problem 4.39,unsolvedmath-1.1.0,,open
+unsolvedmath-2916,catalog,Kirby Problem 4.40,unsolvedmath-1.1.0,,open
+unsolvedmath-2917,catalog,Kirby Problem 4.41,unsolvedmath-1.1.0,,open
+unsolvedmath-2918,catalog,Kirby Problem 4.42,unsolvedmath-1.1.0,,open
+unsolvedmath-2919,catalog,Kirby Problem 4.43,unsolvedmath-1.1.0,,open
+unsolvedmath-2920,catalog,Kirby Problem 4.44,unsolvedmath-1.1.0,,open
+unsolvedmath-2921,catalog,Kirby Problem 4.45,unsolvedmath-1.1.0,,open
+unsolvedmath-2922,catalog,Kirby Problem 4.46,unsolvedmath-1.1.0,,open
+unsolvedmath-2923,catalog,Kirby Problem 4.47,unsolvedmath-1.1.0,,open
+unsolvedmath-2924,catalog,Kirby Problem 4.48,unsolvedmath-1.1.0,,open
+unsolvedmath-2925,catalog,Kirby Problem 4.49,unsolvedmath-1.1.0,,open
+unsolvedmath-2926,catalog,Kirby Problem 4.50,unsolvedmath-1.1.0,,open
+unsolvedmath-2927,catalog,Kirby Problem 4.51,unsolvedmath-1.1.0,,open
+unsolvedmath-2928,catalog,Kirby Problem 4.52,unsolvedmath-1.1.0,,open
+unsolvedmath-2929,catalog,Kirby Problem 4.53,unsolvedmath-1.1.0,,open
+unsolvedmath-2930,catalog,Kirby Problem 4.54,unsolvedmath-1.1.0,,open
+unsolvedmath-2931,catalog,Kirby Problem 4.55,unsolvedmath-1.1.0,,open
+unsolvedmath-2932,catalog,Kirby Problem 4.56,unsolvedmath-1.1.0,,open
+unsolvedmath-2933,catalog,Kirby Problem 4.57,unsolvedmath-1.1.0,,open
+unsolvedmath-2934,catalog,Kirby Problem 4.58,unsolvedmath-1.1.0,,open
+unsolvedmath-2935,catalog,Kirby Problem 4.59,unsolvedmath-1.1.0,,open
+unsolvedmath-2936,catalog,Kirby Problem 4.60,unsolvedmath-1.1.0,,open
+unsolvedmath-2937,catalog,Kirby Problem 4.61,unsolvedmath-1.1.0,,open
+unsolvedmath-2938,catalog,Kirby Problem 4.62,unsolvedmath-1.1.0,,open
+unsolvedmath-2939,catalog,Kirby Problem 4.63,unsolvedmath-1.1.0,,open
+unsolvedmath-2940,catalog,Kirby Problem 4.64,unsolvedmath-1.1.0,,open
+unsolvedmath-2941,catalog,Kirby Problem 4.65,unsolvedmath-1.1.0,,open
+unsolvedmath-2942,catalog,Kirby Problem 4.66,unsolvedmath-1.1.0,,open
+unsolvedmath-2943,catalog,Kirby Problem 4.67,unsolvedmath-1.1.0,,open
+unsolvedmath-2944,catalog,Kirby Problem 4.68,unsolvedmath-1.1.0,,open
+unsolvedmath-2945,catalog,Kirby Problem 4.69,unsolvedmath-1.1.0,,open
+unsolvedmath-2946,catalog,Kirby Problem 4.70,unsolvedmath-1.1.0,,open
+unsolvedmath-2947,catalog,Kirby Problem 4.71,unsolvedmath-1.1.0,,open
+unsolvedmath-2948,catalog,Kirby Problem 4.72,unsolvedmath-1.1.0,,open
+unsolvedmath-2949,catalog,Kirby Problem 4.73,unsolvedmath-1.1.0,,open
+unsolvedmath-2950,catalog,Kirby Problem 4.74,unsolvedmath-1.1.0,,open
+unsolvedmath-2951,catalog,Kirby Problem 4.75,unsolvedmath-1.1.0,,open
+unsolvedmath-2952,catalog,Kirby Problem 4.76,unsolvedmath-1.1.0,,open
+unsolvedmath-2953,catalog,Kirby Problem 4.77,unsolvedmath-1.1.0,,open
+unsolvedmath-2954,catalog,Kirby Problem 4.78,unsolvedmath-1.1.0,,open
+unsolvedmath-2955,catalog,Kirby Problem 4.79,unsolvedmath-1.1.0,,open
+unsolvedmath-2956,catalog,Kirby Problem 4.80,unsolvedmath-1.1.0,,open
+unsolvedmath-2957,catalog,Kirby Problem 4.81,unsolvedmath-1.1.0,,open
+unsolvedmath-2958,catalog,Kirby Problem 4.82,unsolvedmath-1.1.0,,open
+unsolvedmath-2959,catalog,Kirby Problem 4.83,unsolvedmath-1.1.0,,open
+unsolvedmath-2960,catalog,Kirby Problem 4.84,unsolvedmath-1.1.0,,open
+unsolvedmath-2961,catalog,Kirby Problem 4.85,unsolvedmath-1.1.0,,open
+unsolvedmath-2962,catalog,Kirby Problem 4.86,unsolvedmath-1.1.0,,open
+unsolvedmath-2963,catalog,Kirby Problem 4.87,unsolvedmath-1.1.0,,open
+unsolvedmath-2964,catalog,Kirby Problem 4.88,unsolvedmath-1.1.0,,open
+unsolvedmath-2965,catalog,Kirby Problem 4.89,unsolvedmath-1.1.0,,open
+unsolvedmath-2966,catalog,Kirby Problem 4.90,unsolvedmath-1.1.0,,open
+unsolvedmath-2967,catalog,Kirby Problem 4.91,unsolvedmath-1.1.0,,open
+unsolvedmath-2968,catalog,Kirby Problem 4.92,unsolvedmath-1.1.0,,open
+unsolvedmath-2969,catalog,Kirby Problem 4.93,unsolvedmath-1.1.0,,open
+unsolvedmath-2970,catalog,Kirby Problem 4.94,unsolvedmath-1.1.0,,open
+unsolvedmath-2971,catalog,Kirby Problem 4.95,unsolvedmath-1.1.0,,open
+unsolvedmath-2972,catalog,Kirby Problem 4.96,unsolvedmath-1.1.0,,open
+unsolvedmath-2973,catalog,Kirby Problem 4.97,unsolvedmath-1.1.0,,open
+unsolvedmath-2974,catalog,Kirby Problem 4.98,unsolvedmath-1.1.0,,open
+unsolvedmath-2975,catalog,Kirby Problem 4.99,unsolvedmath-1.1.0,,open
+unsolvedmath-2976,catalog,Kirby Problem 4.100,unsolvedmath-1.1.0,,open
+unsolvedmath-2977,catalog,Kirby Problem 4.101,unsolvedmath-1.1.0,,open
+unsolvedmath-2978,catalog,Kirby Problem 4.102,unsolvedmath-1.1.0,,open
+unsolvedmath-2979,catalog,Kirby Problem 4.103,unsolvedmath-1.1.0,,open
+unsolvedmath-2980,catalog,Kirby Problem 4.104,unsolvedmath-1.1.0,,open
+unsolvedmath-2981,catalog,Kirby Problem 4.105,unsolvedmath-1.1.0,,open
+unsolvedmath-2982,catalog,Kirby Problem 4.106,unsolvedmath-1.1.0,,open
+unsolvedmath-2983,catalog,Kirby Problem 4.107,unsolvedmath-1.1.0,,open
+unsolvedmath-2984,catalog,Kirby Problem 4.108,unsolvedmath-1.1.0,,open
+unsolvedmath-2985,catalog,Kirby Problem 4.109,unsolvedmath-1.1.0,,open
+unsolvedmath-2986,catalog,Kirby Problem 4.110,unsolvedmath-1.1.0,,open
+unsolvedmath-2987,catalog,Kirby Problem 4.111,unsolvedmath-1.1.0,,open
+unsolvedmath-2988,catalog,Kirby Problem 4.112,unsolvedmath-1.1.0,,open
+unsolvedmath-2989,catalog,Kirby Problem 4.113,unsolvedmath-1.1.0,,open
+unsolvedmath-2990,catalog,Kirby Problem 4.114,unsolvedmath-1.1.0,,open
+unsolvedmath-2991,catalog,Kirby Problem 4.115,unsolvedmath-1.1.0,,open
+unsolvedmath-2992,catalog,Kirby Problem 4.116,unsolvedmath-1.1.0,,open
+unsolvedmath-2993,catalog,Kirby Problem 4.117,unsolvedmath-1.1.0,,open
+unsolvedmath-2994,catalog,Kirby Problem 4.118,unsolvedmath-1.1.0,,open
+unsolvedmath-2995,catalog,Kirby Problem 4.119,unsolvedmath-1.1.0,,open
+unsolvedmath-2996,catalog,Kirby Problem 4.120,unsolvedmath-1.1.0,,open
+unsolvedmath-2997,catalog,Kirby Problem 4.121,unsolvedmath-1.1.0,,open
+unsolvedmath-2998,catalog,Kirby Problem 4.122,unsolvedmath-1.1.0,,open
+unsolvedmath-2999,catalog,Kirby Problem 4.123,unsolvedmath-1.1.0,,open
+unsolvedmath-3000,catalog,Kirby Problem 4.124,unsolvedmath-1.1.0,,open
+unsolvedmath-3001,catalog,Kirby Problem 4.125,unsolvedmath-1.1.0,,open
+unsolvedmath-3002,catalog,Kirby Problem 4.126,unsolvedmath-1.1.0,,open
+unsolvedmath-3003,catalog,Kirby Problem 4.127,unsolvedmath-1.1.0,,open
+unsolvedmath-3004,catalog,Kirby Problem 4.128,unsolvedmath-1.1.0,,open
+unsolvedmath-3005,catalog,Kirby Problem 4.129,unsolvedmath-1.1.0,,open
+unsolvedmath-3006,catalog,Kirby Problem 4.130,unsolvedmath-1.1.0,,open
+unsolvedmath-3007,catalog,Kirby Problem 4.131,unsolvedmath-1.1.0,,open
+unsolvedmath-3008,catalog,Kirby Problem 5.1,unsolvedmath-1.1.0,,open
+unsolvedmath-3009,catalog,Kirby Problem 5.2,unsolvedmath-1.1.0,,open
+unsolvedmath-3010,catalog,Kirby Problem 5.3,unsolvedmath-1.1.0,,open
+unsolvedmath-3011,catalog,Kirby Problem 5.4,unsolvedmath-1.1.0,,open
+unsolvedmath-3012,catalog,Kirby Problem 5.5,unsolvedmath-1.1.0,,open
+unsolvedmath-3013,catalog,Kirby Problem 5.6,unsolvedmath-1.1.0,,open
+unsolvedmath-3014,catalog,Kirby Problem 5.7,unsolvedmath-1.1.0,,open
+unsolvedmath-3015,catalog,Kirby Problem 5.8,unsolvedmath-1.1.0,,open
+unsolvedmath-3016,catalog,Kirby Problem 5.9,unsolvedmath-1.1.0,,open
+unsolvedmath-3017,catalog,Kirby Problem 5.10,unsolvedmath-1.1.0,,open
+unsolvedmath-3018,catalog,Kirby Problem 5.11,unsolvedmath-1.1.0,,open
+unsolvedmath-3019,catalog,Kirby Problem 5.12,unsolvedmath-1.1.0,,open
+unsolvedmath-3020,catalog,Kirby Problem 5.13,unsolvedmath-1.1.0,,open
+unsolvedmath-3021,catalog,Kirby Problem 5.14,unsolvedmath-1.1.0,,open
+unsolvedmath-3022,catalog,Kirby Problem 5.15,unsolvedmath-1.1.0,,open
+unsolvedmath-3023,catalog,Kirby Problem 5.16,unsolvedmath-1.1.0,,open
+unsolvedmath-3024,catalog,Kirby Problem 5.17,unsolvedmath-1.1.0,,open
+unsolvedmath-3025,catalog,Kirby Problem 5.18,unsolvedmath-1.1.0,,open
+unsolvedmath-3026,catalog,trace inequality,unsolvedmath-1.1.0,,open
+unsolvedmath-3027,catalog,Elementary symmetric of a sum of matrices,unsolvedmath-1.1.0,,open
+unsolvedmath-3028,catalog,Finite Lattice Representation Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-3029,catalog,Sub-atomic product of funcoids is a categorical product,unsolvedmath-1.1.0,,open
+unsolvedmath-3030,catalog,inverse of an integer matrix,unsolvedmath-1.1.0,,open
+unsolvedmath-3031,catalog,Graphs of exact colorings,unsolvedmath-1.1.0,,open
+unsolvedmath-3032,catalog,Waring rank of determinant,unsolvedmath-1.1.0,,open
+unsolvedmath-3033,catalog,$C^r$ Stability Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3034,catalog,Invariant subspace problem,unsolvedmath-1.1.0,,open
+unsolvedmath-3035,catalog,Criterion for boundedness of power series,unsolvedmath-1.1.0,,open
+unsolvedmath-3036,catalog,Something like Picard for 1-forms,unsolvedmath-1.1.0,,open
+unsolvedmath-3037,catalog,Inequality for square summable complex series,unsolvedmath-1.1.0,,open
+unsolvedmath-3038,catalog,Long rainbow arithmetic progressions,unsolvedmath-1.1.0,,open
+unsolvedmath-3039,catalog,Rainbow AP(4) in an almost equinumerous coloring,unsolvedmath-1.1.0,,open
+unsolvedmath-3040,catalog,Monotone 4-term Arithmetic Progressions,unsolvedmath-1.1.0,,open
+unsolvedmath-3041,catalog,Even vs. odd latin squares,unsolvedmath-1.1.0,,open
+unsolvedmath-3042,catalog,2-accessibility of primes,unsolvedmath-1.1.0,,open
+unsolvedmath-3043,catalog,3-accessibility of Fibonacci numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-3044,catalog,Wide partition conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3045,catalog,Shuffle-Exchange Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3046,catalog,Beneš Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3047,catalog,Dividing up the unrestricted partitions,unsolvedmath-1.1.0,,open
+unsolvedmath-3048,catalog,Sequence defined on multisets,unsolvedmath-1.1.0,,open
+unsolvedmath-3049,catalog,Square achievement game on an n x n grid,unsolvedmath-1.1.0,,open
+unsolvedmath-3050,catalog,Transversal achievement game on a square grid,unsolvedmath-1.1.0,,open
+unsolvedmath-3051,catalog,Length of surreal product,unsolvedmath-1.1.0,,open
+unsolvedmath-3052,catalog,Roller Coaster permutations,unsolvedmath-1.1.0,,open
+unsolvedmath-3053,catalog,The Double Cap Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3054,catalog,Saturation in the Hypercube,unsolvedmath-1.1.0,,open
+unsolvedmath-3055,catalog,Extremal $4$-Neighbour Bootstrap Percolation in the Hypercube,unsolvedmath-1.1.0,,open
+unsolvedmath-3056,catalog,Turán Problem for $10$-Cycles in the Hypercube,unsolvedmath-1.1.0,,open
+unsolvedmath-3057,catalog,Perfect 2-error-correcting codes over arbitrary finite alphabets.,unsolvedmath-1.1.0,,open
+unsolvedmath-3058,catalog,Combinatorial covering designs,unsolvedmath-1.1.0,,open
+unsolvedmath-3059,catalog,A nowhere-zero point in a linear mapping,unsolvedmath-1.1.0,,open
+unsolvedmath-3060,catalog,The additive basis conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3061,catalog,The permanent conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3062,catalog,The Alon-Tarsi basis conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3063,catalog,Rota's unimodal conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3064,catalog,Bases of many weights,unsolvedmath-1.1.0,,open
+unsolvedmath-3065,catalog,Aharoni-Berger conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3066,catalog,Equality in a matroidal circumference bound,unsolvedmath-1.1.0,,open
+unsolvedmath-3067,catalog,Ding's tau_r vs. tau conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3068,catalog,Saturated $k$-Sperner Systems of Minimum Size,unsolvedmath-1.1.0,,open
+unsolvedmath-3069,catalog,Diagonal Ramsey numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-3070,catalog,The large sets conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3071,catalog,Concavity of van der Waerden numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-3072,catalog,Edge-antipodal colorings of cubes,unsolvedmath-1.1.0,,open
+unsolvedmath-3073,catalog,A conjecture on iterated circumcentres,unsolvedmath-1.1.0,,open
+unsolvedmath-3074,catalog,Big Line or Big Clique in Planar Point Sets,unsolvedmath-1.1.0,,open
+unsolvedmath-3075,catalog,Average diameter of a bounded cell of a simple arrangement,unsolvedmath-1.1.0,,open
+unsolvedmath-3076,catalog,Convex 'Fair' Partitions Of Convex Polygons,unsolvedmath-1.1.0,,open
+unsolvedmath-3077,catalog,Dense rational distance sets in the plane,unsolvedmath-1.1.0,,open
+unsolvedmath-3078,catalog,Simplexity of the n-cube,unsolvedmath-1.1.0,,open
+unsolvedmath-3079,catalog,Kneser–Poulsen conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3080,catalog,Erdös-Szekeres conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3081,catalog,Monochromatic empty triangles,unsolvedmath-1.1.0,,open
+unsolvedmath-3082,catalog,Inequality of the means,unsolvedmath-1.1.0,,open
+unsolvedmath-3083,catalog,Edge-Colouring Geometric Complete Graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3084,catalog,Partition of Complete Geometric Graph into Plane Trees,unsolvedmath-1.1.0,,open
+unsolvedmath-3085,catalog,Point sets with no empty pentagon,unsolvedmath-1.1.0,,open
+unsolvedmath-3086,catalog,Covering a square with unit squares,unsolvedmath-1.1.0,,open
+unsolvedmath-3087,catalog,Convex uniform 5-polytopes,unsolvedmath-1.1.0,,open
+unsolvedmath-3088,catalog,Partitioning the Projective Plane,unsolvedmath-1.1.0,,open
+unsolvedmath-3089,catalog,Dirac's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3090,catalog,General position subsets,unsolvedmath-1.1.0,,open
+unsolvedmath-3091,catalog,Generalised Empty Hexagon Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3092,catalog,Chromatic number of associahedron,unsolvedmath-1.1.0,,open
+unsolvedmath-3093,catalog,Convex Equipartitions with Extreme Perimeter,unsolvedmath-1.1.0,,open
+unsolvedmath-3094,catalog,Edge-Unfolding Convex Polyhedra,unsolvedmath-1.1.0,,open
+unsolvedmath-3095,catalog,Jacobian Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3096,catalog,The Hodge Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3097,catalog,Fat 4-polytopes,unsolvedmath-1.1.0,,open
+unsolvedmath-3098,catalog,Continous analogue of Hirsch conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3099,catalog,Cube-Simplex conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3100,catalog,Extension complexity of (convex) polygons,unsolvedmath-1.1.0,,open
+unsolvedmath-3101,catalog,Durer's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3102,catalog,Pebbling a cartesian product,unsolvedmath-1.1.0,,open
+unsolvedmath-3103,catalog,Reconstruction conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3104,catalog,Edge Reconstruction Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3105,catalog,Book Thickness of Subdivisions,unsolvedmath-1.1.0,,open
+unsolvedmath-3106,catalog,Shannon capacity of the seven-cycle,unsolvedmath-1.1.0,,open
+unsolvedmath-3107,catalog,Number of Cliques in Minor-Closed Classes,unsolvedmath-1.1.0,,open
+unsolvedmath-3108,catalog,Shuffle-Exchange Conjecture (graph-theoretic form),unsolvedmath-1.1.0,,open
+unsolvedmath-3109,catalog,Odd cycles and low oddness,unsolvedmath-1.1.0,,open
+unsolvedmath-3110,catalog,Beneš Conjecture (graph-theoretic form),unsolvedmath-1.1.0,,open
+unsolvedmath-3111,catalog,Approximation Ratio for Maximum Edge Disjoint Paths problem,unsolvedmath-1.1.0,,open
+unsolvedmath-3112,catalog,Approximation ratio for k-outerplanar graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3113,catalog,Finding k-edge-outerplanar graph embeddings,unsolvedmath-1.1.0,,open
+unsolvedmath-3114,catalog,Exact colorings of graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3115,catalog,Star chromatic index of cubic graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3116,catalog,Star chromatic index of complete graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3117,catalog,Vertex Coloring of graph fractional powers,unsolvedmath-1.1.0,,open
+unsolvedmath-3118,catalog,Covering powers of cycles with equivalence subgraphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3119,catalog,Obstacle number of planar graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3120,catalog,Matching cut and girth,unsolvedmath-1.1.0,,open
+unsolvedmath-3121,catalog,Minimal graphs with a prescribed number of spanning trees,unsolvedmath-1.1.0,,open
+unsolvedmath-3122,catalog,The Borodin-Kostochka Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3123,catalog,Stable set meeting all longest directed paths.,unsolvedmath-1.1.0,,open
+unsolvedmath-3124,catalog,Arc-disjoint strongly connected spanning subdigraphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3125,catalog,Do any three longest paths in a connected graph have a vertex in common?,unsolvedmath-1.1.0,,open
+unsolvedmath-3126,catalog,Lovász Path Removal Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3127,catalog,Turán number of a finite family.,unsolvedmath-1.1.0,,open
+unsolvedmath-3128,catalog,Switching reconstruction conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3129,catalog,Switching reconstruction of digraphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3130,catalog,Signing a graph to have small magnitude eigenvalues,unsolvedmath-1.1.0,,open
+unsolvedmath-3131,catalog,Are almost all graphs determined by their spectrum?,unsolvedmath-1.1.0,,open
+unsolvedmath-3132,catalog,Minimum number of arc-disjoint transitive subtournaments of order 3 in a tournament,unsolvedmath-1.1.0,,open
+unsolvedmath-3133,catalog,Imbalance conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3134,catalog,Fractional Hadwiger,unsolvedmath-1.1.0,,open
+unsolvedmath-3135,catalog,Chromatic Number of Common Graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3136,catalog,Circular flow numbers of $r$-graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3137,catalog,3-Decomposition Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3138,catalog,Cycle Double Covers Containing Predefined 2-Regular Subgraphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3139,catalog,Monochromatic vertex colorings inherited from Perfect Matchings,unsolvedmath-1.1.0,,open
+unsolvedmath-3140,catalog,Sidorenko's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3141,catalog,3-Edge-Coloring Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3142,catalog,Chromatic number of $\frac{3}{3}$-power of graph,unsolvedmath-1.1.0,,open
+unsolvedmath-3143,catalog,57-regular Moore graph?,unsolvedmath-1.1.0,,open
+unsolvedmath-3144,catalog,Hamiltonian paths and cycles in vertex transitive graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3145,catalog,Triangle free strongly regular graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3146,catalog,Half-integral flow polynomial values,unsolvedmath-1.1.0,,open
+unsolvedmath-3147,catalog,Ramsey properties of Cayley graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3148,catalog,Laplacian Degrees of a Graph,unsolvedmath-1.1.0,,open
+unsolvedmath-3149,catalog,Cores of strongly regular graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3150,catalog,Does the chromatic symmetric function distinguish between trees?,unsolvedmath-1.1.0,,open
+unsolvedmath-3151,catalog,Graham's conjecture on tree reconstruction,unsolvedmath-1.1.0,,open
+unsolvedmath-3152,catalog,Nearly spanning regular subgraphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3153,catalog,Complete bipartite subgraphs of perfect graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3154,catalog,Asymptotic Distribution of Form of Polyhedra,unsolvedmath-1.1.0,,open
+unsolvedmath-3155,catalog,Domination in cubic graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3156,catalog,Friendly partitions,unsolvedmath-1.1.0,,open
+unsolvedmath-3157,catalog,Subgraph of large average degree and large girth.,unsolvedmath-1.1.0,,open
+unsolvedmath-3158,catalog,Almost all non-Hamiltonian 3-regular graphs are 1-connected,unsolvedmath-1.1.0,,open
+unsolvedmath-3159,catalog,Partitioning edge-connectivity,unsolvedmath-1.1.0,,open
+unsolvedmath-3160,catalog,Kriesell's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3161,catalog,Cycle double cover conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3162,catalog,The circular embedding conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3163,catalog,"(m,n)-cycle covers",unsolvedmath-1.1.0,,open
+unsolvedmath-3164,catalog,Faithful cycle covers,unsolvedmath-1.1.0,,open
+unsolvedmath-3165,catalog,Decomposing eulerian graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3166,catalog,Barnette's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3167,catalog,r-regular graphs are not uniquely hamiltonian.,unsolvedmath-1.1.0,,open
+unsolvedmath-3168,catalog,Hamiltonian cycles in line graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3169,catalog,Geodesic cycles and Tutte's Theorem,unsolvedmath-1.1.0,,open
+unsolvedmath-3170,catalog,Jones' conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3171,catalog,Chords of longest cycles,unsolvedmath-1.1.0,,open
+unsolvedmath-3172,catalog,Hamiltonicity of Cayley graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3173,catalog,Strong 5-cycle double cover conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3174,catalog,Decomposing an eulerian graph into cycles.,unsolvedmath-1.1.0,,open
+unsolvedmath-3175,catalog,Decomposing an eulerian graph into cycles with no two consecutives edges on a prescribed eulerian tour.,unsolvedmath-1.1.0,,open
+unsolvedmath-3176,catalog,Every prism over a 3-connected planar graph is hamiltonian.,unsolvedmath-1.1.0,,open
+unsolvedmath-3177,catalog,4-connected graphs are not uniquely hamiltonian,unsolvedmath-1.1.0,,open
+unsolvedmath-3178,catalog,Hamilton decomposition of prisms over 3-connected cubic planar graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3179,catalog,The Berge-Fulkerson conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3180,catalog,The intersection of two perfect matchings,unsolvedmath-1.1.0,,open
+unsolvedmath-3181,catalog,Matchings extend to Hamiltonian cycles in hypercubes,unsolvedmath-1.1.0,,open
+unsolvedmath-3182,catalog,Random stable roommates,unsolvedmath-1.1.0,,open
+unsolvedmath-3183,catalog,Highly connected graphs with no K_n minor,unsolvedmath-1.1.0,,open
+unsolvedmath-3184,catalog,Jorgensen's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3185,catalog,Seagull problem,unsolvedmath-1.1.0,,open
+unsolvedmath-3186,catalog,Forcing a $K_6$-minor,unsolvedmath-1.1.0,,open
+unsolvedmath-3187,catalog,Forcing a 2-regular minor,unsolvedmath-1.1.0,,open
+unsolvedmath-3188,catalog,Decomposing a connected graph into paths.,unsolvedmath-1.1.0,,open
+unsolvedmath-3189,catalog,Partition of a cubic 3-connected graphs into paths of length 2.,unsolvedmath-1.1.0,,open
+unsolvedmath-3190,catalog,Linial-Berge path partition duality,unsolvedmath-1.1.0,,open
+unsolvedmath-3191,catalog,"Three-chromatic (0,2)-graphs",unsolvedmath-1.1.0,,open
+unsolvedmath-3192,catalog,Total Colouring Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3193,catalog,4-regular 4-chromatic graphs of high girth,unsolvedmath-1.1.0,,open
+unsolvedmath-3194,catalog,Coloring the union of degenerate graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3195,catalog,List Total Colouring Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3196,catalog,Petersen coloring conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3197,catalog,Packing T-joins,unsolvedmath-1.1.0,,open
+unsolvedmath-3198,catalog,Acyclic edge-colouring,unsolvedmath-1.1.0,,open
+unsolvedmath-3199,catalog,A generalization of Vizing's Theorem?,unsolvedmath-1.1.0,,open
+unsolvedmath-3200,catalog,List colorings of edge-critical graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3201,catalog,Universal Steiner triple systems,unsolvedmath-1.1.0,,open
+unsolvedmath-3202,catalog,Edge list coloring conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3203,catalog,Seymour's r-graph conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3204,catalog,Goldberg's conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3205,catalog,Strong edge colouring conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3206,catalog,Cores of Cayley graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3207,catalog,Pentagon problem,unsolvedmath-1.1.0,,open
+unsolvedmath-3208,catalog,Mapping planar graphs to odd cycles,unsolvedmath-1.1.0,,open
+unsolvedmath-3209,catalog,Weak pentagon problem,unsolvedmath-1.1.0,,open
+unsolvedmath-3210,catalog,Algorithm for graph homomorphisms,unsolvedmath-1.1.0,,open
+unsolvedmath-3211,catalog,Circular choosability of planar graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3212,catalog,Graceful Tree Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3213,catalog,Good Edge Labelings,unsolvedmath-1.1.0,,open
+unsolvedmath-3214,catalog,5-flow conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3215,catalog,4-flow conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3216,catalog,3-flow conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3217,catalog,Jaeger's modular orientation conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3218,catalog,Bouchet's 6-flow conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3219,catalog,The three 4-flows conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3220,catalog,A homomorphism problem for flows,unsolvedmath-1.1.0,,open
+unsolvedmath-3221,catalog,Real roots of the flow polynomial,unsolvedmath-1.1.0,,open
+unsolvedmath-3222,catalog,Unit vector flows,unsolvedmath-1.1.0,,open
+unsolvedmath-3223,catalog,Antichains in the cycle continuous order,unsolvedmath-1.1.0,,open
+unsolvedmath-3224,catalog,Circular flow number of regular class 1 graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3225,catalog,Strong colorability,unsolvedmath-1.1.0,,open
+unsolvedmath-3226,catalog,"Reed's omega, delta, and chi conjecture",unsolvedmath-1.1.0,,open
+unsolvedmath-3227,catalog,Circular coloring triangle-free subcubic planar graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3228,catalog,Oriented chromatic number of planar graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3229,catalog,Coloring and immersion,unsolvedmath-1.1.0,,open
+unsolvedmath-3230,catalog,Coloring the Odd Distance Graph,unsolvedmath-1.1.0,,open
+unsolvedmath-3231,catalog,Partial List Coloring,unsolvedmath-1.1.0,,open
+unsolvedmath-3232,catalog,Partial List Coloring,unsolvedmath-1.1.0,,open
+unsolvedmath-3233,catalog,Hedetniemi's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3234,catalog,Counting 3-colorings of the hex lattice,unsolvedmath-1.1.0,,open
+unsolvedmath-3235,catalog,Circular colouring the orthogonality graph,unsolvedmath-1.1.0,,open
+unsolvedmath-3236,catalog,Double-critical graph conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3237,catalog,Bounding the chromatic number of triangle-free graphs with fixed maximum degree,unsolvedmath-1.1.0,,open
+unsolvedmath-3238,catalog,Graphs with a forbidden induced tree are chi-bounded,unsolvedmath-1.1.0,,open
+unsolvedmath-3239,catalog,Are vertex minor closed classes chi-bounded?,unsolvedmath-1.1.0,,open
+unsolvedmath-3240,catalog,Mixing Circular Colourings,unsolvedmath-1.1.0,,open
+unsolvedmath-3241,catalog,Choice Number of k-Chromatic Graphs of Bounded Order,unsolvedmath-1.1.0,,open
+unsolvedmath-3242,catalog,Melnikov's valency-variety problem,unsolvedmath-1.1.0,,open
+unsolvedmath-3243,catalog,Earth-Moon Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-3244,catalog,Acyclic list colouring of planar graphs.,unsolvedmath-1.1.0,,open
+unsolvedmath-3245,catalog,List chromatic number and maximum degree of bipartite graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3246,catalog,Colouring the square of a planar graph,unsolvedmath-1.1.0,,open
+unsolvedmath-3247,catalog,Weighted colouring of hexagonal graphs.,unsolvedmath-1.1.0,,open
+unsolvedmath-3248,catalog,Bounding the on-line choice number in terms of the choice number,unsolvedmath-1.1.0,,open
+unsolvedmath-3249,catalog,Choosability of Graph Powers,unsolvedmath-1.1.0,,open
+unsolvedmath-3250,catalog,Erdős–Faber–Lovász conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3251,catalog,2-colouring a graph without a monochromatic maximum clique,unsolvedmath-1.1.0,,open
+unsolvedmath-3252,catalog,List Colourings of Complete Multipartite Graphs with 2 Big Parts,unsolvedmath-1.1.0,,open
+unsolvedmath-3253,catalog,List Hadwiger Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3254,catalog,Cycles in Graphs of Large Chromatic Number,unsolvedmath-1.1.0,,open
+unsolvedmath-3255,catalog,The Two Color Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3256,catalog,Woodall's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3257,catalog,The Bermond-Thomassen Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3258,catalog,Seymour's Second Neighbourhood Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3259,catalog,Non-edges vs. feedback edge sets in digraphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3260,catalog,Oriented trees in n-chromatic digraphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3261,catalog,Antidirected trees in digraphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3262,catalog,Directed path of length twice the minimum outdegree,unsolvedmath-1.1.0,,open
+unsolvedmath-3263,catalog,Caccetta-Häggkvist Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3264,catalog,Ádám's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3265,catalog,Splitting a digraph with minimum outdegree constraints,unsolvedmath-1.1.0,,open
+unsolvedmath-3266,catalog,Long directed cycles in diregular digraphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3267,catalog,Arc-disjoint out-branching and in-branching,unsolvedmath-1.1.0,,open
+unsolvedmath-3268,catalog,Subdivision of a transitive tournament in digraphs with large outdegree.,unsolvedmath-1.1.0,,open
+unsolvedmath-3269,catalog,Hamilton cycle in small d-diregular graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3270,catalog,Hoàng-Reed Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3271,catalog,Arc-disjoint directed cycles in regular directed graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3272,catalog,Cyclic spanning subdigraph with small cyclomatic number,unsolvedmath-1.1.0,,open
+unsolvedmath-3273,catalog,Large acyclic induced subdigraph in a planar oriented graph.,unsolvedmath-1.1.0,,open
+unsolvedmath-3274,catalog,Erdős-Posa property for long directed cycles,unsolvedmath-1.1.0,,open
+unsolvedmath-3275,catalog,Monochromatic reachability in arc-colored digraphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3276,catalog,Monochromatic reachability or rainbow triangles,unsolvedmath-1.1.0,,open
+unsolvedmath-3277,catalog,Decomposing an even tournament in directed paths.,unsolvedmath-1.1.0,,open
+unsolvedmath-3278,catalog,Edge-disjoint Hamilton cycles in highly strongly connected tournaments.,unsolvedmath-1.1.0,,open
+unsolvedmath-3279,catalog,Partitionning a tournament into k-strongly connected subtournaments.,unsolvedmath-1.1.0,,open
+unsolvedmath-3280,catalog,Decomposing k-arc-strong tournament into k spanning strong digraphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3281,catalog,The Erdös-Hajnal Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3282,catalog,What is the smallest number of disjoint spanning trees made a graph Hamiltonian,unsolvedmath-1.1.0,,open
+unsolvedmath-3283,catalog,Extremal problem on the number of tree endomorphism,unsolvedmath-1.1.0,,open
+unsolvedmath-3284,catalog,Complexity of the H-factor problem.,unsolvedmath-1.1.0,,open
+unsolvedmath-3285,catalog,Odd-cycle transversal in triangle-free graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3286,catalog,Triangle-packing vs triangle edge-transversal.,unsolvedmath-1.1.0,,open
+unsolvedmath-3287,catalog,The Bollobás-Eldridge-Catlin Conjecture on graph packing,unsolvedmath-1.1.0,,open
+unsolvedmath-3288,catalog,Weak saturation of the cube in the clique,unsolvedmath-1.1.0,,open
+unsolvedmath-3289,catalog,Multicolour Erdős--Hajnal Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3290,catalog,A gold-grabbing game,unsolvedmath-1.1.0,,open
+unsolvedmath-3291,catalog,PTAS for feedback arc set in tournaments,unsolvedmath-1.1.0,,open
+unsolvedmath-3292,catalog,Ryser's conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3293,catalog,¿Are critical k-forests tight?,unsolvedmath-1.1.0,,open
+unsolvedmath-3294,catalog,Frankl's union-closed sets conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3295,catalog,Simultaneous partition of hypergraphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3296,catalog,Turán's problem for hypergraphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3297,catalog,Seymour's self-minor conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3298,catalog,Unions of triangle free graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3299,catalog,Infinite uniquely hamiltonian graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3300,catalog,Hamiltonian cycles in line graphs of infinite graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3301,catalog,Hamiltonian cycles in powers of infinite graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3302,catalog,Universal highly arc transitive digraphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3303,catalog,Unfriendly partitions,unsolvedmath-1.1.0,,open
+unsolvedmath-3304,catalog,Strong matchings and covers,unsolvedmath-1.1.0,,open
+unsolvedmath-3305,catalog,Highly arc transitive two ended digraphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3306,catalog,End-Devouring Rays,unsolvedmath-1.1.0,,open
+unsolvedmath-3307,catalog,"Characterizing (aleph_0,aleph_1)-graphs",unsolvedmath-1.1.0,,open
+unsolvedmath-3308,catalog,Coloring random subgraphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3309,catalog,Negative association in uniform forests,unsolvedmath-1.1.0,,open
+unsolvedmath-3310,catalog,Chromatic number of random lifts of complete graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3311,catalog,Domination in plane triangulations,unsolvedmath-1.1.0,,open
+unsolvedmath-3312,catalog,Large induced forest in a planar graph.,unsolvedmath-1.1.0,,open
+unsolvedmath-3313,catalog,Every 4-connected toroidal graph has a Hamilton cycle,unsolvedmath-1.1.0,,open
+unsolvedmath-3314,catalog,Grunbaum's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3315,catalog,5-local-tensions,unsolvedmath-1.1.0,,open
+unsolvedmath-3316,catalog,Degenerate colorings of planar graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3317,catalog,3-Colourability of Arrangements of Great Circles,unsolvedmath-1.1.0,,open
+unsolvedmath-3318,catalog,The Crossing Number of the Complete Graph,unsolvedmath-1.1.0,,open
+unsolvedmath-3319,catalog,The Crossing Number of the Complete Bipartite Graph,unsolvedmath-1.1.0,,open
+unsolvedmath-3320,catalog,The Crossing Number of the Hypercube,unsolvedmath-1.1.0,,open
+unsolvedmath-3321,catalog,Drawing disconnected graphs on surfaces,unsolvedmath-1.1.0,,open
+unsolvedmath-3322,catalog,Crossing sequences,unsolvedmath-1.1.0,,open
+unsolvedmath-3323,catalog,Crossing numbers and coloring,unsolvedmath-1.1.0,,open
+unsolvedmath-3324,catalog,Are different notions of the crossing number the same?,unsolvedmath-1.1.0,,open
+unsolvedmath-3325,catalog,Universal point sets for planar graphs,unsolvedmath-1.1.0,,open
+unsolvedmath-3326,catalog,Linear Hypergraphs with Dimension 3,unsolvedmath-1.1.0,,open
+unsolvedmath-3327,catalog,Consecutive non-orientable embedding obstructions,unsolvedmath-1.1.0,,open
+unsolvedmath-3328,catalog,What is the largest graph of positive curvature?,unsolvedmath-1.1.0,,open
+unsolvedmath-3329,catalog,Growth of finitely presented groups,unsolvedmath-1.1.0,,open
+unsolvedmath-3330,catalog,Subgroup formed by elements of order dividing n,unsolvedmath-1.1.0,,open
+unsolvedmath-3331,catalog,Burnside problem,unsolvedmath-1.1.0,,open
+unsolvedmath-3332,catalog,Inverse Galois Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-3333,catalog,Which lattices occur as intervals in subgroup lattices of finite groups?,unsolvedmath-1.1.0,,open
+unsolvedmath-3334,catalog,F_d versus F_{d+1},unsolvedmath-1.1.0,,open
+unsolvedmath-3335,catalog,Tarski's exponential function problem,unsolvedmath-1.1.0,,open
+unsolvedmath-3336,catalog,Termination of the sixth Goodstein Sequence,unsolvedmath-1.1.0,,open
+unsolvedmath-3337,catalog,Fixed-point logic with counting,unsolvedmath-1.1.0,,open
+unsolvedmath-3338,catalog,Order-invariant queries,unsolvedmath-1.1.0,,open
+unsolvedmath-3339,catalog,Monadic second-order logic with cardinality predicates,unsolvedmath-1.1.0,,open
+unsolvedmath-3340,catalog,Blatter-Specker Theorem for ternary relations,unsolvedmath-1.1.0,,open
+unsolvedmath-3341,catalog,MSO alternation hierarchy over pictures,unsolvedmath-1.1.0,,open
+unsolvedmath-3342,catalog,Finite entailment of Positive Horn logic,unsolvedmath-1.1.0,,open
+unsolvedmath-3343,catalog,Vertex Cover Integrality Gap,unsolvedmath-1.1.0,,open
+unsolvedmath-3344,catalog,Lonely runner conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3345,catalog,MacEachen Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3346,catalog,Chowla's cosine problem,unsolvedmath-1.1.0,,open
+unsolvedmath-3347,catalog,Quartic rationally derived polynomials,unsolvedmath-1.1.0,,open
+unsolvedmath-3348,catalog,A discrete iteration related to Pierce expansions,unsolvedmath-1.1.0,,open
+unsolvedmath-3349,catalog,Algebraic independence of pi and e,unsolvedmath-1.1.0,,open
+unsolvedmath-3350,catalog,Odd perfect numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-3351,catalog,Diophantine quintuple conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3352,catalog,Twin prime conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3353,catalog,Polignac's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3354,catalog,Special Primes,unsolvedmath-1.1.0,,open
+unsolvedmath-3355,catalog,Primitive pythagorean n-tuple tree,unsolvedmath-1.1.0,,open
+unsolvedmath-3356,catalog,"3 is a primitive root modulo primes of the form 16 q^4 + 1, where q>3 is prime",unsolvedmath-1.1.0,,open
+unsolvedmath-3357,catalog,Erdős–Straus conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3358,catalog,Lucas Numbers Modulo m,unsolvedmath-1.1.0,,open
+unsolvedmath-3359,catalog,Sum of prime and semiprime conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3360,catalog,Giuga's Conjecture on Primality,unsolvedmath-1.1.0,,open
+unsolvedmath-3361,catalog,Alexa's Conjecture on Primality,unsolvedmath-1.1.0,,open
+unsolvedmath-3362,catalog,Birch & Swinnerton-Dyer conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3363,catalog,The Erdos-Turan conjecture on additive bases,unsolvedmath-1.1.0,,open
+unsolvedmath-3364,catalog,Goldbach conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3365,catalog,Are there an infinite number of lucky primes?,unsolvedmath-1.1.0,,open
+unsolvedmath-3366,catalog,The Riemann Hypothesis,unsolvedmath-1.1.0,,open
+unsolvedmath-3367,catalog,Schanuel's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3368,catalog,Distribution and upper bound of mimic numbers,unsolvedmath-1.1.0,,open
+unsolvedmath-3369,catalog,Lindelöf hypothesis,unsolvedmath-1.1.0,,open
+unsolvedmath-3370,catalog,Euler-Mascheroni constant,unsolvedmath-1.1.0,,open
+unsolvedmath-3371,catalog,Is Skewes' number e^e^e^79 an integer?,unsolvedmath-1.1.0,,open
+unsolvedmath-3372,catalog,Are all Fermat Numbers square-free?,unsolvedmath-1.1.0,,open
+unsolvedmath-3373,catalog,Are there only finite Fermat Primes?,unsolvedmath-1.1.0,,open
+unsolvedmath-3374,catalog,Are all Mersenne Numbers with prime exponent square-free?,unsolvedmath-1.1.0,,open
+unsolvedmath-3375,catalog,Are there infinite number of Mersenne Primes?,unsolvedmath-1.1.0,,open
+unsolvedmath-3376,catalog,Olson's Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3377,catalog,Few subsequence sums in Z_n x Z_n,unsolvedmath-1.1.0,,open
+unsolvedmath-3378,catalog,Gao's theorem for nonabelian groups,unsolvedmath-1.1.0,,open
+unsolvedmath-3379,catalog,Sets with distinct subset sums,unsolvedmath-1.1.0,,open
+unsolvedmath-3380,catalog,The 3n+1 conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3381,catalog,Odd incongruent covering systems,unsolvedmath-1.1.0,,open
+unsolvedmath-3382,catalog,Covering systems with big moduli,unsolvedmath-1.1.0,,open
+unsolvedmath-3383,catalog,Divisibility of central binomial coefficients,unsolvedmath-1.1.0,,open
+unsolvedmath-3384,catalog,Davenport's constant,unsolvedmath-1.1.0,,open
+unsolvedmath-3385,catalog,Snevily's conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3386,catalog,Frobenius number of four or more integers,unsolvedmath-1.1.0,,open
+unsolvedmath-3387,catalog,Singmaster's conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3388,catalog,A sextic counterexample to Euler's sum of powers conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3389,catalog,Counterexamples to the Baillie-PSW primality test,unsolvedmath-1.1.0,,open
+unsolvedmath-3390,catalog,Wall-Sun-Sun primes and Fibonacci divisibility,unsolvedmath-1.1.0,,open
+unsolvedmath-3391,catalog,Magic square of squares,unsolvedmath-1.1.0,,open
+unsolvedmath-3392,catalog,Perfect cuboid,unsolvedmath-1.1.0,,open
+unsolvedmath-3393,catalog,KPZ Universality Conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3394,catalog,Sums of independent random variables with unbounded variance,unsolvedmath-1.1.0,,open
+unsolvedmath-3395,catalog,P vs. NP,unsolvedmath-1.1.0,,open
+unsolvedmath-3396,catalog,Exponential Algorithms for Knapsack,unsolvedmath-1.1.0,,open
+unsolvedmath-3397,catalog,The robustness of the tensor product,unsolvedmath-1.1.0,,open
+unsolvedmath-3398,catalog,Subset-sums equality (pigeonhole version),unsolvedmath-1.1.0,,open
+unsolvedmath-3399,catalog,Complexity of square-root sum,unsolvedmath-1.1.0,,open
+unsolvedmath-3400,catalog,"Linear-size circuits for stable $0,1 < 2$ sorting?",unsolvedmath-1.1.0,,open
+unsolvedmath-3401,catalog,Discrete Logarithm Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-3402,catalog,P vs. PSPACE,unsolvedmath-1.1.0,,open
+unsolvedmath-3403,catalog,One-way functions exist,unsolvedmath-1.1.0,,open
+unsolvedmath-3404,catalog,Unconditional derandomization of Arthur-Merlin games,unsolvedmath-1.1.0,,open
+unsolvedmath-3405,catalog,P vs. BPP,unsolvedmath-1.1.0,,open
+unsolvedmath-3406,catalog,Refuting random 3SAT-instances on $O(n)$ clauses (weak form),unsolvedmath-1.1.0,,open
+unsolvedmath-3407,catalog,S(S(f)) = S(f) for reloids,unsolvedmath-1.1.0,,open
+unsolvedmath-3408,catalog,Inscribed Square Problem,unsolvedmath-1.1.0,,open
+unsolvedmath-3409,catalog,Rank vs. Genus,unsolvedmath-1.1.0,,open
+unsolvedmath-3410,catalog,Smooth 4-dimensional Schoenflies problem,unsolvedmath-1.1.0,,open
+unsolvedmath-3411,catalog,Smooth 4-dimensional Poincare conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3412,catalog,Slice-ribbon problem,unsolvedmath-1.1.0,,open
+unsolvedmath-3413,catalog,Realisation problem for the space of knots in the 3-sphere,unsolvedmath-1.1.0,,open
+unsolvedmath-3414,catalog,Which homology 3-spheres bound homology 4-balls?,unsolvedmath-1.1.0,,open
+unsolvedmath-3415,catalog,Fundamental group torsion for subsets of Euclidean 3-space,unsolvedmath-1.1.0,,open
+unsolvedmath-3416,catalog,Which compact boundaryless 3-manifolds embed smoothly in the 4-sphere?,unsolvedmath-1.1.0,,open
+unsolvedmath-3417,catalog,What is the homotopy type of the group of diffeomorphisms of the 4-sphere?,unsolvedmath-1.1.0,,open
+unsolvedmath-3418,catalog,Is there an algorithm to determine if a triangulated 4-manifold is combinatorially equivalent to the 4-sphere?,unsolvedmath-1.1.0,,open
+unsolvedmath-3419,catalog,Unsolvability of word problem for 2-knot complements,unsolvedmath-1.1.0,,open
+unsolvedmath-3420,catalog,"The 4x5 chessboard complex is the complement of a link, which link?",unsolvedmath-1.1.0,,open
+unsolvedmath-3421,catalog,Outer reloid of restricted funcoid,unsolvedmath-1.1.0,,open
+unsolvedmath-3422,catalog,Sticky Cantor sets,unsolvedmath-1.1.0,,open
+unsolvedmath-3423,catalog,Nonseparating planar continuum,unsolvedmath-1.1.0,,open
+unsolvedmath-3424,catalog,Hilbert-Smith conjecture,unsolvedmath-1.1.0,,open
+unsolvedmath-3425,catalog,Strict inequalities for products of filters,unsolvedmath-1.1.0,,open
+unsolvedmath-3426,catalog,Funcoidal products inside an inward reloid,unsolvedmath-1.1.0,,open
+unsolvedmath-3427,catalog,Upgrading a completary multifuncoid,unsolvedmath-1.1.0,,open
+unsolvedmath-3428,catalog,Atomicity of the poset of completary multifuncoids,unsolvedmath-1.1.0,,open
+unsolvedmath-3429,catalog,Atomicity of the poset of multifuncoids,unsolvedmath-1.1.0,,open
+unsolvedmath-3430,catalog,Graph product of multifuncoids,unsolvedmath-1.1.0,,open
+unsolvedmath-3431,catalog,A conjecture about direct product of funcoids,unsolvedmath-1.1.0,,open
+unsolvedmath-3432,catalog,Closing Lemma for Diffeomorphism (Dynamical Systems),unsolvedmath-1.1.0,,open
+unsolvedmath-3433,catalog,Jacob Palis Conjecture(Finitude of Attractors)(Dynamical Systems),unsolvedmath-1.1.0,,open
+unsolvedmath-3434,catalog,Decomposition of completions of reloids,unsolvedmath-1.1.0,,open
+unsolvedmath-3435,catalog,Every metamonovalued funcoid is monovalued,unsolvedmath-1.1.0,,open
+unsolvedmath-3436,catalog,Every metamonovalued reloid is monovalued,unsolvedmath-1.1.0,,open
+unsolvedmath-3437,catalog,Generalized path-connectedness in proximity spaces,unsolvedmath-1.1.0,,open
+unsolvedmath-3438,catalog,Direct proof of a theorem about compact funcoids,unsolvedmath-1.1.0,,open
+unsolvedmath-3439,catalog,Another conjecture about reloids and funcoids,unsolvedmath-1.1.0,,open
+unsolvedmath-3440,catalog,What are hyperfuncoids isomorphic to?,unsolvedmath-1.1.0,,open
+unsolvedmath-3441,catalog,Infinite distributivity of meet over join for a principal funcoid,unsolvedmath-1.1.0,,open
+unsolvedmath-3442,catalog,A funcoid related to directed topological spaces,unsolvedmath-1.1.0,,open
+unsolvedmath-3443,catalog,Outward reloid of composition vs composition of outward reloids,unsolvedmath-1.1.0,,open
+unsolvedmath-3444,catalog,A diagram about funcoids and reloids,unsolvedmath-1.1.0,,open
+unsolvedmath-3445,catalog,Which outer reloids are equal to inner ones,unsolvedmath-1.1.0,,open
+unsolvedmath-3446,catalog,Several ways to apply a (multivalued) multiargument function to a family of filters,unsolvedmath-1.1.0,,open
+unsolvedmath-3447,catalog,Rendezvous on a line,unsolvedmath-1.1.0,,open

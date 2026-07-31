@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2119",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #436",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "If $p$ is a prime and $k,m\\geq 2$ then let $r(k,m,p)$ be the minimal $r$ such that $r,r+1,\\ldots,r+m-1$ are all $k$th power residues modulo $p$. Let $ \\Lambda(k,m)=\\limsup_{p\\to \\infty} r(k,m,p). $ Is it true that $\\Lambda(k,2)$ is finite for all $k$? Is $\\Lambda(k,3)$ finite for all odd $k$? How large are they?",
+    "sha256": "a0705fb53b68b2112ca584b02c2d5f3b4089caf5c5e3d443d92c4b836cb0df7c",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-436",
+    "source_locator": "dataset ID 2119; problem number EP-436",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

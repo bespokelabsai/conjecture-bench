@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0102",
+  "source_registry": "egres-open",
+  "title": "Maximum square-free 2-matching",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Given an undirected graph ''G=(V,E)'', find a maximum cardinality 2-matching containing no cycles of length 4 in polynomial time.",
+    "sha256": "72f504b2c270dce2799ab2e70b051912054a53bcc361ab66a9651f2f196e1fbf",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-08-06T13:52:25Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Maximum_square-free_2-matching&oldid=2070",
+    "source_locator": "EGRES page 102, revision 2070",
+    "source_sha256": "9836a811580df5ce0d9d499a2f6287862bafd66c4c65cd16c78695ca7661f4a4",
+    "tags": [
+      "combinatorial-optimization",
+      "Matchings",
+      "Node-connectivity"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

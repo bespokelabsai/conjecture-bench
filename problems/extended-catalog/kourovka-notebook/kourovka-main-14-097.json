@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-097",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.97 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that for any two different prime numbers p and q there exists a non-\nprimary periodic locally soluble {p, q}-group that can be represented as the product\nof two of its p-subgroups?                                            N. S. Chernikov",
+    "sha256": "9c1c2a682250b3aa6503a67383c59fc9c4bc128e12cc291a5c2bc371bbd6b412",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=81",
+    "source_locator": "Kourovka 14.97, main section, page 81",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

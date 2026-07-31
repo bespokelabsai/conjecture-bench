@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-053",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.53 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is there a non-linear simple locally finite group in which every centralizer of a\nnon-trivial element is almost soluble, that is, has a soluble subgroup of finite index?\n                                                                             M. Kuzucuoğlu",
+    "sha256": "48346abf1be8ae98b2e88db456eba0f3c736a091c3f8fd057e3f8fe8f42d7faf",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=121",
+    "source_locator": "Kourovka 18.53, main section, page 121",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

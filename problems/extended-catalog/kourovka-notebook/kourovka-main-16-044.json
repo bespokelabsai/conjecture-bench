@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-044",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.44 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is there in ZFC a countable non-discrete topological group not containing\ndiscrete subsets with a single accumulation point? (Such a group is known to exist\nunder Martin’s Axiom.)                                              E. G. Zelenyuk",
+    "sha256": "4ded6df9ff0d28af2b539b6947678b71bdf9e0f3d1ba54e3f230bf395eb7a8fa",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=98",
+    "source_locator": "Kourovka 16.44, main section, page 98",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

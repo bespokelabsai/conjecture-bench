@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3154",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Asymptotic Distribution of Form of Polyhedra",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem Consider the set of all topologically inequivalent polyhedra with $k$ edges. Define a form parameter for a polyhedron as $\\beta:= v/(k+2)$ where $v$ is the number of vertices. What is the distribution of $\\beta$ for $k \\to \\infty$?",
+    "sha256": "f104fab09352d21c118bf142fa163139928cb07ade0097a78e20bb0cff670490",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-36933",
+    "source_locator": "dataset ID 3154; problem number OPG-36933",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

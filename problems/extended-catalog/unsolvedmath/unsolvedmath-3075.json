@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3075",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Average diameter of a bounded cell of a simple arrangement",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture The average diameter of a bounded cell of a simple arrangement defined by $n$ hyperplanes in dimension $d$ is not greater than $d$.",
+    "sha256": "c461612e697f9eb8dfa2287bf9ec03ace57ff21e3241cac4859bc436cbdeace7",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-605",
+    "source_locator": "dataset ID 3075; problem number OPG-605",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:geometry",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

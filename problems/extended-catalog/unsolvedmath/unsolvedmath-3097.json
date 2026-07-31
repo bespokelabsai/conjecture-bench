@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3097",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Fat 4-polytopes",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "The fatness of a 4-polytope $P$ is defined to be $(f_1 + f_2)/(f_0 + f_3)$ where $f_i$ is the number of faces of $P$ of dimension $i$.\n\nQuestion Does there exist a fixed constant $c$ so that every convex 4-polytope has fatness at most $c$?",
+    "sha256": "30d79986e40830fb89b1034e7d3af1309939cc22d726c5f59b17442be97ecf6a",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-316",
+    "source_locator": "dataset ID 3097; problem number OPG-316",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:geometry",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0131",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős-Szekeres with Visibility",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Fix integers $k, \\ell$. Given $n \\geq n_0(k, \\ell)$ points in $\\mathbb{R}^2$, is there either a line containing $k$ of them, or $\\ell$ of them that are mutually visible?",
+    "sha256": "9970be151b0866e6779379cc1f3675540fc5b699f054ca92ac14433bf6b3e6d1",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GREEN-043",
+    "source_locator": "dataset ID 131; problem number GREEN-043",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:geometry",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:green-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

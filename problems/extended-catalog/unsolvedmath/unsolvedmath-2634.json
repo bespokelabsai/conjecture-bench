@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2634",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.125",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $F_m$ be a free group of rank $m$ and let $\\varphi\\in\\operatorname{Aut}(F_m)$ be a polynomially growing automorphism of maximal degree $m-1$, which means that for some (equivalently, any) free basis $\\{x_1,\\ldots,x_m\\}$ of $F_m$, the sequence $\\max_i |\\varphi^n(x_i)|$ grows at the rate of $n^{m-1}$, where $|g|$ denotes the minimal length of $g$ in the $x_i$ and their inverses.\n\na) Is the free-by-cyclic group $F_m\\rtimes_\\varphi\\mathbb Z$ virtually special?\n\nb) In particular, are the Hydra groups $G_m=F_m\\rtimes\\mathbb Z=\\langle a_1,\\ldots,a_m,t\\mid t^{-1}a_1t=a_1,\\ t^{-1}a_it=a_ia_{i-1}\\text{ for all }i>1\\rangle$ virtually special?",
+    "sha256": "3a8ec0a2a8eb581e6957283b1c76b7185110f67d3c84a84fa16cc03d90b82b8a",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.125",
+    "source_locator": "dataset ID 2634; problem number KOU-21.125",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

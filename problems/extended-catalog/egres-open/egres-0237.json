@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0237",
+  "source_registry": "egres-open",
+  "title": "Recognition of Seymour graphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "A graph ''G'' is said to be a '''Seymour graph''' if for any edge set ''F'' that satisfies <math>|C\\cap F|\\le |C\\setminus F|</math> for every circuit ''C'' of ''G'', there exist <math>|F|</math> pairwise disjoint cuts each containing exactly one element of ''F''. Can we decide in polynomial time whether a graph is Seymour?",
+    "sha256": "f5615b5623b8861a531445fa2af0c13f45a1272b6e7112db0291c6188da08492",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2017-07-13T22:03:33Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Recognition_of_Seymour_graphs&oldid=2422",
+    "source_locator": "EGRES page 237, revision 2422",
+    "source_sha256": "c6511b8eb09ad86bcd6c4726c78fb9f782e393a7080b6e5a8fe6184d3b61f5ef",
+    "tags": [
+      "combinatorial-optimization",
+      "Cycles and paths",
+      "Matchings"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

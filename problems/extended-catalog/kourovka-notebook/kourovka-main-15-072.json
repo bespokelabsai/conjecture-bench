@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-072",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.72 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For a fixed prime p does there exist a sequence of groups Pn of order\n                                                                        √    pn such\nthat the number of conjugacy classes k(Pn ) satisfies limn→∞ log k(Pn )/ n = 0?\n   Note that J. M. Riedl (J. Algebra, 218 (1999), 190–215) constructed p-groups for\nwhich the above limit is 2 log p.                                         P. P. Pálfy",
+    "sha256": "e57a58f0e631e33b94696697620fd049449eeb18592c814685f6c668a3050c4a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=91",
+    "source_locator": "Kourovka 15.72, main section, page 91",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

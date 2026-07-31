@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-013",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.13 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "The well-known Baer–Suzuki theorem states that if every two conjugates of\nan element a of a finite group G generate a finite p-subgroup, then a is contained in\na normal p-subgroup. Does such a theorem hold in the class of periodic groups for\np > 2?\n   A counterexample is known for p = 2; see Archive 11.11a).            A. V. Borovik",
+    "sha256": "a6a9155051ff3364c2a9dc13fbd05c7f4c4e0ad96c49614de2cfcd940503914b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=132",
+    "source_locator": "Kourovka 19.13, main section, page 132",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0025",
+  "slug": "total-coloring-conjecture",
+  "title": "Total Coloring conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Total Coloring conjecture · Behzad 1965 and Vizing 1968. Every graph has a total coloring using at most Δ+2 colors.",
+  "counterexample": {
+    "description": "A connected simple graph of maximum degree six whose vertices and edges cannot be colored together with eight colors. A complete check exhausts the bounded total-coloring search.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2507.12737",
+        "role": "supporting"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.23268",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "total-coloring"
+}

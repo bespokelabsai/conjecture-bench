@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-020",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.20 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Well-known problem). Is R. Thompson’s group\n                  F = ⟨x0 , x1 , . . . | xxni = xn+1 , i < n, n = 1, 2, . . .⟩ =\n\n      = ⟨x0 , . . . , x4 | xx1 0 = x2 , xx2 0 = x3 , xx2 1 = x3 , xx3 1 = x4 , xx3 2 = x4 ⟩\namenable?                                                                         R. I. Grigorchuk",
+    "sha256": "5c6b92caf53e73e30f232b8a55906d4430f6a8389bc905f75b8afa604f1d0a08",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=58",
+    "source_locator": "Kourovka 12.20, main section, page 58",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

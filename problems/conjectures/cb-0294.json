@@ -1,0 +1,46 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0294",
+  "slug": "highly-element-connected-orientation",
+  "title": "Highly element-connected orientation conjecture",
+  "field": "graph-orientations-and-connectivity",
+  "statement": "Let G be a finite undirected graph with a designated terminal set T. If T is 2k-element-connected in G—every two terminals have 2k paths that are pairwise disjoint in edges and nonterminal internal vertices—then G has an orientation in which T is k-element-connected in both directions.",
+  "counterexample": {
+    "description": "A finite simple graph with a proper terminal set that remains terminal-connected after deletion of any three edges or nonterminal vertices, but for which exhaustive orientation search finds no orientation remaining strongly terminal-connected after deletion of any one such element.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://lemon.cs.elte.hu/egres/open/Highly_element-connected_orientation",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Highly_element-connected_orientation&oldid=1802",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.jctb.2008.01.006",
+        "role": "rooted-case"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.orl.2012.06.004",
+        "role": "projective-plane-special-case"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.jctb.2014.07.004",
+        "role": "related-two-connected-orientation-characterization"
+      }
+    ],
+    "discovery_records": [
+      "egres-0039"
+    ]
+  },
+  "equivalence_group": "highly-element-connected-orientation"
+}

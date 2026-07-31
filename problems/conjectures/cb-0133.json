@@ -1,0 +1,35 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0133",
+  "slug": "erdos-1020-matching-extremal-hypergraph",
+  "title": "Erdős problem #1020: matching extremal hypergraph",
+  "field": "hypergraph-theory",
+  "statement": "For r≥3 and n≥rk, the maximum size of an r-uniform n-vertex hypergraph with matching number below k is max(C(rk−1,r), C(n,r)−C(n−k+1,r)).",
+  "counterexample": {
+    "description": "Parameters r,n,k and an r-uniform hypergraph exceeding the stated bound while having no k pairwise disjoint edges.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "status-contested",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review",
+    "note": "A February 2026 preprint claims a complete proof. Later 2026 specialist work still treats the conjecture as unresolved, so its exact status requires independent review."
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/1020",
+        "role": "status"
+      },
+      {
+        "url": "https://arxiv.org/abs/2605.26060",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2602.01471",
+        "role": "proof-claim"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-089",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.89 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "An element g of a group G is said to be almost Engel if there is a fi-\nnite subset E(g) of G such that for every x ∈ G all sufficiently long commutators\n[...[[x, g], g], . . . , g] belong to E(g), that is, there is a positive integer n(x, g) such that\n[...[[x, g], g], . . . , g] ∈ E(g) if g is repeated ⩾ n(x, g) times. An element g is Engel if\nwe can take E(g) = {1}. The set of Engel elements of a linear group is a subgroup\nby a well-known result of Gruenberg (J. Algebra, 3 (1966), 291–303). Is the set of\nalmost Engel elements of a linear group a subgroup?\n     A linear group in which all elements are almost Engel is finite-by-hypercentral\n(P. Shumyatsky, Monatsh. Math., 186 (2018), 711–719).                              P. Shumyatsky",
+    "sha256": "a299f0bded92d536a463f507e234869b7137cf675381e306e9101550350d3d50",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=157",
+    "source_locator": "Kourovka 20.89, main section, page 157",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

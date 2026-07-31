@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3417",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "What is the homotopy type of the group of diffeomorphisms of the 4-sphere?",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem $Diff(S^4)$ has the homotopy-type of a product space $Diff(S^4) \\simeq \\mathbb O_5 \\times Diff(D^4)$ where $Diff(D^4)$ is the group of diffeomorphisms of the 4-ball which restrict to the identity on the boundary. Determine some (any?) homotopy or homology groups of $Diff(D^4)$.",
+    "sha256": "38a60e267bb7f104dee0cf955721b6f33c506a88014cdf92ea70868fe480c119",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-37159",
+    "source_locator": "dataset ID 3417; problem number OPG-37159",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

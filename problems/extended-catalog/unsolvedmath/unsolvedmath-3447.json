@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3447",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Rendezvous on a line",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem Two players start at a distance of 2 on an (undirected) line (so, neither player knows the direction of the other) and both move at a maximum speed of 1. What is the infimum expected meeting time $R$ (first time when the players occupy the same point) which can be achieved assuming the two players must adopt the same strategy?",
+    "sha256": "56b58ffba9f79ab0d05acf4a35187acde798c2526fe6a391c5ae78b60ef6da53",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-581",
+    "source_locator": "dataset ID 3447; problem number OPG-581",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:miscellaneous",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

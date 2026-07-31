@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-008",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.8 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A word in an alphabet A = {a , a , . . . , a } is called a palindrome if it reads\n                                           1   2        n\nthe same from left to right and from right to left. Let k a non-negative integer.\nA word in the alphabet A is called an almost k-palindrome if it can be transformed\ninto a palindrome by changing ⩽ k letters in it. (So an almost 0-palindrome is a\npalindrome.) Let elements of a free group F2 = ⟨x, y⟩ be represented as words in the\nalphabet {x±1 , y ±1 }. Do there exist positive integers m and c such that every element\nin F2 is a product of ⩽ c almost m-palindromes?\n    It is known that for m = 0 there is no such a number c.              V. G. Bardakov\n  ∗ No, there are no such integers (M. Staiger, J. Algebra, 659 (2024), 475–481).",
+    "sha256": "e0703d958800d9a08cfb8c9a4d449b8f2b5e07685a19271e35b4471e3762b759",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=131",
+    "source_locator": "Kourovka 19.8, main section, page 131",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

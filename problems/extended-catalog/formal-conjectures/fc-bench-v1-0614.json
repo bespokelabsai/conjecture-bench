@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0614",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "green_29",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 20]\ntheorem green_29 :\n    answer(sorry) ↔\n      ∃ C c : ℝ, 0 < C ∧ 0 < c ∧\n        ∀ {G : Type*} [Group G] [DecidableEq G] (K : ℝ) (A : Finset G),\n          1 ≤ K → IsApproximateSubgroup K (A : Set G) →\n            ∃ S ⊆ A, C * K ^ (-c) * (A.card : ℝ) ≤ (S.card : ℝ) ∧\n            S ^ 8 ⊆ A ^ 4",
+    "language_version": "Lean 4.27.0",
+    "sha256": "6e4c6bc956f949861146afc7772850ae608ab6c5a253e38a253583b8c9bdcb07",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/29.lean#L40",
+    "source_locator": "FormalConjectures/GreensOpenProblems/29.lean:40#green_29",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-20"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

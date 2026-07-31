@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3302",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Universal highly arc transitive digraphs",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "An alternating walk in a digraph is a walk $v_0,e_1,v_1,\\ldots,v_m$ so that the vertex $v_i$ is either the head of both $e_i$ and $e_{i+1}$ or the tail of both $e_i$ and $e_{i+1}$ for every $1 \\le i \\le m-1$. A digraph is universal if for every pair of edges $e,f$, there is an alternating walk containing both $e$ and $f$\n\nQuestion Does there exist a locally finite highly arc transitive digraph which is universal?",
+    "sha256": "52ffb391dad9951ff40398e89a31023a0d38703f964a4a7f187aaf098b8877e4",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-677",
+    "source_locator": "dataset ID 3302; problem number OPG-677",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

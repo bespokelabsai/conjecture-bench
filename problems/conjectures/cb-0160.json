@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0160",
+  "slug": "topp-64-edge-unfolding-polycubes",
+  "title": "Edge-unfolding genus-zero polycubes",
+  "field": "discrete-geometry",
+  "statement": "Every genus-zero polycube has a nonoverlapping edge unfolding when all surface cube edges may be cut.",
+  "counterexample": {
+    "description": "A finite genus-zero polycube for which every edge-cut spanning tree produces overlap.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "topp-open-finite",
+    "sources": [
+      {
+        "url": "https://topp.openproblem.net/p64",
+        "role": "status"
+      }
+    ]
+  }
+}

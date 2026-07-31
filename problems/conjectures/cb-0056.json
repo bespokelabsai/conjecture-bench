@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0056",
+  "slug": "circulant-hadamard-nonexistence",
+  "title": "Circulant Hadamard nonexistence",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "Every circulant Hadamard matrix has order 1 or 4.",
+  "counterexample": {
+    "description": "A cyclic \\(\\{\\pm1\\}\\) sequence of order greater than four with all nonzero periodic autocorrelations zero. Autocorrelations give a tiny exact check.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1411.2201",
+        "role": "supporting"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0012365X24000396",
+        "role": "supporting"
+      }
+    ]
+  }
+}

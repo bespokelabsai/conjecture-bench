@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-089",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.89 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A permutation group is subdegree-finite if every orbit of every point stabiliser\nis finite. Let Ω be countably infinite, and let G be a closed and subdegree-finite\nsubgroup of Sym(Ω) regarded as a topological group under the topology of pointwise\nconvergence.\n    Conjecture: If the minimal degree of G is infinite, then there is some subset of Ω\nwhose setwise stabiliser in G is trivial.\n    Note that this conjecture implies Tom Tucker’s well-known Infinite Motion Con-\njecture for graphs.                                                        S. M. Smith",
+    "sha256": "68733894d598f23931241f577c209b563d9ca066f11c509bbb3703c2e64fda3e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=140",
+    "source_locator": "Kourovka 19.89, main section, page 140",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

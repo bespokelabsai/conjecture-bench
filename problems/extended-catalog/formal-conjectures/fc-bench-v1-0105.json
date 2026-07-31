@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0105",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_126",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_126 : answer(sorry) ↔ ∀ (f : ℕ → ℕ), IsMaximalAddFactorsCard f →\n    Tendsto (fun n => f n / Real.log n) atTop atTop",
+    "language_version": "Lean 4.27.0",
+    "sha256": "04731115c01b4efcc2bdc06c785a5d6f8f8ee7334ff9595b97e6a50e4d40b64e",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/126.lean#L40",
+    "source_locator": "FormalConjectures/ErdosProblems/126.lean:40#erdos_126",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

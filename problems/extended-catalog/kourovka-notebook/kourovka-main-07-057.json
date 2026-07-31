@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-07-057",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 7.57 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "a) A set of generators of a finitely generated group G consisting of the least\npossible number d(G) of elements is called a basis of G. Let rM (G) be the least number\nof relations necessary to define G in the basis M and let r(G) be the minimum of the\nnumbers rM (G) over all bases M of G. It is known that rM (G) ⩽ d(G) + r(G) for\nany basis M . Does there exist a finitely presented group G for which the inequality\nbecomes equality for some basis M ?                                       V. A. Churkin",
+    "sha256": "19918df55e5822442f6ff215b4b59ddd72854be2bab9c88eb4414bc4cedc6397",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=25",
+    "source_locator": "Kourovka 7.57, main section, page 25",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

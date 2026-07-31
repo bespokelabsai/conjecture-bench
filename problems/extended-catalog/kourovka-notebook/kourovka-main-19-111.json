@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-111",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.111 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Do there exist infinite groups all of whose proper subgroups are cyclic of\norder p that do not satisfy any nontrivial group identity except xp = 1 and its conse-\nquences?\n    Note that there exist infinite groups all of whose proper subgroups are infinite\ncyclic that do not satisfy any nontrivial group identity (due to A. Olshanskii; see\nP. Zusmanovich, J. Algebra, 388 (2013), 268–286, Remark after Theorem 6.1).\n                                                                        P. Zusmanovich",
+    "sha256": "399651b8ae281de3efcf97d616771fb4618db010f6ceed09182eedb9fc2cfbd2",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=143",
+    "source_locator": "Kourovka 19.111, main section, page 143",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

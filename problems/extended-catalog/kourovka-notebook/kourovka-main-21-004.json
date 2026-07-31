@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-004",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.4 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a finite group with trivial solvable radical and let H1 , . . . , H5 be\nT xi subgroups of G. Then do there always exist elements xi ∈ G such that\nsolvable\n  i Hi = 1? Cf. 17.41(b).           M. Anagnostopoulou-Merkouri, T. C. Burness",
+    "sha256": "7f17b36d591a0109f51a6f63ae99d53099b8bae97227df24ef11b910a1a686ab",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=164",
+    "source_locator": "Kourovka 21.4, main section, page 164",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

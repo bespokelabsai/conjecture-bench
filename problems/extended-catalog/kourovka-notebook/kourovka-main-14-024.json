@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-024",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.24 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let Aut Fn be the automorphism group of a free group of rank n with norm\n|| · || as in 14.23. Does there exist a recursive function f : N × N → N with the\nfollowing property: for any two conjugate elements α, β ∈ Aut Fn there is an element\nγ ∈ Aut Fn such that γ −1 αγ = β and ||γ|| ⩽ f (||α||, ||β||)?      O. V. Bogopolski",
+    "sha256": "5cb2d2ff5d6f55c848d7331373977af612a3d610e1d4a09f54c3cd17d60b8c8c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=74",
+    "source_locator": "Kourovka 14.24, main section, page 74",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

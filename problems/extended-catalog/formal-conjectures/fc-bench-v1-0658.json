@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0658",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "mathoverflow_21003",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 12]\ntheorem mathoverflow_21003 :\n    answer(sorry) ↔ ∃ f : MvPolynomial (Fin 2) ℚ, Function.Bijective fun x ↦ f.eval x",
+    "language_version": "Lean 4.27.0",
+    "sha256": "3a79742db9279a7a6f51f8aeea052cd636b0eb5860b9fe368eea145470c0a3db",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Mathoverflow/21003.lean#L37",
+    "source_locator": "FormalConjectures/Mathoverflow/21003.lean:37#mathoverflow_21003",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Mathoverflow",
+      "AMS-12"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2488",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #1100",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "If $1=d_1<\\cdots<d_{\\tau(n)}=n$ are the divisors of $n$, then let $\\tau_\\perp(n)$ count the number of $i$ for which $(d_i,d_{i+1})=1$.\nIs it true that $\\tau_\\perp(n)/\\omega(n)\\to \\infty$ for almost all $n$? Is it true that $ \\tau_\\perp(n)< \\exp((\\log n)^{o(1)}) $ for all $n$?\nLet $ g(k) = \\max_{\\omega(n)=k}\\tau_\\perp(n), $ where $\\omega(n)$ counts the number of distinct prime divisors of $n$, and $n$ is restricted to squarefree integers. Determine the growth of $g(k)$.",
+    "sha256": "7d0dc3c43501489459c5e83682261689efb36bbc60f4098f46d6c6df9305acd4",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-1100",
+    "source_locator": "dataset ID 2488; problem number EP-1100",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-038",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.38 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A formation F is called radical in a class H if F ⊆ H and in every H-group\nthe product of any two normal F-subgroups belongs to F. Let M be the class of all\nsaturated hereditary formations of finite groups such that the formation of all finite\nsupersoluble groups is radical in every element of M. Is it true that M has the largest\n(by inclusion) element?                                A. F. Vasil’ev, L. A. Shemetkov",
+    "sha256": "12cf24a10b8fa7fcb6c677559afd482fc96ffb4f9c9e9027d1f715f47815e72c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=106",
+    "source_locator": "Kourovka 17.38, main section, page 106",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

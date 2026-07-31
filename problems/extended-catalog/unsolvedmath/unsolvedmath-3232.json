@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3232",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Partial List Coloring",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $G$ be a simple graph, and for every list assignment $\\mathcal{L}$ let $\\lambda_{\\mathcal{L}}$ be the maximum number of vertices of $G$ which are colorable with respect to $\\mathcal{L}$. Define $\\lambda_t = \\min{ \\lambda_{\\mathcal{L}} }$, where the minimum is taken over all list assignments $\\mathcal{L}$ with $|\\mathcal{L}| = t$ for all $v \\in V(G)$.\n\nConjecture [2] Let $G$ be a graph with list chromatic number $\\chi_\\ell$ and $1\\leq r\\leq s\\leq \\chi_\\ell$. Then\n$$\n\\frac{\\lambda_r}{r}\\geq\\frac{\\lambda_s}{s}.\n$$",
+    "sha256": "6639c12977ea58bba7016edad06ca02b69dfbad5712041df38dde8993a4faca9",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-788",
+    "source_locator": "dataset ID 3232; problem number OPG-788",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3400",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Linear-size circuits for stable $0,1 < 2$ sorting?",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem Can $O(n)$-size circuits compute the function $f$ on $\\{0,1,2\\}^*$ defined inductively by $f(\\lambda) = \\lambda$, $f(0x) = 0f(x)$, $f(1x) = 1f(x)$, and $f(2x) = f(x)2$?",
+    "sha256": "c98e935e70d189e9c9b77c20589b8c5fdc7a2e925afb52a56cd7aea260a2e181",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-474",
+    "source_locator": "dataset ID 3400; problem number OPG-474",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:computer-science",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0004",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "independentDominationEven",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem independentDominationEven (hIso : 0 < G.minDegree) (hEven : Even G.maxDegree) :\n    let D := G.maxDegree\n    let i := G.indepDominationNumber\n    let n := Fintype.card V\n    (D + 2)^2 * i ≤ (D^2 + 4) * n",
+    "language_version": "Lean 4.27.0",
+    "sha256": "0c404421b544459932c3dd574ad4178a25174733a3b94d1058d0a3a21800e3af",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Arxiv/2107.00295/IndependentDomination.lean#L36",
+    "source_locator": "FormalConjectures/Arxiv/2107.00295/IndependentDomination.lean:36#independentDominationEven",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Arxiv",
+      "AMS-5"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0205"
+  ]
+}

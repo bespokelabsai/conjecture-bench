@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0965",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "ramsey_number_five_five",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem ramsey_number_five_five :\n    R(5, 5) = answer(sorry)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "0e16811e625b45307fe3df382b868a89f7d63e36edec55ee7380668554412220",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/RamseyNumbers.lean#L91",
+    "source_locator": "FormalConjectures/Wikipedia/RamseyNumbers.lean:91#ramsey_number_five_five",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

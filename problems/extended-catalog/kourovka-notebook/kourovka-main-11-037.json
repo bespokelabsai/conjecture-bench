@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-037",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.37 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "a) Can the free Burnside group B(m, n), for any m and n, be given by defining\nrelations of the form v n = 1 such that for any natural divisor d of n distinct from n\nthe element v d is not trivial in B(m, n)? This is true for odd n ⩾ 665, and for all\nn ⩾ 248 divisible by 29 .                                                  S. V. Ivanov",
+    "sha256": "6c1de22eca821aa16e39b5e25ec07c2e97725f4272cdb45c078e0b5a72a5a98a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=49",
+    "source_locator": "Kourovka 11.37, main section, page 49",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

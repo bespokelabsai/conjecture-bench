@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0181",
+  "source_registry": "egres-open",
+  "title": "Chromatic number of t-perfect graphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Is every [[T-perfect and h-perfect graphs|t-perfect graph]] [[Chromatic number|4-colourable]]?",
+    "sha256": "5ea82d07375851f87428dd1ec6218bbc440e32fd9a8176f309a42362ef1cc3f1",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2025-06-23T16:52:49Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Chromatic_number_of_t-perfect_graphs&oldid=2506",
+    "source_locator": "EGRES page 181, revision 2506",
+    "source_sha256": "553c7fbf0ecd97872900ab5ec31e16c35bf26ebbfa47a8045885e4c2d10d196d",
+    "tags": [
+      "combinatorial-optimization",
+      "Colouring"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

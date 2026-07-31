@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0016",
+  "slug": "bermondthomassen-conjecture",
+  "title": "Bermond–Thomassen conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Every finite loopless simple digraph of minimum outdegree at least seven contains four vertex-disjoint directed cycles; antiparallel arcs and directed 2-cycles are allowed.",
+  "counterexample": {
+    "description": "A loopless simple digraph of minimum outdegree at least seven whose exact maximum packing of vertex-disjoint directed cycles is at most three.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.openproblemgarden.org/op/the_bermond_thomassen_conjecture",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2205.10826",
+        "role": "supporting"
+      }
+    ]
+  }
+}

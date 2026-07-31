@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-076",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.76 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let σ = (σij ), 1 ⩽ i ̸= j ⩽ n, be an irreducible elementary net (carpet)\nof order n ⩾ 3 over a field K (see 19.48). The net σ is said to be closed if the\nelementary net subgroup E(σ) does not contain new elementary transvections. The\nnet σ is said to be completable if its diagonal can be supplemented with subgroups\nto a complete net. Completable elementary nets are closed. It is known that over\nfields of characteristic 0 and 2 there exist irreducible closed elementary nets that are\nnot completable (V. A. Koibaev, Trudy Inst. Mat. Mekh. Ural Div. Ross. Akad.\nNauk, 17, no. 4 (2011), 134–141 (Russian); V. A. Koibaev, Siberian Math. J., 62,\nno. 2 (2021), 262–266).\n    Do there exist irreducible closed elementary nets of order n ⩾ 3 over a field of odd\ncharacteristic that are not completable?                                  V. A. Koibaev",
+    "sha256": "5dc0201d070e3017b14053c445b8dfcc64612aa1b5c895f1d7d8afe9b29b43e4",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=175",
+    "source_locator": "Kourovka 21.76, main section, page 175",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

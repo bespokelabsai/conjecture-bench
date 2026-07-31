@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0338",
+  "source_registry": "egres-open",
+  "title": "Deciding kernel-perfectness",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "What is the complexity of deciding [[Kernel (in digraph)#Kernel-perfectness|kernel-perfectness]] in various classes of digraphs?",
+    "sha256": "ae0a0f1cf7f41647d71afea122c0abe2ecea9a90db3794b724fb52faeaa88f9a",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-05-10T16:37:49Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Deciding_kernel-perfectness&oldid=2007",
+    "source_locator": "EGRES page 338, revision 2007",
+    "source_sha256": "2057be5afa991b4d12f772c7dbb7d300196827fc770c4d2b86aa2349177a0e2b",
+    "tags": [
+      "combinatorial-optimization",
+      "Stable matchings and kernels"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-099",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.99 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let f (n) be the number of isomorphism classes of finite groups of order n.\nIs it true that the equation f (n) = k has a solution for any positive integer k? The\nanswer is affirmative for all k ⩽ 1000 (G. M. Wei, Southeast Asian Bull. Math., 22,\nno. 1 (1998), 93–102).                                                        W. J. Shi",
+    "sha256": "16110ef5e2248cbba917e6505a9f7ae5c57952cb71c21757a863583bc3b60152",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=94",
+    "source_locator": "Kourovka 15.99, main section, page 94",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

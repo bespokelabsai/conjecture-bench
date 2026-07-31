@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0834",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "brocard_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem brocard_conjecture (n : ℕ) (hn : 1 ≤ n) :\n    letI prev := n.nth Nat.Prime;\n    letI next := (n+1).nth Nat.Prime;\n    4 ≤ ((Ioo (prev^2) (next^2)).filter Nat.Prime).card",
+    "language_version": "Lean 4.27.0",
+    "sha256": "d5ba36c8f07dea828c7339a3d558fa75001f545ec54e63f09d6de9a52b7c80e0",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/BrocardConjecture.lean#L36",
+    "source_locator": "FormalConjectures/Wikipedia/BrocardConjecture.lean:36#brocard_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0211"
+  ]
+}

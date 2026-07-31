@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-022",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.22 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is the (standard, restricted) wreath product G ≀ H of two finitely generated\nHopfian groups Hopfian?\n   The same question where G is assumed to be abelian or nilpotent is equivalent to\nKaplansky’s direct finiteness conjecture; see (H. Bradford, F. Fournier-Facio, Math. Z.,\n308, no. 4 (2024), Paper no. 58).                        H. Bradford, F. Fournier-Facio",
+    "sha256": "1107285a44cbd7209d8ca04cbc1105888d4fccd0417500289372c44ed647e5a4",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=167",
+    "source_locator": "Kourovka 21.22, main section, page 167",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

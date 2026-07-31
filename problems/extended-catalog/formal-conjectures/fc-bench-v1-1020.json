@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-1020",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "conjecture19",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem conjecture19 (G : SimpleGraph α) [Nontrivial α] (h_conn : G.Connected) :\n    FLOOR ((∑ v ∈ Finset.univ, ecc G v) / (Fintype.card α : ℝ) + sSup (Set.range (indepNeighbors G)))\n      ≤ b G",
+    "language_version": "Lean 4.27.0",
+    "sha256": "0806afff881b684b6e3d01cbadef8e52d320c2db444e40c49e041b01edb5431d",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/WrittenOnTheWallII/GraphConjecture19.lean#L43",
+    "source_locator": "FormalConjectures/WrittenOnTheWallII/GraphConjecture19.lean:43#conjecture19",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "WrittenOnTheWallII",
+      "AMS-5"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0266"
+  ]
+}

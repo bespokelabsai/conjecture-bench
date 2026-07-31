@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0089",
+  "slug": "beurlingahlfors-norm-conjecture",
+  "title": "Beurling–Ahlfors norm conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "For every 1<p<∞, the L^p operator norm of the Beurling–Ahlfors transform equals p*−1, where p*=max(p,p/(p−1)).",
+  "counterexample": {
+    "description": "For rational \\(p\\), a compactly supported piecewise-polynomial \\(f\\) exceeding that norm is a witness. Rigorous singular-integral quadrature, tail bounds, and interval arithmetic certify the ratio.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://cir.nii.ac.jp/crid/1360292621236035968",
+        "role": "supporting"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0723086925000696",
+        "role": "supporting"
+      }
+    ]
+  }
+}

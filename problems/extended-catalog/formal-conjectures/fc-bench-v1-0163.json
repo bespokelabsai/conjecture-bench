@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0163",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_236",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 11]\ntheorem erdos_236: (fun n => (f n : ℝ)) =o[atTop] (fun n => Real.log (n : ℝ))",
+    "language_version": "Lean 4.27.0",
+    "sha256": "192ba8869aa443c1bc5c2b6d07e820ab3a9c94a15b5d221418e9b32306ebe9d4",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/236.lean#L38",
+    "source_locator": "FormalConjectures/ErdosProblems/236.lean:38#erdos_236",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

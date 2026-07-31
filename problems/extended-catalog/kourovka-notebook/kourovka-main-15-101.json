@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-101",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.101 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is a periodic group locally finite if it has an involution whose centralizer is\na locally finite group with Sylow 2-subgroup of order 2?               A. K. Shlëpkin",
+    "sha256": "83f52c991a751c27e7fcfe185fdc28948506bfdf47e831d058e1de7491128562",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=94",
+    "source_locator": "Kourovka 15.101, main section, page 94",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

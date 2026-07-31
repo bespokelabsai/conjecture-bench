@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2622",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.113",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $G$ be a finite group and $p$ be a prime. Let $\\Psi_{p,G}$ be the class function of $G$ which vanishes on all $p$-singular elements of $G$ and whose value at each $p$-regular element $x$ of $G$ is the number of $p$-elements of $C_G(x)$.\n\n(a) Is it true that $\\Psi_{p,G}$ is a character of $G$?\n\n(b) If yes, can $\\Psi_{p,G}$ be afforded by a projective $RG$-module, where $R$ is a complete discrete valuation ring of characteristic zero such that the field of fractions of $R$ is a splitting field for $G$ and its subgroups, and the residue field $R/J(R)$ is a splitting field of characteristic $p$ for $G$ and its subgroups?",
+    "sha256": "3012a5d10b6b3a39426d184cef818f569a4c6fd84f3c83d719c0529ae8bb0589",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.113",
+    "source_locator": "dataset ID 2622; problem number KOU-21.113",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

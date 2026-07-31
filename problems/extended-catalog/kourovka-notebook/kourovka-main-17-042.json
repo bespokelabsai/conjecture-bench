@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-042",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.42 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a simple algebraic group of adjoint type over the algebraic closure\nF p of a finite field Fp of prime order p, and σ a Frobenius map (that is, a surjective\n                                                                 ′\nhomomorphism such that Gσ = CG (σ) is finite). Then G = Op (Gσ ) is a finite group\nof Lie type. For a maximal σ-stable torus T of G, let N = NG (T ) ∩ G. Assume also\nthat G is simple and G ∼   ̸ SL3 (2). Does there always exist x ∈ G such that N ∩ N x\n                            =\nis a p-group?                                                             E. P. Vdovin\n  ∗ A definitive answer for a stronger question on the size of a base has been obtained\nin (T. C. Burness, A. R. Thomas, J. Algebra, 619 (2023), 459–504), which implies the\nfollowing answer (in the notation therein): there is x ∈ G such that N ∩ N x is a\np-group if and only if (G, N ) is not one of the following: (L3 (2), 7:3), (U4 (2), 33 :S4 ),\n(U5 (2), 34 :S5 ).",
+    "sha256": "c3b67906b7adaf44696c6bd651804fdc7844ae6ea6d0c655bdc541377c0ee1a3",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=107",
+    "source_locator": "Kourovka 17.42, main section, page 107",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

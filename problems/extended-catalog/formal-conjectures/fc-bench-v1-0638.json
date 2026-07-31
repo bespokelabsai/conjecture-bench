@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0638",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "green_4",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 20]\ntheorem green_4 (n : ℕ) :\n    MaximalFor (ProdFree (M := alternatingGroup <| Fin n)) Set.ncard answer(sorry)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "289b1fe89dd9d28799117861ae0118cac5f96de135cee2857faff72ed3ffdf4b",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/4.lean#L31",
+    "source_locator": "FormalConjectures/GreensOpenProblems/4.lean:31#green_4",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-20"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

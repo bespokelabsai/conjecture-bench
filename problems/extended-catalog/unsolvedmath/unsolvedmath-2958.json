@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2958",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.82",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $\\phi$ be a self-diffeomorphism of a closed, simply-connected, smooth 4-manifold X. Suppose that for every smooth surface $\\Sigma$ in X, the surfaces $\\Sigma$ and $\\phi(\\Sigma)$ are smoothly isotopic.\n\n(a) Is $\\phi$ necessarily smoothly isotopic to the identity map?\n\n(b) Is $\\phi smoothly$ isotopic to a diffeomorphism that is supported on $a B^{4} \\subset X$?",
+    "sha256": "85678f4d32b9ff7f582d31754f7e6971d67958f3ef740c61dd755b460ce3fb12",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.82",
+    "source_locator": "dataset ID 2958; problem number KP-4.82",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

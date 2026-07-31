@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2768",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 2.20",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Can one detect holomorphicity from a monodromy factoriza-\ntion of a Lefschetz pencil, fibration, or a surface bundle over a surface? What are\nthe special properties of monodromy factorizations of holomorphic fibrations?",
+    "sha256": "dba664c7347322b3672268378d47d6a5716e8207468b898932ad3269d27394f4",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-2.20",
+    "source_locator": "dataset ID 2768; problem number KP-2.20",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

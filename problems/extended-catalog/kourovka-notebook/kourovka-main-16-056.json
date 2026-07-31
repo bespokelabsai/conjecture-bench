@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-056",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.56 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "The spectrum ω(G) of a group G is the set of orders of elements of G. Suppose\nthat ω(G) = {1, 2, 3, 4, 5, 6}. Is G locally finite?                   V. D. Mazurov",
+    "sha256": "968ec71bbac74d0ac6fa718227b09677365329d01d141a23ac093a3f7bdadbad",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=99",
+    "source_locator": "Kourovka 16.56, main section, page 99",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

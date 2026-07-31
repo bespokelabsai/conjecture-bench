@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0254",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_349.variants.floor_3_halves_odd",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_349.variants.floor_3_halves_odd :\n    answer(sorry) ↔ {n | Odd ⌊(3/2 : ℝ) ^ n⌋}.Infinite",
+    "language_version": "Lean 4.27.0",
+    "sha256": "018175339a947b7c0cd56b4fa901bd4f3d4fa32a72e3150129ebdb61665f9c25",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/349.lean#L70",
+    "source_locator": "FormalConjectures/ErdosProblems/349.lean:70#erdos_349.variants.floor_3_halves_odd",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

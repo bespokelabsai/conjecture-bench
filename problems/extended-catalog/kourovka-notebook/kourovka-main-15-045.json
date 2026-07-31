@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-045",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.45 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "We define the class of hierarchically decomposable groups in the following\nway. First, if X is any class of groups, then let H1 X denote the class of groups which\nadmit an admissible action on a finite-dimensional contractible complex in such a way\nthat every cell stabilizer belongs to X. Then the “big” class HX is defined to be the\nsmallest H1 -closed class containing X.\n   ∗ a) Let F be the class of all finite groups. Find an example of an HF group which\nis not in H3 F (= H1 H1 H1 F ).\n    b) Prove or disprove that there is an ordinal α such that Hα F = HF, where Hα is\nthe operator on classes of groups defined by transfinite induction in the obvious way\nstarting from H1 . Editor’s comment: It is proved that such an ordinal cannot be\ncountable (T. Januszkiewicz, P. H. Kropholler, I. J. Leary, Bull. London Math. Soc.,\n42, No. 5 (2010), 896–904).                                                P. Kropholler\n  ∗ a) Such an example is found; moreover, for any countable ordinal α there are\ngroups in Hα+1 F that are not in Hα F (T. Januszkiewicz, P. H. Kropholler, I. J. Leary,\nBull. London Math. Soc., 42, No. 5 (2010), 896–904). Furthermore, torsion-free\nexamples with similar properies have been constructed (F. Fournier-Facio, B. Sun,\nPreprint, 2025, https://arxiv.org/abs/2503.01987v3).",
+    "sha256": "007e6aea8a8436e307d0a17c439b31fb2d7eb232b9c077ec0dff1663e6ce41f3",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=87",
+    "source_locator": "Kourovka 15.45, main section, page 87",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

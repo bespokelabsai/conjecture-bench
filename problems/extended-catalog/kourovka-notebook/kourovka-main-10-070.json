@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-10-070",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 10.70 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Find a geometrical justification for the Whitehead method for free products\nsimilar to the substantiation given for free groups by Whitehead himself and more\nvisual than given in (D. J. Collins, H. Zieschang, Math. Z., 185, no. 4 (1984), 487–504;\n186, no. 3 (1984), 335–361).\n    D. J. Collins’ comment: there is a partial solution in (D. McCullough, A. Miller,\nSymmetric automorphisms of free products, Mem. Amer. Math. Soc. 582 (1996)).\n                                                                           H. Zieschang",
+    "sha256": "ae0509167caf860c0058093290efe6f0c4911525a6380f1779d57df9bf4b6d89",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=44",
+    "source_locator": "Kourovka 10.70, main section, page 44",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

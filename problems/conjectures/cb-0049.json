@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0049",
+  "slug": "goormaghtigh",
+  "title": "Goormaghtigh",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "For integers x>y>1 and m,n>2, the equation (x^m−1)/(x−1)=(y^n−1)/(y−1) has only the solutions (x,y,m,n)=(5,2,3,5) and (90,2,3,13).",
+  "counterexample": {
+    "description": "A new tuple \\(x>y>1\\), \\(m,n>2\\), with equal repunits, beyond common values 31 and 8191. Exact big-integer evaluation is a cheap check.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.numdam.org/volume/NAM_1917_4_17_/",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2410.03677",
+        "role": "supporting"
+      }
+    ]
+  }
+}

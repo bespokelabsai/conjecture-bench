@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0229",
+  "slug": "antihydra-nonnegative-condition",
+  "title": "Antihydra nontermination conjecture",
+  "field": "dynamical-systems-and-computability",
+  "statement": "Let a₀=8 and aₙ₊₁=⌊3aₙ/2⌋. Starting from b₀=0, add 2 to b after each even aₙ and subtract 1 after each odd aₙ. Then bₙ is nonnegative for every n.",
+  "counterexample": {
+    "description": "A positive index n at which exact recurrence simulation gives bₙ<0, equivalently more than twice as many odd as even terms among a₀,…,aₙ₋₁.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://wiki.bbchallenge.org/wiki/Antihydra",
+        "role": "status-and-problem-source"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Other/BeaverMathOlympiad.lean#L94",
+        "role": "formal-source"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Other/BeaverMathOlympiad.lean#L110",
+        "role": "equivalent-formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0735",
+      "fc-bench-v1-0736"
+    ]
+  },
+  "equivalence_group": "antihydra-nonhalting"
+}

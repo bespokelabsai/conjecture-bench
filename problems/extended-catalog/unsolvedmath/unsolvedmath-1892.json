@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1892",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #32",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Is there a set $A\\subset\\mathbb{N}$ such that $ \\lvert A\\cap\\{1,\\ldots,N\\}\\rvert = o((\\log N)^2) $ and such that every large integer can be written as $p+a$ for some prime $p$ and $a\\in A$?\nCan the bound $O(\\log N)$ be achieved? Must such an $A$ satisfy $ \\liminf \\frac{\\lvert A\\cap\\{1,\\ldots,N\\}\\rvert}{\\log N}> 1? $ ",
+    "sha256": "5cb6767e82d78ab7a459da54fe04e55287260998a575901eaee38d35e444df2e",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-32",
+    "source_locator": "dataset ID 1892; problem number EP-32",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0049",
+  "source_registry": "egres-open",
+  "title": "Making the union of two directed spanning trees strongly connected",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''D=(V,E)'' be a directed graph that is the union of two disjoint directed spanning trees.  Can we characterize when does ''D'' have a directed spanning tree <math>T \\subseteq E</math> such that ''E-T'' is also a directed spanning tree and reversing the orientation of each edge of ''T'' results in a strongly connected digraph?",
+    "sha256": "b266aecd2b00a22be74e6f78ad34a19a30192165fb354e6502d8a24f9455e726",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2013-03-07T18:02:26Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Making_the_union_of_two_directed_spanning_trees_strongly_connected&oldid=1493",
+    "source_locator": "EGRES page 49, revision 1493",
+    "source_sha256": "84434f58e29a4ed293147ca968e6bd01447d69d4673af37fbc123f13ddf1b421",
+    "tags": [
+      "combinatorial-optimization",
+      "Trees and branchings"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

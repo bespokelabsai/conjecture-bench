@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1967",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #161",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $\\alpha\\in[0,1/2)$ and $n,t\\geq 1$. Let $F^{(t)}(n,\\alpha)$ be the smallest $m$ such that we can $2$-colour the edges of the complete $t$-uniform hypergraph on $n$ vertices such that if $X\\subseteq [n]$ with $\\lvert X\\rvert \\geq m$ then there are at least $\\alpha \\binom{\\lvert X\\rvert}{t}$ many $t$-subsets of $X$ of each colour.\nFor fixed $n,t$ as we change $\\alpha$ from $0$ to $1/2$ does $F^{(t)}(n,\\alpha)$ increase continuously or are there jumps? Only one jump?",
+    "sha256": "1de72a10642acdc4d780f285fbd67c66afb4232bc66ad16bea25fe090165ef68",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-161",
+    "source_locator": "dataset ID 1967; problem number EP-161",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

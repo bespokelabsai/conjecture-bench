@@ -1,0 +1,43 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2247",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #675",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "We say that $A\\subset \\mathbb{N}$ has the translation property if, for every $n$, there exists some integer $t_n\\geq 1$ such that, for all $1\\leq a\\leq n$, $ a\\in A\\quad\\textrm{ if and only if }\\quad a+t_n\\in A. $ {UL}",
+    "sha256": "0136f517eec0ee7229166d7a69dabdabb23045a6cd4276a5c4022dd281efc9d6",
+    "contains_placeholder": false,
+    "quality_flags": [
+      "statement-legacy-list-markup"
+    ]
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-675",
+    "source_locator": "dataset ID 2247; problem number EP-675",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-legacy-list-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems",
+      "statement-legacy-list-markup"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "statement-extraction-repair",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

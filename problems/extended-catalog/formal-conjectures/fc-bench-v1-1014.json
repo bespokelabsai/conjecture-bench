@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-1014",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "infinite_isWallSunSunPrime",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem infinite_isWallSunSunPrime : {p : ℕ | IsWallSunSunPrime p}.Infinite",
+    "language_version": "Lean 4.27.0",
+    "sha256": "c51eed1d4e2345df7ee22a67deca6af40c339d8684ca3cf72afbf2f24f629470",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/WallSunSun.lean#L41",
+    "source_locator": "FormalConjectures/Wikipedia/WallSunSun.lean:41#infinite_isWallSunSunPrime",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-05-016",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 5.16 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is every countable locally linear group embeddable in a finitely presented group?\nIn (G. Baumslag, F. B. Cannonito, C. F. Miller III, Math. Z., 153 (1977), 117–134) it\nis proved that every countable group which is locally linear of bounded degree can be\nembedded in a finitely presented group with solvable word problem.\n                                                       F. B. Cannonito, C. F. Miller III",
+    "sha256": "c3b5ca0af452eda6dfbe0be89e829f2d7f58be5b244a056288443873217c2916",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=15",
+    "source_locator": "Kourovka 5.16, main section, page 15",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

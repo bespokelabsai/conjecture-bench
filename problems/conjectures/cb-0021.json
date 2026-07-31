@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0021",
+  "slug": "hararyhill-conjecture",
+  "title": "Harary–Hill conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "For every n, the crossing number of K_n equals floor(n/2)·floor((n−1)/2)·floor((n−2)/2)·floor((n−3)/2)/4.",
+  "counterexample": {
+    "description": "A general-position rational straight-line drawing of some K_n with fewer crossings than the Harary–Hill value; K_13 with at most 224 crossings is the first unresolved target.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://researchnow-admin.flinders.edu.au/ws/portalfiles/portal/31974388/Clancy_Survey_P2020.pdf",
+        "role": "supporting"
+      }
+    ]
+  }
+}

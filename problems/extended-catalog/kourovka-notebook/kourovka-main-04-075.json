@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-04-075",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 4.75 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a periodic group containing an involution i and suppose that the\nSylow 2-subgroups of G are either locally cyclic or generalized quaternion. Does the\nelement iO2′ (G) of the factor-group G/O2′ (G) always lie in its centre?\n                                                                           V. P. Shunkov",
+    "sha256": "f68ce192ab4ef0cf3f93e7e347ab62f1949b6be0a1cbdca0e4c970e3f0e07b4f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=14",
+    "source_locator": "Kourovka 4.75, main section, page 14",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

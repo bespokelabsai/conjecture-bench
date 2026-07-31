@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-064",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.64 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that for a given number k ⩾ 2 and for any (prime) number n,\nthere exists a number N = N (k, n) such that every finite group with generators\nA = {a1 , . . . , ak } has exponent ⩽ n if (x1 · · · xN )n = 1 for any x1 , . . . , xN ∈ A ∪ {1}?\n    For given k and n, a negative answer implies, for example, the infiniteness of the\nfree Burnside group B(k, n), and a positive answer, in the case of sufficiently large n,\ngives, for example, an opportunity to find a hyperbolic group which is not residually\nfinite (and in this group a hyperbolic subgroup of finite index which has no proper\nsubgroups of finite index).                                                    A. Yu. Olshanskii",
+    "sha256": "8c50fe0ea49b296f8f89763b7bdfae1a1b02201683dab698cf86b392fbc24dbe",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=62",
+    "source_locator": "Kourovka 12.64, main section, page 62",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

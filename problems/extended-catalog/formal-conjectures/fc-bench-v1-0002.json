@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0002",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "crystals_components_unique",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11 26]\ntheorem crystals_components_unique (n a b c d : ℕ)\n    (hab : IsCrystalWithComponents n a b) (hcd : IsCrystalWithComponents n c d) :\n    ({a, b} : Finset ℕ) = {c, d}",
+    "language_version": "Lean 4.27.0",
+    "sha256": "9e0b613b20e9d81af86ce0536c2b02f3379a469ddc4cbabe592a82876ef18f46",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Arxiv/1601.03081/UniqueCrystalComponents.lean#L47",
+    "source_locator": "FormalConjectures/Arxiv/1601.03081/UniqueCrystalComponents.lean:47#crystals_components_unique",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Arxiv",
+      "AMS-11",
+      "AMS-26"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0241"
+  ]
+}

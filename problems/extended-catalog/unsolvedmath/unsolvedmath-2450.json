@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2450",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #1039",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $f(z)=\\prod_{i=1}^n(z-z_i)\\in \\mathbb{C}[z]$ with $\\lvert z_i\\rvert \\leq 1$ for all $i$. Let $\\rho(f)$ be the radius of the largest disc which is contained in $\\{z: \\lvert f(z)\\rvert< 1\\}$.\nDetermine the behaviour of $\\rho(f)$. In particular, is it always true that $\\rho(f)\\gg 1/n$?",
+    "sha256": "0ee60114a0baac0927b31dd0013aa2046b8f7ae73bf06b43c607639e65c4678c",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-1039",
+    "source_locator": "dataset ID 2450; problem number EP-1039",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

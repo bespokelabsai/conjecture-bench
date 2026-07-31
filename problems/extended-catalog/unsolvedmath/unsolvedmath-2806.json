@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2806",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.8",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "If $M_1$ and $M_2$ are finite-volume hyperbolic 3-manifolds whose fundamental groups have isomorphic profinite completions, must $M_1$ and $M_2$ be isometric?",
+    "sha256": "f30a0020ab018713e4921c089f5391200a3bf9e399e93d14c713ea3733e24c06",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.8",
+    "source_locator": "dataset ID 2806; problem number KP-3.8",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

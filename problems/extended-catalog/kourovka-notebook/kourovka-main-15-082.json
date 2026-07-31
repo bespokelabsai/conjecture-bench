@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-082",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.82 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that a periodic group G contains a strongly isolated 2-subgroup U .\nIs it true that either G is locally finite, or U is a normal subgroup of G?\n                                                               A. I. Sozutov, N. M. Suchkov",
+    "sha256": "64d8668bed6772e71b3b9c4115777e5da83810937ec500d955ee2c44da5891db",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=92",
+    "source_locator": "Kourovka 15.82, main section, page 92",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

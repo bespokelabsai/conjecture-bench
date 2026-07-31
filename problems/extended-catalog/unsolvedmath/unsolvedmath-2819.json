@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2819",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.21",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "In this problem, all 3-manifolds are orientable, while all flows are considered up to orbit equivalence and are assumed to be transitive.\n\n(a) Are there only finitely many Anosov flows on a given closed 3-manifold?\n\n(b) Are there only finitely many pseudo-Anosov flows on a given closed 3-manifold?\n\n(c) Are there only finitely many quasigeodesic pseudo-Anosov flows on a given closed 3-manifold?\n\n(d) Are there only finitely many pseudo-Anosov flows without perfect fits on a given closed 3-manifold?\n\n(e) Are there only finitely many veering triangulations on a given finite volume cusped hyperbolic 3-manifold?",
+    "sha256": "5ff8e21411ba58143eb35f7a2ca5a0a5f1d2637e28a01efe13f1fef978de7168",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.21",
+    "source_locator": "dataset ID 2819; problem number KP-3.21",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

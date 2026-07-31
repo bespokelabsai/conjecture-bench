@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0183",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_267.variants.generalisation_ratio_limit_to_infinity",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_267.variants.generalisation_ratio_limit_to_infinity : answer(sorry) ↔ ∀ (n : ℕ → ℕ),\n    StrictMono n → Filter.Tendsto (fun k => (n (k+1) / k.succ : ℝ)) Filter.atTop Filter.atTop →\n    Irrational (∑' k, 1 / (Nat.fib <| n k))",
+    "language_version": "Lean 4.27.0",
+    "sha256": "0f691a8fc3076f828e058c9992f9cfa5d12208284599c266e2760cb14746d314",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/267.lean#L42",
+    "source_locator": "FormalConjectures/ErdosProblems/267.lean:42#erdos_267.variants.generalisation_ratio_limit_to_infinity",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

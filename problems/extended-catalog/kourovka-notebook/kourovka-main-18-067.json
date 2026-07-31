@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-067",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.67 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that a finite group G admits a Frobenius group of automorphisms\nF H with kernel F and complement H such that CG (F ) = 1. Is the exponent of G\nbounded in terms of |F | and the exponent of CG (H)?\n   This was proved when F is cyclic (E. I. Khukhro, N. Y. Makarenko, P. Shumyatsky,\nForum Math., 26 (2014), 73–112) and for F H ∼= A4 when (|G|, 3) = 1 (P. Shumyatsky,\nJ. Algebra, 331 (2011), 482–489). N. Yu. Makarenko, E. I. Khukhro, P. Shumyatsky",
+    "sha256": "23824639645065cf2a3cde52a919adf2a3862e08faf609ef49dbc3b57df1146a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=122",
+    "source_locator": "Kourovka 18.67, main section, page 122",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

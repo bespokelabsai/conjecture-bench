@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0113",
+  "slug": "rysers-odd-order-latin-square-transversal-conjecture",
+  "title": "Ryser’s odd-order Latin-square transversal conjecture",
+  "field": "design-theory",
+  "statement": "Every Latin square of odd order has a transversal.",
+  "counterexample": {
+    "description": "Give an order-11 Latin square with no full transversal. Confirming this requires checking the Latin property and exhausting all choices of one cell in every row, column, and symbol class.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "legacy-15-inventory-without-forecasts",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1801.02893",
+        "role": "supporting"
+      },
+      {
+        "url": "https://alco.centre-mersenne.org/item/10.5802/alco.103.pdf",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2601.16084",
+        "role": "supporting"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0158",
+  "source_registry": "egres-open",
+  "title": "Head-disjoint strongly connected orientations",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "An ''orientation'' of a hypergraph is a [[directed hypergraph]] obtained by choosing a single head-node in each hyperedge. We call a set of orientations of a hypergraph '''head-disjoint''' if none of the hyperedges have the same head-node in two of them. When does a 3-uniform hypergraph admit three head-disjoint strongly connected orientations?",
+    "sha256": "a3540b52ecf4c5bef63a00520028c8d3fac41f74a93fe9e078b222fc369192cd",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2017-07-12T21:51:14Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Head-disjoint_strongly_connected_orientations&oldid=2421",
+    "source_locator": "EGRES page 158, revision 2421",
+    "source_sha256": "cb4d7f1351ac18caecf51ef7e0e6d0334b90276c064f3a88d15b92005de62773",
+    "tags": [
+      "combinatorial-optimization",
+      "Orientations"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

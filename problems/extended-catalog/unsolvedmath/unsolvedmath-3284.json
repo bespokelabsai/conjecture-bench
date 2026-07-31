@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3284",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Complexity of the H-factor problem.",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "An $H$-factor in a graph $G$ is a set of vertex-disjoint copies of $H$ covering all vertices of $G$.\n\nProblem Let $c$ be a fixed positive real number and $H$ a fixed graph. Is it NP-hard to determine whether a graph $G$ on $n$ vertices and minimum degree $cn$ contains and $H$-factor?",
+    "sha256": "5f00a5f59ecc4e12a22bc565ec76a486592dcf90a46e1b2f6a8543cfd34bb909",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-46738",
+    "source_locator": "dataset ID 3284; problem number OPG-46738",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-078",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.78 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For an irreducible complex character χ of a finite group G, the codegree of χ is\ndefined by cod(χ) = |G : ker χ|/χ(1). Let Cod(G) be the set of irreducible character\ncodegrees of G. Conjecture: If G has an element of order m, then m divides some\nmember of Cod(G).\n    The conjecture is proved when m is a prime power (G. Qian, Arch. Math., 97\n(2011), 99–103); when m is square-free (I. M. Isaacs, Arch. Math., 97 (2011), 499–\n501); or when G is solvable (G. Qian, Bull. London Math. Soc., 53 (2021) 820–824); or\nwhen G is a symmetric or alternating group (E. Giannelli (J. Algebra Appl., 23, no. 9\n(2024), article ID 2450144); or when G is an almost simple group (S. Y. Madanha,\nCommun. Algebra, 51, no. 7 (2023), 3143–3151); or when F(G) = 1 (Z. Akhlaghi,\nE. Pacifici, L. Sanus, J. Algebra, 644 (2024), 428–441).                      G. Qian",
+    "sha256": "45a7b28387508183346c6c1471222fea8c0c1ddc28d3161196710362505e39e9",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=155",
+    "source_locator": "Kourovka 20.78, main section, page 155",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

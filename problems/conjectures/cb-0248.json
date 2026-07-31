@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0248",
+  "slug": "lander-parkin-selfridge-fifth-power-three-to-one",
+  "title": "Lander–Parkin–Selfridge fifth-power 3-to-1 case",
+  "field": "number-theory",
+  "statement": "There are no positive integers x₁,x₂,x₃,y satisfying x₁^5+x₂^5+x₃^5=y^5.",
+  "counterexample": {
+    "description": "Four positive integers satisfying the fifth-power equation exactly.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/html/2504.04354",
+        "role": "current-problem-source"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/LanderParkinAndSelfridgeConjecture.lean#L52",
+        "role": "formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0922"
+    ]
+  },
+  "equivalence_group": "lander-parkin-selfridge"
+}

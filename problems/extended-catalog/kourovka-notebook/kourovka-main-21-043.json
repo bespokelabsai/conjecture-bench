@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-043",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.43 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Conjecture: Suppose that for a fixed positive integer k at least half of the\nelements of a finite group G have order k. Then G is solvable.         M. Deaconescu\n   ∗ This is not always true. In a direct product of N copies of A there are 60N\nelements, while the number of elements of order exactly 30 is 60N − 45N − 40N −\n36N + 25N + 21N + 16N − 1. As N → ∞, the ratio of elements of order 30 converges\nto 1. (L. Tae Young, Letter of 9 January 2026 ; see also (R. McCulloch, L. Tae Young,\nPreprint, 2026, https://arxiv.org/abs/2602.19340).)",
+    "sha256": "6092b3e471bfcfb1d656ee32872dc25a16d6ba3f232c4fc709a174e6a11fcbb7",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=170",
+    "source_locator": "Kourovka 21.43, main section, page 170",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

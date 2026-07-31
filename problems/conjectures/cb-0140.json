@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0140",
+  "slug": "erdos-366-full-consecutive-numbers",
+  "title": "Erdős problem #366: consecutive 2-full and 3-full numbers",
+  "field": "number-theory",
+  "statement": "There is no 2-full integer n for which n+1 is 3-full.",
+  "counterexample": {
+    "description": "An integer n with every prime exponent in n at least two and every prime exponent in n+1 at least three.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/366",
+        "role": "status"
+      }
+    ]
+  }
+}

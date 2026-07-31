@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-041",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.41 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(L. Ciobanu, B. Fine, G. Rosenberger). Suppose that G is a non-cyclic resid-\nually finite group in which every subgroup of finite index (including the group itself)\nis defined by a single defining relation, while all infinite index subgroups are free. Is\nit true that G is either free or isomorphic to the fundamental group of a compact\nsurface?\n    See Archive 7.36 for a negative solution of a similar question without the assump-\ntion on infinite index subgroups.                                              D. Kielak\n  ∗ Yes, it is true (H. Wilton, Preprint, 2024, https://arxiv.org/abs/2406.02121).",
+    "sha256": "f5a1b087303a550ad57bd8315cc0627bb95c9f01118bf1a255f15e5f8f20aab6",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=150",
+    "source_locator": "Kourovka 20.41, main section, page 150",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

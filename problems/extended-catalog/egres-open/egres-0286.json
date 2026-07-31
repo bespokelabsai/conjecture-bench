@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0286",
+  "source_registry": "egres-open",
+  "title": "Covering a crossing supermodular function with graph edges",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Given  a [[Supermodular function|crossing supermodular function]] <math>p:2^V\\to \\mathbb{Z}</math> satisfying <math>p(\\emptyset)=p(V)=0</math>, what is the minimum number of edges of an undirected graph ''G'' covering ''p'' (that is, with the property that <math>d_G(X)\\ge p(X)</math> holds for every <math>X\\subseteq V</math>)?",
+    "sha256": "0a44a02897cef3058992494a59fc5d7318f906b536cf3f8e0652cf02bd441eb9",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2015-01-05T16:59:46Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Covering_a_crossing_supermodular_function_with_graph_edges&oldid=1786",
+    "source_locator": "EGRES page 286, revision 1786",
+    "source_sha256": "69f52a7160b56a32a3dbc625dbbdf8ebbc19a36adbc1c7a03546686304d05fa9",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity",
+      "Sub- and supermodular functions"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

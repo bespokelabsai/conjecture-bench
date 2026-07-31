@@ -1,0 +1,28 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0072",
+  "source_registry": "open-problems-project",
+  "title": "Polyhedron with Regular Pentagon Faces",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Let $M$ be a closed polyhedral\nsurface homeomorphic to $S^2$\nwhich is entirely composed of equal regular pentagons.\nIf $M$ is immersed in 3-space,\nis it necessarily the boundary of a union of solid\ndodecahedra that are glued together at common facets?",
+    "sha256": "87b8a268378c72197a9f3fef05373b06320a1508b4b9812e8a2f27ae688b9dab",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p72",
+    "source_locator": "TOPP problem 72 (Problems/P.000072)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "polyhedra"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0161"
+  ]
+}

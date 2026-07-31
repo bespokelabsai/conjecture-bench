@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0946",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "new_mersenne_conjecture.variants.prime",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem new_mersenne_conjecture.variants.prime (p : ℕ) (hp : p.Prime) (h : Odd p) :\n    NewMersenneConjectureStatement p",
+    "language_version": "Lean 4.27.0",
+    "sha256": "fc1168459e4024067ba9d380ef1e3fd5b8da9fc79eefa2e6f0f840a30b525b60",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Mersenne.lean#L84",
+    "source_locator": "FormalConjectures/Wikipedia/Mersenne.lean:84#new_mersenne_conjecture.variants.prime",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0245"
+  ]
+}

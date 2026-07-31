@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2210",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #610",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For a graph $G$ let $\\tau(G)$ denote the minimal number of vertices that include at least one from each maximal clique of $G$ (sometimes called the clique transversal number).\nEstimate $\\tau(G)$. In particular, is it true that if $G$ has $n$ vertices then $ \\tau(G) \\leq n-\\omega(n)\\sqrt{n} $ for some $\\omega(n)\\to \\infty$, or even $ \\tau(G) \\leq n-c\\sqrt{n\\log n} $ for some absolute constant $c>0$?",
+    "sha256": "85ddbd5c25a1662294b790000280c0db0af79fd491c1ee9f2dae1c0aa466c2ea",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-610",
+    "source_locator": "dataset ID 2210; problem number EP-610",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

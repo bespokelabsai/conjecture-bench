@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-061",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.61 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Determine all pairs (S , G), where S is a semipartial geometry and G is\nan almost simple flag-transitive group of automorphisms of S . A system of points\nand lines (P, B) is a semipartial geometry with parameters (α, s, t, µ) if every point\nbelongs to exactly t + 1 lines (two different points belong to at most one line); every\nline contains exactly s + 1 points; for any anti-flag (a, l) ∈ (P, B) the number of lines\ncontaining a and intersecting l is either 0 or α; and for any non-collinear points a, b\nthere are exactly µ points collinear with a and with b.                    A. A. Makhnëv",
+    "sha256": "ee477132a10ab5f3f6342e758cb80947bdfca241849354f88742f6c2232e5c1a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=78",
+    "source_locator": "Kourovka 14.61, main section, page 78",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

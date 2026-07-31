@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-102",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.102 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(E. C. Dade). Let C be a Carter subgroup of a finite solvable group G, and\nlet ℓ(C) be the number of primes dividing |C| counting multiplicities. It was proved\nin (E. C. Dade, Illinois J. Math., 13 (1969), 449–514) that there is an exponential\nfunction f such that the nilpotent length of G is at most f (ℓ(C)). Is there a linear\n(or at least a polynomial) function f with this property?\n    Editors’ comment: A quadratic function with that property was proved to exist in\nthe special case where G = H ⋊ C and C is a cyclic subgroup such that CH (C) = 1,\n(E. Jabara, J. Algebra, 487 (2017), 161–172).                               A. Turull",
+    "sha256": "5ad09e4bff80e645230727ed4f22829c7fe66551d0d539683f5828a77ae267b0",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=127",
+    "source_locator": "Kourovka 18.102, main section, page 127",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

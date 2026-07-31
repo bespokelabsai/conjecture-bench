@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2068",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #351",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $p(x)\\in \\mathbb{Q}[x]$. Is it true that $ A=\\{ p(n)+1/n : n\\in \\mathbb{N}\\} $ is strongly complete, in the sense that, for any finite set $B$, $ \\left\\{\\sum_{n\\in X}n : X\\subseteq A\\backslash B\\textrm{ finite }\\right\\} $ contains all sufficiently large integers?",
+    "sha256": "440390e330fafa8ead820cac87ac1639029ac04a16efe8397dc788d93a4f651a",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-351",
+    "source_locator": "dataset ID 2068; problem number EP-351",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

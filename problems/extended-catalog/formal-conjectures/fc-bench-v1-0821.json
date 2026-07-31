@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0821",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "opposite_parity_amicable",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem opposite_parity_amicable :\n    answer(sorry) ↔ ∃ a b : ℕ, IsAmicable a b ∧ (Even a ↔ Odd b)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "e29c6585a7ec4b6f94d6ba3a45e634fd1ac8be65e94e826249d3278c89b15f9b",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/AmicableNumbers.lean#L90",
+    "source_locator": "FormalConjectures/Wikipedia/AmicableNumbers.lean:90#opposite_parity_amicable",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

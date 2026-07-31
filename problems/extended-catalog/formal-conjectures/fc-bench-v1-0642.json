@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0642",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "green_62",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem green_62 :\n    answer(sorry) ↔\n      ∀ᶠ p in atTop, p.Prime →\n        let A := (Finset.range p).filter Nat.Prime\n        ∀ x : ℕ, 1 ≤ x ∧ x < p →\n          ∃ a₁ ∈ A, ∃ a₂ ∈ A, (x : ZMod p) = (a₁ * a₂ : ZMod p)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "419c62027609a3d313d82e40aad1c0864af56442206522a794b83528ccd8c87c",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/62.lean#L38",
+    "source_locator": "FormalConjectures/GreensOpenProblems/62.lean:38#green_62",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0285",
+  "slug": "list-coloring-two-matroids",
+  "title": "List-coloring conjecture for two matroids",
+  "field": "matroid-theory-and-list-coloring",
+  "statement": "If the common independent sets of two matroids on the same finite ground set admit a proper coloring with k colors, then they admit a proper coloring from every assignment of a size-k color list to each element.",
+  "counterexample": {
+    "description": "Two prime-field vector matroids, a valid ordinary common-independent k-coloring, and size-k lists for which exhaustive search finds no common-independent list coloring.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/open/List_colouring_of_two_matroids",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=List_colouring_of_two_matroids&oldid=1992",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.1137/20M1385615",
+        "role": "peer-reviewed-general-open-status-and-factor-two-cases"
+      },
+      {
+        "url": "https://arxiv.org/abs/2407.08796",
+        "role": "2024-generalized-partition-special-case"
+      },
+      {
+        "url": "https://doi.org/10.1007/s00493-025-00178-8",
+        "role": "peer-reviewed-2025-general-bound-and-status"
+      },
+      {
+        "url": "https://doi.org/10.1090/proc/17274",
+        "role": "peer-reviewed-2025-sum-bound"
+      }
+    ],
+    "discovery_records": [
+      "egres-0034"
+    ]
+  },
+  "equivalence_group": "two-matroid-list-coloring"
+}

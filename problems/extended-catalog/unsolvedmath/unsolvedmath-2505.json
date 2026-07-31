@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2505",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #1130",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For $x_1,\\ldots,x_n\\in [-1,1]$ let $ l_k(x)=\\frac{\\prod_{i\neq k}(x-x_i)}{\\prod_{i\neq k}(x_k-x_i)}, $ which are such that $l_k(x_k)=1$ and $l_k(x_i)=0$ for $i\neq k$.\nLet $x_0=-1$ and $x_{n+1}=1$ and $ \\Upsilon(x_1,\\ldots,x_n)=\\min_{0\\leq i\\leq n}\\max_{x\\in[x_i,x_{i+1}]} \\sum_k \\lvert l_k(x)\\rvert. $ Is it true that $ \\Upsilon(x_1,\\ldots,x_n)\\ll \\log n? $ Describe which choice of $x_i$ maximise $\\Upsilon(x_1,\\ldots,x_n)$.",
+    "sha256": "b6932b26e6e74ec65f0a0e469f4740838db31e1e4da092cf0ad17fa8134d5059",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-1130",
+    "source_locator": "dataset ID 2505; problem number EP-1130",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

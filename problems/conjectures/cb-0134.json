@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0134",
+  "slug": "erdos-1041-polynomial-sublevel-path",
+  "title": "Erdős problem #1041: short paths in polynomial sublevel sets",
+  "field": "analysis",
+  "statement": "If every root of f lies in the open unit disk, then two roots are connected inside |f(z)|<1 by a path of length less than two.",
+  "counterexample": {
+    "description": "An algebraic polynomial with all roots in the unit disk and a rigorous certificate that every eligible connecting path has length at least two.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/1041",
+        "role": "status"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0030"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0849",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "determinantal_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 15]\ntheorem determinantal_conjecture\n    (n : Type) [Fintype n] [DecidableEq n]\n    (d1 d2 : n → ℂ) (U1 U2 : unitary (Matrix n n ℂ)) :\n    (U1 * Matrix.diagonal d1 * star U1 + U2 * Matrix.diagonal d2 * star U2).det\n      ∈ convexHull ℝ { ∏ i, (d1 i + d2 (σ i)) | σ : Equiv.Perm n }",
+    "language_version": "Lean 4.27.0",
+    "sha256": "16cfd53235d274ed8a3734210a8726d7812efb903099bf407374079bf4de0ba0",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/DeterminantalConjecture.lean#L42",
+    "source_locator": "FormalConjectures/Wikipedia/DeterminantalConjecture.lean:42#determinantal_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-15"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0075"
+  ]
+}

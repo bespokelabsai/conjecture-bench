@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0199",
+  "slug": "hopf-sign-conjecture",
+  "title": "Hopf sign conjecture",
+  "field": "differential-geometry",
+  "statement": "A closed nonpositively curved manifold of even dimension 2d has Euler characteristic with sign (−1)^d.",
+  "counterexample": {
+    "description": "A finitely presented closed manifold with certified nonpositive curvature and an Euler characteristic of the wrong sign.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://www.ams.org/tran/1988-305-01/S0002-9947-1988-0920149-3/",
+        "role": "supporting"
+      }
+    ]
+  }
+}

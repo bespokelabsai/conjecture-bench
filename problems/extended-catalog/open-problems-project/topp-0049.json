@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0049",
+  "source_registry": "open-problems-project",
+  "title": "Planar Euclidean Maximum TSP",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "What is the complexity of finding a tour of maximum Euclidean length\nfor a planar point set?",
+    "sha256": "7baae0046c3cc86ec5c94351bb5d7f0c35e912f952eb5dc833205b1e88089665",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p49",
+    "source_locator": "TOPP problem 49 (Problems/P.000049)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "optimization",
+      "point sets",
+      "traveling salesman"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

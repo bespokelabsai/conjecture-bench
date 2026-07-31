@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2674",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.15",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) Are there integral homology spheres with arbitrarily large (integral) Dehn\nsurgery number? Are there irreducible examples? Does the connected sum\nof $n$ nontrivial homology spheres have Dehn surgery number at least $n$?\n(b) Given a 3-manifold $Y$ with a smooth orientation-preserving $\\mathbb{Z}/n\\mathbb{Z}$ sym-\nmetry $\\varphi$, Sakuma [Sak01] (generalizing [PS01]) proved that $Y$ admits a\nsurgery description compatible with the symmetry. Define the equivariant\n(integral) Dehn surgery number of $(Y, \\varphi)$ as the minimal number of con-\nnected components of any such link. Do there exist $(Y, \\varphi)$ whose equivari-\nant (integral) Dehn surgery number is arbitrarily larger than the (integral)\nDehn surgery number?\n(c) Following the remarks below, we can consider the following specific case:\nDoes there exist a manifold with a 2-fold symmetry whose equivariant\n(integral) Dehn surgery number is larger than the (integral) Dehn surgery\nnumber?",
+    "sha256": "243636c30688fcab24eb82f2a85d0447596f1dd06aef019d7f50ac69a8dd85bf",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.15",
+    "source_locator": "dataset ID 2674; problem number KP-1.15",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

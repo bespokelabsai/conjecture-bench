@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2849",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.51",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Suppose Y is a rational homology 3-sphere such that every homomorphism $\\pi_1(Y)$ $\\to$ $\\operatorname{SU}(2)$ has abelian image. Does it follow that\n\n$$\n\\dim_{\\mathbb{C}} I^{\\#}(Y;\\mathbb{C})=|H_1(Y;\\mathbb{Z})|,\n$$\n i.e., that Y is an instanton L-space?",
+    "sha256": "188f17358a3473bb923cea166ac35ba16f5fa503641f207cdaf5852ba8f1621b",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.51",
+    "source_locator": "dataset ID 2849; problem number KP-3.51",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

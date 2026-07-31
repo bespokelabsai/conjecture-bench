@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-048",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.48 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be any non-trivial finite group, and let X be any generating set for G.\nIs it true that every element of G can be obtained from X using fewer than 2 log2 |G|\nmultiplications? (When counting the number of mutiplications on a path from the\ngenerators to a given element, at each step one can use the elements obtained at\nprevious steps.)                                               C. R. Leedham-Green",
+    "sha256": "abbfb31a1985f6e78850347cc94400f5aded6bcebb2fdd1fa10561f40bef3d9e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=88",
+    "source_locator": "Kourovka 15.48, main section, page 88",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

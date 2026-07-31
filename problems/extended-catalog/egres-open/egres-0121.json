@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0121",
+  "source_registry": "egres-open",
+  "title": "Kriesell's conjecture",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''G=(V,E)'' be a graph, and <math>T \\subseteq V</math>. Is it true that if ''T'' is ''2k''-edge-connected in ''G'' (i.e. there are ''2k'' edge-disjoint paths between any two nodes of ''T''), then ''G'' contains ''k'' edge-disjoint [[wikipedia:Steiner_tree|Steiner tree]]s for ''T''?",
+    "sha256": "4131c18c8093b67f8e81c975e70b5234a4fb67d070fd369f5d2553b14c2cad1c",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-09-07T21:15:03Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Kriesell's_conjecture&oldid=2084",
+    "source_locator": "EGRES page 121, revision 2084",
+    "source_sha256": "324902dcfbca1e4e6d28c471007801554616df94f5181add676870f29190e0ba",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity",
+      "Trees and branchings"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0280"
+  ]
+}

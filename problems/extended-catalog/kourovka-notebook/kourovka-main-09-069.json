@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-069",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.69 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(P. Cameron). Let G be a finite primitive permutation group and suppose\nthat the stabilizer Gα of a point α induces on some of its orbits ∆ ̸= {α} a regular\npermutation group. Is it true that |Gα | = |∆|?                         A. N. Fomin\n  ∗ No, not always (P. Spiga, J. Group Theory, 25, no. 1 (2022), 113–126).",
+    "sha256": "3454d8a6e1516831b6400c83d95057052a1f2a73c28f87c4c23daf550e5c5149",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=36",
+    "source_locator": "Kourovka 9.69, main section, page 36",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

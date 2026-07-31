@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-011",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.11 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that G, H are countable or finite groups and A is a proper subgroup\nof G and H containing no non-trivial subgroup normal in both G and H. Can G ∗A H\nbe embedded in Sym (N) so that the image is highly transitive?\n    Comment of 2013: for partial results, see (S. V. Gunhouse, Highly transitive rep-\nresentations of free products on the natural numbers, Ph. D. Thesis Bowling Green\nState Univ., 1993; K. K. Hickin, J. London Math. Soc. (2), 46, no. 1 (1992), 81–91).\n                                                                                A. M. W. Glass",
+    "sha256": "b499fe089d18e8ea74e48e037668778306f78db7d04d6ea3f452b746879559bb",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=57",
+    "source_locator": "Kourovka 12.11, main section, page 57",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

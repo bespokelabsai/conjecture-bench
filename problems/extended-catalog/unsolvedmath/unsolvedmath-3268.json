@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3268",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Subdivision of a transitive tournament in digraphs with large outdegree.",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture For all $k$ there is an integer \u000e $f(k)$ such that every digraph of minimum outdegree at least \u000e $f(k)$ contains a subdivision of a transitive tournament of order $k$.",
+    "sha256": "4b5218c87a1ecf9ebf7cb3f114f3b2eceff460801d832dfe492c08484bf756e0",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-46680",
+    "source_locator": "dataset ID 3268; problem number OPG-46680",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

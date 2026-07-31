@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0808",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "an_open_problem",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open]\ntheorem an_open_problem : Transcendental ℝ (π + rexp 1)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "b3649d19c9ec1290888af62b900174b5cf9d6d2d619bd60fd534aad147f41525",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Util/Attributes/Basic.lean#L73",
+    "source_locator": "FormalConjectures/Util/Attributes/Basic.lean:73#an_open_problem",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Util"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

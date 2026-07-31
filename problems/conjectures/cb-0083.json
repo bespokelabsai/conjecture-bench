@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0083",
+  "slug": "lonely-runner-conjecture",
+  "title": "Lonely Runner conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "For every k distinct nonzero integer relative speeds v₁,…,v_k, some real time t satisfies distance(t·v_i,Z)≥1/(k+1) for every i.",
+  "counterexample": {
+    "description": "A primitive, strictly increasing positive integer speed tuple for which no time gives every runner distance at least 1/(k+1) from the origin.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2604.23906",
+        "role": "supporting"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/LonelyRunnerConjecture.lean#L35",
+        "role": "formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0932"
+    ]
+  }
+}

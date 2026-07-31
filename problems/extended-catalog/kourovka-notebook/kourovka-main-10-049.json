@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-10-049",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 10.49 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does there exist a group G satisfying the following four conditions:\n    1) G is simple, moreover, there is an integer n such that G = C n for any conjugacy\nclass C,\n    2) all maximal abelian subgroups of G are conjugate in G,\n    3) every maximal abelian subgroup of G is self-normalizing and it is the centralizer\nof any of its nontrivial elements,\n    4) there is an integer m such that if H is a maximal abelian subgroup of G and\na ∈ G \\ H then every element in G is a product of m elements in aH?\n    Comment of 2005: There is a partial solution in (E. Jaligot, A. Ould Houcine,\nJ. Algebra, 280 (2004), 772–796).                                              B. Poizat",
+    "sha256": "ecb5a298cea1be515a26524eb8d7e9cfc28a578d466705d6210343831e1a6358",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=42",
+    "source_locator": "Kourovka 10.49, main section, page 42",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

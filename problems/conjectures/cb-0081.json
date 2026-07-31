@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0081",
+  "slug": "durershephard-edge-unfolding-conjecture",
+  "title": "Dürer–Shephard edge-unfolding conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Every convex polyhedron has a nonoverlapping planar unfolding obtained by cutting a spanning tree of its edges.",
+  "counterexample": {
+    "description": "Find a rational convex polyhedron whose every edge-cut tree overlaps. Enumerate spanning trees, unfold faces using exact algebraic rotations, and certify an intersection for each.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://topp.openproblem.net/p9",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2607.09606",
+        "role": "supporting"
+      }
+    ]
+  }
+}

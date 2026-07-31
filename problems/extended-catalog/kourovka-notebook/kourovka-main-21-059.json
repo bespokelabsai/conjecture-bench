@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-059",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.59 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For a finite group G, let χ1 (G) denote the totality of the degrees of all irre-\nducible complex characters of G with allowance for their multiplicities. Suppose that\nH is a finite group with χ1 (H) = χ1 (G).\n   a) If G is an almost simple group, must H be isomorphic to G?\n   b) If G is a quasisimple group, must H be isomorphic to G?\n   This is true if G is a simple group (see 11.8(a) in Archive).\n                                                               A. Iranmanesh, F. Shirjian",
+    "sha256": "a5060d5e2ba6ef559424bcce2d9fca14629d0caa3ff638ff7376e5093f977c57",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=173",
+    "source_locator": "Kourovka 21.59, main section, page 173",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

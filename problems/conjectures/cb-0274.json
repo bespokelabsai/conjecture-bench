@@ -1,0 +1,42 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0274",
+  "slug": "small-quasi-kernel",
+  "title": "Small quasi-kernel conjecture",
+  "field": "directed-graph-theory",
+  "statement": "Every finite loopless sink-free digraph D has an independent vertex set Q of size at most |V(D)|/2 such that every vertex of D can reach Q by a directed path of length at most two.",
+  "counterexample": {
+    "description": "A finite loopless digraph in which every vertex has positive out-degree but no independent set of at most floor(n/2) vertices is reachable from every vertex within two directed steps.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/open/Small_quasi-kernels_in_directed_graphs",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Small_quasi-kernels_in_directed_graphs&oldid=1592",
+        "role": "exact-statement-and-definition-source"
+      },
+      {
+        "url": "https://arxiv.org/abs/2606.16571",
+        "role": "current-status-and-special-cases"
+      },
+      {
+        "url": "https://arxiv.org/abs/2207.12157",
+        "role": "orientation-convention-and-formulation"
+      }
+    ],
+    "discovery_records": [
+      "egres-0079"
+    ]
+  },
+  "equivalence_group": "small-quasi-kernel"
+}

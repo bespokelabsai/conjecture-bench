@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-07-033",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 7.33 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "An elementary T I-subgroup V of a finite group G is said to be a subgroup\nof non-root type if 1 ̸= NV (V g ) ̸= V for some g ∈ G. Describe the finite groups G\nwhich contain a 2-subgroup V of non-root type such that [V, V g ] = 1 implies that all\ninvolutions in V V g are conjugate to elements of V .                  A. A. Makhnëv",
+    "sha256": "7681b1a97cbfaaf389e925bfa60bfe3a29f37dfd82ff2bf37d7984d5a0af0e4f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=23",
+    "source_locator": "Kourovka 7.33, main section, page 23",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

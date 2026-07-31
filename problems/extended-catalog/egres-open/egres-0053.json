@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0053",
+  "source_registry": "egres-open",
+  "title": "Caccetta-Häggkvist conjecture",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Is it true that whenever D is a directed graph on ''n'' nodes with minimum out-degree at least <math>n/k</math>, then ''D'' has a directed cycle of length at most ''k''?",
+    "sha256": "5c4d361311a9178cdf2328acc549147e0ec11ba2a4b92eed596f6f3d44b4246a",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-06-17T11:21:16Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Caccetta-H%C3%A4ggkvist_conjecture&oldid=2035",
+    "source_locator": "EGRES page 53, revision 2035",
+    "source_sha256": "87c2b8a4d4fd9980fe1cc1a10d5e45af609a0c82b9a7fd94018211b5adb07e3a",
+    "tags": [
+      "combinatorial-optimization",
+      "Cycles and paths"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0015"
+  ]
+}

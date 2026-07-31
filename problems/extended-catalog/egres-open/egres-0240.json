@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0240",
+  "source_registry": "egres-open",
+  "title": "Changing conservative weightings in bipartite graphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''G=(A,B;E)'' be a bipartite graph, and <math>w:E \\to \\{1,-1\\}</math> a [[conservative weighting]]. Can we determine in polynomial time the maximum number of positive edges that can be negated so that the weighting remains conservative?",
+    "sha256": "10a587817071cf0abdd5adda8ea67905aa1133862a0c8364f6194b58c4f9684c",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2011-05-19T08:00:51Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Changing_conservative_weightings_in_bipartite_graphs&oldid=1282",
+    "source_locator": "EGRES page 240, revision 1282",
+    "source_sha256": "01ee312a046cebd90fe042f8997edbd1057c717e0e30ed5c7435a353b677f792",
+    "tags": [
+      "combinatorial-optimization",
+      "Cycles and paths",
+      "Matchings"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

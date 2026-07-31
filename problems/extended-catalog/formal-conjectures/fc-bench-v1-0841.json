@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0841",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "lebesgue_nagell",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem lebesgue_nagell (p : ℕ) (hp : p.Prime) (hodd : Odd p) (x y : ℤ) :\n    x ^ 2 - 2 = y ^ p ↔ (x = 1 ∨ x = -1) ∧ y = -1",
+    "language_version": "Lean 4.27.0",
+    "sha256": "6bedf49b5c4209ac78bf5d63f8fab797094087fa2dffae98561b5d235a9cd98a",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Catalan.lean#L64",
+    "source_locator": "FormalConjectures/Wikipedia/Catalan.lean:64#lebesgue_nagell",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0251"
+  ]
+}

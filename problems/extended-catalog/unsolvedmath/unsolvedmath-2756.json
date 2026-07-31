@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2756",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 2.8",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Fix distinct trivial tangles $\\tau_{1}, \\tau_{2}$ for which $\\tau_{1} \\cup\\tau_{2}$ is the unknot.\nDescribe the intersection of the associated wicket groups $W_{n}(\\tau_{1}) \\cap W_{n}(\\tau_{2}) \\leq B_{2n}$.\nIs this group finitely generated? Finitely presented?",
+    "sha256": "78e7f9cbbd8b73e85c08240c929d2a297b11373f96c921d67c255aff132fb93d",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-2.8",
+    "source_locator": "dataset ID 2756; problem number KP-2.8",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

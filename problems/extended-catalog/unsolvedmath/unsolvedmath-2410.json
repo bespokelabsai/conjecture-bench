@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2410",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #960",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $r,k\\geq 2$ be fixed. Let $A\\subset \\mathbb{R}^2$ be a set of $n$ points with no $k$ points on a line. Determine the threshold $f_{r,k}(n)$ such that if there are at least $f_{r,k}(n)$ many ordinary lines (lines containing exactly two points) then there is a set $A'\\subseteq A$ of $r$ points such that all $\\binom{r}{2}$ many lines determined by $A'$ are ordinary.\nIs it true that $f_{r,k}(n)=o(n^2)$, or perhaps even $\\ll n$?",
+    "sha256": "152227d1c77dd632a2dbb15e4d2d68e064cc94be2b7e2509c15e2c5568040031",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-960",
+    "source_locator": "dataset ID 2410; problem number EP-960",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

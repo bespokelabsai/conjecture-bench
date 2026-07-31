@@ -1,0 +1,54 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0282",
+  "slug": "serial-symmetric-exchanges",
+  "title": "Kotlar–Ziv serial symmetric exchange conjecture",
+  "field": "matroid-theory",
+  "statement": "For any two bases A and B of a matroid and every subset X of A, there is an equally sized subset Y of B and orderings of X and Y such that, after every paired prefix exchange, both resulting sets are bases.",
+  "counterexample": {
+    "description": "Two disjoint labeled bases of a rank-five or rank-six vector matroid over an odd prime field, together with a prescribed subset X of at least three elements, for which exhaustive search finds no serial symmetric exchange.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/open/Serial_symmetric_exchanges",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Serial_symmetric_exchanges&oldid=1985",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.1002/jgt.21675",
+        "role": "origin-and-two-element-case"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.dam.2024.09.017",
+        "role": "peer-reviewed-2025-current-status-and-odd-field-context"
+      },
+      {
+        "url": "https://arxiv.org/abs/2305.01085",
+        "role": "open-access-current-status-source"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.jctb.2025.10.009",
+        "role": "peer-reviewed-2026-status-and-regular-case"
+      },
+      {
+        "url": "https://arxiv.org/abs/2311.07130",
+        "role": "open-access-regular-case-source"
+      }
+    ],
+    "discovery_records": [
+      "egres-0431"
+    ]
+  },
+  "equivalence_group": "serial-symmetric-basis-exchange"
+}

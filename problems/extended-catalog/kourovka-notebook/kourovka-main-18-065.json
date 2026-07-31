@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-065",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.65 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(R. Guralnick, G. Malle). Conjecture: Let p be a prime different from 5, and\nC a class of conjugate p-elements in a finite group G. If [c, d] is a p-element for any\nc, d ∈ C, then C ⊆ Op (G).                                                V. D. Mazurov",
+    "sha256": "61aeffa1bb73b9cc94374b10a368af352f95489b9423914b9e3200cf6ea115d9",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=122",
+    "source_locator": "Kourovka 18.65, main section, page 122",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

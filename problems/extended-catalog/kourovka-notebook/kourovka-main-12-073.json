@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-073",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.73 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A formation H of finite groups is said to have length t if there is a chain of\nformations ∅ = H0 ⊂ H1 ⊂ · · · ⊂ Ht = H in which Hi−1 is a maximal subformation\nof Hi . Is the lattice of soluble formations of length ⩽ 4 distributive?  A. N. Skiba",
+    "sha256": "dfbd7253c1d110e16ac041ad155a5843bbe50ffb72f2dab8b88379a448f24153",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=62",
+    "source_locator": "Kourovka 12.73, main section, page 62",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

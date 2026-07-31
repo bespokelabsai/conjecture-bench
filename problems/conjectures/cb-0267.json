@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0267",
+  "slug": "wowii-194-hamiltonian-path",
+  "title": "Written on the Wall II Conjecture 194",
+  "field": "graph-theory",
+  "statement": "Every nontrivial finite connected simple graph G satisfying α(G)≤1+(1/|V(G)|)sum_v α(G[N(v)]) has a Hamiltonian path.",
+  "counterexample": {
+    "description": "A finite connected simple graph satisfying the neighborhood-independence premise but having no Hamiltonian path.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-live-promotion",
+    "sources": [
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/e751934294a381afd2d5fc1124c5953c8e25f9fa/FormalConjectures/WrittenOnTheWallII/GraphConjecture194.lean",
+        "role": "current-formal-statement-and-status-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-1021"
+    ]
+  },
+  "equivalence_group": "wowii-conjecture-194"
+}

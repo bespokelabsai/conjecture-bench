@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2028",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #281",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $n_1<n_2<\\cdots$ be an infinite sequence such that, for any choice of congruence classes $a_i\\pmod{n_i}$, the set of integers not satisfying any of the congruences $a_i\\pmod{n_i}$ has density $0$.\nIs it true that for every $\\epsilon>0$ there exists some $k$ such that, for every choice of congruence classes $a_i$, the density of integers not satisfying any of the congruences $a_i\\pmod{n_i}$ for $1\\leq i\\leq k$ is less than $\\epsilon$?",
+    "sha256": "4989dbfd8e58ca1892f520e6186a2f4f2f0b11e5b08598f23b786474c674c839",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-281",
+    "source_locator": "dataset ID 2028; problem number EP-281",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

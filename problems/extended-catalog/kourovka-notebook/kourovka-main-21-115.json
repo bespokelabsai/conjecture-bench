@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-115",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.115 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let C1 , . . . , Cn be (left or right) cosets of a finite group G such that U :=\nC1 ∪ · · · ∪ Cn is not G. Is it always true that |G \\ U | ⩾ |G|/2n ?\n   Affirmative answers are known in some special cases (B. Sambale, M. Tărnăuceanu,\nJ. Algebraic Combin., 55 (2022), 979–987).                                    B. Sambale",
+    "sha256": "331d3cc8ee96d4ce1c932337cd104d140035fa09ca2285a6ccb1071a03f1fc0b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=181",
+    "source_locator": "Kourovka 21.115, main section, page 181",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

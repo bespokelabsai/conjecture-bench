@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3197",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Packing T-joins",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture There exists a fixed constant $c$ (probably $c=1$ suffices) so that every graft with minimum $T$-cut size at least $k$ contains a $T$-join packing of size at least $(2/3)k-c$.",
+    "sha256": "4ed92b25ef46ec9dca4bb8e0051d33b412fe5af541caffd5c4df8fa43c61aaa9",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-144",
+    "source_locator": "dataset ID 3197; problem number OPG-144",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

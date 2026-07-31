@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0071",
+  "slug": "rysers-r-partite-hypergraph-conjecture",
+  "title": "Ryser’s \\(r\\)-partite hypergraph conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Every r-uniform r-partite hypergraph satisfies τ≤(r−1)ν, where τ is its transversal number and ν its matching number.",
+  "counterexample": {
+    "description": "An r-partite hypergraph encoded by part sizes and one local coordinate per part for each edge, with exact transversal number τ greater than (r−1) times its exact matching number ν.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://dwest.web.illinois.edu/regs/jones.html",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2505.05339",
+        "role": "supporting"
+      }
+    ]
+  }
+}

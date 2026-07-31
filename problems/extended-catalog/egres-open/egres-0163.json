@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0163",
+  "source_registry": "egres-open",
+  "title": "Opposite vertices of base polyhedra",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Is it true that if all vertices of a [[base polyhedron]] ''B'' are in <math>\\{0,1,-1\\}^n</math> and <math>0 \\in B</math>, then ''B'' has a vertex ''v'' such that ''-v'' is also a vertex?",
+    "sha256": "5e271e346ced6b7f89caa749ea598e281d9f404f0e41102d21b62d67c03feec3",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2011-06-01T03:48:09Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Opposite_vertices_of_base_polyhedra&oldid=1285",
+    "source_locator": "EGRES page 163, revision 1285",
+    "source_sha256": "83cb59c7e51c9c9faed9c2fc71bfd06beda59005e126f78415d321a1b3cfd8a3",
+    "tags": [
+      "combinatorial-optimization",
+      "Integer polyhedra",
+      "Sub- and supermodular functions"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0296"
+  ]
+}

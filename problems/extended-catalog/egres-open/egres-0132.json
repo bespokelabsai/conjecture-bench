@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0132",
+  "source_registry": "egres-open",
+  "title": "Smooth well-balanced orientations with prescribed in-degrees",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let <math>G=(V,E)</math> be an undirected graph, and <math>T \\subseteq V</math> a set of nodes of odd degree. When does an orientation <math>D</math> of <math>G</math> exist which is\n\n'' i)'' '''smooth''' (the in-degree and out-degree of every node differ by at most\none),\n\n'' ii)'' [[Well-balanced orientation|'''well-balanced''']]  (that is <math>\\lambda_D(u,v) \\geq \\left\\lfloor\n\\frac{\\lambda_G(u,v)}{2}\\right\\rfloor</math> for every <math>u,v \\in V</math>, where <math>\\lambda</math> is the [[local edge-connectivity]]), and\n\n'' iii)'' the in-degree is less than the out-degree at the nodes in <math>T</math>?",
+    "sha256": "6f0f972b52f43dfe7463c0d2a38a3e267758398646a96aaaaaebd7170e6c1483",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2022-06-12T21:53:49Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Smooth_well-balanced_orientations_with_prescribed_in-degrees&oldid=2474",
+    "source_locator": "EGRES page 132, revision 2474",
+    "source_sha256": "1259c82a85d38a868418b90feaf33022bd02783d731d39ae0109ffc2c60d26a7",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity",
+      "Orientations"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

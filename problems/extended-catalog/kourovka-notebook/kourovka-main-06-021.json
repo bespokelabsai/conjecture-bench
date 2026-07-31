@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-06-021",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 6.21 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "G. Higman proved that, for any prime number p, there exists a natural number\nχ(p) such that the nilpotency class of any finite group G having an automorphism\nof order p without non-trivial fixed points does not exceed χ(p). At the same time\nhe showed that χ(p) ⩾ (p2 − 1)/4 for any such Higman’s function χ. Find the best\npossible Higman’s function. Is it the function defined by equalities χ(p) = (p2 − 1)/4\nfor p > 2 and χ(2) = 1? This is known to be true for p ⩽ 7.             V. D. Mazurov",
+    "sha256": "a5d5b9ec1e3eb5358c087d60e8bfbf9a44f8b4d4f45f76d1203ece3bb0f27650",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=19",
+    "source_locator": "Kourovka 6.21, main section, page 19",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

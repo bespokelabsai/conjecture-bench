@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-134",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.134 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For a finite group G, let the type of G be the function on positive integers\nwhose value at n is the number of solutions of the equation xn = 1 in G.\n    a) Is it true that a group having the same type as a group with trivial solvable\nradical must also have trivial solvable radical? Note that there are solvable and\nnonsolvable groups with the same type (see 12.37).\n    b) Is it true that a group having the same type as an almost simple group must\nbe isomorphic to it? This is true for a group having the same type as a simple group,\nas follows from the affirmative answer to 12.39 (in Archive).           A. V. Vasil’ev\n  ∗ It turned out that a negative answer to both questions had already been given\nby J. G. Thompson; see, for example, (Y. Li, W. Shi, Ric. Mat., 74, no. 1 (2025),\n559–563) (Letter of A. V. Vasil’ev of 18 May 2026).",
+    "sha256": "fea79af4038be3f8ec1b1769e17d8109c6a2cec292dfc5cd159904d0f072c33b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=184",
+    "source_locator": "Kourovka 21.134, main section, page 184",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

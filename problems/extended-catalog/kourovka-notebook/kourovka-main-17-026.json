@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-026",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.26 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Are the classes of right-orderable and right-ordered groups closed under taking\nsolutions of equations w(a1 , . . . , ak , x1 , . . . , xn ) = 1? (Here the closures are under\ngroup embeddings and order-preserving embeddings, respectively.) This is true for\nequations with a single constant, when k = 1 (J. Group Theory, 11 (2008), 623–633).\n                                                              V. V. Bludov, A. M. W. Glass",
+    "sha256": "c486f5838928cb780293793e318c87598f8035f8774d801c9ab36a31ba1474a8",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=105",
+    "source_locator": "Kourovka 17.26, main section, page 105",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

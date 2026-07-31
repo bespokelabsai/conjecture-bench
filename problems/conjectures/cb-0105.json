@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0105",
+  "slug": "rule-115-even-period-formula",
+  "title": "Rule 115 even-period formula",
+  "field": "cellular-automata",
+  "statement": "For reversible second-order cellular automaton rule 115, the configuration family 1(01)^k has period P(2i)=(2·4^(2i+2)−7·4^(i+1)+5)/3 for every natural number i.",
+  "counterexample": {
+    "description": "A natural number i for which the reversible second-order Rule-115 configuration with memory u and current word 1(01)^(2i) has a different exact period.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "legacy-15-inventory-without-forecasts",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2606.13159",
+        "role": "status"
+      }
+    ]
+  }
+}

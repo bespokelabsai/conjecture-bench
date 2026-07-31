@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0286",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_361.smallO",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_361.smallO\n    (c : ℝ) (hc : 0 < c)\n    (A : ℕ → ℕ)\n    (hA : ∀ c n, A n = ((Finset.Icc 1 ⌊c * n⌋₊).powerset.filter\n      (fun B ↦ n ≠ ∑ a ∈ B, a)).sup Finset.card) :\n    (fun n ↦ (A n : ℝ)) =o[atTop] (answer(sorry) : ℕ → ℝ)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "1f9852aae9fc8589c05a02929efccc85ec2d4266ae6319daf6aa6a50e65c7b9f",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/361.lean#L62",
+    "source_locator": "FormalConjectures/ErdosProblems/361.lean:62#erdos_361.smallO",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

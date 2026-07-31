@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2860",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.62",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "How do Floer homological invariants behave under maps of nonzero degree? For instance, let $Y$ and $Z$ be closed, oriented 3-manifolds, and suppose that there is a degree-1 map $f:Y\\to Z$. Is it true that\n\\begin{equation}\\label{eq:hf-rank}\n\\operatorname{rk} HF(Y)\\geq \\operatorname{rk} HF(Z),\n\\tag{6}\n\\end{equation}\nwhere $HF$ is the $\\widehat{HF}$ or $HF_{\\mathrm{red}}$ version of Heegaard Floer homology?",
+    "sha256": "f17f152cab3b377be2f5f71b296b9df4901e6e88d136b0f70bab4bd3dfb423b0",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.62",
+    "source_locator": "dataset ID 2860; problem number KP-3.62",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

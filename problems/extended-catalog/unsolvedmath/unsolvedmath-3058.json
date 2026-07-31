@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3058",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Combinatorial covering designs",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "A $(v, k, t)$ covering design, or covering, is a family of $k$-subsets, called blocks, chosen from a $v$-set, such that each $t$-subset is contained in at least one of the blocks. The number of blocks is the covering’s size, and the minimum size of such a covering is denoted by $C(v, k, t)$.\n\nProblem Find a closed form, recurrence, or better bounds for $C(v,k,t)$. Find a procedure for constructing minimal coverings.",
+    "sha256": "aaebde23e922e3fc211cd55754f559f26e44afea43f89a887e201969e4b338e5",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-762",
+    "source_locator": "dataset ID 3058; problem number OPG-762",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

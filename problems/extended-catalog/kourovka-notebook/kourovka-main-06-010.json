@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-06-010",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 6.10 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let p be a prime and n be an integer with p > 2n + 1. Let x, y be p-elements\nin GLn (C). If the subgroup ⟨x, y⟩ is finite, then it is an abelian p-group (W. Feit,\nJ. G. Thompson, Pacif. J. Math., 11, no. 4 (1961), 1257–1262). What can be said\nabout ⟨x, y⟩ in the case it is an infinite group?                         J. D. Dixon",
+    "sha256": "2fc11c89d8c91652f90ab836fb293586b573c21d1784e3d8210943e705f6d86e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=18",
+    "source_locator": "Kourovka 6.10, main section, page 18",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

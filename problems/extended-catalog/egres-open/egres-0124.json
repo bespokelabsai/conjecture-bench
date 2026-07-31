@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0124",
+  "source_registry": "egres-open",
+  "title": "Independent trees",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "In a graph ''G=(V,E)'' with a root node ''r'', two spanning trees <math>T_1</math> and <math>T_2</math> are called ''r''-'''independent''' if for any node ''x'' in ''V-r'', the unique paths between ''r'' and ''x'' in  <math>T_1</math> and \n<math>T_2</math> are internally node disjoint. Is it true that if ''G'' is ''k''-connected then there exist ''k'' ''r''-independent trees for arbitrary ''r''?",
+    "sha256": "12aabf6f61db83abe4233ca4b2ae81e38f720c16f14caddab746068c4662fbd2",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2018-06-02T11:02:16Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Independent_trees&oldid=2435",
+    "source_locator": "EGRES page 124, revision 2435",
+    "source_sha256": "0bc67ab03a9a1295e7a5e183719c850b235899f253d762857b6235638ff836ae",
+    "tags": [
+      "combinatorial-optimization",
+      "Node-connectivity",
+      "Trees and branchings"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0290"
+  ]
+}

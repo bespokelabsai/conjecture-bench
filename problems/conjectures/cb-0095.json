@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0095",
+  "slug": "purely-cosmetic-surgery-conjecture",
+  "title": "Purely cosmetic surgery conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "No nontrivial knot in S³ has orientation-preservingly homeomorphic Dehn fillings along two distinct slopes.",
+  "counterexample": {
+    "description": "Give a nontrivial knot, distinct slopes, and an orientation-preserving homeomorphism between the fillings. Certified triangulations and canonical-decomposition proof data verify it.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2403.10448",
+        "role": "supporting"
+      }
+    ]
+  }
+}

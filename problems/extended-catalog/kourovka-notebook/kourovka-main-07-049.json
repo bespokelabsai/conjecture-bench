@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-07-049",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 7.49 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a finitely generated group, and N a minimal normal subgroup of G\nwhich is an elementary abelian p-group. Is it true that either N is finite or the growth\nfunction for the elements of N with respect to a finite generating set of G is bounded\nbelow by an exponential function?                                          V. I. Trofimov",
+    "sha256": "5bcaf4e445bcc38cd64f498dba12bb4d638783258652b97d9eed98bd9ab05bd5",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=24",
+    "source_locator": "Kourovka 7.49, main section, page 24",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

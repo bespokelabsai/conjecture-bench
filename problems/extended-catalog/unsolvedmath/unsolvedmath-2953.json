@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2953",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.77",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For which $k \\geq$ 0 and closed smooth 4-manifold X does the equality $\\ker(i_{*}: \\pi_{k}(Diff_{\\partial}(X^{\\circ})) \\to \\pi_{k}(Homeo_{\\partial}(X^{\\circ}))) =\\ker(s_{*}: \\pi_{k}(Diff_{\\partial}(X^{\\circ})) \\to$ colim $\\pi_{k}(Diff_{\\partial}(X^{\\circ}\\#_{n}S^{2} \\times S^{2})))$ (13) $n \\to \\infty$ hold?",
+    "sha256": "a22b81ac9aae995624d2cb87fc718bc4a2a07bef8a594fa2d660ed54f35f6b62",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.77",
+    "source_locator": "dataset ID 2953; problem number KP-4.77",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

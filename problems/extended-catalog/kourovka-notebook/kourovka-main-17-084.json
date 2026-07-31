@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-084",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.84 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "An associative algebra A is said to be Calabi–Yau of dimension d (for short,\nCYd) if there is a natural isomorphism of A-bimodules ExtdA-bimod (A, A⊗A) ∼\n                                                                           = A and\nExtnA-bimod (A, A ⊗ A) = 0 for n ̸= d. By Kontsevich’s theorem, the complex group\nalgebra CG of the fundamental group G of a 3-dimensional aspherical manifold is\nCY3. Is every group with CY3 complex group algebra residually finite? R. Mikhailov",
+    "sha256": "a2febd94379ee9d61eee2df3887b91859f5f94407cb6ff91b116fb9e96753d8e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=111",
+    "source_locator": "Kourovka 17.84, main section, page 111",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

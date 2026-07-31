@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-003",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.3 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let α and β be faithful non-linear irreducible characters of a finite group G.\nThere are non-solvable groups G giving examples when the product αβ is again an\nirreducible character (for some of such α, β). One example is G = SL2 (5) with two\nirreducible characters of degree 2. In (I. Zisser, Israel J. Math., 84, no. 1–2 (1993),\n147–151) it is proved that such an example exists in an alternating group An if and\nonly if n is a square exceeding 4. But do solvable examples exist? Evidence (but\nno proof) that they do not is given in (I. M. Isaacs, J. Algebra, 223, no. 2 (2000),\n630–646).                                                                   I. M. Isaacs",
+    "sha256": "595fdc9a5ffa5e2c50631282ab37aad80afb1d3603da1557d4e263b088e6d542",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=83",
+    "source_locator": "Kourovka 15.3, main section, page 83",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

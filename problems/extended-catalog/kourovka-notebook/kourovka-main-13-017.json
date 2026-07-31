@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-13-017",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 13.17 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A representation of a group G on a vector space V is called a nil-represen-\ntation if for every v in V and g in G there exists n = n(v, g) such that v(g − 1)n = 0.\nIs it true that in zero characteristic every irreducible nil-representation is trivial? (In\nprime characteristic it is not true.)                                              S. Vovsi",
+    "sha256": "422f865d8b08b97a2ca13f0128763a973dccc0291ac23ff2764de6c5964e1de6",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=66",
+    "source_locator": "Kourovka 13.17, main section, page 66",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

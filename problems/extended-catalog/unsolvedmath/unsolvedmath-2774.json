@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2774",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 2.26",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(Kontsevich–Zorich conjecture). Understand the homotopy types\nof strata of abelian differentials. Which stratum-components are $K(\\pi, 1)$ spaces?\nWhat are the fundamental groups? For which stratum-components $\\mathcal{H}$ is some ver-\nsion of the monodromy map $\\rho: \\pi_{1}(\\mathcal{H}) \\to \\operatorname{Mod}(S_{g})$ injective? Do the answers to\nthese questions change in a predictable way as one moves from the principal stra-\ntum down to the minimal?",
+    "sha256": "da802f5eab4a0a6b328812807584d84e9537c970ce198740fdcfd0e4ebf3b9b0",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-2.26",
+    "source_locator": "dataset ID 2774; problem number KP-2.26",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

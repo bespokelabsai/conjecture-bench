@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-058",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.58 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A generalized quadrangle GQ(s, t) with parameters s, t is by definition an\nincidence system consisting of points and lines in which every line consists of s + 1\npoints, every two different lines have at most one common point, each point belongs\nto t+1 lines, and for any point a not lying on a line L there is a unique line containing\na and intersecting L.\n    a) Does GQ(4, 11) exist?\n    b) Can the automorphism group of a hypothetical GQ(5, 7) contain involutions?\n                                                                         A. A. Makhnëv",
+    "sha256": "e9e96ce76496894cbe4f393792023be3154c3a801b4a06f0b619cb5e78fa5509",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=61",
+    "source_locator": "Kourovka 12.58, main section, page 61",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

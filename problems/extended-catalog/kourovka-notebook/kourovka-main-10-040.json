@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-10-040",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 10.40 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "P(H. Bass). Let G be a group, e an idempotent matrix over ZG and let\ntr e =      eg g, eg ∈ Z. Strong conjecture: for any non-trivial x ∈ G, the equation\n P      g∈G                                                          P\n     eg = 0 holds where ∼ denotes conjugacy in G. Weak conjecture:       eg = 0. The\ng∼x                                                                        g∈G\nstrong conjecture has been proved for finite, abelian and linear groups and the weak\nconjecture has been proved for residually finite groups.\n    H. Bass’ Comment of 2005: Significant progress has been made; a good up-to-date\naccount is in the paper (A. J. Berrick, I. Chatterji, G. Mislin, Math. Ann., 329 (2004),\n597–621).                                                                  G. A. Noskov",
+    "sha256": "3b5783a51e2ece549a46b7512ce0f87ec998efe959052e23a54afc96edf5f8bb",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=41",
+    "source_locator": "Kourovka 10.40, main section, page 41",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

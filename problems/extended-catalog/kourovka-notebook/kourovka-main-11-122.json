@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-122",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.122 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does every non-zero submodule of a free module over the group ring of a\ntorsion-free group contain a free cyclic submodule?             A. L. Shmel’kin",
+    "sha256": "df43282b2bb6fdfaa2a18757da1014c2f2a8f35568387a724c0afb1e89811ae9",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=56",
+    "source_locator": "Kourovka 11.122, main section, page 56",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

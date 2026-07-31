@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-095",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.95 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(A. Mann, Ch. Praeger). Suppose that all fixed-point-free elements of a tran-\nsitive permutation group G have prime order p. If G is a finite p-group, must G have\nexponent p?\n    This is true for p = 2, 3; it is also known that the exponent of G is bounded\nin terms of p (A. Hassani, M. Khayaty, E. I. Khukhro, C. E. Praeger, J. Algebra, 214,\nno. 1 (1999), 317–337).                                                 E. I. Khukhro",
+    "sha256": "44b044f624415d8b88ba91ec4a7995ec46649712009a6dccbaf7c9b39f16b3b8",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=93",
+    "source_locator": "Kourovka 15.95, main section, page 93",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

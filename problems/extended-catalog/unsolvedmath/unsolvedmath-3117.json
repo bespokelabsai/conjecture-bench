@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3117",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Vertex Coloring of graph fractional powers",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture Let $G$ be a graph and $k$ be a positive integer. The $k-$ power of $G$, denoted by $G^k$, is defined on the vertex set $V(G)$, by connecting any two distinct vertices $x$ and $y$ with distance at most $k$. In other words, $E(G^k)=\\{xy:1\\leq d_G(x,y)\\leq k\\}$. Also $k-$ subdivision of $G$, denoted by $G^\\frac{1}{k}$, is constructed by replacing each edge $ij$ of $G$ with a path of length $k$. Note that for $k=1$, we have $G^\\frac{1}{1}=G^1=G$.\nNow we can define the fractional power of a graph as follows:\nLet $G$ be a graph and $m,n\\in \\mathbb{N}$. The graph $G^{\\frac{m}{n}}$ is defined by the $m-$ power of the $n-$ subdivision of $G$. In other words $G^{\\frac{m}{n}}\\isdef (G^{\\frac{1}{n}})^m$.\nConjecture. Let $G$ be a connected graph with $\\Delta(G)\\geq3$ and $m$ be a positive integer greater than 1. Then for any positive integer $n>m$, we have $\\chi(G^{\\frac{m}{n}})=\\omega(G^\\frac{m}{n})$.\nIn [1], it was shown that this conjecture is true in some special cases.",
+    "sha256": "80114f8b8ff5184b80715340126cf1669e4b5738a8af7aab3794f07ba8f682be",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-37316",
+    "source_locator": "dataset ID 3117; problem number OPG-37316",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

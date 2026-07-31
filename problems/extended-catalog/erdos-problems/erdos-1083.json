@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "erdos-1083",
+  "source_registry": "erdos-problems",
+  "title": "Erdős problem #1083",
+  "statement": {
+    "representation": "source-reference",
+    "text": null,
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-10-17",
+    "evidence": "pinned Erdős Problems maintainer feed"
+  },
+  "provenance": {
+    "source_url": "https://www.erdosproblems.com/1083",
+    "source_locator": "Erdős problem 1083",
+    "source_commit": "1fddae4643fac0308db2e557876b78072e30f2e1",
+    "tags": [
+      "geometry",
+      "distances"
+    ]
+  },
+  "review_flags": [
+    "exact-statement",
+    "status"
+  ]
+}

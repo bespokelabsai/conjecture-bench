@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0210",
+  "slug": "dubner-twin-prime-sum",
+  "title": "Dubner twin-prime sum conjecture",
+  "field": "number-theory",
+  "statement": "Every even integer greater than 4208 is the sum of two primes that each belong to a twin-prime pair.",
+  "counterexample": {
+    "description": "An even integer n>4208 for which exhaustive exact sieving finds no decomposition n=p+q with p and q each having a prime neighbor at distance two.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://oeis.org/A007534/a007534.pdf",
+        "role": "primary"
+      },
+      {
+        "url": "https://vixra.org/pdf/2210.0025v2.pdf",
+        "role": "unreviewed-proof-claim"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Paper/Dubner.lean#L58",
+        "role": "status-and-formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0748"
+    ]
+  },
+  "equivalence_group": "dubner-twin-prime-sum"
+}

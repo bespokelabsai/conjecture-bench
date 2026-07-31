@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-012",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.12 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that U is a nonprincipal ultrafilter on ω, and B is a group such\nthat every element b ∈ B belongs to a subgroup of B that is a homomorphic im-\n         ω\nage\n Q of Z �/U . Must B then be a homomorphic image of an ultraproduct group\n    i∈ω Gi /U for some groups Gi ?\n    This is Question 19 in (G. M. Bergman, Pacific J. Math., 274 (2015) 451–495).\nAn affirmative answer would imply that every torsion group was such a homomorphic\nimage for every U , and so would give positive answers to both parts of 21.11.\n                                                                        G. M. Bergman\n  ∗ No, it need not (S. M. Corson, J. Algebra, 681 (2025), 306–317).",
+    "sha256": "6b85a6ffc73241c99ca1561ef2f562d6cc9f616ebedbb4a5b57a8fbca11485f2",
+    "contains_placeholder": false,
+    "unmapped_control_count": 1
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=166",
+    "source_locator": "Kourovka 21.12, main section, page 166",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

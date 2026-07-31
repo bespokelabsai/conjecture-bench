@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-008",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.8 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let X be a class of finite simple groups such that π(X ) = char(X ). A formation\nof finite groups F is said to be X -saturated if a finite group G belongs to F whenever\nthe factor group G/Φ(OX (G)) is in F, where OX (G) is the largest normal subgroup of\nG whose composition factors are in X . Is every X -saturated formation X -local in the\nsense of Förster? (See the definition in (P. Förster, Publ. Sec. Mat. Univ. Autònoma\nBarcelona, 29, no. 2–3 (1985), 39–76).)                            A. Ballester-Bolinches",
+    "sha256": "c5e516b9a4f8ff831b460f8dc61ad66736dfc5ad56810770829a1f4b30a941ec",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=116",
+    "source_locator": "Kourovka 18.8, main section, page 116",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

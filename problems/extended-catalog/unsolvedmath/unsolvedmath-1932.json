@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1932",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #103",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $h(n)$ count the number of incongruent sets of $n$ points in $\\mathbb{R}^2$ which minimise the diameter subject to the constraint that $d(x,y)\\geq 1$ for all points $x\neq y$. Is it true that $h(n)\\to \\infty$?",
+    "sha256": "48e660bb42c8412da5d0b36442e4ae69f0959e1fd9cf5888c6d543a8d20fa072",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-103",
+    "source_locator": "dataset ID 1932; problem number EP-103",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:geometry",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

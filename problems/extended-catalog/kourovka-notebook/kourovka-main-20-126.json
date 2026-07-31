@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-126",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.126 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A brace (G; +, ◦) is non-empty set G with two binary operations +, ◦ such\nthat (G, +) is an additively written abelian group, (G, ◦) is a multiplicatively written\ngroup, and a ◦ (b + c) + a = (a ◦ b) + (a ◦ c) for all a, b, c ∈ G. Does there exist a brace\nwith finitely generated group (G, +) such that\n   a) the group (G, ◦) is non-solvable?\n   b) the group (G, ◦) contains a non-abelian free group?\n                                       V. G. Bardakov, M. V. Neshchadim, M. K. Yadav\n\n                                New Problems",
+    "sha256": "cb48a7c29d33f2e4a4d0a7c5a68c2ffe336c24ca5de36e64401f1350ef24ce73",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=163",
+    "source_locator": "Kourovka 20.126, main section, page 163",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

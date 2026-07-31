@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0086",
+  "slug": "smales-mean-value-conjecture",
+  "title": "Smale’s mean-value conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Smale’s mean-value conjecture · 1981. For a degree-\\(d\\) polynomial \\(P\\) and \\(z\\) with \\(P'(z)\\ne0\\), Smale conjectured \\(\\min_{P'(\\zeta)=0}\\left\\lvert\\frac{P(z)-P(\\zeta)}{(z-\\zeta)P'(z)}\\right\\rvert\\le(d-1)/d\\) (original).",
+  "counterexample": {
+    "description": "A normalized degree-six polynomial over the Gaussian rationals whose derivative splits completely over the Gaussian rationals and for which every listed critical point has normalized secant magnitude strictly greater than 5/6.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.ams.org/bull/1981-04-01/S0273-0979-1981-14858-8/",
+        "role": "supporting"
+      },
+      {
+        "url": "https://www.math.s.chiba-u.ac.jp/~fujikawa/chiba/paper_files/12.pdf",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "smale-mean-value"
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0886",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "gilbreath_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem gilbreath_conjecture (k : ℕ+) : d k 0 = 1",
+    "language_version": "Lean 4.27.0",
+    "sha256": "494dc2c73d8c8238a93f64cd0d9729edda1b747d02cff274278ab6465962cd2f",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Gilbreath.lean#L41",
+    "source_locator": "FormalConjectures/Wikipedia/Gilbreath.lean:41#gilbreath_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0065"
+  ]
+}

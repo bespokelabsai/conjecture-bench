@@ -1,0 +1,46 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0284",
+  "slug": "scrambled-rota",
+  "title": "Scrambled Rota conjecture",
+  "field": "matroid-theory",
+  "statement": "Let M be a loopless rank-k matroid whose ground set is the disjoint union of k bases. Every partition of that ground set into k sets of size k has k−1 pairwise disjoint transversals that are bases of M.",
+  "counterexample": {
+    "description": "A prime-field vector matroid presented as k labeled bases, together with a different k-by-k partition of the same labeled elements, for which exhaustive exact-cover search finds no k−1 disjoint transversal bases.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/open/Scrambled_Rota_conjecture",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Scrambled_Rota_conjecture&oldid=2230",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.1137/11084844X",
+        "role": "origin-and-sharpness-example"
+      },
+      {
+        "url": "https://doi.org/10.1002/jgt.21796",
+        "role": "survey-formulation"
+      },
+      {
+        "url": "https://arxiv.org/abs/2107.12881",
+        "role": "2021-open-question-survey"
+      }
+    ],
+    "discovery_records": [
+      "egres-0334"
+    ]
+  },
+  "equivalence_group": "scrambled-rota"
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0461",
+  "source_registry": "egres-open",
+  "title": "Seymour's self-minor conjecture",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Every countably infinite graph is a proper minor of itself.",
+    "sha256": "fd55d57e30ee99f2be069b3264797b9f762d7746d8a5f297fbd7e54f61c8f52f",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-11-21T21:07:54Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Seymour's_self-minor_conjecture&oldid=2380",
+    "source_locator": "EGRES page 461, revision 2380",
+    "source_sha256": "437567f75bc107a7324daee29afb0a055e63b4e0116f2c151c354b61e33a5fba",
+    "tags": [
+      "combinatorial-optimization",
+      "Infinite combinatorics"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

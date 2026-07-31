@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-003",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.3 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let the group G = AB be the product of two central-by-finite subgroups A\nand B. By a theorem of N. Chernikov, G is soluble-by-finite. Is G metabelian-by-\nfinite?                                                              B. Amberg",
+    "sha256": "56ac80c29c1f26a103b7eb4f4c12d4f1db7de8d6fc32d4dd947e86b0192a2d75",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=116",
+    "source_locator": "Kourovka 18.3, main section, page 116",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

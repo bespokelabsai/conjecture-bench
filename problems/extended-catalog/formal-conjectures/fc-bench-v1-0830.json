@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0830",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "beal_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem beal_conjecture : bealConjecture",
+    "language_version": "Lean 4.27.0",
+    "sha256": "8526adfb286a6817c1d2538f2cccdd0a18dbd10eae2b162a6f3b4c4c25844a13",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/BealConjecture.lean#L35",
+    "source_locator": "FormalConjectures/Wikipedia/BealConjecture.lean:35#beal_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0053"
+  ]
+}

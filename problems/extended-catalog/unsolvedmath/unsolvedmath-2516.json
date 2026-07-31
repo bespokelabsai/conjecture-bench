@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2516",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.7",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(Well-known problem). A finite group G is called an IYB-group if it is isomorphic to the permutation group of a finite involutive non-degenerate set-theoretic solution of the Yang--Baxter equation, or equivalently, G is isomorphic to the multiplicative group of a finite left brace. Assume that the Sylow subgroups of a finite soluble group G are IYB-groups. Is G an IYB-group?",
+    "sha256": "f1bc3e64f44ab0eed9f1fc6e4c8d917021782a0ad2271a86cb2f2c531a9c5040",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.7",
+    "source_locator": "dataset ID 2516; problem number KOU-21.7",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

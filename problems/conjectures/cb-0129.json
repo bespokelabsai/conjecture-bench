@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0129",
+  "slug": "erdos-743-tree-packing",
+  "title": "Erdős problem #743: tree packing into a complete graph",
+  "field": "graph-theory",
+  "statement": "For any trees T₂,…,Tₙ with Tₖ having k vertices, Kₙ is their edge-disjoint union.",
+  "counterexample": {
+    "description": "Give trees T₂ through T₁₀ that have no simultaneous edge-disjoint packing into K₁₀. Each tree uses local vertex labels 0 through k−1.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/743",
+        "role": "status"
+      }
+    ]
+  }
+}

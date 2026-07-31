@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0469",
+  "source_registry": "egres-open",
+  "title": "Strongly minimal edge cover",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Is it true that if the hypergraph  <math>H </math> has no isolated vertices and all of its hyperedges are finite, then  <math>H </math> admits  a strongly minimal edge cover?",
+    "sha256": "29d5d6a49f8d55e0c32ea9ccf54d348558ad98db52c3eb2e290442e9a14496e6",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-12-08T13:18:59Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Strongly_minimal_edge_cover&oldid=2400",
+    "source_locator": "EGRES page 469, revision 2400",
+    "source_sha256": "282979b8ce10b6ffe7de6aa889c1cfc34fdcaa901abcbbe163ad94b734124b57",
+    "tags": [
+      "combinatorial-optimization",
+      "Infinite combinatorics"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

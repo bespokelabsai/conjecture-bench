@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0037",
+  "slug": "legendre-prime-between-squares",
+  "title": "Legendre prime-between-squares",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "For every integer n≥1, there is a prime strictly between n² and (n+1)².",
+  "counterexample": {
+    "description": "An \\(n\\) for which every integer in \\((n^2,(n+1)^2)\\) is composite. Factors for the entire interval form a finite but long certificate.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://link.springer.com/article/10.1007/s40993-024-00589-4",
+        "role": "supporting"
+      }
+    ]
+  }
+}

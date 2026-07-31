@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0064",
+  "source_registry": "open-problems-project",
+  "title": "Edge-Unfolding Polycubes",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Is there any genus-zero orthogonal polyhedron $P$ built\nby gluing together cubes face-to-face that cannot be\nedge-unfolded, where all cube edges on the surface of $P$\nare considered edges available for cutting?\nThese orthogonal polyhedra are sometimes known as \\emph{polycubes},\n3D versions of 2D \\emph{polyominoes}.",
+    "sha256": "a3735c7cfed3082269829b75e4cba16afa89126ef5d24f1a1cc4d89e6857a471",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p64",
+    "source_locator": "TOPP problem 64 (Problems/P.000064)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "folding and unfolding",
+      "polyhedra"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0160"
+  ]
+}

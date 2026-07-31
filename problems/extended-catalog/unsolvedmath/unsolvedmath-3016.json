@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3016",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 5.9",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $M_{1}$ and $M_{2}$ be smooth manifolds of dimension $n$. Suppose $M_{1}$ admits an $S$-map into $\\R^{p}$. If $M_{2}$ is homeomorphic to $M_{1}$, then does $M_{2}$ admit an $S$-map as well?",
+    "sha256": "40b7ae134789ad2414b178135a858e9f5661681f90a53f8ae0ac70fa61d4168a",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-5.9",
+    "source_locator": "dataset ID 3016; problem number KP-5.9",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

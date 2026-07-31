@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0967",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "regularprime_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem regularprime_conjecture : RegularPrimeConjecture",
+    "language_version": "Lean 4.27.0",
+    "sha256": "96aa9ba81b626d9e9043cffa38bba4f3a1ab97aa96d45cf18b1e5f5bc65762ef",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/RegularPrimes.lean#L79",
+    "source_locator": "FormalConjectures/Wikipedia/RegularPrimes.lean:79#regularprime_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-027",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.27 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does there exist an algorithm that determines whether there are finitely many\nsubformations in form(G) for a given finite group G?               V. P. Burichenko",
+    "sha256": "8e09e5fcfce13cde925d4611b2e5882714ad6e399b8bcda1692bd0a13b8b6e04",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=118",
+    "source_locator": "Kourovka 18.27, main section, page 118",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

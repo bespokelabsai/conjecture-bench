@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2525",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.16",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let the width of a group (respectively, a monoid) H with respect to a generating set X mean the supremum over h $\\in$ H of the least length of a group word (respectively, a monoid word) in elements of X expressing h. A group (or monoid) is said to have finite width if its width with respect to every generating set is finite. (A common finite bound for these widths is not required.) Do there exist groups G having finite width as groups, but not as monoids?",
+    "sha256": "b9a0aeb7883c64c3084d5e038cca0a8c342546bd0b11a7f013dc216f6cd24c20",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.16",
+    "source_locator": "dataset ID 2525; problem number KOU-21.16",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

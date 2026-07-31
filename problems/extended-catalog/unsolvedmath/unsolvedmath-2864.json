@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2864",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.66",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Suppose that $Y$ is a closed, oriented 3-manifold, and let $S_{2,\\infty}(Y)$ denote the Kauffman bracket skein module over $R=\\mathbb{Z}[A,A^{-1}]$ as in Problem 3.65.\n\n(a) Is the dimension\n\n$$\n\\dim_{\\mathbb{Q}(A)} S_{2,\\infty}(Y)\\otimes_R \\mathbb{Q}(A)\n$$\n\nequal to the dimension of the degree 0 part of Abouzaid--Manolescu's sheaf-theoretic Floer homology $HP^{\\bullet}_{\\#}(Y)$ from [AM20]?\n\n(b) When is $S_{2,\\infty}(Y)\\otimes_R\\mathbb{Q}[A,A^{-1}]$ tame, as defined in Problem 3.65?",
+    "sha256": "1825da9d27cecbc26fa09ca087acb931d71aece9bd0e03638df027a60755fbe7",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.66",
+    "source_locator": "dataset ID 2864; problem number KP-3.66",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

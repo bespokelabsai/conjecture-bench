@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0055",
+  "slug": "hadamard-matrix-existence",
+  "title": "Hadamard matrix existence",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "A Hadamard matrix exists for every positive order divisible by four.",
+  "counterexample": {
+    "description": "An order \\(4k\\) with a formal proof that no Hadamard matrix exists. At order 668, normalization still leaves \\(667^2=444{,}889\\) bits, so a SAT/DRAT-style certificate is needed.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.nature.com/articles/s41598-025-18778-1",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0890"
+    ]
+  }
+}

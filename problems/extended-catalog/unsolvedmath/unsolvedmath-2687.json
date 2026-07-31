@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2687",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.28",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $L$ be a link in the thickened annulus $S^{1} \\times I \\times I$.\n(a) Wrapping conjecture: $w(L)$ is equal to the maximal nonzero annular de-\ngree of the annular Kauffman bracket of $L$.\n(b) Categorifed wrapping conjecture: $w(L)$ is equal to the maximal nonzero\nannular grading of the annular Khovanov homology of $L$.",
+    "sha256": "68d65b3a5232e8c6be592d0366f229462169712d046e56b21ae7a6e1a9a979a8",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.28",
+    "source_locator": "dataset ID 2687; problem number KP-1.28",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

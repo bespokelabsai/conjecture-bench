@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-065",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.65 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that φ is an automorphism of a finite soluble group G. Must G\ncontain a subgroup of index bounded in terms of |φ| and |CG (φ)| whose Fitting\nheight is bounded\n   (a) in terms of |φ|?\n   (b) or even in terms of the composition length of ⟨φ⟩?\n    An affirmative answer to part (b) is known when |φ| is a prime power (B. Hartley–\nV. Turau), or when (|G|, |φ|) = 1 (A. Turull, B. Hartley–I. M. Isaacs). Also cf. 19.43.\n                                                                           E. I. Khukhro",
+    "sha256": "011a66e3e815c5d65e8cb6ec35f1164987b594c13cc45701b6c3b6d84f130423",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=174",
+    "source_locator": "Kourovka 21.65, main section, page 174",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

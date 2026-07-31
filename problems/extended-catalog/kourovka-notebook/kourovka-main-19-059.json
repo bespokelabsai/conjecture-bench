@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-059",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.59 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does the group of isometries of Q3 have a free non-abelian subgroup such\nthat every non-trivial element acts without nontrivial fixed points in Q3 ?\n    The answer is yes if the field of rational numbers Q is replaced by the field R of\nreal numbers (see G. Tomkowicz, S. Wagon, The Banach–Tarski Paradox, Cambridge\nUniv. Press, 2016.)                                                        J. Mycielski",
+    "sha256": "53c0b587081c6c61b5dbb9a94ecfe024ea5893053bbacce4d981ec51499c5007",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=137",
+    "source_locator": "Kourovka 19.59, main section, page 137",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

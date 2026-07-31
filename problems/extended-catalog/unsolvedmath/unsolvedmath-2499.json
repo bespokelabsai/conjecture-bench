@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2499",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #1112",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $1\\leq d_1<d_2$ and $k\\geq 3$. Does there exist an integer $r$ such that if $B=\\{b_1<\\cdots\\}$ is a lacunary sequence of positive integers with $b_{i+1}\\geq rb_i$ then there exists a sequence of positive integers $A=\\{a_1<\\cdots\\}$ such that $ d_1\\leq a_{i+1}-a_i\\leq d_2 $ for all $i\\geq 1$ and $(kA)\\cap B=\\emptyset$, where $kA$ is the $k$-fold sumset?",
+    "sha256": "39c3a11671defa91ca112f1c3e2ec1b6e8fa063a06f93810e89dd9032abe8076",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-1112",
+    "source_locator": "dataset ID 2499; problem number EP-1112",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

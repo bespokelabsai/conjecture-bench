@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0938",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "MLC",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 37]\ntheorem MLC : LocallyConnectedSpace mandelbrotSet",
+    "language_version": "Lean 4.27.0",
+    "sha256": "2fd7af4d8be0a15b4846bbda34212fba661c18616f0a5ed0779ee2a311a8c517",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Mandelbrot.lean#L107",
+    "source_locator": "FormalConjectures/Wikipedia/Mandelbrot.lean:107#MLC",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-37"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

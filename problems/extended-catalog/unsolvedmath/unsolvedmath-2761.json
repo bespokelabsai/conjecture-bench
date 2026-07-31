@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2761",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 2.13",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $S$ be a surface, and let $\\Gamma_{1}, \\Gamma_{2}$ be isotopy classes of embedded\ngraphs in $S$. Determine when $\\Gamma_{1}$ and $\\Gamma_{2}$ are related by a sequence of surgeries.",
+    "sha256": "bd090fb7bfc58f127ed93e13b74c60b65b7f0c7c9667aa5d3c09f4f72f724876",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-2.13",
+    "source_locator": "dataset ID 2761; problem number KP-2.13",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

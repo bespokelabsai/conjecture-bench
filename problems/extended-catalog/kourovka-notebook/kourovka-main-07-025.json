@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-07-025",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 7.25 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "We associate with words in the alphabet x, x−1 , y, y −1 , z, z −1 , . . . operations\nwhich are understood as functions in variables x, y, z, . . .. We say that a word A is\nexpressible in words B1 , . . . , Bn on the group G if A can be constructed from the\nwords B1 , . . . , Bn and variables by means of finitely many substitutions of words one\ninto another and replacements of a word by another word which is identically equal\nto it on G. A list of words is said to be functionally complete on G if every word\ncan be expressed on G in words from this list. A word B is called a Schaeffer word\non G if every word can be expressed on G in B (compare with A. V. Kuznetsov,\nMatem. Issledovaniya, Kishinëv, 6, no. 4 (1971), 75–122 (Russian)). Does there exist\nan algorithm which decides\n    a) by a word B, whether it is a Schaeffer word on every group? Compare with the\nproblem of describing all such words in (A. G. Kurosh, Theory of Groups, Moscow,\nNauka, 1967, p. 435 (Russian)); here are examples of such words: xy −1 , x−1 y 2 z,\nx−1 y −1 zx.\n    b) by a list of words, whether it is functionally complete on every group?\n    c) by words A, B1 , . . . , Bn , whether A is expressible in B1 , . . . , Bn on every group?\n(This is a problem from A. V. Kuznetsov, ibid., p. 112.)\n    d) the same for every finite group? (For finite groups, for example, x−1 is express-\nible in xy.) For a fixed finite group an algorithm exists (compare with A. V. Kuznetsov,\nibid., § 8).                                                                     A. V. Kuznetsov",
+    "sha256": "5fe627b34cdfd46598cf2c6ff86e1766ff807ca84c4c09c70ff3d180e6592e09",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=22",
+    "source_locator": "Kourovka 7.25, main section, page 22",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

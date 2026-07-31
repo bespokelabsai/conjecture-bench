@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-088",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.88 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "An undirected graph is called a locally finite Cayley graph of a group G if\nits vertex set can be identified with the set of elements of G in such a way that, for\nsome finite generating set X = X −1 of G not containing 1, two vertices g and h are\nadjacent if and only if g −1 h ∈ X. Do there exist two finitely generated groups with\nthe same locally finite Cayley graph, one of which is periodic and the other is not\nperiodic?                                                               V. I. Trofimov",
+    "sha256": "ad74a71570e813f0b26a8e8e8ca9af612f3dda06d12f21b6f461ad5e4b7f3dd8",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=63",
+    "source_locator": "Kourovka 12.88, main section, page 63",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

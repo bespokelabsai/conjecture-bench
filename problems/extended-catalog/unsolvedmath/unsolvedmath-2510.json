@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2510",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.1",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $n$ be a positive integer. For a finite group $K$ and an automorphism $\\varphi$ of $K$ of order dividing $n$, let\n\n$$\nX_{n,\\varphi}(K):=\\{x\\in K\\mid x x^{\\varphi}\\cdots x^{\\varphi^{n-1}}=1\\}.\n$$\n\nLet $c_n$ be the supremum of the ratios $|X_{n,\\varphi}(H)|/|H|$ over all finite groups $H$ and their automorphisms $\\varphi\\in\\operatorname{Aut}(H)$ such that $\\varphi^n=\\operatorname{id}$ and $X_{n,\\varphi}(H)\\ne H$.\n\n(a) Let $n>1$ be a positive integer such that $c_d<1$ for all prime power divisors $d$ of $n$. Is it true that $c_n<1$?\n\n(b) For a finite group $G$ and a positive integer $n$, the generalized Hughes--Thompson subgroup is defined as $H_n(G)=\\langle x\\in G\\mid x^n\\ne 1\\rangle$. Suppose that $n$ is a positive integer for which there is a positive integer $k_n$ depending only on $n$ such that $|G:H_n(G)|\\leqslant k_n$ for all finite groups $G$ with $H_n(G)\\ne 1$. Is it true that then $c_n<1$?",
+    "sha256": "bdca03e05df536d49924a7440d48e544805110b5b9d7dc6428c6c5502e94c2e3",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.1",
+    "source_locator": "dataset ID 2510; problem number KOU-21.1",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

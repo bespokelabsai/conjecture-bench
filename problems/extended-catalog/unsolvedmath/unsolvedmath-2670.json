@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2670",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.11",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(Cabling conjecture). Let $K \\subset S^{3}$ be a knot and $r \\in \\mathbb{Q}$. If\n$r$-framed Dehn surgery on $K$ is not prime, then $K$ is a nontrivial cable of a knot\n$J \\subset S^{3}$ and $r$ is the slope of the cabling annulus.",
+    "sha256": "34e1f3dfeb41c093528b128e4c06d93a72e551f962729b2b1a5f873657bcca2b",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.11",
+    "source_locator": "dataset ID 2670; problem number KP-1.11",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

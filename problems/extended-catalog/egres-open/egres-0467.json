@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0467",
+  "source_registry": "egres-open",
+  "title": "Orientation conjecture of Nash-Williams",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Any <math> 2k </math>-edge-connected (possibly infinite) multigraph admits a <math> k </math>-edge-connected orientation.",
+    "sha256": "2cfaacdf491b64c6a5f3896804870c824e0960aa58f656e1c342b53638c00396",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2018-05-19T12:12:36Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Orientation_conjecture_of_Nash-Williams&oldid=2432",
+    "source_locator": "EGRES page 467, revision 2432",
+    "source_sha256": "d0281b0077c7dfa277d429256360703addfdbb7527e85efea1760e6095787043",
+    "tags": [
+      "combinatorial-optimization",
+      "Infinite combinatorics",
+      "Orientations"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

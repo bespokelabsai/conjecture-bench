@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-116",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.116 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Given a finite 2-group G of order 2n , does there exist a finite set S of rational\nprimes such that |S| ⩽ n and G is a quotient group of the absolute Galois group of\nthe maximal 2-extension of Q unramified outside S ∪ {∞}?\n   This is true for p-groups, p odd, as noted by Serre.                        P. Schmid",
+    "sha256": "e776a8af95145eac98222f416a5a90f3cff498a0b2bf8df449cb0951b5647578",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=128",
+    "source_locator": "Kourovka 18.116, main section, page 128",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

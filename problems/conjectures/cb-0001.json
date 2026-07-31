@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0001",
+  "slug": "barnettes-conjecture",
+  "title": "Barnette’s conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Barnette’s conjecture · 1969. Every cubic, bipartite, 3-connected planar graph is Hamiltonian.",
+  "counterexample": {
+    "description": "A counterexample is such a graph with no Hamiltonian cycle. Supply its planar rotation system and a DRAT proof that the Hamilton-cycle encoding is unsatisfiable.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol357-gd2025/html/LIPIcs.GD.2025.6/LIPIcs.GD.2025.6.html",
+        "role": "supporting"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0559",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_971",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_971 : answer(sorry) ↔\n    ∃ c > (0 : ℝ), ∃ C > (0 : ℝ), ∀ᶠ d in atTop,\n      C * (d.totient : ℝ) ≤\n        #{a < d | a.Coprime d ∧ (leastCongruentPrime a d : ℝ) > (1 + c) * d.totient * log d}",
+    "language_version": "Lean 4.27.0",
+    "sha256": "a07614cc8e0c5ad745f875e6511bf88450e45975e583ee796be5c24a4a9952cf",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/971.lean#L38",
+    "source_locator": "FormalConjectures/ErdosProblems/971.lean:38#erdos_971",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

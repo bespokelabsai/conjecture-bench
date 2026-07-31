@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2226",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #638",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $S$ be a family of finite graphs such that for every $n$ there is some $G_n\\in S$ such that if the edges of $G_n$ are coloured with $n$ colours then there is a monochromatic triangle.\nIs it true that for every infinite cardinal $\\aleph$ there is a graph $G$ of which every finite subgraph is in $S$ and if the edges of $G$ are coloured with $\\aleph$ many colours then there is a monochromatic triangle.",
+    "sha256": "76a0b470fa1a3cc7ee0e7fab63cb96d75a163b98d2d046a5b93206f790db163f",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-638",
+    "source_locator": "dataset ID 2226; problem number EP-638",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

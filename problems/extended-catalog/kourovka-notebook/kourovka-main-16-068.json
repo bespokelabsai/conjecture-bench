@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-068",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.68 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let W (x, y) be a non-trivial reduced group word, and G one of the groups\nP SL(2, R), P SL(2, C), or SO(3, R). Are all the maps W : G × G → G surjective?\n   For SL(2, R), SL(2, C), GL(2, C), and for the group S 3 of quaternions of norm 1\nthere exist non-surjective words; see (J. Mycielski, Amer. Math. Monthly, 84 (1977),\n723–726; 85 (1978), 263–264).                                           J. Mycielski",
+    "sha256": "540fb6c570b394dba0f2423dfebc45569b6441a3456b9378455a48fdd46eec1d",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=100",
+    "source_locator": "Kourovka 16.68, main section, page 100",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

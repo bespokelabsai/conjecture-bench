@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0097",
+  "source_registry": "egres-open",
+  "title": "Deciding the validity of the score sequence of a soccer tournament",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "In a soccer tournament of ''n'' teams, every pair of teams plays one match. The winner gets 3 points, the loser gets 0, while both teams receive 1 point in case of a draw. Is there a polynomial algorithm to decide whether a\ngiven score sequence (a score for each team) can be the end result of a tournament?",
+    "sha256": "6e2842e91d85f0f4872260423d4716f56f4a6ce8e85bc3f6f5b82e197278475c",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2009-11-10T15:36:37Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Deciding_the_validity_of_the_score_sequence_of_a_soccer_tournament&oldid=594",
+    "source_locator": "EGRES page 97, revision 594",
+    "source_sha256": "6ed0b45085e9be8f0f5b9e3e5e3f4d0c50a9895c5790d350c4dee75340b672c1",
+    "tags": [
+      "combinatorial-optimization",
+      "Orientations"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

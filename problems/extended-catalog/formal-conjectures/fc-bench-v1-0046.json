@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0046",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_1063.better_upper",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_1063.better_upper :\n    let upper_bound : ℕ → ℝ := answer(sorry)\n    (fun k => (n k : ℝ)) =O[atTop] upper_bound ∧\n    upper_bound =o[atTop] fun k =>\n      (k : ℝ) * ((Finset.Icc 1 (k - 1)).lcm (fun n : ℕ => n) : ℝ)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "46a6f9a47e21c3a33a9997d613642bc898f03a3ae705c9ff96c67f4906b5efdd",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/1063.lean#L45",
+    "source_locator": "FormalConjectures/ErdosProblems/1063.lean:45#erdos_1063.better_upper",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

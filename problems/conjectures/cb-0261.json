@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0261",
+  "slug": "latin-tableau-conjecture",
+  "title": "Latin Tableau Conjecture",
+  "field": "combinatorics",
+  "statement": "A Latin tableau of partition shape λ and partition type μ exists if and only if the chromatic difference sequence of the partition graph of λ dominates μ.",
+  "counterexample": {
+    "description": "Partitions λ and μ of the same integer such that the chromatic difference sequence of λ dominates μ, but exhaustive exact search finds no filling of shape λ with color multiplicities μ and no repeated color in any row or column.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Paper/LatinTableau.lean#L43",
+        "role": "formal-and-status-source"
+      },
+      {
+        "url": "https://doi.org/10.37236/13248",
+        "role": "published-primary-source"
+      },
+      {
+        "url": "https://arxiv.org/abs/2408.04086",
+        "role": "open-access-primary-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0763"
+    ]
+  },
+  "equivalence_group": "latin-tableau-conjecture"
+}

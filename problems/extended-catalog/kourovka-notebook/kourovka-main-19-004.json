@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-004",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.4 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "a) If G is the free product of infinitely many finitely generated free groups with\ncyclic amalgamation, then is ψ(G) = 1?\n    b) If G is the free product of infinitely many finitely generated free abelian groups\nwith cyclic amalgamation, then is ψ(G) = 1?                                 M. K. Azarian",
+    "sha256": "957b59c32f47e181a94cee1c51711d43928de82a17336b9c95d8728ac413f36d",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=130",
+    "source_locator": "Kourovka 19.4, main section, page 130",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

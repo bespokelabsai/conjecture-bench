@@ -1,0 +1,28 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0038",
+  "source_registry": "open-problems-project",
+  "title": "Compatible Triangulations",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Is it true that every two sets of $n$ planar points\nin general position with the\nsame number points on their convex hulls have\ncompatible triangulations?\nTwo triangulations are \\emph{compatible} if they have the same\ncombinatorial structure, i.e., if their face lattices are\nisomorphic.  For compatible triangulations $T_1$ and $T_2$\nof point sets $S_1$ and $S_2$, there is a bijection\n$\\phi$ between the points such that $ijk$\nis a triangle of $T_1$ empty of points of $S_1$ iff\n$\\phi(i) \\phi(j) \\phi(k)$\nis a triangle of $T_2$ empty of points of $S_2$.",
+    "sha256": "080ae5384a7f871d0ccdc295d7fdcce8be376f1be6a6a679b19fa97b40c70515",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p38",
+    "source_locator": "TOPP problem 38 (Problems/P.000038)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "triangulations"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0156"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2666",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.7",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Show that the sequence of absolute values of the coefficients of\nthe Alexander polynomial of a link are:\n(a) concave $($ Fox’s trapezoidal conjecture $)$, or\n(b) for an alternating link, log concave $($ Stoimenow’s strong Fox conjecture $)$.\n(c) For a positive link, is the sequence of the coefficients of the Conway poly-\nnomial strongly log concave?",
+    "sha256": "70d5676bc3ea3de2084eb28a7a50281ad940e065f2373a6c26d06d6cdc5d62a7",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.7",
+    "source_locator": "dataset ID 2666; problem number KP-1.7",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

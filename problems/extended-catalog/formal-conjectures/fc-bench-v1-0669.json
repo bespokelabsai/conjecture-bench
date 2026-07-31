@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0669",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "poincare_conjecture.variants.smooth_other_cases",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 54 57]\ntheorem poincare_conjecture.variants.smooth_other_cases (n : ℕ) (hn : n > 4)\n    (hn' : n ∉ SmoothTrueValues) : ¬ SmoothConjectureFor n",
+    "language_version": "Lean 4.27.0",
+    "sha256": "bc4b2604728577445042a49e198655db95721f253fcd93956d8f927f3372eb11",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Millenium/Poincare.lean#L104",
+    "source_locator": "FormalConjectures/Millenium/Poincare.lean:104#poincare_conjecture.variants.smooth_other_cases",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Millenium",
+      "AMS-54",
+      "AMS-57"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

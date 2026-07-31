@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-017",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.17 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "The normal covering number γ(G) of a finite non-cyclic group G is the mini-\nmum number of proper subgroups of G such that G is the union of their conjugates.\n∗ (ae) What is the exact value of lim inf γ(S )/n?\n                                             n\n                                    n even\n (ao) What is the exact value of lim inf γ(Sn )/n?\n                                     n odd\n   Comment of 2025: It belongs to [1/12, 1/6] for n odd (S. Eberhard, C. Mellon,\nBull. London Math. Soc. (2025), https://doi.org/10.1112/blms.70154).\n  (b) What are the exact values of lim inf γ(An )/n and lim inf γ(An )/n?\n                                       n even                 n odd\n    Comment of 2025: These belong to [1/18, 1/6] for n even, and to [1/6, 4/15] for\nn odd (S. Eberhard, C. Mellon, Bull. London Math. Soc. (2025), https://doi.org/\n10.1112/blms.70154).\n ∗ (c) What is the exact value of lim sup γ(S )/n?\n                                                n\n                                    n even\n   It is known that lim sup γ(Sn )/n = 1/2.\n                      n odd\n ∗ (d) What are the exact values of lim sup γ(A )/n and lim sup γ(A )/n?\n                                                    n                     n\n                                       n odd                   n even\n                                                 D. Bubboloni, C. E. Praeger, P. Spiga\n  ∗ (ae) It is 1/6 (S. Eberhard, C. Mellon, Bull. London Math. Soc. (2025), https:\n//doi.org/10.1112/blms.70154).\n  ∗ (c) It is 1/4 (S. Eberhard, C. Mellon, Bull. London Math. Soc. (2025), https:\n//doi.org/10.1112/blms.70154).\n  ∗ (d) These are 1/3 for the odd case, and 1/4 for the even case (S. Eberhard,\nC. Mellon, Bull. London Math. Soc. (2025), https://doi.org/10.1112/blms.\n70154).",
+    "sha256": "3e0b2ec87c76d17f4a629ed908a687786359442f67942a63f34a4082ebb86d64",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=147",
+    "source_locator": "Kourovka 20.17, main section, page 147",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

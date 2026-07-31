@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3259",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Non-edges vs. feedback edge sets in digraphs",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For any simple digraph $G$, we let $\\gamma(G)$ be the number of unordered pairs of nonadjacent vertices (i.e. the number of non-edges), and $\\beta(G)$ be the size of the smallest feedback edge set.\n\nConjecture If $G$ is a simple digraph without directed cycles of length $\\le 3$, then $\\beta(G) \\le \\frac{1}{2} \\gamma(G)$.",
+    "sha256": "e42cb8dc72a00c5778712d0e04a40d2013450576812b16b751356f9ee25fd8a2",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-1793",
+    "source_locator": "dataset ID 3259; problem number OPG-1793",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

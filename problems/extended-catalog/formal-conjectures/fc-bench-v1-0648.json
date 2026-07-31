@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0648",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "green_85",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 28 52]\ntheorem green_85 :\n  answer(sorry) ↔ ∃ c > 0, ∀ A : Set (ℝ × ℝ),\n    IsOpen A →\n    A ⊆ Icc 0 1 ×ˢ Icc 0 1 →\n    A.Nonempty →\n    let α := (volume A).toReal\n    ∃ x₁ x₂ y₁ y₂,\n      {(x₁, y₁), (x₂, y₁), (x₂, y₂), (x₁, y₂)} ⊆ A ∧\n      c * α ^ 2 ≤ |x₁ - x₂| * |y₁ - y₂|",
+    "language_version": "Lean 4.27.0",
+    "sha256": "de1ebc6f6ea738810dbc7b8a924b85040dd2157fc68fcae22a18f4a10a9d69cf",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/85.lean#L41",
+    "source_locator": "FormalConjectures/GreensOpenProblems/85.lean:41#green_85",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-28",
+      "AMS-52"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

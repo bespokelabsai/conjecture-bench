@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0096",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_1210",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_1210 :\n  answer(sorry) ↔\n    ∃ C : ℝ, ∀ n : ℕ, ∀ A : Finset ℕ,\n      (∀ a ∈ A, 1 ≤ a ∧ a < n) →\n      (∀ a ∈ A, ∀ b ∈ A, a ≠ b → a.Coprime b) →\n      ∑ a ∈ A, (1 / ((n : ℝ) - a)) ≤ (∑ p ∈ (range n).filter Prime, (1 / (p : ℝ))) + C",
+    "language_version": "Lean 4.27.0",
+    "sha256": "66fee2b7ef1f69b2f5237faf49087ad240b591d5d1b82741141930b39407d126",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/1210.lean#L38",
+    "source_locator": "FormalConjectures/ErdosProblems/1210.lean:38#erdos_1210",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

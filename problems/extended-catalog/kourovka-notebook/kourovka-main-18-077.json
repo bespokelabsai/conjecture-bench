@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-077",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.77 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a finite p-group and let pe be the largest degree  T of an irreducible\ncomplex representation of G. If p > e, is it necessarily true that ker Θ = 1, where\nthe intersection runs over all irreducible complex representations Θ of G of degree pe ?\n                                                                         D. S. Passman",
+    "sha256": "a0d80e0423961285383eb76bc89a296f536c711ca185db82fe1ef733936829e0",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=124",
+    "source_locator": "Kourovka 18.77, main section, page 124",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

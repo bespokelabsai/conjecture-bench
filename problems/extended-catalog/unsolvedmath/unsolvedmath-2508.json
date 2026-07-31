@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2508",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #1133",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $C>0$. There exists $\\epsilon>0$ such that if $n$ is sufficiently large the following holds.\nFor any $x_1,\\ldots,x_n\\in [-1,1]$ there exist $y_1,\\ldots,y_n\\in [-1,1]$ such that, if $P$ is a polynomial of degree $m<(1+\\epsilon)n$ with $P(x_i)=y_i$ for at least $(1-\\epsilon)n$ many $1\\leq i\\leq n$, then $ \\max_{x\\in [-1,1]}\\lvert P(x)\\rvert >C. $ ",
+    "sha256": "bfdabc31efaa03645fc3e1994b3ecb9c0a8e1a59cb4eb05761743ed1290f64ff",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-1133",
+    "source_locator": "dataset ID 2508; problem number EP-1133",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

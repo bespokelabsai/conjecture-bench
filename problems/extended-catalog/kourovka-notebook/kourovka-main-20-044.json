@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-044",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.44 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "The definition of CT(Z) is given in 17.57. Is it true that a finitely generated\nsubgroup of CT(Z) either has only finitely many orbits on Z or there is a set of\nrepresentatives for its orbits on Z which has positive density?                S. Kohl",
+    "sha256": "fba0b5f7da1395bec63eae59a4f6a7705b8ea93ac5fbf1961638f06260756ffe",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=151",
+    "source_locator": "Kourovka 20.44, main section, page 151",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

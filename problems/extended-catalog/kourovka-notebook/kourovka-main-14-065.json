@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-065",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.65 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Well-known problem). For a finite group G let ρ(G) denote the set of prime\nnumbers dividing the order of some conjugacy class, and σ(G) the maximum number\nof primes dividing the order of some conjugacy class. Is it true that |ρ(G)| ⩽ 3σ(G)?\n    A possible linear bound for |ρ(G)| in terms of σ(G) cannot be better than\n3σ(G), since there is a family of groups {Gn } such that limn→∞ |ρ(Gn )|/σ(Gn ) = 3\n(C. Casolo, S. Dolfi, Rend. Sem. Mat. Univ. Padova, 96 (1996), 121–130).\n    Comment of 2009: A quadratic bound was obtained in (A. Moretó, Int. Math.\nRes. Not., 2005, no. 54, 3375–3383), and a linear bound in (C. Casolo, S. Dolfi,\nJ. Group Theory, 10, no. 5 (2007), 571–583).                                 A. Moretó",
+    "sha256": "bd3b63be95c1519b8b5c68d0144d3100c962867591e302711ddb36b16214a005",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=78",
+    "source_locator": "Kourovka 14.65, main section, page 78",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

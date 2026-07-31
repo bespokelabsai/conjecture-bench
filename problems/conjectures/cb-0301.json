@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0301",
+  "slug": "rooted-two-two-connected-decomposition",
+  "title": "Rooted (2,2)-connected graph decomposition",
+  "field": "undirected-connectivity-and-spanning-subgraphs",
+  "statement": "Let G=(V,E) be an undirected graph with root r. If G is 4-edge-connected and G-v is 2-edge-connected for every v other than r, then G contains two edge-disjoint spanning subgraphs in each of which every vertex has two internally vertex-disjoint paths from r.",
+  "counterexample": {
+    "description": "A finite simple graph with root 0 satisfying the rooted (2,2)-connectivity deletion conditions but having no two edge-disjoint spanning rooted 2-connected subgraphs.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://lemon.cs.elte.hu/egres/open/Decomposing_rooted_%28k%2Cl%29-connected_graphs_into_rooted_k-connected_parts",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Decomposing_rooted_(k%2Cl)-connected_graphs_into_rooted_k-connected_parts&oldid=595",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://lemon.cs.elte.hu/egres/open/List_of_open_problems",
+        "role": "current-open-category"
+      }
+    ],
+    "discovery_records": [
+      "egres-0120"
+    ]
+  },
+  "equivalence_group": "rooted-hybrid-connectivity-decomposition"
+}

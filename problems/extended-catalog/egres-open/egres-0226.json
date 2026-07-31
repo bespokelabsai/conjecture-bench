@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0226",
+  "source_registry": "egres-open",
+  "title": "Binary matroid representation of cyclic families",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let <math>B=\\{b_1,b_2,\\ldots ,b_k\\}\\subset\\{0,1,\\ldots ,n-1\\}</math>, and let <math>B_i=\\{b_1+i, b_2+i,\\ldots, b_k+i\\}</math> where addition is modulo ''n''. That is, <math>{\\mathcal B}=\\{B_1,B_2,\\ldots B_N\\}</math> is the collection of ''cyclic translates'' of ''B''. Prove that there exists a binary matroid ''M'' such that every <math>B_i</math> is a basis of ''M''.",
+    "sha256": "8a456419c038bcaded24300235e06f10b80bda4a1416cf5d78712977db8b23cd",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2010-01-10T18:20:40Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Binary_matroid_representation_of_cyclic_families&oldid=932",
+    "source_locator": "EGRES page 226, revision 932",
+    "source_sha256": "1cedd6bb2b6327889377f64114f7929529246f4f12c4940ddf61cec6574088bf",
+    "tags": [
+      "combinatorial-optimization",
+      "Matroids"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0295"
+  ]
+}

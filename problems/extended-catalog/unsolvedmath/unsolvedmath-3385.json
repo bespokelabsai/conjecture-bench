@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3385",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Snevily's conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture Let $G$ be an abelian group of odd order and let $A,B \\subseteq G$ satisfy $|A| = |B| = k$. Then the elements of $A$ and $B$ may be ordered $A = \\{a_1,\\ldots,a_k\\}$ and $B = \\{b_1,\\ldots,b_k\\}$ so that the sums $a_1+b_1, a_2+b_2 \\ldots, a_k + b_k$ are pairwise distinct.",
+    "sha256": "53c2b76c3cd7410c4289b88164932854e49af588c18670f0f5d39a0dbff70990",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-655",
+    "source_locator": "dataset ID 3385; problem number OPG-655",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

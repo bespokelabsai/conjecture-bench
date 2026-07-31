@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-128",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.128 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let T be a finite p-group admitting an elementary abelian group of auto-\nmorphisms A of order p2 such that in the semidirect product P = T A every element\nof P \\ T has order p. Does it follow that T is of exponent p?           E. Jabara",
+    "sha256": "ac3f519a977e1bcf57015278d61af4c13e7e0a13095d7395fd94f4cee7e00737",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=115",
+    "source_locator": "Kourovka 17.128, main section, page 115",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

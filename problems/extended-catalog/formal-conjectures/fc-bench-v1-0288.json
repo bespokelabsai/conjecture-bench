@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0288",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_364.variants.strong",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_364.variants.strong :\n    ∃ (c : ℝ) (h : c > 0), ∀ (k : ℕ),\n    Nat.nth Powerful (k + 2) - Nat.nth Powerful k > (Nat.nth Powerful k : ℝ) ^ c",
+    "language_version": "Lean 4.27.0",
+    "sha256": "06dbd569ae7336d0336ad95d098b60450cca28beb123ee58db93819740856056",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/364.lean#L41",
+    "source_locator": "FormalConjectures/ErdosProblems/364.lean:41#erdos_364.variants.strong",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

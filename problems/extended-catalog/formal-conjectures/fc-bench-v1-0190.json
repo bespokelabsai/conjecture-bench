@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0190",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "herzog_schonheim",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 20]\ntheorem herzog_schonheim {G : Type*} [Group G] (hG : 1 < ENat.card G) {ι : Type*} [Fintype ι]\n    (hι : 1 < Fintype.card ι) (P : Group.ExactCovering G ι) :\n    ∃ i j, i ≠ j ∧ (P.parts i).index = (P.parts j).index",
+    "language_version": "Lean 4.27.0",
+    "sha256": "0ebc272f4a256953605ce41eb01abbdf0567489ac4b5534fd18334227f47899c",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/274.lean#L81",
+    "source_locator": "FormalConjectures/ErdosProblems/274.lean:81#herzog_schonheim",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-20"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0260"
+  ]
+}

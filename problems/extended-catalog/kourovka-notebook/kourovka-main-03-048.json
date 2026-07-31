@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-03-048",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 3.48 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "It can be shown that hereditary radicals form a semigroup with respect to\ntaking the products of classes. It is an interesting problem to find all indecomposable\nelements of this semigroup. In particular, we point out the problem of finding all\nindecomposable radicals contained in the class of locally finite p-groups.\n                                                                          B. I. Plotkin",
+    "sha256": "36ddbf7320e55ba5b448a07a749127a774029f954c92313728ed9e1c3a002bc3",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=11",
+    "source_locator": "Kourovka 3.48, main section, page 11",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

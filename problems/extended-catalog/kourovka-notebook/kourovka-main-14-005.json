@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-005",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.5 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be an infinite group admitting non-discrete Hausdorff group topologies,\nand L (G) the lattice of all group topologies on G.\n     a) Is it true that for any natural number k there exists a non-refinable chain\nτ0 < τ1 < · · · < τk of length k of Hausdorff topologies in L (G)? (For countable\nnilpotent groups this is true (A. G. Topale, Deposited in VINITI, 25.12.98, no. 3849–\nV 98 (Russian)).)\n  ∗ b) Let k, m, n be natural numbers and let G be a nilpotent group of class k.\nSuppose that τ0 < τ1 < · · · < τm and τ0′ < τ1′ < · · · < τn′ are non-refinable chains of\nHausdorff topologies in L (G) such that τ0 = τ0′ and τm = τn′ . Is it true that m ⩽ n · k\nand this inequality is best-possible? (This is true if k = 1, since for G abelian the\nlattice L (G) is modular.)\n     c) Is it true that there exists a countable G such that in the lattice L (G) there\nare a finite non-refinable chain τ0 < τ1 < · · · < τk of Hausdorff topologies and an\ninfinite chain {τγ′ | γ ∈ Γ} of topologies such that τ0 < τγ′ < τk for any γ ∈ Γ?\n  ∗ d) Let G be an abelian group, k a natural number. Let A be the set of all\n                                                                      k\nthose Hausdorff group topologies on G that, for every topology τ ∈ Ak , any non-\nrefinable chain of topologies starting  from τ and terminating at the discrete topology\nhas length k. Is it true that Ak {τγ′ | γ ∈ Γ} =\n                                  T\n                                                 ̸ ∅ for any infinite non-refinable chain\n{τγ′ | γ ∈ Γ} of Hausdorff topologies containing the discrete topology? (This is true\nfor k = 1.)                                                                V. I. Arnautov\n  ∗ b) The inequality does hold, but it is not sharp (V. I. Arnautov, Bull. Acad. Ştiinţe\nRepub. Moldova, Mat., 2010, no. 2 (2010), 3–19).\n  ∗ d) No; moreover, no infinite abelian group satisfies this property with k = 2\n(D. Peng, Preprint, 2023, https://arxiv.org/abs/2310.08269).",
+    "sha256": "453e2e92a513d99efee4e557efe9483b49557f74fdc0fbd07da4c8ed77e27723",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=71",
+    "source_locator": "Kourovka 14.5, main section, page 71",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

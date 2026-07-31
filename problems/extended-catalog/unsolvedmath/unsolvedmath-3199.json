@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3199",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "A generalization of Vizing's Theorem?",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture Let $H$ be a simple $d$-uniform hypergraph, and assume that every set of $d-1$ points is contained in at most $r$ edges. Then there exists an $r+d-1$-edge-coloring so that any two edges which share $d-1$ vertices have distinct colors.",
+    "sha256": "8fecf713d6268f51fee44757efdf3532c1aa37d09adb2129c0d0b17e2ab1d4b5",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-182",
+    "source_locator": "dataset ID 3199; problem number OPG-182",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

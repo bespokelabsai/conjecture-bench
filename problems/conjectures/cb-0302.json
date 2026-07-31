@@ -1,0 +1,42 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0302",
+  "slug": "polychromatic-plane-graphs-face-size-five",
+  "title": "Polychromatic plane-graph coloring at face size five",
+  "field": "graph-coloring-and-plane-graphs",
+  "statement": "Every plane graph whose shortest facial boundary has length five has a not-necessarily-proper vertex 3-coloring in which all three colors occur on the boundary of every face.",
+  "counterexample": {
+    "description": "A finite connected simple plane graph with a shortest face of size five and no polychromatic vertex 3-coloring. The provided rotation system fixes the embedding.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://lemon.cs.elte.hu/egres/open/Minimum_polychromatic_number_for_plane_graphs_with_fixed_girth",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Minimum_polychromatic_number_for_plane_graphs_with_fixed_girth&oldid=1779",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.1007/s00454-008-9134-4",
+        "role": "primary-bound-source"
+      },
+      {
+        "url": "https://lemon.cs.elte.hu/egres/open/List_of_open_problems",
+        "role": "current-open-category"
+      }
+    ],
+    "discovery_records": [
+      "egres-0262"
+    ]
+  },
+  "equivalence_group": "plane-polychromatic-number-five"
+}

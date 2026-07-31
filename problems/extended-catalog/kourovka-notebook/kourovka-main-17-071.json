@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-071",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.71 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "b) Let α be a fixed-point-free automorphism of prime order p of a periodic\ngroup G. Suppose that G does not contain a non-trivial p-element. Is α a splitting\nautomorphism?                                                      V. D. Mazurov",
+    "sha256": "17cffed5e8845b950349a333a8e28342952314e5c17a1d502a20dbcac5b0e870",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=110",
+    "source_locator": "Kourovka 17.71, main section, page 110",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

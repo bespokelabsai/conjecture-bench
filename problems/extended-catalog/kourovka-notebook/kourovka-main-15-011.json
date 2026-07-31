@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-011",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.11 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(M. Morigi). An automorphism of a group is called a power automorphism\nif it leaves every subgroup invariant. Is every finite abelian p-group the group of all\npower automorphisms of some group?                                      V. G. Bardakov",
+    "sha256": "63849733005d0a39d29ae3facb2e24c4da98054f57f36cf0dd937c70bc31eec0",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=84",
+    "source_locator": "Kourovka 15.11, main section, page 84",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

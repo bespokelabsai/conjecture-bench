@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2976",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.100",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Given a closed, connected, symplectic 4-manifold (X, $\\omega)$ and $c \\in H_{2}(X,\\mathbb{Z})$ represented by an embedded, connected, oriented, smooth surface S such that\n\n(i) $x[\\omega]$, cy $>$ 0, and\n\n(ii) $xc_{1}(X, \\omega)$, cy $=\\chi(S) +S^{2}$, is c represented by an embedded, connected, symplectic surface?",
+    "sha256": "7f2dc21e91d3d97e46ef490a7ce0477844c412e6773339293070802dd9a45e6e",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.100",
+    "source_locator": "dataset ID 2976; problem number KP-4.100",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

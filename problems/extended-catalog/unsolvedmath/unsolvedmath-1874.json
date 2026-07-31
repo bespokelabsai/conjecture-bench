@@ -1,0 +1,36 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1874",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Density of Symmetric Primes",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Given pairs of odd primes $p, q$, define $S(q,p)$ as the number of lattice points $(m, n)$ in the rectangle $0 < m < p/2$, $0 < n < q/2$ below the diagonal. A pair is symmetric if $S(p, q) = S(q,p)$. Is the number of symmetric primes less than $x$ equal to $x/(\\ln x)^{\\sigma+o(1)}$, where $\\sigma = 2 - (1+\\ln \\ln 2)/\\ln 2 \\approx 1.08607$?",
+    "sha256": "03cc367578184a5c370bf4943a97a481cb7e344d875b0198a3aead03334e20d4",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GUY-A20",
+    "source_locator": "dataset ID 1874; problem number GUY-A20",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L3",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

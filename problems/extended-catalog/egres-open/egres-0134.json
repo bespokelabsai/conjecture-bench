@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0134",
+  "source_registry": "egres-open",
+  "title": "Compatible Euler-tours",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "If ''G'' is an undirected graph with even degrees then call two closed Eulerian walks '''compatible''' if no pair of incident edges occurs consecutively in both. Is it true that the maximum number of pairwise compatible Euler walks in an Eulerian graph of minimum degree ''2d'' is either ''2d-2'' or ''2d-1''?",
+    "sha256": "0fa39cd598068681969c6b367b8849f6e9b6d0e5560bf15fa57c5841892288f6",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2014-06-01T14:20:51Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Compatible_Euler-tours&oldid=1724",
+    "source_locator": "EGRES page 134, revision 1724",
+    "source_sha256": "2b92533c2b5e55124defee5438c6f85d78cbbf12d528fa63d163caa3253751c8",
+    "tags": [
+      "combinatorial-optimization",
+      "Cycles and paths"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

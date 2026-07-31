@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-07-027",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 7.27 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that the group SLn (q) contains, for sufficiently large q, a diagonal\nmatrix which is not contained in any proper irreducible subgroup of SLn (q) with the\nexception of block-monomial ones? For n = 2, 3 the answer is known to be affirmative\n(V. M. Levchuk, in: Some problems of the theory of groups and rings, Inst. of Physics\nSO AN SSSR, Krasnoyarsk, 1973 (Russian)). Similar problems are interesting for\nother Chevalley groups.                                                 V. M. Levchuk",
+    "sha256": "1a9b7de9e13ba17d0aa416378aa84628b1dae8223028af522af597126b2b1977",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=23",
+    "source_locator": "Kourovka 7.27, main section, page 23",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

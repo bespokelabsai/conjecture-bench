@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3081",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Monochromatic empty triangles",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "If $X \\subseteq {\\mathbb R}^2$ is a finite set of points which is 2-colored, an empty triangle is a set $T \\subseteq X$ with $|T|=3$ so that the convex hull of $T$ is disjoint from $X \\setminus T$. We say that $T$ is monochromatic if all points in $T$ are the same color.\n\nConjecture There exists a fixed constant $c$ with the following property. If $X \\subseteq {\\mathbb R}^2$ is a set of $n$ points in general position which is 2-colored, then it has $\\ge cn^2$ monochromatic empty triangles.",
+    "sha256": "33469fb43805ff71db9ba6c29dd714b1f5a4e17ae75f1d0f53d0dcbb520093e3",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-2435",
+    "source_locator": "dataset ID 3081; problem number OPG-2435",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:geometry",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

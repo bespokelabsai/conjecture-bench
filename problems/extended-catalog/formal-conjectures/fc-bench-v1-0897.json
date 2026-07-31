@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0897",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "inscribed_square_problem",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 51]\ntheorem inscribed_square_problem :\n    answer(sorry) ↔ ∀ (γ : Circle → ℝ²) (hγ : IsEmbedding γ),\n      ∃ t₁ t₂ t₃ t₄, IsRectangle (γ t₁) (γ t₂) (γ t₃) (γ t₄) 1",
+    "language_version": "Lean 4.27.0",
+    "sha256": "b62571b781c085f33f88134b17a7b9d3fdc81b89556e33f23ec5135ecee5555a",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/InscribedSquare.lean#L53",
+    "source_locator": "FormalConjectures/Wikipedia/InscribedSquare.lean:53#inscribed_square_problem",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-51"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

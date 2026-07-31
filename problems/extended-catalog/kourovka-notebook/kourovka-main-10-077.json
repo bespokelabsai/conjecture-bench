@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-10-077",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 10.77 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that G is a periodic group containing an elementary abelian subgroup\nR of order 4. Must G be locally finite\n    a) if CG (R) is finite?\n    b) if the centralizer of every involution of R in G is a Chernikov group?\n    Remark of 1999: P. V. Shumyatsky (Quart. J. Math. Oxford (2), 49, no. 196\n(1998), 491–499) gave a positive answer to the question a) in the case where G is\nresidually finite.                                                       V. P. Shunkov",
+    "sha256": "483692de520e5dbf6b106f25706f5e26e40cc5c2f242c7846cc740abfab9bb40",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=44",
+    "source_locator": "Kourovka 10.77, main section, page 44",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

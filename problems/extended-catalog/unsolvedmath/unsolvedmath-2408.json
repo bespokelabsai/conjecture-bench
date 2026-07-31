@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2408",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #956",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "If $C,D\\subseteq \\mathbb{R}^2$ then the distance between $C$ and $D$ is defined by $ \\delta(C,D)=\\inf_{\\substack{c\\in C\\\\ d\\in D}}\\| c-d\\|. $ Let $h(n)$ be the maximal number of unit distances between disjoint convex translates. That is, the maximal $m$ such that there is a compact convex set $C\\subset \\mathbb{R}^2$ and a set $X$ of size $n$ such that all $(C+x)_{x\\in X}$ are disjoint and there are $m$ pairs $x_1,x_2\\in X$ such that $ \\delta(C+x_1,C+x_2)=1. $ Determine $h(n)$ - in particular, prove that there exists a constant $c>0$ such that $h(n)>n^{1+c}$ for all large $n$.",
+    "sha256": "f8052ad2c4a14b476eae3b57eadea31eff1234838fdc57932bea0b25ff3a7a17",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-956",
+    "source_locator": "dataset ID 2408; problem number EP-956",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

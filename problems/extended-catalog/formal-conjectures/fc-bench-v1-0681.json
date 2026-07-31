@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0681",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem conjecture (n : ℕ) (hn : 1 < n) : IsSumOfTwoSquaresAndPowersOf3And5 n",
+    "language_version": "Lean 4.27.0",
+    "sha256": "e007d515fe5421c09df30064595e418dfbb4332db25a245b852137084c0a003a",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OEIS/303656.lean#L61",
+    "source_locator": "FormalConjectures/OEIS/303656.lean:61#conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "OEIS",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0225"
+  ]
+}

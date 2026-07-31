@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0122",
+  "slug": "erdos-458-primorial-lcm-inequality",
+  "title": "Erdős problem #458: primorial LCM inequality",
+  "field": "number-theory",
+  "statement": "For every k≥1, lcm(1,…,pₖ₊₁−1) < pₖ lcm(1,…,pₖ).",
+  "counterexample": {
+    "description": "An integer k for which exact least-common-multiple computation reverses or ties the inequality.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/458",
+        "role": "status"
+      }
+    ]
+  }
+}

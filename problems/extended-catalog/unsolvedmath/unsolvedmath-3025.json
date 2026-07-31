@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3025",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 5.18",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "- In higher dimensions, find the `non-analytic' cohomology module $\\HH^{*}_{?}$ analogous to the analytic lattice cohomology $\\HH^{*}_{\\mathrm{an}}$, and a natural functor $\\HH^{*}_{\\mathrm{an}}\\to \\HH^{*}_{?}$ connecting them.\n\n- Define a version $\\ECH^{*}$ of Embedded Contact Homology for isolated complex singularity links (in any dimension) associated with the canonical contact structure of the link, together with a natural graded $\\Z[U]$-module morphism $\\HH^{*}_{\\mathrm{an}}\\to \\ECH^{*}$. More precisely,\n\n- Show that this morphism is injective.\n\n- Fix the diffeomorphism type of a link, and also a contact structure on it that can be realized as the canonical contact structure associated with some singularity analytic structure. Then characterize the family $\\{\\HH^{*}_{\\mathrm{an}}\\}$, indexed by all the possible analytic germs inducing this contact link, via those graded sub-$\\Z[U]$-modules of $\\ECH^{*}$ which satisfy certain specific properties.",
+    "sha256": "7620e98ccac1efdf75c5701c6459fa32f2f6f11be28ec0318ca6e67ab92f6d67",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-5.18",
+    "source_locator": "dataset ID 3025; problem number KP-5.18",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

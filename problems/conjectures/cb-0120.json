@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0120",
+  "slug": "erdos-128-half-density-triangle",
+  "title": "Erdős problem #128: half-density triangle condition",
+  "field": "graph-theory",
+  "statement": "If every induced subgraph on at least floor(n/2) vertices has more than n²/50 edges, then the graph contains a triangle.",
+  "counterexample": {
+    "description": "A triangle-free graph satisfying the stated edge lower bound for every sufficiently large induced vertex subset.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/128",
+        "role": "status"
+      }
+    ]
+  }
+}

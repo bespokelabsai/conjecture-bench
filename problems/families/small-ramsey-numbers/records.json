@@ -1,0 +1,1021 @@
+{
+  "schema_version": "1.0",
+  "source": "small-ramsey-numbers",
+  "retrieved": "2026-07-23",
+  "records": [
+    {
+      "id": "ramsey-r-3-10",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(3, 10)",
+      "field": "ramsey-theory",
+      "statement": "R(3, 10) is the least n such that every red/blue colouring of the edges of K_n contains a red K_3 or a blue K_10. Its exact value is unknown: colourings of K_39 avoiding both are known, so R(3, 10) >= 40, and the survey's best upper bound is 41.",
+      "parameters": {
+        "s": 3,
+        "t": 10
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-3-10/",
+        "quote": "Ramsey number $R(3,10)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{3}$ in the first color or a monochromatic $K_{10}$ in the second color. Lower bound: $40$ Upper bound: $41$"
+      },
+      "frontier": {
+        "min_vertices": 40,
+        "best_known": 40,
+        "upper_bound": 41,
+        "improved_lower_bound": 41
+      }
+    },
+    {
+      "id": "ramsey-r-3-11",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(3, 11)",
+      "field": "ramsey-theory",
+      "statement": "R(3, 11) is the least n such that every red/blue colouring of the edges of K_n contains a red K_3 or a blue K_11. Its exact value is unknown: colourings of K_46 avoiding both are known, so R(3, 11) >= 47, and the survey's best upper bound is 50.",
+      "parameters": {
+        "s": 3,
+        "t": 11
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-3-11/",
+        "quote": "Ramsey number $R(3,11)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{3}$ in the first color or a monochromatic $K_{11}$ in the second color. Lower bound: $47$ Upper bound: $50$"
+      },
+      "frontier": {
+        "min_vertices": 47,
+        "best_known": 47,
+        "upper_bound": 50,
+        "improved_lower_bound": 48
+      }
+    },
+    {
+      "id": "ramsey-r-3-12",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(3, 12)",
+      "field": "ramsey-theory",
+      "statement": "R(3, 12) is the least n such that every red/blue colouring of the edges of K_n contains a red K_3 or a blue K_12. Its exact value is unknown: colourings of K_52 avoiding both are known, so R(3, 12) >= 53, and the survey's best upper bound is 59.",
+      "parameters": {
+        "s": 3,
+        "t": 12
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-3-12/",
+        "quote": "Ramsey number $R(3,12)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{3}$ in the first color or a monochromatic $K_{12}$ in the second color. Lower bound: $53$ Upper bound: $59$"
+      },
+      "frontier": {
+        "min_vertices": 53,
+        "best_known": 53,
+        "upper_bound": 59,
+        "improved_lower_bound": 54
+      }
+    },
+    {
+      "id": "ramsey-r-3-14",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(3, 14)",
+      "field": "ramsey-theory",
+      "statement": "R(3, 14) is the least n such that every red/blue colouring of the edges of K_n contains a red K_3 or a blue K_14. Its exact value is unknown: colourings of K_66 avoiding both are known, so R(3, 14) >= 67, and the survey's best upper bound is 77.",
+      "parameters": {
+        "s": 3,
+        "t": 14
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-3-14/",
+        "quote": "Ramsey number $R(3,14)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{3}$ in the first color or a monochromatic $K_{14}$ in the second color. Lower bound: $67$ Upper bound: $77$"
+      },
+      "frontier": {
+        "min_vertices": 67,
+        "best_known": 67,
+        "upper_bound": 77,
+        "improved_lower_bound": 68
+      }
+    },
+    {
+      "id": "ramsey-r-3-15",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(3, 15)",
+      "field": "ramsey-theory",
+      "statement": "R(3, 15) is the least n such that every red/blue colouring of the edges of K_n contains a red K_3 or a blue K_15. Its exact value is unknown: colourings of K_73 avoiding both are known, so R(3, 15) >= 74, and the survey's best upper bound is 87.",
+      "parameters": {
+        "s": 3,
+        "t": 15
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-3-15/",
+        "quote": "Ramsey number $R(3,15)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{3}$ in the first color or a monochromatic $K_{15}$ in the second color. Lower bound: $74$ Upper bound: $87$"
+      },
+      "frontier": {
+        "min_vertices": 74,
+        "best_known": 74,
+        "upper_bound": 87,
+        "improved_lower_bound": 75
+      }
+    },
+    {
+      "id": "ramsey-r-4-6",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(4, 6)",
+      "field": "ramsey-theory",
+      "statement": "R(4, 6) is the least n such that every red/blue colouring of the edges of K_n contains a red K_4 or a blue K_6. Its exact value is unknown: colourings of K_35 avoiding both are known, so R(4, 6) >= 36, and the survey's best upper bound is 40.",
+      "parameters": {
+        "s": 4,
+        "t": 6
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-4-6/",
+        "quote": "Ramsey number $R(4,6)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{4}$ in the first color or a monochromatic $K_{6}$ in the second color. Lower bound: $36$ Upper bound: $40$"
+      },
+      "frontier": {
+        "min_vertices": 36,
+        "best_known": 36,
+        "upper_bound": 40,
+        "improved_lower_bound": 37
+      }
+    },
+    {
+      "id": "ramsey-r-4-7",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(4, 7)",
+      "field": "ramsey-theory",
+      "statement": "R(4, 7) is the least n such that every red/blue colouring of the edges of K_n contains a red K_4 or a blue K_7. Its exact value is unknown: colourings of K_48 avoiding both are known, so R(4, 7) >= 49, and the survey's best upper bound is 58.",
+      "parameters": {
+        "s": 4,
+        "t": 7
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-4-7/",
+        "quote": "Ramsey number $R(4,7)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{4}$ in the first color or a monochromatic $K_{7}$ in the second color. Lower bound: $49$ Upper bound: $58$"
+      },
+      "frontier": {
+        "min_vertices": 49,
+        "best_known": 49,
+        "upper_bound": 58,
+        "improved_lower_bound": 50
+      }
+    },
+    {
+      "id": "ramsey-r-4-8",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(4, 8)",
+      "field": "ramsey-theory",
+      "statement": "R(4, 8) is the least n such that every red/blue colouring of the edges of K_n contains a red K_4 or a blue K_8. Its exact value is unknown: colourings of K_58 avoiding both are known, so R(4, 8) >= 59, and the survey's best upper bound is 79.",
+      "parameters": {
+        "s": 4,
+        "t": 8
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-4-8/",
+        "quote": "Ramsey number $R(4,8)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{4}$ in the first color or a monochromatic $K_{8}$ in the second color. Lower bound: $59$ Upper bound: $79$"
+      },
+      "frontier": {
+        "min_vertices": 59,
+        "best_known": 59,
+        "upper_bound": 79,
+        "improved_lower_bound": 60
+      }
+    },
+    {
+      "id": "ramsey-r-4-9",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(4, 9)",
+      "field": "ramsey-theory",
+      "statement": "R(4, 9) is the least n such that every red/blue colouring of the edges of K_n contains a red K_4 or a blue K_9. Its exact value is unknown: colourings of K_72 avoiding both are known, so R(4, 9) >= 73, and the survey's best upper bound is 105.",
+      "parameters": {
+        "s": 4,
+        "t": 9
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-4-9/",
+        "quote": "Ramsey number $R(4,9)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{4}$ in the first color or a monochromatic $K_{9}$ in the second color. Lower bound: $73$ Upper bound: $105$"
+      },
+      "frontier": {
+        "min_vertices": 73,
+        "best_known": 73,
+        "upper_bound": 105,
+        "improved_lower_bound": 74
+      }
+    },
+    {
+      "id": "ramsey-r-4-10",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(4, 10)",
+      "field": "ramsey-theory",
+      "statement": "R(4, 10) is the least n such that every red/blue colouring of the edges of K_n contains a red K_4 or a blue K_10. Its exact value is unknown: colourings of K_91 avoiding both are known, so R(4, 10) >= 92, and the survey's best upper bound is 135.",
+      "parameters": {
+        "s": 4,
+        "t": 10
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-4-10/",
+        "quote": "Ramsey number $R(4,10)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{4}$ in the first color or a monochromatic $K_{10}$ in the second color. Lower bound: $92$ Upper bound: $135$"
+      },
+      "frontier": {
+        "min_vertices": 92,
+        "best_known": 92,
+        "upper_bound": 135,
+        "improved_lower_bound": 93
+      }
+    },
+    {
+      "id": "ramsey-r-4-11",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(4, 11)",
+      "field": "ramsey-theory",
+      "statement": "R(4, 11) is the least n such that every red/blue colouring of the edges of K_n contains a red K_4 or a blue K_11. Its exact value is unknown: colourings of K_101 avoiding both are known, so R(4, 11) >= 102, and the survey's best upper bound is 170.",
+      "parameters": {
+        "s": 4,
+        "t": 11
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-4-11/",
+        "quote": "Ramsey number $R(4,11)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{4}$ in the first color or a monochromatic $K_{11}$ in the second color. Lower bound: $102$ Upper bound: $170$"
+      },
+      "frontier": {
+        "min_vertices": 102,
+        "best_known": 102,
+        "upper_bound": 170,
+        "improved_lower_bound": 103
+      }
+    },
+    {
+      "id": "ramsey-r-4-12",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(4, 12)",
+      "field": "ramsey-theory",
+      "statement": "R(4, 12) is the least n such that every red/blue colouring of the edges of K_n contains a red K_4 or a blue K_12. Its exact value is unknown: colourings of K_127 avoiding both are known, so R(4, 12) >= 128, and the survey's best upper bound is 210.",
+      "parameters": {
+        "s": 4,
+        "t": 12
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-4-12/",
+        "quote": "Ramsey number $R(4,12)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{4}$ in the first color or a monochromatic $K_{12}$ in the second color. Lower bound: $128$ Upper bound: $210$"
+      }
+    },
+    {
+      "id": "ramsey-r-5-5",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(5, 5)",
+      "field": "ramsey-theory",
+      "statement": "R(5, 5) is the least n such that every red/blue colouring of the edges of K_n contains a red K_5 or a blue K_5. Its exact value is unknown: colourings of K_42 avoiding both are known, so R(5, 5) >= 43, and the survey's best upper bound is 46.",
+      "parameters": {
+        "s": 5,
+        "t": 5
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-5-5/",
+        "quote": "Ramsey number $R(5,5)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{5}$ in the first color or a monochromatic $K_{5}$ in the second color. Lower bound: $43$ Upper bound: $46$"
+      },
+      "frontier": {
+        "min_vertices": 43,
+        "best_known": 43,
+        "upper_bound": 46,
+        "improved_lower_bound": 44
+      }
+    },
+    {
+      "id": "ramsey-r-5-6",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(5, 6)",
+      "field": "ramsey-theory",
+      "statement": "R(5, 6) is the least n such that every red/blue colouring of the edges of K_n contains a red K_5 or a blue K_6. Its exact value is unknown: colourings of K_58 avoiding both are known, so R(5, 6) >= 59, and the survey's best upper bound is 85.",
+      "parameters": {
+        "s": 5,
+        "t": 6
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-5-6/",
+        "quote": "Ramsey number $R(5,6)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{5}$ in the first color or a monochromatic $K_{6}$ in the second color. Lower bound: $59$ Upper bound: $85$"
+      },
+      "frontier": {
+        "min_vertices": 59,
+        "best_known": 59,
+        "upper_bound": 85,
+        "improved_lower_bound": 60
+      }
+    },
+    {
+      "id": "ramsey-r-5-7",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(5, 7)",
+      "field": "ramsey-theory",
+      "statement": "R(5, 7) is the least n such that every red/blue colouring of the edges of K_n contains a red K_5 or a blue K_7. Its exact value is unknown: colourings of K_79 avoiding both are known, so R(5, 7) >= 80, and the survey's best upper bound is 133.",
+      "parameters": {
+        "s": 5,
+        "t": 7
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-5-7/",
+        "quote": "Ramsey number $R(5,7)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{5}$ in the first color or a monochromatic $K_{7}$ in the second color. Lower bound: $80$ Upper bound: $133$"
+      },
+      "frontier": {
+        "min_vertices": 80,
+        "best_known": 80,
+        "upper_bound": 133,
+        "improved_lower_bound": 81
+      }
+    },
+    {
+      "id": "ramsey-r-5-8",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(5, 8)",
+      "field": "ramsey-theory",
+      "statement": "R(5, 8) is the least n such that every red/blue colouring of the edges of K_n contains a red K_5 or a blue K_8. Its exact value is unknown: colourings of K_100 avoiding both are known, so R(5, 8) >= 101, and the survey's best upper bound is 193.",
+      "parameters": {
+        "s": 5,
+        "t": 8
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-5-8/",
+        "quote": "Ramsey number $R(5,8)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{5}$ in the first color or a monochromatic $K_{8}$ in the second color. Lower bound: $101$ Upper bound: $193$"
+      },
+      "frontier": {
+        "min_vertices": 101,
+        "best_known": 101,
+        "upper_bound": 193,
+        "improved_lower_bound": 102
+      }
+    },
+    {
+      "id": "ramsey-r-5-9",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(5, 9)",
+      "field": "ramsey-theory",
+      "statement": "R(5, 9) is the least n such that every red/blue colouring of the edges of K_n contains a red K_5 or a blue K_9. Its exact value is unknown: colourings of K_132 avoiding both are known, so R(5, 9) >= 133, and the survey's best upper bound is 282.",
+      "parameters": {
+        "s": 5,
+        "t": 9
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-5-9/",
+        "quote": "Ramsey number $R(5,9)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{5}$ in the first color or a monochromatic $K_{9}$ in the second color. Lower bound: $133$ Upper bound: $282$"
+      }
+    },
+    {
+      "id": "ramsey-r-5-10",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(5, 10)",
+      "field": "ramsey-theory",
+      "statement": "R(5, 10) is the least n such that every red/blue colouring of the edges of K_n contains a red K_5 or a blue K_10. Its exact value is unknown: colourings of K_148 avoiding both are known, so R(5, 10) >= 149, and the survey's best upper bound is 381.",
+      "parameters": {
+        "s": 5,
+        "t": 10
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-5-10/",
+        "quote": "Ramsey number $R(5,10)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{5}$ in the first color or a monochromatic $K_{10}$ in the second color. Lower bound: $149$ Upper bound: $381$"
+      }
+    },
+    {
+      "id": "ramsey-r-5-11",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(5, 11)",
+      "field": "ramsey-theory",
+      "statement": "R(5, 11) is the least n such that every red/blue colouring of the edges of K_n contains a red K_5 or a blue K_11. Its exact value is unknown: colourings of K_182 avoiding both are known, so R(5, 11) >= 183, and the survey's best upper bound is 511.",
+      "parameters": {
+        "s": 5,
+        "t": 11
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-5-11/",
+        "quote": "Ramsey number $R(5,11)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{5}$ in the first color or a monochromatic $K_{11}$ in the second color. Lower bound: $183$ Upper bound: $511$"
+      }
+    },
+    {
+      "id": "ramsey-r-5-12",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(5, 12)",
+      "field": "ramsey-theory",
+      "statement": "R(5, 12) is the least n such that every red/blue colouring of the edges of K_n contains a red K_5 or a blue K_12. Its exact value is unknown: colourings of K_202 avoiding both are known, so R(5, 12) >= 203, and the survey's best upper bound is 672.",
+      "parameters": {
+        "s": 5,
+        "t": 12
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-5-12/",
+        "quote": "Ramsey number $R(5,12)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{5}$ in the first color or a monochromatic $K_{12}$ in the second color. Lower bound: $203$ Upper bound: $672$"
+      }
+    },
+    {
+      "id": "ramsey-r-5-13",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(5, 13)",
+      "field": "ramsey-theory",
+      "statement": "R(5, 13) is the least n such that every red/blue colouring of the edges of K_n contains a red K_5 or a blue K_13. Its exact value is unknown: colourings of K_232 avoiding both are known, so R(5, 13) >= 233, and the survey's best upper bound is 860.",
+      "parameters": {
+        "s": 5,
+        "t": 13
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-5-13/",
+        "quote": "Ramsey number $R(5,13)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{5}$ in the first color or a monochromatic $K_{13}$ in the second color. Lower bound: $233$ Upper bound: $860$"
+      }
+    },
+    {
+      "id": "ramsey-r-5-14",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(5, 14)",
+      "field": "ramsey-theory",
+      "statement": "R(5, 14) is the least n such that every red/blue colouring of the edges of K_n contains a red K_5 or a blue K_14. Its exact value is unknown: colourings of K_266 avoiding both are known, so R(5, 14) >= 267, and the survey's best upper bound is 1081.",
+      "parameters": {
+        "s": 5,
+        "t": 14
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-5-14/",
+        "quote": "Ramsey number $R(5,14)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{5}$ in the first color or a monochromatic $K_{14}$ in the second color. Lower bound: $267$ Upper bound: $1081$"
+      }
+    },
+    {
+      "id": "ramsey-r-5-15",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(5, 15)",
+      "field": "ramsey-theory",
+      "statement": "R(5, 15) is the least n such that every red/blue colouring of the edges of K_n contains a red K_5 or a blue K_15. Its exact value is unknown: colourings of K_274 avoiding both are known, so R(5, 15) >= 275, and the survey's best upper bound is 1341.",
+      "parameters": {
+        "s": 5,
+        "t": 15
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-5-15/",
+        "quote": "Ramsey number $R(5,15)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{5}$ in the first color or a monochromatic $K_{15}$ in the second color. Lower bound: $275$ Upper bound: $1341$"
+      }
+    },
+    {
+      "id": "ramsey-r-6-6",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(6, 6)",
+      "field": "ramsey-theory",
+      "statement": "R(6, 6) is the least n such that every red/blue colouring of the edges of K_n contains a red K_6 or a blue K_6. Its exact value is unknown: colourings of K_101 avoiding both are known, so R(6, 6) >= 102, and the survey's best upper bound is 160.",
+      "parameters": {
+        "s": 6,
+        "t": 6
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-6-6/",
+        "quote": "Ramsey number $R(6,6)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{6}$ in the first color or a monochromatic $K_{6}$ in the second color. Lower bound: $102$ Upper bound: $160$"
+      },
+      "frontier": {
+        "min_vertices": 102,
+        "best_known": 102,
+        "upper_bound": 160,
+        "improved_lower_bound": 103
+      }
+    },
+    {
+      "id": "ramsey-r-6-7",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(6, 7)",
+      "field": "ramsey-theory",
+      "statement": "R(6, 7) is the least n such that every red/blue colouring of the edges of K_n contains a red K_6 or a blue K_7. Its exact value is unknown: colourings of K_114 avoiding both are known, so R(6, 7) >= 115, and the survey's best upper bound is 270.",
+      "parameters": {
+        "s": 6,
+        "t": 7
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-6-7/",
+        "quote": "Ramsey number $R(6,7)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{6}$ in the first color or a monochromatic $K_{7}$ in the second color. Lower bound: $115$ Upper bound: $270$"
+      },
+      "frontier": {
+        "min_vertices": 115,
+        "best_known": 115,
+        "upper_bound": 270,
+        "improved_lower_bound": 116
+      }
+    },
+    {
+      "id": "ramsey-r-6-8",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(6, 8)",
+      "field": "ramsey-theory",
+      "statement": "R(6, 8) is the least n such that every red/blue colouring of the edges of K_n contains a red K_6 or a blue K_8. Its exact value is unknown: colourings of K_133 avoiding both are known, so R(6, 8) >= 134, and the survey's best upper bound is 423.",
+      "parameters": {
+        "s": 6,
+        "t": 8
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-6-8/",
+        "quote": "Ramsey number $R(6,8)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{6}$ in the first color or a monochromatic $K_{8}$ in the second color. Lower bound: $134$ Upper bound: $423$"
+      }
+    },
+    {
+      "id": "ramsey-r-6-9",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(6, 9)",
+      "field": "ramsey-theory",
+      "statement": "R(6, 9) is the least n such that every red/blue colouring of the edges of K_n contains a red K_6 or a blue K_9. Its exact value is unknown: colourings of K_182 avoiding both are known, so R(6, 9) >= 183, and the survey's best upper bound is 651.",
+      "parameters": {
+        "s": 6,
+        "t": 9
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-6-9/",
+        "quote": "Ramsey number $R(6,9)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{6}$ in the first color or a monochromatic $K_{9}$ in the second color. Lower bound: $183$ Upper bound: $651$"
+      }
+    },
+    {
+      "id": "ramsey-r-6-10",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(6, 10)",
+      "field": "ramsey-theory",
+      "statement": "R(6, 10) is the least n such that every red/blue colouring of the edges of K_n contains a red K_6 or a blue K_10. Its exact value is unknown: colourings of K_203 avoiding both are known, so R(6, 10) >= 204, and the survey's best upper bound is 944.",
+      "parameters": {
+        "s": 6,
+        "t": 10
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-6-10/",
+        "quote": "Ramsey number $R(6,10)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{6}$ in the first color or a monochromatic $K_{10}$ in the second color. Lower bound: $204$ Upper bound: $944$"
+      }
+    },
+    {
+      "id": "ramsey-r-6-11",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(6, 11)",
+      "field": "ramsey-theory",
+      "statement": "R(6, 11) is the least n such that every red/blue colouring of the edges of K_n contains a red K_6 or a blue K_11. Its exact value is unknown: colourings of K_261 avoiding both are known, so R(6, 11) >= 262, and the survey's best upper bound is 1346.",
+      "parameters": {
+        "s": 6,
+        "t": 11
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-6-11/",
+        "quote": "Ramsey number $R(6,11)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{6}$ in the first color or a monochromatic $K_{11}$ in the second color. Lower bound: $262$ Upper bound: $1346$"
+      }
+    },
+    {
+      "id": "ramsey-r-6-12",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(6, 12)",
+      "field": "ramsey-theory",
+      "statement": "R(6, 12) is the least n such that every red/blue colouring of the edges of K_n contains a red K_6 or a blue K_12. Its exact value is unknown: colourings of K_293 avoiding both are known, so R(6, 12) >= 294, and the survey's best upper bound is 1855.",
+      "parameters": {
+        "s": 6,
+        "t": 12
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-6-12/",
+        "quote": "Ramsey number $R(6,12)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{6}$ in the first color or a monochromatic $K_{12}$ in the second color. Lower bound: $294$ Upper bound: $1855$"
+      }
+    },
+    {
+      "id": "ramsey-r-6-13",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(6, 13)",
+      "field": "ramsey-theory",
+      "statement": "R(6, 13) is the least n such that every red/blue colouring of the edges of K_n contains a red K_6 or a blue K_13. Its exact value is unknown: colourings of K_346 avoiding both are known, so R(6, 13) >= 347, and the survey's best upper bound is 2499.",
+      "parameters": {
+        "s": 6,
+        "t": 13
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-6-13/",
+        "quote": "Ramsey number $R(6,13)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{6}$ in the first color or a monochromatic $K_{13}$ in the second color. Lower bound: $347$ Upper bound: $2499$"
+      }
+    },
+    {
+      "id": "ramsey-r-6-15",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(6, 15)",
+      "field": "ramsey-theory",
+      "statement": "R(6, 15) is the least n such that every red/blue colouring of the edges of K_n contains a red K_6 or a blue K_15. Its exact value is unknown: colourings of K_400 avoiding both are known, so R(6, 15) >= 401, and the survey's best upper bound is 4305.",
+      "parameters": {
+        "s": 6,
+        "t": 15
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-6-15/",
+        "quote": "Ramsey number $R(6,15)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{6}$ in the first color or a monochromatic $K_{15}$ in the second color. Lower bound: $401$ Upper bound: $4305$"
+      }
+    },
+    {
+      "id": "ramsey-r-7-7",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(7, 7)",
+      "field": "ramsey-theory",
+      "statement": "R(7, 7) is the least n such that every red/blue colouring of the edges of K_n contains a red K_7 or a blue K_7. Its exact value is unknown: colourings of K_204 avoiding both are known, so R(7, 7) >= 205, and the survey's best upper bound is 492.",
+      "parameters": {
+        "s": 7,
+        "t": 7
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-7-7/",
+        "quote": "Ramsey number $R(7,7)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{7}$ in the first color or a monochromatic $K_{7}$ in the second color. Lower bound: $205$ Upper bound: $492$"
+      }
+    },
+    {
+      "id": "ramsey-r-7-8",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(7, 8)",
+      "field": "ramsey-theory",
+      "statement": "R(7, 8) is the least n such that every red/blue colouring of the edges of K_n contains a red K_7 or a blue K_8. Its exact value is unknown: colourings of K_218 avoiding both are known, so R(7, 8) >= 219, and the survey's best upper bound is 832.",
+      "parameters": {
+        "s": 7,
+        "t": 8
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-7-8/",
+        "quote": "Ramsey number $R(7,8)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{7}$ in the first color or a monochromatic $K_{8}$ in the second color. Lower bound: $219$ Upper bound: $832$"
+      }
+    },
+    {
+      "id": "ramsey-r-7-9",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(7, 9)",
+      "field": "ramsey-theory",
+      "statement": "R(7, 9) is the least n such that every red/blue colouring of the edges of K_n contains a red K_7 or a blue K_9. Its exact value is unknown: colourings of K_251 avoiding both are known, so R(7, 9) >= 252, and the survey's best upper bound is 1368.",
+      "parameters": {
+        "s": 7,
+        "t": 9
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-7-9/",
+        "quote": "Ramsey number $R(7,9)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{7}$ in the first color or a monochromatic $K_{9}$ in the second color. Lower bound: $252$ Upper bound: $1368$"
+      }
+    },
+    {
+      "id": "ramsey-r-7-10",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(7, 10)",
+      "field": "ramsey-theory",
+      "statement": "R(7, 10) is the least n such that every red/blue colouring of the edges of K_n contains a red K_7 or a blue K_10. Its exact value is unknown: colourings of K_291 avoiding both are known, so R(7, 10) >= 292, and the survey's best upper bound is 2119.",
+      "parameters": {
+        "s": 7,
+        "t": 10
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-7-10/",
+        "quote": "Ramsey number $R(7,10)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{7}$ in the first color or a monochromatic $K_{10}$ in the second color. Lower bound: $292$ Upper bound: $2119$"
+      }
+    },
+    {
+      "id": "ramsey-r-7-11",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(7, 11)",
+      "field": "ramsey-theory",
+      "statement": "R(7, 11) is the least n such that every red/blue colouring of the edges of K_n contains a red K_7 or a blue K_11. Its exact value is unknown: colourings of K_404 avoiding both are known, so R(7, 11) >= 405, and the survey's best upper bound is 3197.",
+      "parameters": {
+        "s": 7,
+        "t": 11
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-7-11/",
+        "quote": "Ramsey number $R(7,11)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{7}$ in the first color or a monochromatic $K_{11}$ in the second color. Lower bound: $405$ Upper bound: $3197$"
+      }
+    },
+    {
+      "id": "ramsey-r-7-12",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(7, 12)",
+      "field": "ramsey-theory",
+      "statement": "R(7, 12) is the least n such that every red/blue colouring of the edges of K_n contains a red K_7 or a blue K_12. Its exact value is unknown: colourings of K_416 avoiding both are known, so R(7, 12) >= 417, and the survey's best upper bound is 4665.",
+      "parameters": {
+        "s": 7,
+        "t": 12
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-7-12/",
+        "quote": "Ramsey number $R(7,12)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{7}$ in the first color or a monochromatic $K_{12}$ in the second color. Lower bound: $417$ Upper bound: $4665$"
+      }
+    },
+    {
+      "id": "ramsey-r-7-13",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(7, 13)",
+      "field": "ramsey-theory",
+      "statement": "R(7, 13) is the least n such that every red/blue colouring of the edges of K_n contains a red K_7 or a blue K_13. Its exact value is unknown: colourings of K_510 avoiding both are known, so R(7, 13) >= 511, and the survey's best upper bound is 6653.",
+      "parameters": {
+        "s": 7,
+        "t": 13
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-7-13/",
+        "quote": "Ramsey number $R(7,13)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{7}$ in the first color or a monochromatic $K_{13}$ in the second color. Lower bound: $511$ Upper bound: $6653$"
+      }
+    },
+    {
+      "id": "ramsey-r-8-8",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(8, 8)",
+      "field": "ramsey-theory",
+      "statement": "R(8, 8) is the least n such that every red/blue colouring of the edges of K_n contains a red K_8 or a blue K_8. Its exact value is unknown: colourings of K_281 avoiding both are known, so R(8, 8) >= 282, and the survey's best upper bound is 1518.",
+      "parameters": {
+        "s": 8,
+        "t": 8
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-8-8/",
+        "quote": "Ramsey number $R(8,8)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{8}$ in the first color or a monochromatic $K_{8}$ in the second color. Lower bound: $282$ Upper bound: $1518$"
+      }
+    },
+    {
+      "id": "ramsey-r-8-9",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(8, 9)",
+      "field": "ramsey-theory",
+      "statement": "R(8, 9) is the least n such that every red/blue colouring of the edges of K_n contains a red K_8 or a blue K_9. Its exact value is unknown: colourings of K_328 avoiding both are known, so R(8, 9) >= 329, and the survey's best upper bound is 2662.",
+      "parameters": {
+        "s": 8,
+        "t": 9
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-8-9/",
+        "quote": "Ramsey number $R(8,9)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{8}$ in the first color or a monochromatic $K_{9}$ in the second color. Lower bound: $329$ Upper bound: $2662$"
+      }
+    },
+    {
+      "id": "ramsey-r-8-10",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(8, 10)",
+      "field": "ramsey-theory",
+      "statement": "R(8, 10) is the least n such that every red/blue colouring of the edges of K_n contains a red K_8 or a blue K_10. Its exact value is unknown: colourings of K_342 avoiding both are known, so R(8, 10) >= 343, and the survey's best upper bound is 4402.",
+      "parameters": {
+        "s": 8,
+        "t": 10
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-8-10/",
+        "quote": "Ramsey number $R(8,10)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{8}$ in the first color or a monochromatic $K_{10}$ in the second color. Lower bound: $343$ Upper bound: $4402$"
+      }
+    },
+    {
+      "id": "ramsey-r-8-11",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(8, 11)",
+      "field": "ramsey-theory",
+      "statement": "R(8, 11) is the least n such that every red/blue colouring of the edges of K_n contains a red K_8 or a blue K_11. Its exact value is unknown: colourings of K_456 avoiding both are known, so R(8, 11) >= 457, and the survey's best upper bound is 7040.",
+      "parameters": {
+        "s": 8,
+        "t": 11
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-8-11/",
+        "quote": "Ramsey number $R(8,11)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{8}$ in the first color or a monochromatic $K_{11}$ in the second color. Lower bound: $457$ Upper bound: $7040$"
+      }
+    },
+    {
+      "id": "ramsey-r-8-13",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(8, 13)",
+      "field": "ramsey-theory",
+      "statement": "R(8, 13) is the least n such that every red/blue colouring of the edges of K_n contains a red K_8 or a blue K_13. Its exact value is unknown: colourings of K_816 avoiding both are known, so R(8, 13) >= 817, and the survey's best upper bound is 27485.",
+      "parameters": {
+        "s": 8,
+        "t": 13
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-8-13/",
+        "quote": "Ramsey number $R(8,13)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{8}$ in the first color or a monochromatic $K_{13}$ in the second color. Lower bound: $817$ Upper bound: $27485$"
+      }
+    },
+    {
+      "id": "ramsey-r-8-15",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(8, 15)",
+      "field": "ramsey-theory",
+      "statement": "R(8, 15) is the least n such that every red/blue colouring of the edges of K_n contains a red K_8 or a blue K_15. Its exact value is unknown: colourings of K_872 avoiding both are known, so R(8, 15) >= 873, and the survey's best upper bound is 63609.",
+      "parameters": {
+        "s": 8,
+        "t": 15
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-8-15/",
+        "quote": "Ramsey number $R(8,15)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{8}$ in the first color or a monochromatic $K_{15}$ in the second color. Lower bound: $873$ Upper bound: $63609$"
+      }
+    },
+    {
+      "id": "ramsey-r-9-9",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(9, 9)",
+      "field": "ramsey-theory",
+      "statement": "R(9, 9) is the least n such that every red/blue colouring of the edges of K_n contains a red K_9 or a blue K_9. Its exact value is unknown: colourings of K_564 avoiding both are known, so R(9, 9) >= 565, and the survey's best upper bound is 4956.",
+      "parameters": {
+        "s": 9,
+        "t": 9
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-9-9/",
+        "quote": "Ramsey number $R(9,9)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{9}$ in the first color or a monochromatic $K_{9}$ in the second color. Lower bound: $565$ Upper bound: $4956$"
+      }
+    },
+    {
+      "id": "ramsey-r-9-10",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(9, 10)",
+      "field": "ramsey-theory",
+      "statement": "R(9, 10) is the least n such that every red/blue colouring of the edges of K_n contains a red K_9 or a blue K_10. Its exact value is unknown: colourings of K_580 avoiding both are known, so R(9, 10) >= 581, and the survey's best upper bound is 8675.",
+      "parameters": {
+        "s": 9,
+        "t": 10
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-9-10/",
+        "quote": "Ramsey number $R(9,10)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{9}$ in the first color or a monochromatic $K_{10}$ in the second color. Lower bound: $581$ Upper bound: $8675$"
+      }
+    },
+    {
+      "id": "ramsey-r-10-10",
+      "class": "ramsey-number",
+      "title": "Two-colour Ramsey number R(10, 10)",
+      "field": "ramsey-theory",
+      "statement": "R(10, 10) is the least n such that every red/blue colouring of the edges of K_n contains a red K_10 or a blue K_10. Its exact value is unknown: colourings of K_797 avoiding both are known, so R(10, 10) >= 798, and the survey's best upper bound is 16064.",
+      "parameters": {
+        "s": 10,
+        "t": 10
+      },
+      "status": {
+        "state": "open",
+        "as_of": "2026-07-23"
+      },
+      "evidence": {
+        "url": "https://leapsinbounds.org/constants/ramsey-10-10/",
+        "quote": "Ramsey number $R(10,10)$ The smallest number $n$ such that any two-coloring of the edges of the complete graph $K_n$ must contain either a monochromatic $K_{10}$ in the first color or a monochromatic $K_{10}$ in the second color. Lower bound: $798$ Upper bound: $16064$"
+      }
+    }
+  ]
+}

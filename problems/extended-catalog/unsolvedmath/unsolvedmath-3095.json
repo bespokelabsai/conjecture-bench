@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3095",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Jacobian Conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture Let $k$ be a field of characteristic zero. A collection $f_1,\\ldots,f_n$ of polynomials in variables $x_1,\\ldots,x_n$ defines an automorphism of $k^n$ if and only if the Jacobian matrix is a nonzero constant.",
+    "sha256": "c5679d49be1fe0992334e1b5ed8a9f260943f03b8c92b8b8974e834d1c503a07",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-1768",
+    "source_locator": "dataset ID 3095; problem number OPG-1768",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:geometry",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

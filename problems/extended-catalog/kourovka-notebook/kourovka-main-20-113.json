@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-113",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.113 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let H(q, c) = ⟨a, b, c, d | [b, a] = [d, c], of exponent q, nilpotent of class c⟩.\n    a) Is it true that the Schur multiplier M (H(8, 12)) has exponent 32?\n    b) Is it true that the Schur multiplier M (H(7, 13)) has exponent 49?\n    The difficulty is that these groups are too big to compute using current versions\nof the p-Quotient Algorithm, which use 32 bit arithmetic. So to tackle these groups\nit would help to have a version of the p-Quotient Algorithm using 64 bit arithmetic.\n                                                                      M. R. Vaughan-Lee",
+    "sha256": "72a14451efa533b4fdf35c105db3e8edef98a248c58b356eb3e3d155bba603aa",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=161",
+    "source_locator": "Kourovka 20.113, main section, page 161",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

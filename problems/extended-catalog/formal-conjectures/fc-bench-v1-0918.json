@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0918",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "KotherConjecture.variants.two_by_two_matrix",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 16]\ntheorem KotherConjecture.variants.two_by_two_matrix {I : TwoSidedIdeal R} (hI : IsNil I) :\n    IsNil (matrix (Fin 2) I)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "2adfcf0e77195e44b9f27660df2156c20955a58f488151ca194e518499c635f4",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Koethe.lean#L68",
+    "source_locator": "FormalConjectures/Wikipedia/Koethe.lean:68#KotherConjecture.variants.two_by_two_matrix",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-16"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

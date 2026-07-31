@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0898",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "inscribed_rectangle_problem",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 51]\ntheorem inscribed_rectangle_problem :\n    answer(sorry) ↔ ∀ (γ : Circle → ℝ²) (hγ : IsEmbedding γ) (r : ℝ) (hr : r > 0),\n      ∃ t₁ t₂ t₃ t₄, IsRectangle (γ t₁) (γ t₂) (γ t₃) (γ t₄) r",
+    "language_version": "Lean 4.27.0",
+    "sha256": "77c8792c7120e03025a7f82633ebf819e205db445dfd154d078e7b3142e0221d",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/InscribedSquare.lean#L63",
+    "source_locator": "FormalConjectures/Wikipedia/InscribedSquare.lean:63#inscribed_rectangle_problem",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-51"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

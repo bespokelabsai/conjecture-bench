@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-064",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.64 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that if a normal subgroup A of a Sylow p-subgroup of a p-soluble\nfinite group G has exponent pe , then the normal closure of A in G has (p, e)-bounded\n(or even e-bounded) p-length?                                           E. I. Khukhro",
+    "sha256": "96e21d3e5ed7b8fade4ca60d0137e8d35b4ef13e601af27ccd952f01e8b83502",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=173",
+    "source_locator": "Kourovka 21.64, main section, page 173",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

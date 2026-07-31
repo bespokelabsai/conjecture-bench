@@ -1,0 +1,35 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0203",
+  "slug": "second-hardy-littlewood",
+  "title": "Second Hardy–Littlewood conjecture",
+  "field": "number-theory",
+  "statement": "For all integers x,y≥2, the prime-counting function is subadditive: π(x+y)≤π(x)+π(y).",
+  "counterexample": {
+    "description": "Integers x≥y≥2 for which the exact prime counts satisfy π(x+y)>π(x)+π(y).",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://www.impan.pl/en/publishing-house/journals-and-series/acta-arithmetica/online/116375/on-the-second-hardy-littlewood-conjecture",
+        "role": "status"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/HardyLittlewood.lean#L99",
+        "role": "formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0895",
+      "unsolvedmath-1518"
+    ]
+  },
+  "equivalence_group": "hardy-littlewood-prime-counting-subadditivity"
+}

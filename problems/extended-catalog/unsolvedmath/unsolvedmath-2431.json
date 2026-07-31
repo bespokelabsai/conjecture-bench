@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2431",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #996",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $n_1<n_2<\\cdots$ be a lacunary sequence of integers, and let $f\\in L^2([0,1])$. Let $f_n$ be the $n$th partial sum of the Fourier series of $f(x)$. Is there an absolute constant $C>0$ such that, if $ \\| f-f_n\\|_2 \\ll \\frac{1}{(\\log\\log\\log n)^{C}} $ then $ \\lim_{N\\to\\infty}\\frac{1}{N}\\sum_{k\\leq N}f(\\{\\alpha n_k\\})=\\int_0^1 f(x)\\mathrm{d}x $ for almost every $\\alpha$?",
+    "sha256": "baf4c601ae3731d39b02d572fcc94b6661c29376fbb63771e292433d1776298b",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-996",
+    "source_locator": "dataset ID 2431; problem number EP-996",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

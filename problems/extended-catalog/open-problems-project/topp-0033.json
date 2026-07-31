@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0033",
+  "source_registry": "open-problems-project",
+  "title": "Sum of Square Roots",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "What is the minimum nonzero difference between two sums of square\nroots of integers?\nMore precisely,\nfind tight upper and lower bounds on $r(n,k)$, the minimum positive value of\n$$\\left| \\sum_{i=1}^k \\sqrt{a_i} - \\sum_{i=1}^k \\sqrt{b_i} \\right|$$\nwhere $a_i$ and $b_i$ are integers no larger than $n$.\nBounds should be expressed as a function of $n$ and $k$.\nExamples:\n$$r(20,2) \\approx .0002 =\n\t\\sqrt{10}+\\sqrt{11}-\\sqrt{5}-\\sqrt{18}$$\n$$r(20,3) \\approx .000005 =\n\t\\sqrt{5}+\\sqrt{6}+\\sqrt{18}-\\sqrt{4}-\\sqrt{12}-\\sqrt{12}$$",
+    "sha256": "841d098610c60da9745aca9278c574297d66f3cf270c5991021f9c51ec3785a2",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p33",
+    "source_locator": "TOPP problem 33 (Problems/P.000033)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "numerical computations"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

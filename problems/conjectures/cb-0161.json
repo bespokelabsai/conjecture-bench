@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0161",
+  "slug": "topp-72-regular-pentagon-polyhedral-surface",
+  "title": "Polyhedral surfaces with regular pentagon faces",
+  "field": "discrete-geometry",
+  "statement": "Every immersed spherical polyhedral surface made from equal regular pentagons bounds a union of face-glued solid dodecahedra.",
+  "counterexample": {
+    "description": "An exact immersed pentagonal sphere not combinatorially and geometrically decomposable into solid dodecahedra.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "topp-open-finite",
+    "sources": [
+      {
+        "url": "https://topp.openproblem.net/p72",
+        "role": "status"
+      }
+    ]
+  }
+}

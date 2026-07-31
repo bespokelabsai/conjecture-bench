@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-009",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.9 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Well-known problem). Let W ∗ (Fk ) denote the von Neumann algebra of the\nfree group of rank k ∈ {2, 3, . . . , ℵ0 }. Is W ∗ (Fk ) isomorphic to W ∗ (Fl ) for k ̸= l?\n    For a group G, recall that W ∗ (G) is an appropriate completion of the group algebra\nCG (see e. g. S. Sakai, C ∗ -algebras and W ∗ -algebras, Springer, 1971, in particular\nProblem 4.4.44). It is known that either W ∗ (Fk ) ∼    = W ∗ (Fl ) for all k, l ∈ {2, 3, . . . , ℵ0 },\n               ∗\nor that the W (Fk ) are pairwise non-isomorphic (F. Radulescu, Invent. Math., 115\n(1994), 347–389, Corollary 4.7).                                                  P. de la Harpe",
+    "sha256": "b01fa2b55e0ddb3e449a767e0b22754cda39521afd0f91caadee4b1929d79efb",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=72",
+    "source_locator": "Kourovka 14.9, main section, page 72",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

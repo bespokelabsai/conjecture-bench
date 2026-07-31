@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0279",
+  "slug": "prime-exponent-mersenne-squarefree",
+  "title": "Prime-exponent Mersenne square-freeness conjecture",
+  "field": "number-theory",
+  "statement": "For every prime p, the Mersenne number 2^p−1 is square-free.",
+  "counterexample": {
+    "description": "A prime exponent p and an integer d>1 such that d² divides 2^p−1.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "number-theory-live-promotion",
+    "sources": [
+      {
+        "url": "https://projecteuclid.org/journals/pacific-journal-of-mathematics/volume-22/issue-3/On-the-square-freeness-of-Fermat-and-Mersenne-numbers/pjm/1102992105.full",
+        "role": "classical-source"
+      },
+      {
+        "url": "https://t5k.org/notes/proofs/SquareMerDiv.html",
+        "role": "february-2026-status-and-computational-bound"
+      },
+      {
+        "url": "https://mers.sourceforge.io/mersenne.html",
+        "role": "maintained-conjecture-page"
+      }
+    ],
+    "discovery_records": [
+      "unsolvedmath-3374"
+    ]
+  },
+  "equivalence_group": "mersenne-number-squarefreeness"
+}

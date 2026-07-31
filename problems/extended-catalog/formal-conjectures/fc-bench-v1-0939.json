@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0939",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "MLC_general_exponent",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 37]\ntheorem MLC_general_exponent (n : ℕ) : LocallyConnectedSpace (multibrotSet n)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "83067548ab3c3907bee9b93ee03f7ee47c8084004ced4466a8effb4bb2ed844f",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Mandelbrot.lean#L114",
+    "source_locator": "FormalConjectures/Wikipedia/Mandelbrot.lean:114#MLC_general_exponent",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-37"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

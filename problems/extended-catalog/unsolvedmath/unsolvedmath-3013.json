@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3013",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 5.6",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "- Does every closed, PL, orientable $n$-manifold admit an $n$-fold branched covering map over $S^{n}$?\n\nAssuming that the answer to this problem is \"yes\", the following follow-up questions would be natural to ask.\n\n- Does every $n$-manifold admit an $n$-fold branched covering over $S^{n}$ with branch locus a codimension-2 embedded submanifold?\n\n- If the answer to (b) is \"yes\", then one could naturally ask if the cover can additionally be taken to be simple, meaning the covering monodromy sends every meridian of the embedded submanifold to a transposition. For $n=2,3,4$, the above papers show the answer is, \"yes\".\n\n- If the answer to (b) is \"yes\", then in a separate direction one could ask when the branch locus can be taken to be orientable.",
+    "sha256": "936467d4a1cd687cbc1ec46e626221b1827ddeee69741dae153de85f02c1fb56",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-5.6",
+    "source_locator": "dataset ID 3013; problem number KP-5.6",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

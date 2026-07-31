@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0172",
+  "source_registry": "egres-open",
+  "title": "Covering a symmetric crossing supermodular function with hyperedges of prescribed size",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Given a symmetric crossing supermodular function <math>p:2^V\\to \\mathbb{R}</math> and positive integers <math>n_1,n_2,\\dots,n_k</math>, does there exist a hypergraph ''H=(V,E)'' covering ''p'' and having exactly ''k'' hyperedges of sizes <math>n_1,n_2,\\dots,n_k</math>?",
+    "sha256": "27f372a6a2ad71354c8a7069100eab970b1513b73ff99b8141afe31e2a1121f7",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2012-01-25T15:01:41Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Covering_a_symmetric_crossing_supermodular_function_with_hyperedges_of_prescribed_size&oldid=1356",
+    "source_locator": "EGRES page 172, revision 1356",
+    "source_sha256": "c2be7cfcf3a87375a193e9ce2e85d70ddbd120752fc7b3e116d204b6fb0c387b",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity",
+      "Sub- and supermodular functions"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

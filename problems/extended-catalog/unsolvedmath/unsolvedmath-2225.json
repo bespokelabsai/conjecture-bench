@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2225",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #635",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $t\\geq 1$ and $A\\subseteq \\{1,\\ldots,N\\}$ be such that whenever $a,b\\in A$ with $b-a\\geq t$ we have $b-a\nmid b$. How large can $\\lvert A\\rvert$ be? Is it true that $ \\lvert A\\rvert \\leq \\left(\\frac{1}{2}+o_t(1)\\right)N? $ ",
+    "sha256": "877aa20228b92fcc6f36b519244cbc398d13485775dd048437fd2e6c20480deb",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-635",
+    "source_locator": "dataset ID 2225; problem number EP-635",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

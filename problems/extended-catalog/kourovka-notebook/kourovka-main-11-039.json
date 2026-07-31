@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-039",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.39 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Well-known problem). Does there exist a group which is not almost poly-\ncyclic and whose integral group ring is Noetherian?                 S. V. Ivanov",
+    "sha256": "5ed3c34c5ac9526e605e4fc3c127a3b0585f0dbcd5f760ca155c7fc7db1bf51b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=49",
+    "source_locator": "Kourovka 11.39, main section, page 49",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

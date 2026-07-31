@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-006",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.6 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(W. Kimmerle). The prime graph (or Gruenberg–Kegel graph) Γ(X) of a group\nX has vertices labeled by primes appearing as orders of elements in X; two distinct\nprimes p and q are adjacent in Γ(X) if and only if X contains an element of order pq.\nDenote by V(ZG) the group of normalized units of the integral group ring of a group\nG. Is it true that for each finite group G the prime graphs of G and V(ZG) coincide?\n    This question has been reduced to almost simple groups (W. Kimmerle, A. Kono-\nvalov, Internat. J. Algebra Comput., 27 (2017), 619–631).       A. Bächle, L. Margolis",
+    "sha256": "01b2d0799400c251ee5e4e80a9aa1f0e5b7bdc444fd7f31fda0cc4f3bf0c761c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=144",
+    "source_locator": "Kourovka 20.6, main section, page 144",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-079",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.79 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a finitely generated group with a fixed finite generating set S and\nthe corresponding word metric LS (∗). An element g is said to be distorted in G if\nLS (g n )/n → 0 as n → ∞; this notion is independent of the choice of the generating\nset S. For any, not necessarily finitely generated, group H, an element g ∈ H is said\nto be distorted if there is a finitely generated subgroup G of H containing g in which\ng is distorted. Do there exist finitely generated left-orderable groups in which every\nnontrivial element is distorted?\n    Note that it is straightforward to construct countable (not finitely generated) left-\norderable groups with this property using HN N -extensions and applying results of\nV. V. Bludov and A. M. W. Glass.                                     Y. Lodha, A. Navas",
+    "sha256": "47caaf8aab999ca1b3b84d62e9713f3b9430725ce3c57fb0a8df0cbe194fe391",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=176",
+    "source_locator": "Kourovka 21.79, main section, page 176",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

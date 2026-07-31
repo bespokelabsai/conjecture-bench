@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0042",
+  "slug": "kurepa-left-factorial",
+  "title": "Kurepa left factorial",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "For every odd prime p, the left factorial !p=sum(k!, k=0,…,p−1) is not divisible by p.",
+  "counterexample": {
+    "description": "An odd prime \\(p\\) with \\(!p=\\sum_{k=0}^{p-1}k!\\equiv0\\pmod p\\). Primality plus the modular recurrence is exact, though checking costs roughly linear work in \\(p\\).",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1904.09196",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0755",
+      "fc-bench-v1-0756",
+      "fc-bench-v1-0757"
+    ]
+  }
+}

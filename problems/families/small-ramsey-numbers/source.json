@@ -1,0 +1,37 @@
+{
+  "slug": "small-ramsey-numbers",
+  "name": "Small Ramsey Numbers (dynamic survey DS1)",
+  "maintainers": [
+    "Stanisław Radziszowski",
+    "Daniel Munro (Leaps in Bounds)"
+  ],
+  "homepage": "https://www.combinatorics.org/ojs/index.php/eljc/article/view/DS1",
+  "license": "No formal licence stated; a living survey article published by the Electronic Journal of Combinatorics.",
+  "credit": {
+    "statement": "Ramsey number records come from Small Ramsey Numbers, the dynamic survey compiled and maintained by Stanisław Radziszowski for the Electronic Journal of Combinatorics, whose Tables Ia and Ib carry the bounds. The quoted evidence pages are from Leaps in Bounds, the bound tracker built by Daniel Munro, which republishes the survey's numbers one constant per page and cites it as its source.",
+    "requested_citation": "Cite S. Radziszowski, \"Small Ramsey Numbers\", Electronic Journal of Combinatorics, Dynamic Survey DS1, https://doi.org/10.37236/21, and credit Leaps in Bounds (D. Munro, https://leapsinbounds.org/) for the per-constant pages.",
+    "citation_url": "https://www.combinatorics.org/ojs/index.php/eljc/article/view/DS1"
+  },
+  "retrieval": {
+    "method": "Read Tables Ia and Ib out of the survey PDF by placing every shown string with the content stream's own text matrix and assigning each number to the column its header sits over, then confirm each open cell against the matching per-constant page at Leaps in Bounds and quote that page. The survey is the authority for the numbers; the tracker page is what the row cites, because the survey's grid cells do not name their own instance. Cells where the two disagree are dropped.",
+    "urls": [
+      "https://www.cs.rit.edu/~spr/ElJC/sur.pdf",
+      "https://www.cs.rit.edu/~spr/ElJC/eline.html",
+      "https://leapsinbounds.org/data/constants.json",
+      "https://leapsinbounds.org/constants/ramsey-<s>-<t>/"
+    ],
+    "retrieved": "2026-07-23",
+    "upstream_version": "Small Ramsey Numbers revision #18, April 24, 2026"
+  },
+  "redistribution": {
+    "policy": "metadata-only",
+    "note": "Records store the two clique sizes, the survey's lower and upper bound, and the quoted description and bounds block from the tracker page the row cites. No colourings, critical graphs or reference lists are copied from either source."
+  },
+  "caveats": [
+    "The lower bound can be raised by exhibiting a colouring, while lowering the upper bound requires a nonexistence proof.",
+    "A witness on n vertices proves R(s, t) > n, which narrows the range but does not settle the number unless the new bound reaches the upper bound.",
+    "Table Ia's upper bounds are the published ones and Table Ib's are better but unpublished; a row stores the smaller of the two, so some upper bounds here rest on unpublished computations that the survey attributes to Angeltveit and McKay.",
+    "The tracker states that its histories of constants are not necessarily complete, which is why it is used for the quote and the survey for the numbers, and why a row is dropped when they disagree.",
+    "Rows whose witness would need more than 120 vertices are recorded as reference-only: they are open, but an exhaustive clique search cannot decide a colouring that large."
+  ]
+}

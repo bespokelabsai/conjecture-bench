@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0073",
+  "source_registry": "open-problems-project",
+  "title": "Congruent Partitions of Polygons",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Partition a given polygon $P$ into $n$ mutually congruent pieces\nso that the area of $P$ not covered by the union of the pieces is as small\nas possible.\nA partition which leaves out the least area is an \\emph{optimal} congruent partition\nfor that $n$.\nIf a congruent partition is a perfect cover, leaving no area uncovered,\nthen it is called a \\emph{perfect congruent partition}.\n%If the optimal congruent partition is not unique,\n%it would be useful to find one in which the pieces have the fewest number of edges.\nTwo polygons are \\emph{congruent} if one can be made to\ncoincide with the other by translation, rotation, or reflection (flipping over).\n%(Sometimes this is called \\emph{mirror-congruence}.)",
+    "sha256": "45c26ea57e54e643241e3b931a6db9ccdbc0091479b9a5452a110ad0b930681e",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "unclear",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p73",
+    "source_locator": "TOPP problem 73 (Problems/P.000073)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "dissections",
+      "partitioning",
+      "polygons"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0466",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_789.variants.sq_isBigO",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem erdos_789.variants.sq_isBigO :\n    (fun n : ℕ ↦ √n) =O[atTop] fun n ↦ (subsetSumThreshold n : ℝ)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "30cfed1c6f5f517cfbf112b068d2c99bfc2abe24e09da92409bf2ab7eed29205",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/789.lean#L89",
+    "source_locator": "FormalConjectures/ErdosProblems/789.lean:89#erdos_789.variants.sq_isBigO",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

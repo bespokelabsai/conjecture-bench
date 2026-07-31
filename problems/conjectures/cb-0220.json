@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0220",
+  "slug": "selfridge-psw-primality-condition",
+  "title": "Selfridge's PSW primality conjecture",
+  "field": "computational-number-theory",
+  "statement": "Every odd n congruent to ±2 modulo 5 that satisfies 2^(n−1)≡1 (mod n) and F_(n+1)≡0 (mod n) is prime.",
+  "counterexample": {
+    "description": "A composite n satisfying all four Selfridge conditions, accompanied by one proper nontrivial factor.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Selfridge.lean#L68",
+        "role": "status-and-formal-source"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Selfridge",
+        "role": "background"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0975"
+    ]
+  },
+  "equivalence_group": "selfridge-psw-primality"
+}

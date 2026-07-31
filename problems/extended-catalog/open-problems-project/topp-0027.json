@@ -1,0 +1,28 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0027",
+  "source_registry": "open-problems-project",
+  "title": "Hexahedral Meshing",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Can the interior of every simply connected polyhedron whose surface is meshed\nby an even number of quadrilaterals be partitioned into\na hexahedral mesh compatible with the surface meshing?~\\cite{be-ecct-99}",
+    "sha256": "8cc13e66fd86ed537f44e0eb6f23cc839e5fda9402e8ce651c4f637ab7783b90",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "partially-open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p27",
+    "source_locator": "TOPP problem 27 (Problems/P.000027)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "meshing"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0152"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0340",
+  "source_registry": "egres-open",
+  "title": "Integer decomposition of smooth polytopes",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Is it true that every [[integer polyhedron|smooth polytope]] has the [[integer decomposition property]]?",
+    "sha256": "e8e4d8d5a0a9c55a88c7d83c310c15dfb7cb98252fccacb61204792ef49a3e0b",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2014-09-22T17:09:23Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Integer_decomposition_of_smooth_polytopes&oldid=1752",
+    "source_locator": "EGRES page 340, revision 1752",
+    "source_sha256": "764cceaa37a39036c08e22f117e4fd5f674f029f3f99c74711d359d13d9b86ad",
+    "tags": [
+      "combinatorial-optimization",
+      "Integer polyhedra"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0298"
+  ]
+}

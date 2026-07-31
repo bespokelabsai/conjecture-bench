@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0234",
+  "slug": "a063880-unique-primitive-term",
+  "title": "A063880 unique primitive-term conjecture",
+  "field": "number-theory",
+  "statement": "The only n satisfying σ(n)=2·usigma(n) with no proper divisor satisfying the same identity is n=108.",
+  "counterexample": {
+    "description": "A complete prime factorization of a primitive A063880 member other than 108; the complete check exhausts every proper divisor.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://oeis.org/A063880",
+        "role": "status-and-problem-source"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OEIS/63880.lean#L93",
+        "role": "formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0692"
+    ]
+  },
+  "equivalence_group": "a063880-unitary-divisor-balance"
+}

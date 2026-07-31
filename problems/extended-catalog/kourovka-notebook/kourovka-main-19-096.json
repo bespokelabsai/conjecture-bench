@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-096",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.96 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let M be a free metabelian group of finite rank r ⩾ 2, and let P be the set of\nits primitive elements. (An element of a relatively free group is said to be primitive\nif it can be included in a basis of the group.)\n     a) Is P a first-order definable set?\n     b) Is the set of bases of the group M a first-order definable set?\n                                                                              E. I. Timoshenko",
+    "sha256": "88c8cb4ae3690649958283215541e12f0c57061ea03e7de8299d720bf4fa08d1",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=141",
+    "source_locator": "Kourovka 19.96, main section, page 141",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

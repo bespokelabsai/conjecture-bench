@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3442",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "A funcoid related to directed topological spaces",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture Let $R$ be the complete funcoid corresponding to the usual topology on extended real line $[-\\infty,+\\infty] = \\mathbb{R}\\cup\\{-\\infty,+\\infty\\}$. Let $\\geq$ be the order on this set. Then $R\\sqcap^{\\mathsf{FCD}}\\mathord{\\geq}$ is a complete funcoid.\n\nProposition It is easy to prove that $\\langle R\\sqcap^{\\mathsf{FCD}}\\mathord{\\geq}\\rangle \\{x\\}$ is the infinitely small right neighborhood filter of point $x\\in[-\\infty,+\\infty]$.\n\nIf proved true, the conjecture then can be generalized to a wider class of posets.",
+    "sha256": "e73b2d33b5d32822e0b9403cdc91142b43f7222f779201c999d33109ba8c984a",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-60019",
+    "source_locator": "dataset ID 3442; problem number OPG-60019",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

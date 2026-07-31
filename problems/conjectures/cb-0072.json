@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0072",
+  "slug": "complete-efx-for-additive-goods",
+  "title": "Complete EFX for additive goods",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Every instance of four agents with nonnegative additive valuations admits a complete EFX allocation: for every pair of agents i,j and every good g in j's bundle with positive value to i, v_i(A_i)≥v_i(A_j\\{g}).",
+  "counterexample": {
+    "description": "Four normalized rational additive valuation rows on exactly eight goods for which all 4^8 complete allocations violate EFX. A complete check exhausts the full allocation space exactly.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://eprints.gla.ac.uk/123283/",
+        "role": "supporting"
+      },
+      {
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33480",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2412.00254",
+        "role": "status"
+      },
+      {
+        "url": "https://arxiv.org/abs/2604.18216",
+        "role": "supporting"
+      }
+    ]
+  }
+}

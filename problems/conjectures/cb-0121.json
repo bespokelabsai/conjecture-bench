@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0121",
+  "slug": "erdos-287-unit-fraction-gaps",
+  "title": "Erdős problem #287: unit-fraction denominator gaps",
+  "field": "number-theory",
+  "statement": "For distinct integers 1<n₁<⋯<nₖ with reciprocal sum one, some consecutive denominator gap is at least three.",
+  "counterexample": {
+    "description": "A finite increasing denominator list with reciprocal sum exactly one and every consecutive gap at most two.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/287",
+        "role": "status"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-048",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.48 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A system of additive subgroups σij , 1 ⩽ i, j ⩽ n, of a field K is called a net\n(or a carpet) of order n if σir σrj ⊂ σij for all i, r, j. A net that does not contain\nthe diagonal is called an elementary net. A net σ = (σij ) is said to be irreducible if\nall σij are nontrivial. An elementary net σ is said to be closed if the elementary net\nsubgroup E(σ) does not contain additional elementary transvections.\n    Let R be a principal ideals domain with 1 ∈ R, let k be the field of fractions\nof R, and K an algebraic extension of the field k. Let σ = (σij ) be an irreducible\nelementary net σ = (σij ) over K such that all σij are R-modules. Is the net σ closed?\n                                                                            V. A. Koı̆baev",
+    "sha256": "2914d15d87eb7eb4f2cabb4942554de22ad8bd4db463ab43a0b8a216b6eb507e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=136",
+    "source_locator": "Kourovka 19.48, main section, page 136",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

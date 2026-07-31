@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0214",
+  "slug": "lemoine-prime-plus-twice-prime",
+  "title": "Lemoine's conjecture",
+  "field": "number-theory",
+  "statement": "Every odd integer n≥7 can be written as n=p+2q for primes p and q.",
+  "counterexample": {
+    "description": "An odd integer n≥7 for which exhaustive exact sieving finds no primes p,q with n=p+2q.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Lemoine.lean#L35",
+        "role": "status-and-formal-source"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lemoine%27s_conjecture",
+        "role": "status-background"
+      },
+      {
+        "url": "https://synapsesocial.com/papers/69f6e67c8071d4f1bdfc7398",
+        "role": "unreviewed-proof-claim"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0928"
+    ]
+  },
+  "equivalence_group": "lemoine-prime-representations"
+}

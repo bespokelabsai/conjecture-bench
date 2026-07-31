@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0018",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_1.variants.real",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 11]\ntheorem erdos_1.variants.real : ∃ C > (0 : ℝ), ∀ (N : ℕ) (A : Finset ℝ)\n    (_ : IsSumDistinctRealSet A N), N ≠ 0 → C * 2 ^ A.card < N",
+    "language_version": "Lean 4.27.0",
+    "sha256": "f1cae615209518977dad12f04a7871054b8dcb1b1328ed109438343be8032ddf",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/1.lean#L114",
+    "source_locator": "FormalConjectures/ErdosProblems/1.lean:114#erdos_1.variants.real",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

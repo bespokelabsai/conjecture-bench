@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3076",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Convex 'Fair' Partitions Of Convex Polygons",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Basic Question: Given any positive integer n, can any convex polygon be partitioned into n convex pieces so that all pieces have the same area and same perimeter?\n\nDefinitions: Define a Fair Partition of a polygon as a partition of it into a finite number of pieces so that every piece has both the same area and the same perimeter. Further, if all the resulting pieces are convex, call it a Convex Fair Partition.\n\nQuestions: 1. (Rephrasing the above 'basic' question) Given any positive integer n, can any convex polygon be convex fair partitioned into n pieces?\n\n2. If the answer to the above is \"Not always\", how does one decide the possibility of such a partition for a given convex polygon and a given n? And if fair convex partition is allowed by a specific convex polygon for a give n, how does one find the optimal convex fair partition that minimizes the total length of the cut segments?\n\n3. Finally, what could one say about higher dimensional analogs of this question?\n\nConjecture: The authors tend to believe that the answer to the above 'basic' question is \"yes\". In other words they guess: Every convex polygon allows a convex fair partition into n pieces for any n",
+    "sha256": "74d6907c004dca9e1f0aaede5c096780c3fc11e2db8f12ef07bd1432447b83e4",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-720",
+    "source_locator": "dataset ID 3076; problem number OPG-720",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:geometry",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

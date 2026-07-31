@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-08-003",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 8.3 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let m and n be positive integers and p a prime. Let Pn (Zpm ) be the group of\nall n × n matrices (aij ) over the integers modulo pm such that aii ≡ 1 for all i and\naij ≡ 0 (mod p) for all i > j. The group Pn (Zpm ) is a finite p-group. For which m\nand n is it regular?\n    Editors’ comment (2001): The group Pn (Zpm ) is known to be regular if mn < p\n(Yu. I. Merzlyakov, Algebra i Logika, 3, no. 4 (1964), 49–59 (Russian)). The case\nm = 1 is completely done by A. V. Yagzhev in (Math. Notes, 56, no. 5–6 (1995),\n1283–1290), although this paper is erroneous for m > 1. The case m = 2 is completed\nin (S. G. Kolesnikov, Issledovaniya in analysis and algebra, no. 3, Tomsk Univ., Tomsk,\n2001, 117–125 (Russian)). Editors’ comment (2009): The group Pn (Zpm ) was shown\nto be regular for any m if n2 < p (S. G. Kolesnikov, Siberian Math. J., 47, no. 6 (2006),\n1054–1059).                                                            B. A. F. Wehrfritz",
+    "sha256": "01e9c65c29b0c0a3f8192528820938bfd3c5249b675b522c2cbf33d40f9477eb",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=26",
+    "source_locator": "Kourovka 8.3, main section, page 26",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

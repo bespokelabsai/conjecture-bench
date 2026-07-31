@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0804",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "strong_sensitivity_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 68]\ntheorem strong_sensitivity_conjecture {n : ℕ} (f : (Fin n → Bool) → Bool) :\n    blockSensitivity f ≤ sensitivity f ^ 2",
+    "language_version": "Lean 4.27.0",
+    "sha256": "e44cc4a4d561bdbdd1a02528b3fd7f4ded3ba68b42fa9a574f266b52000fdc68",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Paper/StrongSensitivityConjecture.lean#L98",
+    "source_locator": "FormalConjectures/Paper/StrongSensitivityConjecture.lean:98#strong_sensitivity_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Paper",
+      "AMS-68"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0204"
+  ]
+}

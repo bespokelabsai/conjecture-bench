@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-049",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.49 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that any finite group contains a 2-generated subgroup with the same\nexponent?\n    An affirmative answer is known for soluble groups. It is also known that any\nfinite group contains a 3-generated subgroup with the same exponent (E. Detomi,\nA. Lucchini, J. London Math. Soc. (2), 87, no. 3 (2013), 689–706).        A. Lucchini",
+    "sha256": "f6d118ada43b8bd54ad5b3ed8a80f67f578e85d43c656c1cc447083f340600e5",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=151",
+    "source_locator": "Kourovka 20.49, main section, page 151",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

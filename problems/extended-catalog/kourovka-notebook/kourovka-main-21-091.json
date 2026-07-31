@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-091",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.91 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(W. Willems). Conjecture: The sum of squares of the degrees of the irreducible\np-Brauer characters of a finite group G is at least the p′ -part of |G|.\n    This is known to be true for p = 2 (G. Malle, Adv. Math., 380 (2021), Paper\nno. 107609, 15 pp.).                                                         G. Malle",
+    "sha256": "cd253d1150ed1fdf31b173066f25364af11cbadac217cbf57cfb66ae7cf540cf",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=177",
+    "source_locator": "Kourovka 21.91, main section, page 177",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

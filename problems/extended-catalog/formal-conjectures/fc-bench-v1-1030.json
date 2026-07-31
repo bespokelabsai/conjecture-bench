@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-1030",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "conjecture40",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem conjecture40 (h_conn : G.Connected) (h_nontrivial : 1 < Fintype.card α) :\n    ⌈((p G + b G + 1) / 2)⌉ ≤  G.largestInducedForestSize",
+    "language_version": "Lean 4.27.0",
+    "sha256": "30f3e58525a5448ada06a7fe8f1b01a5b514024c7866cdf37e503a03236cd59d",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/WrittenOnTheWallII/GraphConjecture40.lean#L40",
+    "source_locator": "FormalConjectures/WrittenOnTheWallII/GraphConjecture40.lean:40#conjecture40",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "WrittenOnTheWallII",
+      "AMS-5"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0272"
+  ]
+}

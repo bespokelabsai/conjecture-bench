@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0257",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_352",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 51]\ntheorem erdos_352 :\n    answer(sorry) ↔ ∃ c > (0: ℝ), ∀ A : Set ℝ², MeasurableSet A → ℙ A ≥ c.toEReal\n       → (∃ t : Affine.Triangle ℝ ℝ²,\n           (∀ p : Fin 3, t.points p ∈ A) ∧\n           EuclideanGeometry.triangle_area (t.points 0) (t.points 1) (t.points 2) = 1)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "bcaf71b7c510f9beadae0d02f95c96a329250a34dc8dafecb343defa85cec0d5",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/352.lean#L34",
+    "source_locator": "FormalConjectures/ErdosProblems/352.lean:34#erdos_352",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-51"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

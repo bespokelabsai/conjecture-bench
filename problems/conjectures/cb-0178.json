@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0178",
+  "slug": "jesmanowicz-conjecture",
+  "title": "Jeśmanowicz conjecture",
+  "field": "number-theory",
+  "statement": "For a primitive Pythagorean triple a²+b²=c², the only positive solution of aˣ+bʸ=cᶻ is x=y=z=2.",
+  "counterexample": {
+    "description": "A primitive Pythagorean triple and positive exponents other than (2,2,2) satisfying the equation.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1007/s12044-024-00775-5",
+        "role": "supporting"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2872",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.74",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $Y$ be a rational homology sphere and $f:Y\\to Y$ be a self-diffeomorphism of $Y$. Suppose $W$ is a 4-manifold with boundary $Y$ such that $f$ extends to a self-diffeomorphism of $W$.\n\n(a) What constraints are there on the intersection form of $W$?\n\n(b) Does there exist a pair $(Y,f)$ such that $Y$ bounds a homology ball but $f:Y\\to Y$ does not extend over any definite manifold of either sign?\n\n(c) Develop methods for constraining the intersection form of $W$ that apply to indefinite, non-spin $W$.",
+    "sha256": "1b127d8696326e5ded3ccee99034e76a4da4dba1b52096465e4c0dfcf77219cb",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.74",
+    "source_locator": "dataset ID 2872; problem number KP-3.74",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

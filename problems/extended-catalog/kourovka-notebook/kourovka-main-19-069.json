@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-069",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.69 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(P. Wesolek). The acronym tdlc stands for totally disconnected and locally\ncompact, and tdlcsc for tdlc and second countable. Let Res(G) denote the intersection\nof all open normal subgroups of a topological group G. The class of elementary tdlcsc\ngroups is defined as the smallest class E of tdlcsc groups such that\n  (1) E contains all second countable profinite groups and countable discrete groups;\n  (2) E is closed under taking closed subgroups, Hausdorff quotients, directed unions\n       of open subgroups, and group extensions.\nThis class admits a well-behaved, ordinal-valued decomposition rank ξ defined recur-\nsively as follows: ξ({1}) = 1, and if G ∈ E is a union of an increasing sequence (Oi )\nof compactly generated open subgroups, then ξ(G) = supi {ξ(Res(Oi ))} + 1.\n    What is the supremum of the decomposition ranks of elementary tdlcsc groups?\nIn particular, is it countable?                                               C. Reid",
+    "sha256": "5fec8aaee580471e2f38496e80912790825226e54a998caf265e1305739188d5",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=139",
+    "source_locator": "Kourovka 19.69, main section, page 139",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

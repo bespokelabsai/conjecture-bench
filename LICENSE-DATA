@@ -1,0 +1,19 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The problem records, browse tables, schemas, and documentation in this
+repository — the curation, selection, arrangement, and original text written
+by Bespoke Labs — are licensed under the Creative Commons Attribution 4.0
+International licence.
+
+  Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+  Summary:           https://creativecommons.org/licenses/by/4.0/
+
+Copyright 2026 Bespoke Labs.
+
+This licence covers only what Bespoke Labs created. Problem statements and
+data reproduced from upstream collections remain the work of their authors
+and are not relicensed by this file. NOTICE lists every upstream source, its
+terms where stated, and what this repository holds from it.
+
+The code in this repository (scripts/ and tests/) is separately licensed
+under the Apache License 2.0; see LICENSE.

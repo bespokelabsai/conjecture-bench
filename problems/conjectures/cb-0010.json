@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0010",
+  "slug": "bergefulkerson-conjecture",
+  "title": "Berge–Fulkerson conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Berge–Fulkerson conjecture · 1971–1972. Every bridgeless cubic graph has six perfect matchings covering every edge exactly twice.",
+  "counterexample": {
+    "description": "A connected bridgeless cubic graph on 38 vertices for which no multiset of six perfect matchings covers every edge exactly twice. A complete check enumerates all perfect matchings and the complete cover search.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0095895613000312",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2603.17789",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "berge-fulkerson-six-perfect-matchings"
+}

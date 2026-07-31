@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-023",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.23 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "An automorphism φ of a group G is called a nil-automorphism if, for every\na ∈ G, there exists n such that [a, n φ] = 1. Here [x, 1 y] = [x, y] and [x, i+1 y] =\n[[x, i y], y]. An automorphism φ is called an e-automorphism if, for any two φ-invari-\nant subgroups A and B such that A ̸⊆ B, there exists a ∈ A \\ B such that [a, φ] ∈ B.\nIs every e-automorphism of a group a nil-automorphism?                 V. G. Vilyatser",
+    "sha256": "5b402389808e8e78d2154844ced65c39d6ec8ed3312dbd3606af0f12d574e3a7",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=47",
+    "source_locator": "Kourovka 11.23, main section, page 47",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-1015",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "infinite_isWallSunSunPrime_of_disc_eq",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem infinite_isWallSunSunPrime_of_disc_eq {D : ℕ} (hD₀ : 0 < D)\n    (hD : D ≡ 0 [MOD 4] ∨ D ≡ 1 [MOD 4]) :\n    {p : ℕ | ∃ a b : ℕ, a ^ 2 - 4 * b = D ∧ IsLucasWieferichPrime a b p}.Infinite",
+    "language_version": "Lean 4.27.0",
+    "sha256": "5acaf00f56cd55c957004597e2ec4ff796b9107161521cd765553ade73407d9c",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/WallSunSun.lean#L52",
+    "source_locator": "FormalConjectures/Wikipedia/WallSunSun.lean:52#infinite_isWallSunSunPrime_of_disc_eq",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

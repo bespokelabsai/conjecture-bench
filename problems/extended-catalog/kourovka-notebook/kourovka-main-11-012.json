@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-012",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.12 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "a) Suppose that G is a simple locally finite group in which the centralizer of\nsome element is a linear group, that is, a group admitting a faithful matrix represen-\ntation over a field. Is G itself a linear group?\n    b) The same question with replacement of the word “linear” by “finitary linear”.\nA group H is finitary linear if it admits a faithful representation on an infinite-\ndimensional vector space V such that the residue subspaces V (1 − h) have finite\ndimensions for all h ∈ H.                                               A. V. Borovik",
+    "sha256": "13fe07f819e02184d8637f8baf236920be889ea1e2002bb61b38caf10ecea212",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=46",
+    "source_locator": "Kourovka 11.12, main section, page 46",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

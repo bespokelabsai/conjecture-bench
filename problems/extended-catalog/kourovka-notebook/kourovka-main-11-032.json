@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-032",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.32 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Describe the primitive finite linear groups that contain a matrix with simple\nspectrum, that is, a matrix all of whose eigenvalues are of multiplicity 1. See partial\nresults in (A. Zalesskii, I. D. Suprunenko, Commun. Algebra, 26, no. 3 (1998), 863–\n888; 28, no. 4 (2000), 1789–1833; Ch. Rudloff, A. Zalesski, J. Group Theory, 10\n(2007), 585–612; L. Di Martino, A. E. Zalesski, J. Algebra Appl., 11, no. 2 (2012),\n1250038; L. Di Martino, M. Pellegrini, A. Zalesski, Commun. Algebra, 42 (2014),\n880–908, where the problem is considered in a more general context, when all but one\neigenvalue have multiplicity 1.).                                        A. E. Zalesskiı̆\n  ∗ The project has been completed in (L. Di Martino, M. Pellegrini, A. Zalesski,\nJ. Group Theory, 23 (2020), 235–285; A. Zalesski, European J. Math., 10 (2024),\narticle no. 55; A. Zalesski, Preprint, 2025, https://arxiv.org/abs/2509.05770).",
+    "sha256": "16a07e864f95f77f985a6ee0f266d4600f7d948289a5c356121440fb47fe0373",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=48",
+    "source_locator": "Kourovka 11.32, main section, page 48",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

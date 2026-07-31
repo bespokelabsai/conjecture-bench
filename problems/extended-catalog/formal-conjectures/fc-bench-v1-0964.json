@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0964",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "lehmer_ramanujan_tau",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem lehmer_ramanujan_tau : ∀ n > 0, τ n ≠ 0",
+    "language_version": "Lean 4.27.0",
+    "sha256": "a2f948969ba4acd1cb9c7d5bef41f5be275d8fd2d49788a9a31572a06d8531f4",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/RamanujanTau.lean#L65",
+    "source_locator": "FormalConjectures/Wikipedia/RamanujanTau.lean:65#lehmer_ramanujan_tau",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0182"
+  ]
+}

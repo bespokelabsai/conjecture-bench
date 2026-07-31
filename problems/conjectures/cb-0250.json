@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0250",
+  "slug": "catch-up-even-total-draw",
+  "title": "Catch-Up even-total draw conjecture",
+  "field": "combinatorial-game-theory",
+  "statement": "Under optimal play, Catch-Up on {1,…,N} ends in a draw whenever N(N+1)/2 is even.",
+  "counterexample": {
+    "description": "An integer N with even triangular total for which exact minimax evaluation gives either player a forced win.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Paper/CatchUpConjecture.lean#L178",
+        "role": "formal-and-status-source"
+      },
+      {
+        "url": "https://www.nealen.net/papers/catch-up-a-game-in-which-the-lead-alternates-2015.pdf",
+        "role": "original-game-source"
+      },
+      {
+        "url": "https://ludicum.org/cgtc-iii/",
+        "role": "computational-status"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0745"
+    ]
+  },
+  "equivalence_group": "catch-up-game"
+}

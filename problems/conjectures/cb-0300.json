@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0300",
+  "slug": "independent-convex-arborescences",
+  "title": "Independent arborescences on convex sets in acyclic digraphs",
+  "field": "directed-graphs-and-independent-arborescences",
+  "statement": "Let D=(V,A) be an acyclic digraph, let r_1,...,r_k be designated roots, and let U_1,...,U_k be convex vertex sets with r_i in U_i. If, for every v, the paths r_i-to-v for all i with v in U_i can be chosen pairwise openly node-disjoint, then there are independent r_i-arborescences F_i with V(F_i)=U_i.",
+  "counterexample": {
+    "description": "An acyclic digraph with three distinct roots and three convex sets having a genuine three-way overlap, where the required openly node-disjoint paths exist locally at every vertex but no independent family of three prescribed-set arborescences exists.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://lemon.cs.elte.hu/egres/open/Independent_arborescences_in_acyclic_digraphs",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Independent_arborescences_in_acyclic_digraphs&oldid=1812",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.disc.2012.11.006",
+        "role": "common-root-and-at-most-two-set-membership-special-cases"
+      }
+    ],
+    "discovery_records": [
+      "egres-0123"
+    ]
+  },
+  "equivalence_group": "independent-convex-arborescences"
+}

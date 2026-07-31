@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0161",
+  "source_registry": "egres-open",
+  "title": "Conforti-Cornuéjols conjecture on the MFMC property",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Is it true that a [[clutter]] has the [[Clutter|MFMC property]] if and only if it has the [[Clutter|packing property]]?",
+    "sha256": "a51d5b9f169c8717dc7d2b1c751b2d11521088294979a7fc02b974c2b3d76a95",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2013-12-18T15:26:24Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Conforti-Cornu%C3%A9jols_conjecture_on_the_MFMC_property&oldid=1602",
+    "source_locator": "EGRES page 161, revision 1602",
+    "source_sha256": "addaa5f73e618fbabeb91f83ad94899460b40d5c9a9cf7c242c68d5236cb40ff",
+    "tags": [
+      "combinatorial-optimization",
+      "Integer polyhedra"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

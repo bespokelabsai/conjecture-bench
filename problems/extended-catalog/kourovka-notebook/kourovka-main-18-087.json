@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-087",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.87 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A system of equations with coefficients in a group G is said to be independent\nif the matrix composed of the sums of exponents of the unknowns has rank equal to\nthe number of equations.\n     a) The Kervaire–Laudenbach Conjecture (KLC): every independent system of\nequations with coefficients in an arbitrary group G has a solution in some over-\ngroup Ḡ. This is true for every locally residually finite group G (M. Gerstenhaber\nand O. S. Rothaus).\n    b) KLC — nilpotent version: every independent system of equations with coeffi-\ncients in an arbitrary nilpotent group G has a solution in some nilpotent overgroup Ḡ.\n     c) KLC — solvable version: every independent system of equations with coeffi-\ncients in an arbitrary solvable group G has a solution in some solvable overgroup Ḡ.\n                                                                            V. A. Roman’kov",
+    "sha256": "31eb970e1777cb3d628941d95a6684b29e93838634b4dae343f8da5eada683a1",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=125",
+    "source_locator": "Kourovka 18.87, main section, page 125",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

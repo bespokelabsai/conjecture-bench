@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-090",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.90 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let P be a finite p-group of abundance a and nilpotency class c. Does there\nexist an integer t = t(a) such that γi (G) = ζc−i+1 (G) for i ⩾ t? This holds for a = 0\nwith t = 1, since P has maximal class; it can be proved that for a = 1 one can take\nt = 3.                                                           G. Fernández–Alcober",
+    "sha256": "b8d1ed47e6a30d319392c30da58f55b83d6b1b981d2405548007fac2763a15a1",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=80",
+    "source_locator": "Kourovka 14.90, main section, page 80",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

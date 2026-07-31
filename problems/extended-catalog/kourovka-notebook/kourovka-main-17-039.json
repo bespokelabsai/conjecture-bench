@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-039",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.39 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is there a positive integer n such that the hypercenter of any finite soluble\ngroup coincides with the intersection of n system normalizers of that group? What is\nthe least number with this property?\n   Comment of 2017: This is proved for groups with trivial Frattini subgroup\n(A. Ballester-Bolinches, J. Cossey, S. F. Kamornikov, H. Meng, J. Algebra, 499 (2018),\n438–449).                                              A. F. Vasil’ev, L. A. Shemetkov",
+    "sha256": "58742dcab9270d0f6b70c8ad23c3fc5e0ace93fab6dc9ec0e0b17e3fe9b2a57b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=106",
+    "source_locator": "Kourovka 17.39, main section, page 106",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

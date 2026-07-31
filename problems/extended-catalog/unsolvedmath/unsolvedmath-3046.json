@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3046",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Beneš Conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $E$ be a non-empty finite set. Given a partition $\\bf h$ of $E$, the stabilizer of $\\bf h$, denoted $S(\\bf h)$, is the group formed by all permutations of $E$ preserving each block of $\\mathbf h$.\n\nProblem ( $\\star$ ) Find a sufficient condition for a sequence of partitions ${\\bf h}_1, \\dots, {\\bf h}_\\ell$ of $E$ to be complete, i.e. such that the product of their stabilizers $S({\\bf h}_1) S({\\bf h}_2) \\dots S({\\bf h}_\\ell)$ is equal to the whole symmetric group $\\frak S(E)$ on $E$. In particular, what about completeness of the sequence $\\bf h,\\delta(\\bf h),\\dots,\\delta^{\\ell-1}(\\bf h)$, given a partition $\\bf h$ of $E$ and a permutation $\\delta$ of $E$?\n\nConjecture (Beneš) Let $\\bf u$ be a uniform partition of $E$ and $\\varphi$ be a permutation of $E$ such that $\\bf u\\wedge\\varphi(\\bf u)=\\bf 0$. Suppose that the set $\\big(\\varphi S({\\bf u})\\big)^{n}$ is transitive, for some integer $n\\ge2$. Then $$\\frak S(E) = \\big(\\varphi S({\\bf u})\\big)^{2n-1}.$$",
+    "sha256": "8d09ac113a8a0fef96dff054f0b6b095be656b0fcac1612c41c6fc273d43c822",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-37181",
+    "source_locator": "dataset ID 3046; problem number OPG-37181",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:combinatorics",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

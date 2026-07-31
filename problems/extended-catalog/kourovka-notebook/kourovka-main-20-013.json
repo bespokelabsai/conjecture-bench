@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-013",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.13 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(a) If an abelian group can be written as a homomorphic image of a non-\nprincipal countable ultraproduct of not necessarily abelian groups Gi , must it be a\nhomomorphic image of a nonprincipal countable ultraproduct of abelian groups? See\n(G. M. Bergman, Pacific J. Math., 274 (2015), 451–495).\n   (b) If an abelian group can be written as a homomorphic image of a direct product\nof an infinite family of not necessarily abelian finite groups, can it be written as a\nhomomorphic image of a direct product of finite abelian groups?\n    To see that neither question is trivial, choose for each n > 0 a finite group Gn\nwhich is perfect but has elements which cannot be written as products of fewer than\nn commutators. Then both the direct product of the Gn and any nonprincipal ultra-\nproduct of those groups will have elements which are not products of commutators;\nhence its abelianization A will be nontrivial. There is no evident family of abelian\ngroups from which to obtain A as an image of a nonprincipal ultraproduct, nor a fam-\nily of finite abelian groups from which to obtain A as an image of a direct product.\n                                                                   G. M. Bergman\n  ∗ (a) Yes, it must (S. M. Corson, Preprint, 2025, https://arxiv.org/pdf/2503.\n09228).\n  ∗ (b) Yes it can (S. M. Corson, Preprint, 2025, https://arxiv.org/pdf/2503.\n09228).",
+    "sha256": "6b486b4c954e3b707f653404dab895ab8924db1a6c0a773841e1fd51692f84b6",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=146",
+    "source_locator": "Kourovka 20.13, main section, page 146",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-065",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.65 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "It is well known that varieties of groups form a free semigroup N\n(A. L. Shmel’kin, DAN SSSR, 149 (1963), 543–545 (Russian)); B. H. Neuman,\nH. Neumann, P. M. Neumann, Math. Z., 80 (1962), 44–62). Varieties of linear repre-\nsentations over an infinite field of zero characteristic also form a free semigroup M ,\nand N acts freely on M (B. I. Plotkin, Siberian Math. J., 13, no. 5 (1972), 713–729) A\nsimilar theorem holds for Lie algebras (V. A. Parfenov, Algebra Logika, 6, no. 4 (1967),\n61–73 (Russian); L. A. Simonyan, Siberian Math. J., 29, no. 2 (1988), 276–283).\n   Are there other varieties of algebras Θ where the same situation takes place?\n                                                                                   B. I. Plotkin",
+    "sha256": "e5630afdcf14a2757305f3ec3e67830e11bb721b202f3519781c66b731a32dc8",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=138",
+    "source_locator": "Kourovka 19.65, main section, page 138",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

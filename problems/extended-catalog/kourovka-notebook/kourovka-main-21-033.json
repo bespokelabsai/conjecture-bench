@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-033",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.33 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does an analogue of Dunwoody’s theorem hold for totally disconnected lo-\ncally compact groups, that is, must a tdlc group of rational discrete cohomological\ndimension at most 1 be topologically isomorphic to the fundamental group of a graph\nof profinite groups?                                                    I. Castellano",
+    "sha256": "db51390cc8c8405908f346537823d81de82b0611b6ec543e46b092e2dda2e7af",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=169",
+    "source_locator": "Kourovka 21.33, main section, page 169",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

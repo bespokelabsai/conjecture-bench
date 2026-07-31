@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-1012",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "vaught_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 3]\ntheorem vaught_conjecture {L : FirstOrder.Language} (hL : Countable L.Symbols)\n                          {T : L.Theory} (hT : T.IsComplete) :\n  numberOfCountableModels T ≤ Cardinal.aleph0 ∨ numberOfCountableModels T = Cardinal.continuum",
+    "language_version": "Lean 4.27.0",
+    "sha256": "ba135d064075646e0ed36841a5a71fd5453befada4e54a89f98e967b36b6da7a",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/VaughtConjecture.lean#L40",
+    "source_locator": "FormalConjectures/Wikipedia/VaughtConjecture.lean:40#vaught_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-3"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2887",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.11",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let M be a smooth 4-manifold and letf: $S^{2} \\to M$ be a smooth embedding with trivial normal bundle. Then let $M_{f}$ denote the result of Gluck twisting on M along f.\n\n(a) Does there exist an orientable M, and an embedding f, such that M and $M_{f}$ are homeomorphic but not diffeomorphic?\n\n(b) Does there exist an orientable M, and smooth, homotopic embeddings f, $g: S^{2} \\to M$ with trivial normal bundle such that $M_{f}$ and $M_{g}$ are homeomorphic but not diffeomorphic?",
+    "sha256": "5c53f172d5ee3ef2b86e1c908312c5bc3289dc9433cb735b1ac58e603ec7351d",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.11",
+    "source_locator": "dataset ID 2887; problem number KP-4.11",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

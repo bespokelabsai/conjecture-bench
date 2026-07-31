@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-056",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.56 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that a subgroup H of a finite group G is such that HM = M H for\nevery minimal non-nilpotent subgroup M of G. Must H/HG be nilpotent, where HG\nis the largest normal subgroup of G contained in H? V. N. Knyagina, V. S. Monakhov\n  ∗ No, not always (A. Ballester-Bolinches, R. Esteban-Romero, S. F. Kamornikov,\nV. Pérez-Calabuig, J. Algebra, 608 (2022), 382–387).",
+    "sha256": "d30f2d1643ea34f771f8650d47f323f1ff179743a13413ee191bd257833895b5",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=108",
+    "source_locator": "Kourovka 17.56, main section, page 108",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0087",
+  "slug": "chollets-permanent-conjecture",
+  "title": "Chollet’s permanent conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Chollet’s permanent conjecture · 1982. Chollet proposed \\(\\operatorname{per}(A\\circ B)\\le\\operatorname{per}(A)\\operatorname{per}(B)\\) for Hermitian PSD matrices (history).",
+  "counterexample": {
+    "description": "Two rational Hermitian PSD matrices reversing it suffice. Exact LDL decomposition certifies PSD, and Ryser’s formula computes permanents.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2604.24192",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2211.02839",
+        "role": "supporting"
+      }
+    ]
+  }
+}

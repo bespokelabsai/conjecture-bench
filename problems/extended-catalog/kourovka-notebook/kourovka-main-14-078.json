@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-078",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.78 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that H ⊆ F1 ⊆ M and H ⊆ F2 ⊆ M where H and M are\nlocal formations of finite groups and F1 is a complement for F2 in the lattice of all\nformations between H and M. Is it true that F1 and F2 are local formations? This is\ntrue in the case H = (1).                                                A. N. Skiba",
+    "sha256": "d7cf7f94e333bb977a15d206b7300797a7ce35d03141697db3f09d44255bac58",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=80",
+    "source_locator": "Kourovka 14.78, main section, page 80",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

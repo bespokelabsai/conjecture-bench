@@ -1,0 +1,28 @@
+name: Validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: python -m pip install --quiet -r requirements-dev.txt
+      - name: Validate records and tables
+        run: |
+          python scripts/validate_records.py
+          python scripts/build_browse_tables.py --check
+      - name: Smoke test the export
+        run: python scripts/export_records.py > /dev/null
+      - name: Run the test suite
+        run: python -m pytest -q

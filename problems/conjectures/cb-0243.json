@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0243",
+  "slug": "suranyi-factorial-equation",
+  "title": "Surányi factorial equation conjecture",
+  "field": "number-theory",
+  "statement": "The only integers n,a,b>1 satisfying n!=a!b!, b≤a, and a+1≠n are (n,a,b)=(10,7,6).",
+  "counterexample": {
+    "description": "A triple other than (10,7,6) satisfying the exact factorial equation and all stated nontriviality and ordering conditions.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/373",
+        "role": "status-and-problem-source"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/373.lean#L86",
+        "role": "formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0295"
+    ]
+  },
+  "equivalence_group": "erdos-373-factorial-products"
+}

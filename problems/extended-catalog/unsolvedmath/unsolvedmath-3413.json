@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3413",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Realisation problem for the space of knots in the 3-sphere",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem Given a link $L$ in $S^3$, let the symmetry group of $L$ be denoted $Sym(L) = \\pi_0 Diff(S^3,L)$ ie: isotopy classes of diffeomorphisms of $S^3$ which preserve $L$, where the isotopies are also required to preserve $L$.\n\nNow let $L$ be a hyperbolic link. Assume $L$ has the further `Brunnian' property that there exists a component $L_0$ of $L$ such that $L \\setminus L_0$ is the unlink. Let $A_L$ be the subgroup of $Sym(L)$ consisting of diffeomorphisms of $S^3$ which preserve $L_0$ together with its orientation, and which preserve the orientation of $S^3$.\n\nThere is a representation $A_L \\to \\pi_0 Diff(L \\setminus L_0)$ given by restricting the diffeomorphism to the $L \\setminus L_0$. It's known that $A_L$ is always a cyclic group. And $\\pi_0 Diff(L \\setminus L_0)$ is a signed symmetric group -- the wreath product of a symmetric group with $\\mathbb Z_2$.\n\nProblem: What representations can be obtained?",
+    "sha256": "07de4b0fcb8018397615ca3de86346aab706511a7b191487008676dffb525fa6",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-37131",
+    "source_locator": "dataset ID 3413; problem number OPG-37131",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

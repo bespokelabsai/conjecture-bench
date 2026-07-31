@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-07-050",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 7.50 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Study the structure of the primitive permutation groups (finite and infinite),\nin which the stabilizer of any three pairwise distinct points is trivial. This problem is\nclosely connected with the problem of describing those group which have a Frobenius\ngroup as one of maximal subgroups.                                           A. N. Fomin",
+    "sha256": "d6ea8a06e6b489017a72e2505be8cf51cd244be38509b0c786f444d8be7d6774",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=24",
+    "source_locator": "Kourovka 7.50, main section, page 24",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

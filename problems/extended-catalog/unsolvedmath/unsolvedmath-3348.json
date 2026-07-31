@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3348",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "A discrete iteration related to Pierce expansions",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture Let $a > b > 0$ be integers. Set $b_1 = b$ and $b_{i+1} = {a \\bmod {b_i}}$ for $i \\geq 0$. Eventually we have $b_{n+1} = 0$; put $P(a,b) = n$.\n\nExample: $P(35, 22) = 7$, since $b_1 = 22$, $b_2 = 13$, $b_3 = 9$, $b_4 = 8$, $b_5 = 3$, $b_6 = 2$, $b_7 = 1$, $b_8 = 0$.\n\nProve or disprove: $P(a,b) = O((\\log a)^2)$.",
+    "sha256": "fb8d7964f856ae94c7d0d882fa2e1dc78ae2a51d131b7df9f175a788be8ef6e0",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-819",
+    "source_locator": "dataset ID 3348; problem number OPG-819",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

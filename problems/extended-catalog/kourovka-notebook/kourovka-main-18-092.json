@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-092",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.92 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A non-empty set θ of formations is called a complete lattice of formations\nif the intersection of any set of formations in θ belongs to θ and θ has the largest\nelement (with respect to inclusion).\n                               W      If L is a complete lattice, then anWelement a ∈ L\nis said to be compact if a ⩽ X for any X ⊆ L implies that a ⩽ X1 for some\nfinite X1 ⊂ X. A complete lattice is called algebraic if every element is the join of a\n(possibly infinite) set of compact elements.\n    a) Is there a non-algebraic complete lattice of formations of finite groups?\n    b) Is there a non-modular complete lattice of formations of finite groups?\n                                                                               A. N. Skiba",
+    "sha256": "45fb6ce21996bc3b3dd4547c0fcce64a42317a5828cfdfedff061dbeb9d7bf26",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=126",
+    "source_locator": "Kourovka 18.92, main section, page 126",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

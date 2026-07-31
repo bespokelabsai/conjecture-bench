@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-030",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.30 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(O. N. Golovin). On the class of all groups, do there exist associative op-\nerations which satisfy the postulates of MacLane and Mal’cev (that is, which are\nfree functorial and hereditary) and which are different from taking free and direct\nproducts?                                                               S. V. Ivanov",
+    "sha256": "4e40bf2f5c4a463950ccd4a582a25d6112e22aa8f5ff414d6f01d1f692bf02d2",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=59",
+    "source_locator": "Kourovka 12.30, main section, page 59",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

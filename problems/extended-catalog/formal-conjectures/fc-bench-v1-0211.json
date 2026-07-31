@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0211",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_313",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_313 : answer(sorry) ↔ erdos313Solutions.Infinite",
+    "language_version": "Lean 4.27.0",
+    "sha256": "48cbc6aaa9d7f0e73b5bf5a70c179086996bbd115afaf5b3bd6edd60e84acbae",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/313.lean#L42",
+    "source_locator": "FormalConjectures/ErdosProblems/313.lean:42#erdos_313",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

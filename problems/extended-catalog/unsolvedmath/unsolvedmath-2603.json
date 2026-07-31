@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2603",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.94",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "The Gruenberg--Kegel graph (or the prime graph) GK(G) of a finite group G is a labelled graph with vertex set consisting of all prime divisors of the order of G in which different vertices p and q are adjacent if and only if G contains an element of order pq. Let GK(G) denote the abstract graph obtained from GK(G) by removing all labels. A finite group G is said to be recognizable by the isomorphism type of its Gruenberg--Kegel graph if there are no finite groups H $\\ncong$ G with GK(H) isomorphic to GK(G). Are there infinitely many (pairwise non-isomorphic) finite groups which are recognizable by the isomorphism type of the Gruenberg--Kegel graph?",
+    "sha256": "a275680e212e8773adb9986bc910c3245442504f6d1db7fe36f12bc4dedbfdf8",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.94",
+    "source_locator": "dataset ID 2603; problem number KOU-21.94",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

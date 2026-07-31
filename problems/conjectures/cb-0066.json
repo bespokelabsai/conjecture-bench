@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0066",
+  "slug": "hadwigerlevi-illumination",
+  "title": "Hadwiger–Levi illumination",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "Every convex body in R³ can be illuminated by at most eight directions.",
+  "counterexample": {
+    "description": "A rational three-dimensional polytope requiring more than eight illuminating directions. Vertex tangent cones reduce the claim to finite cone-cover infeasibility with CAD, SAT, or Positivstellensatz certification.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://ems.press/content/serial-article-files/52513",
+        "role": "supporting"
+      },
+      {
+        "url": "https://doi.org/10.1007/s00493-025-00195-7",
+        "role": "supporting"
+      }
+    ]
+  }
+}

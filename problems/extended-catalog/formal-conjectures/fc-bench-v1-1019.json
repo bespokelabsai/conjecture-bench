@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-1019",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "conjecture141",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem conjecture141 (G : SimpleGraph α) (h : G.Connected) :\n    G.girth / 2 - 1 + (Finset.univ.sup (indepNeighborsCard G)) ≤\n    largestInducedTreeSize G",
+    "language_version": "Lean 4.27.0",
+    "sha256": "a8b72fe4752aeaefff0e25c470afa1e1ddf2560b4597bf48399b9fd40a43417b",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/WrittenOnTheWallII/GraphConjecture141.lean#L41",
+    "source_locator": "FormalConjectures/WrittenOnTheWallII/GraphConjecture141.lean:41#conjecture141",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "WrittenOnTheWallII",
+      "AMS-5"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0265"
+  ]
+}

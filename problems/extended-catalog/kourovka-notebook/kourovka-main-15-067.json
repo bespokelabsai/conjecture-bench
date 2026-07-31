@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-067",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.67 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Which adjoint Chevalley groups (of normal type) over the integers are gener-\nated by three involutions two of which commute?\n    The groups SLn (Z), n > 13, satisfy this condition (M. C. Tamburini, P. Zucca,\nJ. Algebra, 195, no. 2 (1997), 650–661). The groups P SLn (Z) satisfy it if and only\nif n > 4 (N. Ya. Nuzhin, Vladikavkaz. Mat. Zh., 10, no. 1 (2008), 68–74 (Russian)).\nThe group P Sp4 (Z) does not satisfy it, which follows from the corresponding fact for\nP Sp4 (3), see Archive, 7.30. The group G2 satisfies it (I. A. Timofeenko, J. Siberian\nFed. Univ. Ser. Math. Phys., 8, no. 1 (2015), 104–108. The group El satisfies it\n(I. A. Timofeenko, Sibrsk. Èlectron. Mat. Izv., 14 (2017), 807–820 (Russian)).\n                                                                         Ya. N. Nuzhin",
+    "sha256": "07486a09f6e652ab9b37b524240b2a236992f44d80a4665f932db276f19c9b9e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=90",
+    "source_locator": "Kourovka 15.67, main section, page 90",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

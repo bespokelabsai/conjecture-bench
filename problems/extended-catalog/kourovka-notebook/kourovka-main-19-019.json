@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-019",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.19 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A finite transitive permutation group G is said to have the road closure\nproperty if, given any orbit O of G on 2-sets, and any proper block of imprimitivity\nfor G acting on O, the graph with edge set O \\ B is connected. Such a group must\nbe primitive, and basic (not contained in a wreath product with the product action);\nit cannot have an imprimitive subgroup of index 2. In addition, such a group cannot\nbe one of the permutation groups arising from triality (whose socle is D4 (q) and\nintersects the point stabiliser in the parabolic subgroup corresponding to the three\nleaves in the Coxeter–Dynkin diagram for D4 ).\n    Classify the basic primitive groups G which do not have the road closure property.\nIn particular, is it true that such a group either has a subgroup of index at most 3 or\nis almost simple?                                                        P. J. Cameron",
+    "sha256": "5ccc9397fd480ba402a70b3f92a0489dd3b82b08c8be53877359dc023dca7fd7",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=132",
+    "source_locator": "Kourovka 19.19, main section, page 132",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

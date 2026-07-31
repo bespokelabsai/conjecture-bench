@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0570",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "green_12",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 11]\ntheorem green_12 : answer(sorry) ↔\n    ∀ {G : Type*} [AddCommGroup G] [Fintype G] [DecidableEq G],\n    ∀ (A : Finset G),\n    let N := Fintype.card G\n    let α := (A.card : ℝ) / N\n    let valid_tuples : Finset ((Fin 5 → G) × (Fin 5 → G)) := Finset.univ.filter (fun t =>\n      ∀ i : Fin 5, ∀ j ∈ ({i, i + 1, i + 2} : Finset (Fin 5)), t.1 i + t.2 j ∈ A)\n    (valid_tuples.card : ℝ) ≥ α ^ 15 * (N : ℝ) ^ 10",
+    "language_version": "Lean 4.27.0",
+    "sha256": "3ddc321089755bf11e17be410f81a09f42d961797fadb13ee92625b7b48c22c9",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/12.lean#L37",
+    "source_locator": "FormalConjectures/GreensOpenProblems/12.lean:37#green_12",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-5",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

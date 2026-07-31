@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-094",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.94 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "If G = [G, G], then the commutator width of the group G is its width relative\nto the set of commutators. Let V be an infinite-dimensional vector space over a\ndivision ring. It is known that the commutator width of GL(V ) is finite. Is it true\nthat the commutator width of GL(V ) is one?                             V. Tolstykh",
+    "sha256": "c27d8d1e4f12011f3adb48f31a1a3e12bd7fa90263103c45b7595545f04d02b4",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=102",
+    "source_locator": "Kourovka 16.94, main section, page 102",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

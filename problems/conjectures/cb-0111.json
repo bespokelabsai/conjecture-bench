@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0111",
+  "slug": "r-5-5-43",
+  "title": "\\(R(5,5)=43\\)",
+  "field": "ramsey-theory",
+  "statement": "The diagonal Ramsey number R(5,5) equals 43.",
+  "counterexample": {
+    "description": "A red/blue coloring of \\(K_{43}\\) with no monochromatic \\(K_5\\), proving \\(R(5,5)\\ge44\\). Current rigorous bounds are \\(43\\le R(5,5)\\le46\\).",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "legacy-15-inventory-without-forecasts",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1006/jctb.1996.1741",
+        "role": "supporting"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.70029",
+        "role": "supporting"
+      }
+    ]
+  }
+}

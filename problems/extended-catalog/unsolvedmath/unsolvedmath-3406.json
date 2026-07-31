@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3406",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Refuting random 3SAT-instances on $O(n)$ clauses (weak form)",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture For every rational $\\epsilon > 0$ and every rational $\\Delta$, there is no polynomial-time algorithm for the following problem.\n\nGiven is a 3SAT (3CNF) formula $I$ on $n$ variables, for some $n$, and $m = \\floor{\\Delta n}$ clauses drawn uniformly at random from the set of formulas on $n$ variables. Return with probability at least 0.5 (over the instances) that $I$ is typical without returning typical for any instance with at least $(1 - \\epsilon)m$ simultaneously satisfiable clauses.",
+    "sha256": "ef00152304e1a07ec7fbee242cc4504c6fcecdd88f70fa68fe681ec32b63c007",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-36884",
+    "source_locator": "dataset ID 3406; problem number OPG-36884",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:computer-science",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

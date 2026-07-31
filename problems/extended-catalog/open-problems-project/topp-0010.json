@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0010",
+  "source_registry": "open-problems-project",
+  "title": "Simple Linear-Time Polygon Triangulation",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Is there a deterministic, linear-time polygon triangulation\nalgorithm significantly simpler than that of Chazelle~\\cite{c-tsplt-91a}?",
+    "sha256": "44baa9dd717097a069a4f8b733f0d28b3914f7744e75dfe7db9f5765a34653bf",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p10",
+    "source_locator": "TOPP problem 10 (Problems/P.000010)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "triangulations"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

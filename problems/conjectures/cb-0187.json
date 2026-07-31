@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0187",
+  "slug": "sphere-packing-dimension-five",
+  "title": "D₅ sphere-packing optimality conjecture",
+  "field": "discrete-geometry",
+  "statement": "The D₅ root-lattice density is optimal among unit-sphere packings in Euclidean dimension five.",
+  "counterexample": {
+    "description": "A positive-definite rational 5×5 Gram matrix whose lattice has minimum squared norm at least four and determinant strictly below 128. This is a unit-sphere lattice packing denser than scaled D₅.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1007/s00454-026-00841-x",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "low-dimensional-sphere-packing"
+}

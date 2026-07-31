@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-040",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.40 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let φ be an irreducible p-modular character of a finite group G. Find the\nbest-possible estimate of the form φ(1)p ⩽ f (|G|p ). Here np is the p-part of a positive\ninteger n.                                                             A. S. Kondratiev",
+    "sha256": "dfb2431b69a9fa0b6b62e703420981f7772fda1c42785fe824b0571ed4ed0f7c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=59",
+    "source_locator": "Kourovka 12.40, main section, page 59",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

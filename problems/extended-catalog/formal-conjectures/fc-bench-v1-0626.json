@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0626",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "green_35.lower",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 26 28 42]\ntheorem green_35.lower :\n    let lb : ℝ≥0∞ → ℝ≥0∞ := answer(sorry)\n    (∀ p, 1 < p → lb p ≤ c p) ∧\n      (ENNReal.ofReal (Real.sqrt (4 / 7)) < c 2 ∨ 0.64 < c ∞)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "8dc808b156f2437b1f1990ca6e8592601b153933745ad9ca9207cd7a816a7dfb",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/35.lean#L54",
+    "source_locator": "FormalConjectures/GreensOpenProblems/35.lean:54#green_35.lower",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-26",
+      "AMS-28",
+      "AMS-42"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

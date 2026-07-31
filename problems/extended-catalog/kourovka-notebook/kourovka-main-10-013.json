@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-10-013",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 10.13 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does there exist a massive set of independent elements in a free group F2 on\nfree generators a, b, that is, a set E of irreducible words on the alphabet a, b, a−1 , b−1\nsuch that\n    1) no element w ∈ E belongs to the normal closure  p of E \\ {w}, and\n    2) the massiveness condition is satisfied: lim n |En | = 3, where En is the set of\n                                                 n→∞\nall words of length n in E?                                             R. I. Grigorchuk",
+    "sha256": "1880f9e802310fd21f261c699f5c4a525437e699b17d4fa08b5f53bd2cee0e4f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=38",
+    "source_locator": "Kourovka 10.13, main section, page 38",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

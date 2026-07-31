@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0060",
+  "slug": "foulkes-plethysm",
+  "title": "Foulkes plethysm",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "For all positive integers a≤b, the symmetric function h_b[h_a]−h_a[h_b] is Schur-positive.",
+  "counterexample": {
+    "description": "For \\(a\\le b\\), a partition \\(\\lambda\\vdash ab\\) with a negative Schur coefficient in \\(h_b[h_a]-h_a[h_b]\\). Exact character arithmetic directly verifies the coefficient.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://bergeron.math.uqam.ca/q-and-qt-analogs-of-the-foulkes-conjecture/",
+        "role": "supporting"
+      },
+      {
+        "url": "https://www.ma.rhul.ac.uk/~uvah099/other.html",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "foulkes-plethysm"
+}

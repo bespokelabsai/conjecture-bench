@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-029",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.29 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let F be a free group and f = ZF (F −1) the augmentation ideal of the integral\ngroup ring ZF . For any normal subgroup R of F define the corresponding ideal\nr = ZF (R − 1) = id (r − 1 | r ∈ R). One may identify, for instance, F ∩ (1 + rf) = R′ ,\nwhere F is naturally imbedded into ZF and 1 + rf = {1 + a | a ∈ rf}.\n   Identify in an analogous way in terms of corresponding subgroups of F\n   a) F ∩ (1 + r1 r2 · · · rn ), where Ri are normal subgroups of F , i = 1, 2, . . . , n;\n   b) F ∩ (1 + r1 r2 r3 );\n   c) F ∩ (1 + fs + fn ), where F/S is finitely generated nilpotent;\n   d) F ∩ (1 + fsf + fn );\n   e) F ∩ (1 + r(k) + fn ), n > k ⩾ 2, where r(k) = rfk−1 + frfk−2 + · · · + fk−1 r.\n                                                                             N. D. Gupta",
+    "sha256": "ea1c47b8a96ed5a7f4ca7de2b590c57d8126dfa4ba9c9267a1705ab8cb14bc03",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=48",
+    "source_locator": "Kourovka 11.29, main section, page 48",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

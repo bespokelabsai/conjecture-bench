@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0459",
+  "source_registry": "egres-open",
+  "title": "Compactness of Kőnig-property",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "A hypergraph <math>H=(V,E) </math> has the '''Kőnig-property''' if there is a set <math> \\mathcal{D}\\subseteq E </math> of pairwise disjoint hyperedges such that there is a vertex cover consisting of one vertex from each hyperedge in <math> \\mathcal{D} </math>. (Using this terminology,  Kőnig's theorem says that every finite bipartite graph has the Kőnig-property). R. Aharoni and N. Bowler conjectured independently the following. If <math>H=(V,E) </math> is a hypergraph such that all of its hyperedges are finite and for all finite <math> E'\\subseteq E </math> the hypergraph <math> (V,E') </math> has the Kőnig-property, then <math>H </math> has the Kőnig-property as well (<ref name=\"Di\"/> p. 19. Problem 6.7).",
+    "sha256": "d094a6cfe7417c539d708d06f8c107c978774aa6fedae3d6f8eda972efeae2f9",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2017-01-17T22:15:22Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Compactness_of_K%C5%91nig-property&oldid=2416",
+    "source_locator": "EGRES page 459, revision 2416",
+    "source_sha256": "a18da48b3ce234a2585262f84ef8dab338c2f1cbc69867af8f46633a93ef736b",
+    "tags": [
+      "combinatorial-optimization",
+      "Infinite combinatorics",
+      "Matchings"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

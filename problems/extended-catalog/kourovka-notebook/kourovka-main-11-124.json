@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-124",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.124 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let F be a non-cyclic free group and R a non-cyclic subgroup of F . Is it\ntrue that if [R, R] is a normal subgroup of F then R is also a normal subgroup of F ?\n                                                                       V. E. Shpilrain",
+    "sha256": "84b22a555fcac013ad8e52ef707e57a68ec90c2a1822e74727ac46dd6d8079a1",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=56",
+    "source_locator": "Kourovka 11.124, main section, page 56",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0224",
+  "source_registry": "egres-open",
+  "title": "Covering a crossing supermodular function with pairwise non-parallel arcs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Given  a [[Supermodular function|crossing supermodular function]] <math>p:2^V\\to \\mathbb{Z}</math> satisfying <math>p(\\emptyset)=p(V)=0</math>, what is the minimum number of pairwise non-parallel arcs (i.e. only one copy of the arc ''uv'' is allowed for any pair <math>u,v\\in V</math>, but opposite pairs are allowed) covering ''p'', where a digraph ''D=(V,A)'' is said to cover ''p'' if <math>\\varrho_D(X)\\ge p(X)</math> holds for every <math>X\\subseteq V</math>?",
+    "sha256": "ba656a2e0f843de5682d5837b3087c47ddd33ea0d0b8cef5425d0c94f11940bf",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2014-02-17T11:47:46Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Covering_a_crossing_supermodular_function_with_pairwise_non-parallel_arcs&oldid=1648",
+    "source_locator": "EGRES page 224, revision 1648",
+    "source_sha256": "a4f843bf8ae3f11b7427f3b655d49763fa63bc743218a96881fef584664a7895",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity",
+      "Sub- and supermodular functions"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

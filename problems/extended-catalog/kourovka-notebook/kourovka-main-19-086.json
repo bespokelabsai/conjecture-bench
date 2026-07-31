@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-086",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.86 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that a finite group G has a σi -Hall subgroup for every i ∈ I. Suppose\nthat a subgroup A ⩽ G is such that A ∩ H is a σi -Hall subgroup of A for every i ∈ I\nand every σi -Hall subgroup H of G (see 19.84 in Archive). Is it true that then A is\nσ-subnormal in G?\n   An affirmative answer is known if σ = {{2}, {3}, . . .} and if G is σ-soluble.\n                                                                              A. N. Skiba",
+    "sha256": "b37955abaf45f5a6abfcb15f149aa274cae499b0f21e916c592b5faee8fb98e7",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=140",
+    "source_locator": "Kourovka 19.86, main section, page 140",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

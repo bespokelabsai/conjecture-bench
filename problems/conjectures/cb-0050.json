@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0050",
+  "slug": "brocardramanujan",
+  "title": "Brocard–Ramanujan",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "The only positive integer solutions of n!+1=m² have n∈{4,5,7}.",
+  "counterexample": {
+    "description": "An \\(n\\notin\\{4,5,7\\}\\) with \\(n!+1=m^2\\). Factorial evaluation and exact square testing verify a witness.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://experts.illinois.edu/en/publications/on-the-brocard-ramanujan-diophantine-equation-n-1-msup2sup/",
+        "role": "supporting"
+      },
+      {
+        "url": "https://math.colgate.edu/~integers/z71/z71.pdf",
+        "role": "supporting"
+      },
+      {
+        "url": "https://www.erdosproblems.com/398",
+        "role": "live-status-and-problem-source"
+      }
+    ],
+    "discovery_records": [
+      "erdos-0398"
+    ]
+  }
+}

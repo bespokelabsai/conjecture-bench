@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0101",
+  "slug": "liguo-laplacian-degree-sequence-inequality",
+  "title": "Li–Guo Laplacian degree-sequence inequality",
+  "field": "spectral-graph-theory",
+  "statement": "For every graph G other than a cycle C_(4k+1), the sum over Laplacian eigenvalues μᵢ≥2 of (μᵢ−2)² is at most (1−1/d₁) times the sum of dᵢ(dᵢ−1).",
+  "counterexample": {
+    "description": "A connected simple graph on 10–14 vertices, other than an excluded cycle \\(C_{4k+1}\\), whose exactly isolated Laplacian spectrum violates the proposed degree-sequence inequality.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "legacy-15-inventory-without-forecasts",
+    "sources": [
+      {
+        "url": "https://www.pmf.ni.ac.rs/filomat-content/2025/39-13/39-13-22-25952.pdf",
+        "role": "supporting"
+      }
+    ]
+  }
+}

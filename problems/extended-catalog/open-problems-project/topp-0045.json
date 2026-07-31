@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0045",
+  "source_registry": "open-problems-project",
+  "title": "Smallest Universal Set of Points for Planar Graphs",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "How many points must be placed in the plane to support planar drawing of\nall planar graphs on $n$ vertices?  More precisely, call a set of points\n\\emph{universal} if every planar graph on $n$ vertices can be drawn with\nstraight-line edges and without crossings by placing the vertices on a subset\nof the points.  What is the smallest universal set of points as a function\nof~$n$?  In particular, is it $O(n)$?",
+    "sha256": "d64af50b03248013b8c741e2295747ba73c9166e4de3a61f1300c601c376e441",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p45",
+    "source_locator": "TOPP problem 45 (Problems/P.000045)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "graph drawing",
+      "graphs",
+      "point sets"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

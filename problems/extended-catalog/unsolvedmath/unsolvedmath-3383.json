@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3383",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Divisibility of central binomial coefficients",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem (1) Prove that there exist infinitely many positive integers $n$ such that $$\\gcd({2n\\choose n}, 3\\cdot 5\\cdot 7) = 1.$$\n\nProblem (2) Prove that there exists only a finite number of positive integers $n$ such that $$\\gcd({2n\\choose n}, 3\\cdot 5\\cdot 7\\cdot 11) = 1.$$",
+    "sha256": "86e17bb73aaaec6b95c97aa41052dc6df23a6d21baaf9445ec1743e549a893b3",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-506",
+    "source_locator": "dataset ID 3383; problem number OPG-506",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

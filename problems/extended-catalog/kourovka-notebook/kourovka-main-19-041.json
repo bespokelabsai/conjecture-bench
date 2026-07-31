@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-041",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.41 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let ϕ be an automorphism of a free group Fn of finite rank, and let Fn ⋊ϕ Z\nbe the split extension of Fn by Z with Z acting as ⟨ϕ⟩. Is the group Fn ⋊ϕ Z conjugacy\nseparable?                                                                  I. Kapovich",
+    "sha256": "41f1e765db68c7733dc42aed6cddd05efbcc475741dbce64b8e273ef6ceb44f5",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=135",
+    "source_locator": "Kourovka 19.41, main section, page 135",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

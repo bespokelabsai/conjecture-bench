@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0064",
+  "slug": "kalai-3-d-faces",
+  "title": "Kalai \\(3^d\\)-faces",
+  "field": "discrete-geometry",
+  "statement": "Every centrally symmetric d-polytope has at least 3^d nonempty faces.",
+  "counterexample": {
+    "description": "A rational centrally symmetric 5-polytope with fewer than 243 nonempty faces. A complete check derives every supporting facet and every face intersection exactly from the provided vertices.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2308.02909",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/0708.3661",
+        "role": "supporting"
+      }
+    ]
+  }
+}

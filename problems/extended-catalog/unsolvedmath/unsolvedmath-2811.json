@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2811",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.13",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Does every closed hyperbolic 3-manifold admit an immersed $\\pi_1$-injective surface with only double points? More precisely, if M is a closed, connected, hyperbolic 3-manifold, is there a closed, connected surface $\\Sigma$ (other than a 2-sphere) and an immersion f : $\\Sigma$ $\\to$ M such that $f_*$ : $\\pi_1(\\Sigma)$ $\\to$ $\\pi_1(M)$ is injective and $|f^{-1}(\\{x\\})|\\leq 2$ for all $x\\in M$?",
+    "sha256": "504d01ce30c467639bbbcb33f7cc571ef0f2dc28e9cb03b5694819a8f7680572",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.13",
+    "source_locator": "dataset ID 2811; problem number KP-3.13",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3269",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Hamilton cycle in small d-diregular graphs",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "An directed graph is $k$-diregular if every vertex has indegree and outdegree at least $k$.\n\nConjecture For $d >2$, every $d$-diregular oriented graph on at most $4d+1$ vertices has a Hamilton cycle.",
+    "sha256": "1c80e25ee298970f36de9e431211ccc0782a5235eb25720740a017df704160ae",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-47028",
+    "source_locator": "dataset ID 3269; problem number OPG-47028",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

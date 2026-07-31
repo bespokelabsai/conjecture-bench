@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-102",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.102 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(W. Magnus). An element r of a free group Fn is called a normal root of an\nelement u ∈ Fn if u belongs to the normal closure of r in Fn . Can an element u that\nlies outside the commutator subgroup [Fn , Fn ] have infinitely many non-conjugate\nnormal roots?                                                         V. E. Shpilrain",
+    "sha256": "2784305a8b1305872799439490e84c7467b8078e2aaf413b3a1c4382b25b559f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=94",
+    "source_locator": "Kourovka 15.102, main section, page 94",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0693",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "prime_add_one_of_a",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem prime_add_one_of_a {k : ℕ} (h : a k) (hne : k ≠ 8) : (k + 1).Prime",
+    "language_version": "Lean 4.27.0",
+    "sha256": "f4b29475b0cf8037a07d95d558cef5ba633213684b660d7331c97addcd3ff22d",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OEIS/67720.lean#L73",
+    "source_locator": "FormalConjectures/OEIS/67720.lean:73#prime_add_one_of_a",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "OEIS",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0235"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0959",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "pierce_birkhoff_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 13]\ntheorem pierce_birkhoff_conjecture {n : ℕ} (f : (Fin n → ℝ) → ℝ)\n    (hf : IsPiecewiseMvPolynomial f) :\n    ∃ (ι κ : Type) (g : ι → κ → MvPolynomial (Fin n) ℝ), Finite ι ∧ Finite κ ∧\n      ∀ x, f x = ⨆ i, ⨅ j, MvPolynomial.eval x (g i j)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "c27cda225683eb616f6bf579bbc37a3816b3a9b65f5c63cbd2d3ea7022a70ebc",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/PierceBirkhoff.lean#L86",
+    "source_locator": "FormalConjectures/Wikipedia/PierceBirkhoff.lean:86#pierce_birkhoff_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-13"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

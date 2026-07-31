@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-053",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.53 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Conjecture: Let G be a profinite group such that the set of solutions of the\nequation xn = 1 has positive Haar measure. Then G has an open subgroup H and\nan element t such that all elements of the coset tH have order dividing n.\n   This is true in the case n = 2. It would be interesting to see whether similar\nresults hold for profinite groups in which the set of solutions of some equation has\npositive measure.\n   Comment of 2021: This is also proved for n = 3 (A. Abdollahi, M. S. Malekan,\nAdv. Group Theory Appl., 13 (2022), 71–81). Comment of 2025: Significant progress\nwas obtained in (S. Kionke, N. Otmen, T. Toti, M. Vannacci, T. Weigel, Preprint, 2025,\nhttps://arxiv.org/pdf/2507.19086).                                  L. Levai, L. Pyber",
+    "sha256": "9593ff221dd8f1a30bba99382f0d2d0b1c914830866725268a1438a541dc9eb6",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=77",
+    "source_locator": "Kourovka 14.53, main section, page 77",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

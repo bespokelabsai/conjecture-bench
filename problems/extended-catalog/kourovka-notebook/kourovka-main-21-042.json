@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-042",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.42 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let Td,c denote the class of d-generated, torsion-free nilpotent groups having\nclass c. It is known that Td,2 -groups are self-similar for all d, that T2,3 -groups are self-\nsimilar, and that there are T4,3 -groups that are not self-similar (A. Berlatto, T. Santos,\nPreprint, 2025, https://arxiv.org/abs/2509.16947). Are there T3,3 -groups that\nare not self-similar?                                                    A. Dantas, S. Sidki",
+    "sha256": "77384dbfb2545a1dfb67e050ff87c5d7a723083bd1722cfbb70246d26ee554b5",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=170",
+    "source_locator": "Kourovka 21.42, main section, page 170",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

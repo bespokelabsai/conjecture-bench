@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2580",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.71",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For a ring $R$, we say that a group $G$ is of type $FL(R)$ if the trivial $RG$-module $R$ admits a finite resolution by finitely generated free modules. If $R$ is a field, we define the Euler characteristic of $G$ over $R$ to be the alternating sum of $R$-ranks of homology groups $H_i(G;R)$. Does there exist a group of type $FL(F_i)$ for two fields $F_1$ and $F_2$ such that the Euler characteristics of the group over the fields $F_1$ and $F_2$ differ?",
+    "sha256": "e0160a5bdfdb040cdc662f1c97ec29328615749b96b01c6e0311280519d2511e",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.71",
+    "source_locator": "dataset ID 2580; problem number KOU-21.71",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

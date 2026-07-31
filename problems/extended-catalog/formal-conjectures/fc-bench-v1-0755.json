@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0755",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "kurepa_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem kurepa_conjecture (n : ℕ) (h_n : 2 < n) : (!n : ℕ) % n ≠ 0",
+    "language_version": "Lean 4.27.0",
+    "sha256": "f27194b0ecdf3d6fe7608c13c9b50102074418809287240d5dac51d95f8f3304",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Paper/Kurepa.lean#L46",
+    "source_locator": "FormalConjectures/Paper/Kurepa.lean:46#kurepa_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Paper",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0042"
+  ]
+}

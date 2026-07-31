@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-050",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.50 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let n ∈ N. Is it true that for every k ∈ {1, . . . , n!} there is some group G and\npairwise distinct elements g1 , . . . , gn ∈ G such that the set {gσ(1) · · · gσ(n) | σ ∈ Sn }\nof all products of the gi obtained by permuting the factors has cardinality k? S. Kohl\n  ∗ Yes, it is true (P. Monticone, Preprint, 2026, https://kourovkanotebookorg.\nwordpress.com/wp-content/uploads/2026/05/18_50.pdf;\nsee also S. Kohl’s post at https://mathoverflow.net/questions/123890/\nnumbers-of-distinct-products-obtained-by-permuting-the-factors/\n511354#511354).",
+    "sha256": "a71ad46c680fc3327cdcd9d8801d2e7477b2592b359d130d31da8d2625d665b9",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=121",
+    "source_locator": "Kourovka 18.50, main section, page 121",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0120",
+  "source_registry": "egres-open",
+  "title": "Decomposing rooted (k,l)-connected graphs into rooted k-connected parts",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''G=(V,E)'' be an undirected graph, and <math>r \\in V</math> a root node. ''G'' is called rooted ''(k,l)''-connected if ''G-X'' is <math>(k-\\vert X\\vert)l</math>-edge-connected for any <math>X \\subseteq V-r</math>. Is it true that every rooted ''(k,l)''-connected graph contains ''l'' edge-disjoint spanning [[Rooted connectivity|rooted ''k''-connected]] subgraphs?",
+    "sha256": "c40a3bef7f2ebca90abec422a610075e822b99a559a6bb8215e8f6337ab64905",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2009-11-10T15:52:11Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Decomposing_rooted_(k%2Cl)-connected_graphs_into_rooted_k-connected_parts&oldid=595",
+    "source_locator": "EGRES page 120, revision 595",
+    "source_sha256": "4591b473ed2d3b11662d30d1a6e431fbede1f9e8f03b0820a95da40d70518156",
+    "tags": [
+      "combinatorial-optimization",
+      "Node-connectivity",
+      "Trees and branchings"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0301"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-024",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.24 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does the group SL2 (Z[ 2]) admit a faithful transitive amenable action?\n   This is the same as asking if it admits any co-amenable subgroup except the finite\nindex subgroups.                                               Y. Glasner, N. Monod",
+    "sha256": "a76c971e5c6dc6eadfe35cdbce71c92ea0eab67c2a84c0947b62361864fd72a4",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=148",
+    "source_locator": "Kourovka 20.24, main section, page 148",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

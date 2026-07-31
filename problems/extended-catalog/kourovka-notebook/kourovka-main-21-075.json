@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-075",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.75 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Given two distinct sets P1 and P2 of odd primes none of which is a subset of\nthe other, is it true that ⟨CTP1 (Z), CTP2 (Z)⟩ ⪇ CTP1 ∪P2 (Z)?\n   See the definition of CTP (Z) in 17.60.                                  S. Kohl",
+    "sha256": "7904ee154ce67214b67bd73a0f01d2ccba8ff43e50cdfbc7538ce304932ef624",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=175",
+    "source_locator": "Kourovka 21.75, main section, page 175",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-026",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.26 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Y. O. Hamidoune). Suppose that A and B are finite subsets of a group G\nsuch that |A| ⩾ 2 and |B| ⩾ 2, and let A ·2 B denote the set of elements of G which\ncan be expressed in the form ab for at least two different (a, b) ∈ A × B. Is it true that\n|A| + |B| − (1/2)|AB| − (1/2)|A ·2 B| ⩽ max{2, |gH| : H ⩽ G, g ∈ G, gH ⊆ A ·2 B}?\n    This is proved if G is abelian.                                              W. Dicks",
+    "sha256": "d91262ce3fd144b7ed0eb6179f4d178e00ab5aa7f0dab9ab728cd17c3c8ba74f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=133",
+    "source_locator": "Kourovka 19.26, main section, page 133",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

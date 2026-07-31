@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0241",
+  "source_registry": "egres-open",
+  "title": "Partition median problem",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''P'' be the set of partitions of a ground set ''S''. We allow two operations on ''P'': (1) splitting a class into two arbitrary classes and (2) joining two classes into one. For two partitions ''X'' and ''Y'', let us define the distance ''d(X,Y)'' as the minimum number of such operations transforming ''X'' to ''Y''. \nGiven partitions <math>X_1,X_2,\\ldots,X_k\\in P</math>, find a partition <math>Y\\in P</math> in polyinomial time minimizing the total distance, <math>\\sum_{i=1}^k d(X_i,Y).</math>",
+    "sha256": "981af1928cd745141ad3f409623456e7a19e4aab98c52d948fcee735b795e12b",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2010-02-18T16:44:58Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Partition_median_problem&oldid=982",
+    "source_locator": "EGRES page 241, revision 982",
+    "source_sha256": "43c0e6ef91a346347bae05e0d0106d113b12907f6533161ca6d3407356b4d694",
+    "tags": [
+      "combinatorial-optimization",
+      "Matroids"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

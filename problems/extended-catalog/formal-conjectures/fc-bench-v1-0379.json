@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0379",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_507.lower",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 51]\ntheorem erdos_507.lower:\n    let ans := (answer(sorry) : ℕ → ℝ)\n    (lowerBest =o[atTop] ans) ∧ (ans ≪ α)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "6caa4a19cf6fa4e8e3d6ac16d48df4d1a68ebe1c4525840abf59a57cea1174c7",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/507.lean#L75",
+    "source_locator": "FormalConjectures/ErdosProblems/507.lean:75#erdos_507.lower",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-51"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

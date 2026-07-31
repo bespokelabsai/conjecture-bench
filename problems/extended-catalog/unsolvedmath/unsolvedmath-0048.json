@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0048",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Smale's 4th Problem: Integer Zeros of Polynomials",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Find efficient algorithms for deciding whether a polynomial with integer coefficients has an integer root.",
+    "sha256": "a9a185433eca9dec89bc3711d966a352960c2570b6b223c0b4e5be7121890021",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/SMA-004",
+    "source_locator": "dataset ID 48; problem number SMA-004",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:computer-science",
+      "difficulty:L4",
+      "secondary-aggregation",
+      "set:smale-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

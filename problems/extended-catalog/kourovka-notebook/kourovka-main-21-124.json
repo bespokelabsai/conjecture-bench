@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-124",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.124 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A group G is said to be virtually special if G has a finite-index subgroup\nisomorphic to the fundamental group of a special complex (in the sense of F. Haglund,\nD. T. Wise, Geom. Funct. Anal., 17, no. 5 (2008), 1551–1620; cf 20.60.) A group G\nis called a CAT(0) group if it acts properly discontinuously and cocompactly by\nisometries on a CAT(0) metric space.\n    a) Is every CAT(0) free-by-cyclic group virtually special?\n    b) A weaker question: does every CAT(0) free-by-cyclic group virtually embed\ninto a right-angled Artin group?                                             I. Soroko",
+    "sha256": "ea3a0a1dcb79856173a9c90dacf1fe38e51519f2b63b22621065697e9fc672f5",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=182",
+    "source_locator": "Kourovka 21.124, main section, page 182",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

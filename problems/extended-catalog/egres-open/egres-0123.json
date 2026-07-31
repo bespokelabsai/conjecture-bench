@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0123",
+  "source_registry": "egres-open",
+  "title": "Independent arborescences in acyclic digraphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''D=(V,A)'' be an acyclic digraph with designated root-nodes <math>r_1,...,r_k\\in V</math>. Let <math>U_1,...,U_k</math> be [[Convex node set|convex node sets]] with <math>r_i\\in U_i</math>. Is it true that there exist [[Arborescence|independent <math>r_i</math>-arborescences]] <math>F_i</math> with <math>V(F_i)=U_i</math> if and only if there exist openly node-disjoint <math>r_i-v</math> paths <math>P_i</math> (<math>v\\in U_i</math>) for each <math>v\\in V</math>? (We call the <math>r_i-v</math> and <math>r_j-v</math> paths <math>P_i</math> and <math>P_j</math> openly node-disjoint if they are edge-disjoint and <math>V(P_i)\\cap V(P_j)=\\{v\\}\\cup(\\{r_i\\}\\cap\\{r_j\\})</math>.)",
+    "sha256": "4af5e2a19b3cd0012c15490c5eb184010eac3c768b2697241ef3a558cb729317",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2015-03-25T12:37:20Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Independent_arborescences_in_acyclic_digraphs&oldid=1812",
+    "source_locator": "EGRES page 123, revision 1812",
+    "source_sha256": "e2df00f5455963c9c55baaac8426cb820a7931144e00c84f14a6252564fc7b79",
+    "tags": [
+      "combinatorial-optimization",
+      "Trees and branchings"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0300"
+  ]
+}

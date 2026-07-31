@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0059",
+  "source_registry": "open-problems-project",
+  "title": "Most Circular Partition of a Square",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "What is the optimal partition of a square into convex pieces\nsuch that the circularity of the pieces is optimized?\nThe \\emph{circularity} of a polygon is the ratio\nof the radius of its smallest circumscribing circle to the radius\nof its largest inscribed circle.  Thus circular pieces have\ncircularity near $1$, and noncircular pieces have circularity greater\nthan $1$.  An optimal partition minimizes the maximum ratio over all\npieces in the partition.",
+    "sha256": "87f3933f5cb68bacc5218a7c78feff5b7acc6e9b70a94a6b519c3f99cea0e49a",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p59",
+    "source_locator": "TOPP problem 59 (Problems/P.000059)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "meshing",
+      "packing"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

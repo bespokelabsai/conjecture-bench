@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0412",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_617",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem erdos_617 (r : ℕ) (hr : r ≥ 3) {V : Type} [Fintype V] [DecidableEq V]\n    (hV : Fintype.card V = r^2 + 1) (coloring : Sym2 V → Fin r) :\n    ∃ (S : Finset V) (k : Fin r),\n      S.card = r + 1 ∧\n      ∀ u ∈ S, ∀ v ∈ S, u ≠ v → coloring s(u, v) ≠ k",
+    "language_version": "Lean 4.27.0",
+    "sha256": "65cff6831854e236ce1391918846a6c05c781365c2c34d003024ad363012d9e9",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/617.lean#L38",
+    "source_locator": "FormalConjectures/ErdosProblems/617.lean:38#erdos_617",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0126"
+  ]
+}

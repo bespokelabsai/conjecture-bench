@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0012",
+  "slug": "tuttes-5-flow-conjecture",
+  "title": "Tutte’s 5-Flow conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Tutte’s 5-Flow conjecture · 1954. Every bridgeless graph admits a nowhere-zero 5-flow.",
+  "counterexample": {
+    "description": "A connected bridgeless cubic graph on 38 vertices with no nowhere-zero flow over Z/5Z. This restricted witness still refutes the general conjecture, and the complete check performs the complete modular-flow search.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1909.09870",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "tutte-nowhere-zero-five-flow"
+}

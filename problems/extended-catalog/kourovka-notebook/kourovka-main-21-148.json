@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-148",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.148 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(V. M. Kopytov, N. Ya. Medvedev). Is it true that the lattice of right-\nrelatively convex subgroups of a right-orderable group is distributive if and only if it\nis a chain?                                                               A. V. Zenkov",
+    "sha256": "bd7fc25723ff22669c531de07563a3e70f6d8190772a17605568cd0507dc1fd2",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=185",
+    "source_locator": "Kourovka 21.148, main section, page 185",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2852",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.54",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) Is there a closed 3-manifold $M$ whose Heegaard Floer homology $\\widehat{HF}(M;\\mathbb{Z})$ has torsion?\n\n(b) Is there a rational homology 3-sphere $M$ for which $\\widehat{HF}(M;\\mathbb{Z})$ has torsion?\n\n(c) Is there a knot $K\\subset S^3$ whose knot Floer homology $\\widehat{HFK}(S^3,K;\\mathbb{Z})$ has torsion?",
+    "sha256": "079fb2bf5545aa641e632cab29a0b304a591cc293bd26c18a4229321fbd5f6f0",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.54",
+    "source_locator": "dataset ID 2852; problem number KP-3.54",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

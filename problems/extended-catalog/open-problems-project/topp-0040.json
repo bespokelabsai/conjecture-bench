@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0040",
+  "source_registry": "open-problems-project",
+  "title": "The Number of Pointed Pseudotriangulations",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "For a planar point set $S$, is the number of pointed pseudotriangulations\nalways at least the number of triangulations?\n\nA \\emph{pseudotriangle} is a planar polygon with exactly\nthree convex vertices.  Each pair of convex vertices is connected\nby a reflex chain, which may be just one segment.\n(Thus, a triangle is a pseudotriangle.)\nA \\emph{pseudotriangulation} of a set $S$ of $n$ points in the plane\nis a partition of the convex hull of $S$ into pseudotriangles\nusing $S$ as a vertex set.\nA minimum pseudotriangulation,\nor \\emph{pointed pseudotriangulation},\nhas the fewest possible number of\nedges for a given set $S$ of points.\n\nSee~\\cite{s-capnc-00, kkmsst-tdbpt-03, o-cgc43-02}\nfor examples, explanation of the term ``pointed,'' and further details.",
+    "sha256": "ca827ae40b1d21226869bab31d8783daf1dce5149adf4dce36b5b9859898b090",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p40",
+    "source_locator": "TOPP problem 40 (Problems/P.000040)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "combinatorial geometry",
+      "triangulations"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

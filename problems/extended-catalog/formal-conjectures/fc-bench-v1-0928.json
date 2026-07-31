@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0928",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "lemoine_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem lemoine_conjecture (n : ℕ) (hn : 6 < n) (odd : Odd n) :\n    ∃ (p q : ℕ), p.Prime ∧ q.Prime ∧ p + 2 * q = n",
+    "language_version": "Lean 4.27.0",
+    "sha256": "86025f75bebf8fc00a2224e0d100f0db3c6614c35b84a03ddb4bb798d785ba34",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Lemoine.lean#L35",
+    "source_locator": "FormalConjectures/Wikipedia/Lemoine.lean:35#lemoine_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0214"
+  ]
+}

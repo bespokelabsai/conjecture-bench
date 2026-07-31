@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-070",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.70 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let F be an infinite field or a skew-field.\n   a) Find all transitive subgroups of P GL(2, F ) acting on the projective line F ∪{∞}.\n   c) What are the flag-transitive subgroups of P GL(d + 1, F )?\n   d) What subgroups of P GL(d + 1, F ) are 2-transitive on the points of P G(d, F )?\n                                                           P. M. Neumann, C. E. Praeger",
+    "sha256": "482d1940d865531e0ca2926b46eda8ecb2269b75ed43c4036a12aed545be7742",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=52",
+    "source_locator": "Kourovka 11.70, main section, page 52",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

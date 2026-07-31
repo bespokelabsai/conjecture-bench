@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0029",
+  "slug": "wegners-planar-graph-square-conjecture",
+  "title": "Wegner’s planar graph-square conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Wegner’s planar graph-square conjecture · 1977. Its Δ=4 case predicts that the square of every planar graph is 9-colorable.",
+  "counterexample": {
+    "description": "A connected maximum-degree-four graph with a spherical rotation system whose square is not 9-colorable. Confirming this requires checking the embedding and exhausting the coloring search.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2604.01126",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "wegner-planar-square-degree-four"
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0075",
+  "source_registry": "open-problems-project",
+  "title": "Edge-Coloring Geometric Graphs",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "For a set of $n$ points in the plane in general position,\ndraw a straight segment between every pair of points.\nWhat is the minimum number of colors that\nsuffice to color the edges such that no two edges that\ncross have the same color?\n(With the general position assumption, all crossings are\nproper crossings.)",
+    "sha256": "c7581ebec9c1b40561c53589a169337787da95f5907dbaf61da1800cf7f99079",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p75",
+    "source_locator": "TOPP problem 75 (Problems/P.000075)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "geometric graphs"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

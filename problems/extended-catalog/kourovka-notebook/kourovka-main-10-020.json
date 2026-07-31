@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-10-020",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 10.20 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "In a Chevalley group of rank ⩽ 6 over a finite field of order ⩽ 9, describe\nall subgroups of the form H = ⟨H ∩ U, H ∩ V ⟩ that are not contained in any proper\nparabolic subgroup, where U and V are opposite unipotent subgroups.\n                                                                             V. M. Levchuk",
+    "sha256": "34527a8dd6c4a9d7d64d8f8c4e8bd46946867688f8b7a7a2d2813ca88a4377c5",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=39",
+    "source_locator": "Kourovka 10.20, main section, page 39",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0577",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "W_3_24_lower",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 11]\ntheorem W_3_24_lower : answer(sorry) ↔ W 3 24 ≥ 593",
+    "language_version": "Lean 4.27.0",
+    "sha256": "63155c200c57c1fa2e68f49fd3f54fda7cb6a4fd743f94b4f9a860796aeddb1e",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/14.lean#L233",
+    "source_locator": "FormalConjectures/GreensOpenProblems/14.lean:233#W_3_24_lower",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-5",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

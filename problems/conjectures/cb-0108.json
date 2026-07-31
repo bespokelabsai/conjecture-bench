@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0108",
+  "slug": "operatorname-ex-q-8-c-4-680",
+  "title": "\\(\\operatorname{ex}(Q_8,C_4)=680\\)",
+  "field": "extremal-combinatorics",
+  "statement": "The maximum number of edges in a C₄-free subgraph of the eight-dimensional cube Q₈ is 680.",
+  "counterexample": {
+    "description": "A 681-edge subgraph of the 8-dimensional cube containing no 4-cycle. A witness is an edge list plus exhaustive 4-cycle checking. The paper reports 1,076 unsuccessful independent searches at 681 edges.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "legacy-15-inventory-without-forecasts",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2603.29127",
+        "role": "supporting"
+      }
+    ]
+  }
+}

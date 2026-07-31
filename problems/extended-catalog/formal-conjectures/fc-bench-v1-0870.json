@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0870",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "cuboidThree",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 12]\ntheorem cuboidThree : CuboidThree",
+    "language_version": "Lean 4.27.0",
+    "sha256": "f2b09cbcd5bf931052a29cd4605853da2473937aadc4b62dfc3ac03f86c9c847",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/EulerBrick.lean#L140",
+    "source_locator": "FormalConjectures/Wikipedia/EulerBrick.lean:140#cuboidThree",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-12"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0247"
+  ]
+}

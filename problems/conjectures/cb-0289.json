@@ -1,0 +1,42 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0289",
+  "slug": "aharoni-berger-rank-partition",
+  "title": "Aharoni–Berger rank-partition conjecture",
+  "field": "matroid-theory-and-combinatorics",
+  "statement": "Let M₁,…,Mₖ be matroids with rank functions r₁,…,rₖ on the same finite ground set S, and let ℓ be a positive integer. If Σᵢ rᵢ(Xᵢ)≥(k−1)ℓ for every ordered partition S=X₁⊔⋯⊔Xₖ, then the matroids have a common independent set of cardinality ℓ.",
+  "counterexample": {
+    "description": "Four prime-field vector matroids on one labeled ground set and an integer ℓ for which exhaustive enumeration verifies every rank-partition inequality, while every ℓ-subset is dependent in at least one of the four matroids.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://lemon.cs.elte.hu/egres/open/Aharoni-Berger_conjecture",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Aharoni-Berger_conjecture&oldid=2229",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.1090/S0002-9947-06-03833-5",
+        "role": "origin-and-k3-case"
+      },
+      {
+        "url": "https://doi.org/10.1007/s00493-025-00178-8",
+        "role": "2025-open-formulation"
+      }
+    ],
+    "discovery_records": [
+      "egres-0141"
+    ]
+  },
+  "equivalence_group": "aharoni-berger-rank-partition"
+}

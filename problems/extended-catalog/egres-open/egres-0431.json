@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0431",
+  "source_registry": "egres-open",
+  "title": "Serial symmetric exchanges",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''M'' be a matroid, and let ''A'' and ''B'' be two bases of ''M''. A subset ''X'' of ''A'' and a subset ''Y'' of ''B'', both of size ''k'', form a '''serial symmetric exchange''' with respect to ''A'' and ''B'' if there is an ordering <math>x_1,\\dots,x_k</math> of ''X'' and an ordering <math>y_1,\\dots,y_k</math> of ''Y'' such that both <math>A \\setminus \\{x_1,\\dots,x_i\\} \\cup \\{y_1,\\dots,y_i\\}</math> and <math>B \\setminus \\{y_1,\\dots,y_i\\} \\cup \\{x_1,\\dots,x_i\\}</math> are bases for every <math>i \\in \\{1,\\dots,k\\}</math>.\n\nIs it true that for any matroid ''M'', any two bases ''A'' and ''B'', and any <math>X \\subseteq A</math>, there exists <math>Y \\subseteq B</math> such that ''X'' and ''Y'' form a serial symmetric exchange with respect to ''A'' and ''B''?",
+    "sha256": "9f6832da4e296bd81bceac91fa64e3b7bbac77581dc5be15149607b4dd0f0ec5",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2015-11-25T22:37:15Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Serial_symmetric_exchanges&oldid=1985",
+    "source_locator": "EGRES page 431, revision 1985",
+    "source_sha256": "b9e2c4cd6ef5ed3ad37a5152d4acf6fb906128e2e599bb1bf0910f1357485416",
+    "tags": [
+      "combinatorial-optimization",
+      "Matroids"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0282"
+  ]
+}

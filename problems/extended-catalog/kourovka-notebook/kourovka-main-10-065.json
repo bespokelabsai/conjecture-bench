@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-10-065",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 10.65 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Determine the structure of infinite 2-transitive permutation groups (G, Ω) in\nwhich the stabilizer of a point α ∈ Ω has the form Gα = A · Gαβ where Gαβ is the\nstabilizer of two points α, β, α ̸= β, such that Gαβ contains an element inverting the\nsubgroup A. Suppose, in particular, that A \\ {1} contains at most two conjugacy\nclasses of Gα ; does G then possess a normal subgroup isomorphic to P SL2 over a\nfield?                                                                    A. N. Fomin",
+    "sha256": "75f40bf1d9ff22252c6d091cec301d0b63e5300a4230921f6429eda1ff513c30",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=43",
+    "source_locator": "Kourovka 10.65, main section, page 43",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

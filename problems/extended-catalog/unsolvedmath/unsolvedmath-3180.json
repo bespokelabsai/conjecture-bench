@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3180",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "The intersection of two perfect matchings",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture Every bridgeless cubic graph has two perfect matchings $M_1$, $M_2$ so that $M_1 \\cap M_2$ does not contain an odd edge-cut.",
+    "sha256": "ede0ed3687fd90a16552dedec872f0702b793832e7b19d3c71a91dd1be76b6f0",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-543",
+    "source_locator": "dataset ID 3180; problem number OPG-543",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-066",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.66 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For a group G, let Dn (G) denote the n-th dimension subgroup of G,\nand ζn (G) the n-th term of its upper central series. For a given integer n ⩾ 1,\nlet f (n) = max{m | ∃ a nilpotent group G of class n with Dm (G) ̸= 1} and\ng(n) = max{m | ∃ a nilpotent group G of class n such that Dn (G) ̸⊆ ζm (G)}.\n    a) What is f (3)?\n    b) (B. I. Plotkin). Is it true that f (n) is finite for all n?\n    c) Is the growth of f (n) and g(n) polynomial, exponential, or intermediary?\n    It is known that both f (n) − n and g(n) tend to infinity as n → ∞ (N. Gupta,\nYu. V. Kuz’min, J. Pure Appl. Algebra, 104 (1995), 191–197).\n                                                                R. Mikhailov, I. B. S. Passi",
+    "sha256": "f1bbd0fec03e40aa5090f1fea4ab7c3d5622c96d61dca81a59f83b8fffd1a919",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=100",
+    "source_locator": "Kourovka 16.66, main section, page 100",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

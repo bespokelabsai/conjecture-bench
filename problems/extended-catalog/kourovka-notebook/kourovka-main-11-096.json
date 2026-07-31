@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-096",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.96 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(a) Is it true that, for a given number n, there exist only finitely many finite\nsimple groups each of which contains an involution which commutes with at most n\ninvolutions of the group?\n   (b) Is it true that there are no infinite simple groups satisfying this condition?\n                                                                      S. P. Strunkov\n  ∗ (a) Yes, it is true (mod CFSG); moreover, if a locally finite group has such an\ninvolution, then it is finite of n-bounded order (S. V. Skresanov, J. Group Theory, 27,\nno. 6 (2024), 1197–1202).\n  ∗ (b) No, since P SL (R) is an infinite simple group, which contains an involution\nbut does not contain a subgroup isomorphic to the Klein 4-group (S. V. Skresanov,\nJ. Group Theory, 27, no. 6 (2024), 1197–1202).",
+    "sha256": "ba7feb39d8f7b75ddb3ba7a925bc0058ee38838922ee84f29327090755342399",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=54",
+    "source_locator": "Kourovka 11.96, main section, page 54",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

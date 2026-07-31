@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0004",
+  "slug": "edge-reconstruction-conjecture",
+  "title": "Edge Reconstruction conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Edge Reconstruction conjecture · 1964, due to Harary. A graph with at least four edges is determined by its edge-deleted deck.",
+  "counterexample": {
+    "description": "Two nonisomorphic finite simple graphs, each with at least four edges, whose multisets of edge-deleted spanning subgraphs agree up to isomorphism.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://digitalcommons.unl.edu/csetechreports/120/",
+        "role": "supporting"
+      },
+      {
+        "url": "https://eccc.weizmann.ac.il/report/2026/106/",
+        "role": "supporting"
+      }
+    ]
+  }
+}

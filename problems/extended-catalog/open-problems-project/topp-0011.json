@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0011",
+  "source_registry": "open-problems-project",
+  "title": "3SUM Hard Problems",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Can the class of \\emph{3SUM hard} problems\nbe solved in subquadratic time?\nThese problems can be reduced from the problem\nof determining whether,\ngiven three sets of integers, $A$, $B$, and $C$ with\ntotal size $n$, there are elements\n$a \\in A$, $b \\in B$, and $c \\in C$ such that $a+b=c$.",
+    "sha256": "375d7b09ad768c91add624097e59ed1863dd257462024bd3d879ef7ac338ea01",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p11",
+    "source_locator": "TOPP problem 11 (Problems/P.000011)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "lower bounds"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

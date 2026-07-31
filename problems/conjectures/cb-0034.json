@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0034",
+  "slug": "frankls-union-closed-sets-conjecture",
+  "title": "Frankl’s Union-Closed Sets conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Frankl’s Union-Closed Sets conjecture · December 1979. Every finite union-closed family containing at least one nonempty set has an element contained in at least half its sets.",
+  "counterexample": {
+    "description": "A counterexample is such a union-closed bitset family in which every element occurs in fewer than half the sets. Closure, nontriviality, and frequencies are directly checked.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.081/Henning/UCSurvey.pdf",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-1010"
+    ]
+  },
+  "equivalence_group": "frankl-union-closed-sets"
+}

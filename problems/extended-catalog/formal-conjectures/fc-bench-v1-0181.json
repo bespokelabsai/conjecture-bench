@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0181",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_264.parts.ii",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_264.parts.ii : answer(sorry) ↔ IsIrrationalitySequence Nat.factorial",
+    "language_version": "Lean 4.27.0",
+    "sha256": "fa566108a43159f671bcd44485d86359ccc9ce9ccae407f2e57817804d34781b",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/264.lean#L56",
+    "source_locator": "FormalConjectures/ErdosProblems/264.lean:56#erdos_264.parts.ii",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

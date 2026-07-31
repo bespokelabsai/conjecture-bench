@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-037",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.37 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G(n) be one of the classical groups (special, orthogonal, or symplectic) of\n(n×n)-matrices over an infinite field K of non-zero characteristic, and M (n) the space\nof all (n × n)-matrices over K. The group G(n) acts diagonally by conjugation on\nthe space M (n)m = M (n) ⊕ · · · ⊕ M (n). Find generators of the algebra of invariants\n                      |       {z        }\nK[M (n)m ]G(n) .              m\n    In characteristic 0 they were found in (C. Procesi, Adv. Math., 19 (1976), 306–\n381). Comment of 2001: in positive characteristic the problem is solved for all cases\nexcepting the orthogonal groups in characteristic 2 and special orthogonal groups of\neven degree (A. N. Zubkov, Algebra and Logic, 38, no. 5 (1999), 299–318). Comment\nof 2009: ...and for special orthogonal groups of even degree over (infinite) fields of\nodd characteristic (A. A. Lopatin, J. Algebra, 321 (2009), 1079–1106). A. N. Zubkov",
+    "sha256": "8220a76357023f228ccc1cb9b441d21b9752001a2e4ee6b90c329e9520c81cc1",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=75",
+    "source_locator": "Kourovka 14.37, main section, page 75",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

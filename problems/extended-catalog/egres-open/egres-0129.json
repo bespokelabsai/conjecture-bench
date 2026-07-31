@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0129",
+  "source_registry": "egres-open",
+  "title": "Partitioning a bipartite graph into proportional factors",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''G=(V,E)'' be a bipartite graph, and <math>c_1,\\dots c_k</math> positive reals whose sum is 1. Can ''E'' always be partitioned into ''k'' parts <math>E_1,\\dots,E_k,</math> so that for every <math>v \\in V</math> and every <math>i \\in \\{1,\\dots,k\\}</math> we have <math>\\lfloor c_i d_E(v) \\rfloor \\leq d_{E_i}(v) \\leq \\lceil c_i d_E(v)  \\rceil</math>?",
+    "sha256": "5a5612fb0b6b4e901535aac3d967400fb383ad3cecbd6d1c80deb24b29122a98",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2017-02-23T21:09:54Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Partitioning_a_bipartite_graph_into_proportional_factors&oldid=2419",
+    "source_locator": "EGRES page 129, revision 2419",
+    "source_sha256": "71c115de6951ccf0014b3e991144c36397bfcdd41adb72fe0400c2135d89ed92",
+    "tags": [
+      "combinatorial-optimization",
+      "Colouring",
+      "Matchings"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0292"
+  ]
+}

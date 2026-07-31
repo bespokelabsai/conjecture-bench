@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3024",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 5.17",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $(W,\\omega,V_{i},\\phi_{i})$ be two Weinstein structures on a fixed symplectic manifold $(W,\\omega)$ (or equivalently consider two Weinstein handle decompositions). Is there a Weinstein homotopy from $(W,\\omega,V_{1},\\phi_{1})$ to $(W,\\omega,V_{2},\\phi_{2})$?",
+    "sha256": "7562afa30947fb3b8fbe8c6775b04ac655a9a13f128fbbe683e97b4f3b3ead77",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-5.17",
+    "source_locator": "dataset ID 3024; problem number KP-5.17",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

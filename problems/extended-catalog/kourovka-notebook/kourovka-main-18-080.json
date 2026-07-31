@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-080",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.80 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(I. Kaplansky). For G ̸= 1, show that the augmentation ideal of the group\nalgebra K[G] is equal to the Jacobson radical of the ring if and only if char K = p > 0\nand G is a locally finite p-group.                                        D. S. Passman",
+    "sha256": "4c85a1cb416f0a7d7698d6acdc930f3002e44db87366f7995d4b3e0153cdab7a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=124",
+    "source_locator": "Kourovka 18.80, main section, page 124",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

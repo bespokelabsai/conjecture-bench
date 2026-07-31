@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-112",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.112 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A subgroup A of a group G is said to be G-permutable in G if for every\nsubgroup B of G there exists an element x ∈ G such that AB x = B x A. A subgroup\nA is said to be hereditarily G-permutable in G if A is E-permutable in every subgroup\nE of G containing A. Which finite non-abelian simple groups G possess\n   a) a non-trivial G-permutable subgroup?\n   b) a non-trivial hereditarily G-permutable subgroup?\n   Comments of 2025: Among sporadic groups, only J1 has a proper G-permutable\nsubgroup (A. A. Galt, V. N. Tyutyanov, Siberian Math. J., 63, no. 4 (2022), 691–698).\nSporadic, alternating, and exceptional groups of Lie type have no proper hereditarily\nG-permutable subgroups (A. A. Galt, V. N. Tyutyanov, Siberian Math. J., 63, no.\n4 (2022), 691–698; A. F. Vasilyev, V. N. Tyutyanov, Izv. Gomel. Gos. Univ. F.\nSkoriny, 2012, no. 5(74) (2012), 148–150 (Russian)); A. A. Galt, V. N. Tyutyanov,\nSiberian Math. J., 64, no. 5 (2023), 1110–1116).          A. N. Skiba, V. N. Tyutyanov",
+    "sha256": "97961bbf9449bda7c32c3f3c664a875447cb3b0f40ad78e7a0f9bd5d1568d35d",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=114",
+    "source_locator": "Kourovka 17.112, main section, page 114",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

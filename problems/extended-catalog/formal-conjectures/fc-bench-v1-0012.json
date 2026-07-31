@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0012",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "conjecture_4_4",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem conjecture_4_4 (n : ℕ) : ∀ᶠ (k : ℕ) in Filter.atTop, k.Prime → Odd k → n * k < S k",
+    "language_version": "Lean 4.27.0",
+    "sha256": "d58b111600c19f915d6a2fb6e9761d17dbce3f5caf7a5ea6674519471e500449",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Arxiv/2501.03234/ArithmeticSumS.lean#L89",
+    "source_locator": "FormalConjectures/Arxiv/2501.03234/ArithmeticSumS.lean:89#conjecture_4_4",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Arxiv",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

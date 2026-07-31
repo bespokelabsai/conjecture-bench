@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-042",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.42 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that H is a word-hyperbolic subgroup of a word-hyperbolic group\nG such that the inclusion of H to G extends to a continuous H-equivariant map\nj : ∂H → ∂G between their hyperbolic boundaries. If such an extension exists, it is\nunique and j is called the Cannon–Thurston map.\n     a) Is it true that for every point p ∈ ∂G its full preimage j −1 (p) is finite?\n    b) Moreover, is it true that there is a number N = N (G, H) < ∞ such that for\nevery p ∈ ∂G the full preimage j −1 (p) consists of at most N points?\n    The answer to both questions is “yes” in all the cases where the Cannon–Thurston\nmap is known to exist and where it has been possible to analyze the multiplicity of this\nmap. This includes the original set-up considered by Cannon and Thurston where H\nis the surface group, and G is the fundamental group of a closed hyperbolic 3-manifold\nfibering over the circle with that surface as a fiber. In this case, j : S1 → S2 is a\nuniformly finite-to-one continuous surjective ‘Peano curve’.                    I. Kapovich",
+    "sha256": "024d6d0ada497dc90c22fbb36854b71b7b18ef30905dc305c7cd30acd34a5575",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=135",
+    "source_locator": "Kourovka 19.42, main section, page 135",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

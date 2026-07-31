@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-006",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.6 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A group Γ is said to have Property Pnai if, for any finite subset F of Γ \\ {1},\nthere exists an element y0 ∈ Γ of infinite order such that, for each x ∈ F , the canonical\nepimorphism from the free product ⟨x⟩ ∗ ⟨y0 ⟩ onto the subgroup ⟨x, y0 ⟩ of Γ generated\nby x and y0 is an isomorphism. For n ∈ {2, 3, . . .}, does P SLn (Z) have Property\nPnai ? More generally, if Γ is a lattice in a connected real Lie group G which is simple\nand with centre reduced to {1}, does Γ have Property Pnai ?\n   Answers are known to be “yes” if n = 2, and more generally if G has real rank 1\n(M. Bekka, M. Cowling, P. de la Harpe, Publ. Math. IHES, 80 (1994), 117–134).\n   Comments of 2018: Property Pnai has been established for relatively hyperbolic\ngroups (G. Arzhantseva, A. Minasyan, J. Funct. Anal., 243, no. 1 (2007), 345–351)\nand for groups acting on CAT(0) cube complexes with appropriate conditions (A. Kar,\nM. Sageev, Comment. Math. Helv., 91 (2016), 543–561). Some progress has been\nmade in the preprint (T. Poznansky, http://arxiv.org/abs/0812.2486).\n                                                                                     P. de la Harpe",
+    "sha256": "4a65160e36bc7d4a217667de660389db53d5282c221be7cf46a3ef99818a9c6c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=72",
+    "source_locator": "Kourovka 14.6, main section, page 72",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0689",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "noPowerPartitionNumber",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem noPowerPartitionNumber : answer(sorry) ↔ ∀ k, ¬IsPerfectPower (p k)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "701f8dee4d6d5544f5fca748b478707cee1eea73a9925955ba124730b8aa314d",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OEIS/41.lean#L36",
+    "source_locator": "FormalConjectures/OEIS/41.lean:36#noPowerPartitionNumber",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "OEIS",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

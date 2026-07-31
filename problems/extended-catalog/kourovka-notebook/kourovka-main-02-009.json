@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-02-009",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 2.9 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Do there exist regular associative operations on the class of groups satisfying the\nweakened Mal’cev condition (that is, monomorphisms of the factors of an arbitrary\nproduct can be glued together, generally speaking, into a homomorphism of the whole\nproduct), but not satisfying the analogous condition for epimorphisms of the factors?\n                                                                           O. N. Golovin",
+    "sha256": "1051bdb1e91cf0d00d27f8f4104a6f6708443f5e63bb2ea8d88357eb344eb67f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=7",
+    "source_locator": "Kourovka 2.9, main section, page 7",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0334",
+  "source_registry": "egres-open",
+  "title": "Scrambled Rota conjecture",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let <math>M=(S,r)</math> be a loopless [[wikipedia:matroid|matroid]] of rank ''k'' whose ground set can be partitioned into ''k'' bases. Is it true that no matter how we partition ''S'' into sets of size ''k'', the partition will have ''k-1'' disjoint transversals that are bases?",
+    "sha256": "d82b34a21392aa3013f54f8cc3557a810bd3f3ae0315254a00a679235ced09dc",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-11-01T19:19:50Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Scrambled_Rota_conjecture&oldid=2230",
+    "source_locator": "EGRES page 334, revision 2230",
+    "source_sha256": "191d14b38c17ceaf84a1577eb6f81ccc50cd13ced5b2465f618a890d7779a1f9",
+    "tags": [
+      "combinatorial-optimization",
+      "Matroids",
+      "Packing common bases"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0284"
+  ]
+}

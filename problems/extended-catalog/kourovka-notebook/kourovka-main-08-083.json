@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-08-083",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 8.83 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "In the notation of 8.82, for r(π) > 0, one can define via Hecke algebras a\nformal Dirichlet series with Euler multiplication (see G. Shimura, Introduction to the\narithmetic theory of automorphic functions, Princeton Univ. Press, 1971). Does there\nexist an algebraic Hasse–Weil variety whose ζ-function is this Dirichlet series? There\nare several conjectures.                                                     H. Helling",
+    "sha256": "6b5bd30379ee5843d94c52105f2c383d1eff6fa99fd53df34f988712ca15e20c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=31",
+    "source_locator": "Kourovka 8.83, main section, page 31",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

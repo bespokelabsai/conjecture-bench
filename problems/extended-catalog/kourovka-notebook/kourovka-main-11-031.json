@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-031",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.31 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is a radical group polycyclic if it is a product of two polycyclic subgroups?\nThe answer is affirmative for soluble and for hyperabelian groups (D. I. Zaitsev, Math.\nNotes, 29, no. 4 (1981), 247–252; J. C. Lennox, J. E. Roseblade, Math. Z., 170 (1980),\n153–154).                                                                  D. I. Zaitsev",
+    "sha256": "dbdac2ad5d409174851cc49eb44b52c12e277672d7c38e9f633dad904b45f6c2",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=48",
+    "source_locator": "Kourovka 11.31, main section, page 48",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

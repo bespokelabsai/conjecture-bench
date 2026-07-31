@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-08-009",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 8.9 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(C. Chou). We say that a group G has property P if for every finite subset F\nof G, there is a finite subset S ⊃ F and S\n                                         a subset X ⊂ G such that x1 S ∩ x2 S is empty\nfor any x1 , x2 ∈ X, x1 ̸= x2 , and G =     Sx. Does every group have property P ?\n                                        x∈X\n                                                                        R. I. Grigorchuk",
+    "sha256": "8a64d855488e6fba126dfc77e713bce690af1be93c7a9ef639554b454e943440",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=26",
+    "source_locator": "Kourovka 8.9, main section, page 26",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

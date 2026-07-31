@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-113",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.113 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a finite group and p be a prime. Let Ψp,G be the class function\nof G which vanishes on all p-singular elements of G and whose value at each p-regular\nelement x of G is the number of p-elements of CG (x).\n    (a) Is it true that Ψp,G is a character of G?\n    (b) If yes, can Ψp,G be afforded by a projective RG-module, where R is a complete\ndiscrete valuation ring of characteristic zero such that the field of fractions of R is\na splitting field for G and its subgroups, and the residue field R/J(R) is a splitting\nfield of characteristic p for G and its subgroups?\n     It is known that Ψp,G is a character when G ∼  = Sn for any positive integer n and\nany prime p (T. Scharf, J. Algebra, 139, no. 2 (1991), 446–457).            G. Robinson",
+    "sha256": "6c076794d898d24aa84f238ea78b12a5379d120017ee901b366d0f5d0842b3b0",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=181",
+    "source_locator": "Kourovka 21.113, main section, page 181",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

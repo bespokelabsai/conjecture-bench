@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-02-082",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 2.82 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Can the class of groups with the nth Engel condition [x, y, . . . , y ] = 1 be\n                                                               | {z }\n                                                                          n\ndefined by identical relations of the form u = v, where u and v are words without\nnegative powers of variables? This can be done for n = 1, 2, 3 (A. I. Shirshov, Algebra\ni Logika, 2, no. 5 (1963), 5–18 (Russian)).\n    Editors’ comment: This has also been done for n = 4 (G. Traustason, J. Group\nTheory, 2, no. 1 (1999), 39–46). As remarked by O. Macedońska, this is also true\nfor the class of locally graded n-Engel groups because by (Y. Kim, A. Rhemtulla, in\nGroups–Korea’94, de Gruyter, Berlin, 1995, 189–197) such a group is locally nilpotent\nand then by (R. G. Burns, Yu. Medvedev, J. Austral. Math. Soc., 64 (1998), 92–100)\nsuch a group is an extension of a nilpotent group of n-bounded class by a group of n-\nbounded exponent; then a classical result of Mal’cev implies that such groups satisfy\na positive law.                                                           A. I. Shirshov",
+    "sha256": "9229a6d8b3f836d09d685e643923deb718c05aff20cb95b546b7ef1717374848",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=9",
+    "source_locator": "Kourovka 2.82, main section, page 9",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

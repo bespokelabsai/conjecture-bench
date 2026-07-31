@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3437",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Generalized path-connectedness in proximity spaces",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $\\delta$ be a proximity.\n\nA set $A$ is connected regarding $\\delta$ iff $\\forall X,Y \\in \\mathscr{P} A \\setminus \\{ \\emptyset \\}: \\left( X \\cup Y = A \\Rightarrow X \\mathrel{\\delta} Y \\right)$.\n\nConjecture The following statements are equivalent for every endofuncoid $\\mu$ and a set $U$:\n\n- $U$ is connected regarding $\\mu$.\n- For every $a, b \\in U$ there exists a totally ordered set $P \\subseteq U$ such that $\\min P = a$, $\\max P = b$, and for every partion $\\{ X, Y \\}$ of $P$ into two sets $X$, $Y$ such that $\\forall x \\in X, y \\in Y: x < y$, we have $X \\mathrel{[ \\mu]^{\\ast}} Y$.",
+    "sha256": "5f8b3df82979050691b3059e5a7cb878f6c1d22e33bc15bd057d1139cd3c0849",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-59896",
+    "source_locator": "dataset ID 3437; problem number OPG-59896",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

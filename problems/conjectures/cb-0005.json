@@ -1,0 +1,28 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0005",
+  "slug": "erdosgyarfas-conjecture",
+  "title": "Erdős–Gyárfás conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Erdős–Gyárfás conjecture · 1995. Every graph of minimum degree at least three contains a cycle whose length is a power of two.",
+  "counterexample": {
+    "description": "A counterexample is a minimum-degree-three graph with no cycles of lengths 4, 8, 16, and so on. Enumerating all simple cycles verifies it.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2605.22844",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "erdos-gyarfas-power-of-two-cycle",
+  "duplicate_of": "cb-0201"
+}

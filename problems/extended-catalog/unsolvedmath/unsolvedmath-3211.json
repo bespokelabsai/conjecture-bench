@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3211",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Circular choosability of planar graphs",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $G = (V, E)$ be a graph. If $p$ and $q$ are two integers, a $(p,q)$-colouring of $G$ is a function $c$ from $V$ to $\\{0,\\dots,p-1\\}$ such that $q \\le |c(u)-c(v)| \\le p-q$ for each edge $uv\\in E$. Given a list assignment $L$ of $G$, i.e.~a mapping that assigns to every vertex $v$ a set of non-negative integers, an $L$-colouring of $G$ is a mapping $c: V \\to N$ such that $c(v)\\in L(v)$ for every $v\\in V$. A list assignment $L$ is a $t$- $(p,q)$-list-assignment if $L(v) \\subseteq \\{0,\\dots,p-1\\}$ and $|L(v)| \\ge tq$ for each vertex $v \\in V$. Given such a list assignment $L$, the graph G is $(p,q)$- $L$-colourable if there exists a $(p,q)$- $L$-colouring $c$, i.e. $c$ is both a $(p,q)$-colouring and an $L$-colouring. For any real number $t \\ge 1$, the graph $G$ is $t$- $(p,q)$-choosable if it is $(p,q)$- $L$-colourable for every $t$- $(p,q)$-list-assignment $L$. Last, $G$ is circularly $t$-choosable if it is $t$- $(p,q)$-choosable for any $p$, $q$. The circular choosability (or circular list chromatic number or circular choice number) of G is $$cch(G):= \\inf\\{t \\ge 1: G \\text{ is circularly$t$-choosable}\\}.$$\n\nProblem What is the best upper bound on circular choosability for planar graphs?",
+    "sha256": "f30c6ba21c7402c178e9c7f0262c9e5046a8c4ceb312c8d4067c7b7c7fc40d44",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-37619",
+    "source_locator": "dataset ID 3211; problem number OPG-37619",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

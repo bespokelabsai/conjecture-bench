@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-084",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.84 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For σ ∈ Sn and τ ∈ Sm , where n ⩽ m, let\n           dflex\n            n (σ, τ ) = (1/n) · (|{x ∈ {1, . . . , n} | σ(x) ̸= τ (x)}| + (m − n)).\nAn almost-homomorphism {fn } is said to be flexibly close to a homomorphism if\nthere is a sequence of group homomorphisms ρn : G → Smn with n ⩽ mn such\nthat dflex\n        n (ρn (g), fn (g)) → 0 as n → ∞ for all g ∈ G. The group G is said to be\nflexibly permutation stable if every almost-homomorphism of G is flexibly close to\na homomorphism.\n    Is SLn (Z) flexibly permutation-stable?                                      A. Lubotzky",
+    "sha256": "5d51c3bd7c97a2fe5898d2d618de320e05b353d02384ff272c44e2826beb0ac4",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=176",
+    "source_locator": "Kourovka 21.84, main section, page 176",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

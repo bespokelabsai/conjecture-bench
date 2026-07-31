@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-13-002",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 13.2 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does there exist a finitely based variety of groups V such that the word problem\nis solvable in Fn (V) for every positive integer n, but is unsolvable in F∞ (V) (with\nrespect to a free generating system)?                                     M. I. Anokhin",
+    "sha256": "3ec59eab89ed4e9569c2d58e2bd32745065f1dddbbaf61b8903c58aa3d9ef4d2",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=65",
+    "source_locator": "Kourovka 13.2, main section, page 65",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

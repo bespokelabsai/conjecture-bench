@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-015",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.15 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose B is a subgroup of the symmetric group S\n                                                             Ω on an infinite set Ω.\nWill the amalgamated free product SΩ ∗B SΩ of two copies of SΩ with amalgamation\nof B be embeddable in SΩ ? This is a weakened form of the group case of Question 4.4\nin (G. M. Bergman, Indag. Math., 18 (2007), 349–403).\n    It is known that SΩ ∗B SΩ need not be so embeddable by a map respecting B\n(Algebra Number Theory, 3 (2009), 847–879, § 10).                    G. M. Bergman\n  ∗ No, not necessarily: take Ω countably infinite, B a subgroup of S which is\n                                                                            Ω\nnot Borel, and ϕ : SΩ ∗B SΩ → SΩ an injective group homomorphism. Let ϕ1\nbe the restriction of ϕ to the first copy of SΩ and ϕ2 that to the second. Each\nϕi is continuous (A. S. Kechris, C. Rosendal, Proc. Lond. Math. Soc., 94, no. 2\n(2007), 302–350), so im(ϕi ) is Borel in SΩ (as a continuous injective image of a Polish\nspace). Now B = ϕ−1                    −1\n                      1 (ϕ(B)) = ϕ1 (im(ϕ1 ) ∩ im(ϕ2 )) is Borel, a contradiction.\n(S. M. Corson, Letter of 26 January 2026; see also https://kourovkanotebookorg.\nwordpress.com/wp-content/uploads/2026/03/solution-of-21.15.pdf.)",
+    "sha256": "ffc4cc8306c671b584841c9245783906bcaba97e20a0c54880576abc97ea6d32",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=166",
+    "source_locator": "Kourovka 21.15, main section, page 166",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

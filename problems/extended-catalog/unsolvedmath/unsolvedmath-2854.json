@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2854",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.56",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) For $Y^3$ a rational homology sphere, is the Seiberg--Witten Floer spectrum $SWF(Y)$ always a wedge of spheres?\n\n(b) Is every monopole Floer homology L-space a Seiberg--Witten Floer homotopy L-space?\n\n(c) Find an example of two rational homology spheres with the same monopole Floer homology but with different Seiberg--Witten Floer spectra.\n\n(d) Develop an algorithm for computing Seiberg--Witten Floer spectra.",
+    "sha256": "a522e7f6d2326c3e80a79741b68c8fd1d2a431beb0a503aa5fba979f8141557e",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.56",
+    "source_locator": "dataset ID 2854; problem number KP-3.56",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-092",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.92 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "This question is about existence of an analogue of the Lazard correspondence\nfor pre-Lie algebras and braces. A pre-Lie algebra A is a vector space with a bilinear\noperation (x, y) → xy satisfying (xy)z − x(yz) = (yx)z − y(xz) for every x, y, z ∈ A.\nA pre-Lie algebra A is said to be left nilpotent if, for some n ∈ N, A·(A·(A · · · A))) = 0\nwhere A appears n times in the product. Recall that a set A with binary operations +\nand ◦ is a left brace if (A, +) is an abelian group, (A, ◦) is a group, and a ◦ (b + c) + a =\na ◦ b + a ◦ c for every a, b, c ∈ A. Let p be a prime, and Fp the field of p elements.\nA left brace A is called an Fp -brace if its additive group is an Fp -vector space such\nthat a ∗ (αb) = α(a ∗ b) for all a, b ∈ A, α ∈ Fp , where a ∗ b = a ◦ b − a − b. The idea of\na connection between braces and pre-Lie algebras comes from a paper by W. Rump\n(2014).\n    a) Let A be an Fp -brace of cardinality pk for some k. Is it true that when p is\nsufficiently large relative to k, the set\n                                       PA   with the same additive operation + and with\n                                          p−2\nthe operation · defined as a · b = − i=0 21i ((2i a) ∗ b) is a pre-Lie algebra?\n                                      n−1\n    Comment of 2025: If 2 ≡ ξ p            when ξ is a primitive root modulo p, and if\nA is strongly nilpotent of nilpotency index less than p, then the result follows by\n(A. Smoktunowicz, Adv. Math., 409, part B (2022), 108683). It is not known if the\nresult follows when A is not strongly nilpotent.\n  ∗ b) Let k be a natural number, and let p be a prime number such that p > 2k . Is\nthere a bijective correspondence between Fp -braces of cardinality pk and left nilpotent\npre-Lie algebras over Fp of cardinality pk ?\n   An affirmative answer to any of the above questions would have consequences for\nthe theory of set-theoretic solutions of the Yang–Baxter equation and for the theory\nof Hopf–Galois extensions.                                            A. Smoktunowicz\n  ∗ b) Yes, there is (S. Trappeniers, Preprint, 2024, https://arxiv.org/abs/2406.\n02475).",
+    "sha256": "9cb4e7255d50871b8ccf066ef2ffe1486c5ae5c3b20bd50c5294d923971d732b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=158",
+    "source_locator": "Kourovka 20.92, main section, page 158",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

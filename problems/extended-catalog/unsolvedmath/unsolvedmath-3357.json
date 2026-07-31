@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3357",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős–Straus conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture\n\nFor all $n > 2$, there exist positive integers $x$, $y$, $z$ such that $$1/x + 1/y + 1/z = 4/n$$.",
+    "sha256": "d1ea9d60f2d07319146cae5f2893907fec53fd3cc67fd284faea3d606318be4d",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-37397",
+    "source_locator": "dataset ID 3357; problem number OPG-37397",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

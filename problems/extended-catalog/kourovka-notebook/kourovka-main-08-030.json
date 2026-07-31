@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-08-030",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 8.30 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let X, Y be Fitting classes of soluble groups which satisfy the Lockett condition,\ni. e. X ∩ S∗ = X∗ , Y ∩ S∗ = Y∗ where S denotes the Fitting class of all soluble\ngroups and the lower star the bottom group of the Lockett section determined by the\ngiven Fitting class. Does X ∩ Y satisfy the Lockett condition?\n    Editors’ comment (2001): The answer is affirmative if X and Y are local (A. Gry-\ntczuk, N. T. Vorob’ev, Tsukuba J. Math., 18, no. 1 (1994), 63–67).            H. Lausch",
+    "sha256": "dd3ac288043332678c5c8c78bac1cf2aa366aebb452644ee43310e0b573672a7",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=28",
+    "source_locator": "Kourovka 8.30, main section, page 28",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

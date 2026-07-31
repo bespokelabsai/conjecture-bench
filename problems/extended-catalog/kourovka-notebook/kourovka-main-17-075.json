@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-075",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.75 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Can the Monster M act on a nontrivial finite 3-group V so that all elements\nof M of orders 41, 47, 59, 71 have no nontrivial fixed points in V ? V. D. Mazurov",
+    "sha256": "957024db1ff7f82ec6f0acecce7e7797d96c1859556421410c5618c3075995e9",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=110",
+    "source_locator": "Kourovka 17.75, main section, page 110",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

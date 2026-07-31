@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0922",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "lander_parkin_selfridge.variants.five_three",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem lander_parkin_selfridge.variants.five_three :\n    ∀ x₁ x₂ x₃ y : ℕ,\n      0 < x₁ → 0 < x₂ → 0 < x₃ → 0 < y →\n      x₁ ^ 5 + x₂ ^ 5 + x₃ ^ 5 ≠ y ^ 5",
+    "language_version": "Lean 4.27.0",
+    "sha256": "b6852d3ac001cc4da5d2fb71f6ebb8d553403d3e6bb39e8c300bd45a402a1a9c",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/LanderParkinAndSelfridgeConjecture.lean#L52",
+    "source_locator": "FormalConjectures/Wikipedia/LanderParkinAndSelfridgeConjecture.lean:52#lander_parkin_selfridge.variants.five_three",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0248"
+  ]
+}

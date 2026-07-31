@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0195",
+  "slug": "smooth-four-dimensional-poincare-conjecture",
+  "title": "Smooth four-dimensional Poincaré conjecture",
+  "field": "topology",
+  "statement": "Every smooth homotopy four-sphere is diffeomorphic to the standard four-sphere.",
+  "counterexample": {
+    "description": "A finite handle decomposition of a homotopy four-sphere with a formal invariant proving it is not diffeomorphic to S⁴.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/0906.5177",
+        "role": "supporting"
+      }
+    ]
+  }
+}

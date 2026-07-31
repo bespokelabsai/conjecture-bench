@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-011",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.11 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is an abelian minimal normal subgroup A of a group G an elementary p-group\nif the factor-group G/A is a soluble group of finite rank? The answer is affirmative\nunder the additional hypothesis that G/A is locally polycyclic (D. I. Zaitsev, Algebra\nand Logic, 19, no. 2 (1980), 94–105).                                     D. I. Zaitsev",
+    "sha256": "29533aece0eaabda88132561fd251ff8c1a2d3d9d75d23557b3051f7e9efccba",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=32",
+    "source_locator": "Kourovka 9.11, main section, page 32",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

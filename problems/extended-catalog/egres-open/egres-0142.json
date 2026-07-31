@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0142",
+  "source_registry": "egres-open",
+  "title": "Bounded degree matroid basis",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''M'' be a matroid on ground set ''V'', let ''H=(V,E)'' be a hypergraph with maximum degree <math>\\Delta</math>, let ''c(v)'' be the cost of node ''v'', and let <math>l(e) \\leq u(e)</math> (<math>e \\in E</math>) be lower and upper bounds on the hyperedges. Let ''OPT'' denote the minimum cost of a basis ''B'' of ''M'' which satisfies <math>l(e) \\leq |B \\cap e| \\leq u(e)</math> for every <math>e \\in E</math>. Is there a polynomial algorithm to find a basis ''B'' such that <math>c(B) \\leq OPT</math> and <math>l(e)-\\Delta+1 \\leq |B \\cap e| \\leq u(e)+\\Delta-1</math>?",
+    "sha256": "89bb9898feeb3be4b227f8f137da7450fe62fb63e8e431eac62788b4b5d8bd62",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-06-17T12:00:13Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Bounded_degree_matroid_basis&oldid=2046",
+    "source_locator": "EGRES page 142, revision 2046",
+    "source_sha256": "1a28ff833782c860aef06c895d33bb1a739e9e3d5bee2c544b0925a6f538b2fe",
+    "tags": [
+      "combinatorial-optimization",
+      "Matroids"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

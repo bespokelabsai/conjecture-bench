@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2936",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.60",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) Let X be an open, spin, smooth4-manifold. Does X have a proper smooth embedding in $\\mathbb{R}^{6}$?\n\n(b) By choosing a proper exhaustion function on W,(a) would follow from an affirmative answer to the following. Let (W;M, N) be a compact, smooth spin cobordism with a smooth embedding f of M in $S^{5}$. Is there a smooth embedding F: (W;M, N) $\\to (S^{5} \\times I;S^{5} \\times$ \\{0\\}, $S^{5} \\times$ \\{1\\}) whose restriction to M coincides with f?\n\n(c) Let (W;M, N) be a compact, smooth spin cobordism with smooth embeddings f of M in $S^{5}$ and g of N in $S^{5}$ such that $\\sigma(N, S^{5}) -\\sigma(M, S^{5}) = \\sigma(W)$. Is there a smooth embedding F: (W;M, N) $\\to (S^{5} \\times I;S^{5} \\times$ \\{0\\}, $S^{5} \\times$ \\{1\\}) whose restriction to M coincides with f and whose restriction to N coincides with g?",
+    "sha256": "d4e6b4abe92a29ff64687d6a3238bce19c693e24e5c7038d79920076be5d3825",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.60",
+    "source_locator": "dataset ID 2936; problem number KP-4.60",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

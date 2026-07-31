@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-114",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.114 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is every locally graded group of finite special rank almost hyperabelian?\nThis is true in the class of periodic locally graded groups (Ukrain. Math. J., 42, no. 7\n(1990), 855–861).                                                      N. S. Chernikov",
+    "sha256": "1224ec66c932a0cb0a184aade99528cd181ef591bbb543ba16c7511610619a87",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=55",
+    "source_locator": "Kourovka 11.114, main section, page 55",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-056",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.56 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let ℓ(X) denote the composition length of a finite group X. Let A be a finite\nnilpotent group acting by automorphisms on a finite soluble group G. Let c(G, A)\nbe the number of trivial A-modules in a given A-composition series of G. (Note that\nc(G, A) = ℓ(CG (A)) if (|A|, |G|) = 1.)\n    Conjecture: there are absolute constants C1 and C2 such that the Fitting height\nof G is at most C1 ℓ(A) + C2 c(G, A).                                     İ. Güloǧlu",
+    "sha256": "19e91e7c1438a30df54820a2292a72434c63453020360aa17194e6bcd44f5dd1",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=172",
+    "source_locator": "Kourovka 21.56, main section, page 172",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

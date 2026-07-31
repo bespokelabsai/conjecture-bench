@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2442",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #1021",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Is it true that, for every $k\\geq 3$, there is a constant $c_k>0$ such that $ \\mathrm{ex}(n,G_k) \\ll n^{3/2-c_k}, $ where $G_k$ is the bipartite graph between $\\{y_1,\\ldots,y_k\\}$ and $\\{z_1,\\ldots,z_{\\binom{k}{2}}\\}$, with each $z_j$ joined to a unique pair of $y_i$?",
+    "sha256": "aacd7e020cfedb97f2b9d8eeb26fb10a04f9fc871dc8e540eeb9ff286f949ffb",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-1021",
+    "source_locator": "dataset ID 2442; problem number EP-1021",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2867",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.69",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) What is the isomorphism type of $\\Theta^3_{\\mathbb{Z}}$?\n\n(b) Does there exist a torsion element $[Y]$ in $\\Theta^3_{\\mathbb{Z}}$?\n\n(c) Does there exist a torsion element $[Y]\\in\\Theta^3_{\\mathbb{Z}}$ having Rokhlin invariant $\\mu([Y])=1$?\n\n(d) Do there exist infinitely-divisible elements in $\\Theta^3_{\\mathbb{Z}}$; that is, does there exist a homology 3-sphere $Y$ such that for infinitely many $n\\in\\mathbb{N}$ there exists $[Z_n]\\in\\Theta^3_{\\mathbb{Z}}$ such that $[Y]=n[Z_n]$?",
+    "sha256": "4d021aebc984825b043ad8e634d3c6e7e38858273df96dc4805d0f677c6ebdeb",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.69",
+    "source_locator": "dataset ID 2867; problem number KP-3.69",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

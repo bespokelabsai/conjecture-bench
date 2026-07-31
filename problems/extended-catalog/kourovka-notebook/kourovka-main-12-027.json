@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-027",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.27 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a simple locally finite group. We say that G is a group of finite\ntype if there is a non-trivial permutational representation of G such that some finite\nsubgroup of G has no regular orbits. Investigate and, perhaps, classify the simple\nlocally finite groups of finite type. Partial results see in (B. Hartley, A. Zalesski, Isr.\nJ. Math., 82 (1993), 299–327, J. London Math. Soc., 55 (1997), 210–230; F. Leinen,\nO. Puglisi, Illinois J. Math., 47 (2003), 345–360).                        A. E. Zalesskiı̆",
+    "sha256": "9645fa189a103067402ad5285fa24b92c74000188ebe80f74a2c87b910ee3006",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=58",
+    "source_locator": "Kourovka 12.27, main section, page 58",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-056",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.56 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a finite 2-group, of order greater than 2, such that |H/HG | ⩽ 2\nfor all H ⩽ G, where HG denotes the largest normal subgroup of G contained in H.\nMust G have an abelian subgroup of index 4?                            G. Cutolo",
+    "sha256": "9a650d022e15352cfcfdaf579996356fe0a77e7eec62f6ac86c360ed542bd72c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=121",
+    "source_locator": "Kourovka 18.56, main section, page 121",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

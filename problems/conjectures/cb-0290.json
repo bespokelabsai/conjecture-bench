@@ -1,0 +1,46 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0290",
+  "slug": "zehavi-itai-independent-spanning-trees",
+  "title": "Zehavi–Itai independent spanning-trees conjecture",
+  "field": "graph-theory-and-network-reliability",
+  "statement": "For every positive integer k, every finite k-vertex-connected graph G, and every prescribed root r, there are k spanning trees T₁,…,Tₖ such that, for every vertex v≠r, the unique r–v paths in the trees are pairwise internally vertex-disjoint.",
+  "counterexample": {
+    "description": "A finite simple 5-vertex-connected graph and a root for which exhaustive spanning-tree enumeration and exact compatibility search find no collection of five rooted independent spanning trees.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://lemon.cs.elte.hu/egres/open/Independent_trees",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Independent_trees&oldid=2435",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.1002/jgt.3190130205",
+        "role": "origin-and-k3-case"
+      },
+      {
+        "url": "https://doi.org/10.1137/S0097539703436734",
+        "role": "k4-case"
+      },
+      {
+        "url": "https://arxiv.org/abs/2509.26401",
+        "role": "recent-open-status-and-random-graph-progress"
+      }
+    ],
+    "discovery_records": [
+      "egres-0124"
+    ]
+  },
+  "equivalence_group": "zehavi-itai-independent-spanning-trees"
+}

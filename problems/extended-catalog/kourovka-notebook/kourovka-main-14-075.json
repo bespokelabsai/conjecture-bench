@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-075",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.75 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that G = {G1 , G2 , . . .} is a family of finite 2-generated groups which\ngenerates the variety of all groups. Is it true that a free group of rank 2 is residually\nin G?                                                                           L. Pyber",
+    "sha256": "ee5705e06797831cef69b8e2f0cf9ab4821e0c92e4f45c88e337a59cc180d001",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=79",
+    "source_locator": "Kourovka 14.75, main section, page 79",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

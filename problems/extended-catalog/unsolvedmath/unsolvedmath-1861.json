@@ -1,0 +1,36 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1861",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős $5000 Problem on Prime Gaps",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Is it true that for infinitely many $n$, $d_n = p_{n+1} - p_n > c \\ln n \\ln \\ln n \\ln \\ln \\ln \\ln n / (\\ln \\ln \\ln n)^2$ for arbitrarily large constant $c$?",
+    "sha256": "16382b78987fb547e9582a7c4a8df69cd5c369a174c364f20dc89bc42a42ff13",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GUY-A8a",
+    "source_locator": "dataset ID 1861; problem number GUY-A8a",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L4",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

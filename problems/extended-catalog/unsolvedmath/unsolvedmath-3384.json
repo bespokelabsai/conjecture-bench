@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3384",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Davenport's constant",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For a finite (additive) abelian group $G$, the Davenport constant of $G$, denoted $s(G)$, is the smallest integer $t$ so that every sequence of elements of $G$ with length $\\ge t$ has a nontrivial subsequence which sums to zero.\n\nConjecture $s( {\\mathbb Z}_n^d) = d(n-1) + 1$",
+    "sha256": "e6a5a90e953af42058a84d8ea03d1254aff1ea2cddce4c4bb5e883cf6983a41e",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-563",
+    "source_locator": "dataset ID 3384; problem number OPG-563",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

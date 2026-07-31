@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0374",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_489",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_489 : answer(sorry) ↔\n    ∀ (A : Set ℕ),\n      (fun x : ℕ => (((Finset.Icc 1 x).filter (· ∈ A)).card : ℝ)) =o[atTop]\n        (fun x : ℕ => (x : ℝ).sqrt) →\n      (sievedSet A).Infinite →\n      ∃ L : ℝ, Tendsto (fun x : ℕ => GapSumSq A x / (x : ℝ)) atTop (𝓝 L)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "5f63f58ef077716242f1a617ddb70cd980df0f6a948d2592b129aa62f59f03a9",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/489.lean#L52",
+    "source_locator": "FormalConjectures/ErdosProblems/489.lean:52#erdos_489",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

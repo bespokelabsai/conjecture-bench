@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-120",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.120 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let P = AB be a finite p-group factorized by an abelian subgroup A and\na class-two subgroup B. Suppose, if necessary, A ∩ B = 1. Then is it true that\n⟨A, [B, B]⟩ = AB0 , where B0 is an abelian subgroup of B?             E. Jabara",
+    "sha256": "fb4389c14d9b0de345dd654aead079a665cfe0a5c1e523e5d452decdf76077f5",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=129",
+    "source_locator": "Kourovka 18.120, main section, page 129",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

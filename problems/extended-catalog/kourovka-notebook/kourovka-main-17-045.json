@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-045",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.45 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "c) A subgroup H of a group G is called pronormal if H and H g are conjugate\nin ⟨H, H g ⟩ for every g ∈ G. We say that H is strongly pronormal if Lg is conjugate\nto a subgroup of H in ⟨H, Lg ⟩ for every L ⩽ H and g ∈ G.\n    In a finite group, is a Hall subgroup with a Sylow tower always strongly pronormal?\n    Notice that there exist finite (non-simple) groups with a non-pronormal Hall sub-\ngroup. Hall subgroups with a Sylow tower are known to be pronormal.\n                                                                 E. P. Vdovin, D. O. Revin",
+    "sha256": "8b1f8617a3150dfd06118ee6870f9e813c89a4f5da9ce02401a5eca064d8ab6a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=107",
+    "source_locator": "Kourovka 17.45, main section, page 107",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

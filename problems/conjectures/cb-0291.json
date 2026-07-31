@@ -1,0 +1,42 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0291",
+  "slug": "baker-graph-gonality",
+  "title": "Baker’s graph-gonality conjecture",
+  "field": "graph-divisor-theory-and-chip-firing",
+  "statement": "Every finite connected graph G of genus g=|E(G)|−|V(G)|+1 has divisorial gonality gon(G)≤⌊(g+3)/2⌋; equivalently, G has an integer divisor of degree at most ⌊(g+3)/2⌋ and rank at least one.",
+  "counterexample": {
+    "description": "A finite simple connected graph for which exact chip-firing class arithmetic proves that no divisor through Baker’s conjectural degree bound has positive rank.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://lemon.cs.elte.hu/egres/open/Upper_bound_on_the_divisorial_gonality_of_a_graph",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Upper_bound_on_the_divisorial_gonality_of_a_graph&oldid=2313",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.2140/ant.2008.2.613",
+        "role": "origin"
+      },
+      {
+        "url": "https://doi.org/10.37236/9307",
+        "role": "cartesian-product-special-case"
+      }
+    ],
+    "discovery_records": [
+      "egres-0454"
+    ]
+  },
+  "equivalence_group": "baker-graph-gonality-upper-bound"
+}

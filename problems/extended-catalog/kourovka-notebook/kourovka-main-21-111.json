@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-111",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.111 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let S be a finite simple nonabelian group that is not isomorphic to any group\n  B2 (q). A nonidentity automorphism x of S is called a τ -automorphism if every two\nconjugates of x in ⟨x, Inn(S)⟩ generate a subgroup of order not divisible by 3. If S\nadmits a τ -automorphism, we call S a τ -group.\n   (a) List all τ -groups up to isomorphism.\n   (b) Do τ -automorphisms of odd order exist?                 D. O. Revin, N. Y. Yang",
+    "sha256": "e340355ff44031188abf5d9fb427b3233da82b3d0dadd579d5b90d96aa9df0bc",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=180",
+    "source_locator": "Kourovka 21.111, main section, page 180",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

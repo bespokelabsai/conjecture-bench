@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-040",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.40 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "The commutator length cl(g) of g ∈ [G, G] is the least number of com-\nmutators in G whose product is g, and the stable commutator length is scl(g) :=\nlimn→∞ cl(g n )/n.\n    Conjecture: Let G be a hyperbolic group. Then the stable commutator length\ntakes on rational values on [G, G].                                 D. Calegari",
+    "sha256": "a4d5c6d5e5c9ca1de97960a346bc05a914a8d0d37a3d92475c114a2617dbdc09",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=119",
+    "source_locator": "Kourovka 18.40, main section, page 119",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

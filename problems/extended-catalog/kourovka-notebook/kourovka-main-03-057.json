@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-03-057",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 3.57 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Determine the laws of distribution of non-soluble and simple group-theoretic\nnumbers in the sequence of natural numbers. See 2.78.                P. I. Trofimov",
+    "sha256": "7a2786e6cd5eb75fa94e0a43db508a69fc157e192384830e105073730965606f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=11",
+    "source_locator": "Kourovka 3.57, main section, page 11",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

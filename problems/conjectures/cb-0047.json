@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0047",
+  "slug": "no-perfect-cuboid",
+  "title": "No perfect cuboid",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "There are no positive integers a,b,c,u,v,w,d satisfying a²+b²=u², a²+c²=v², b²+c²=w², and a²+b²+c²=d².",
+  "counterexample": {
+    "description": "Positive integers satisfying the three face-diagonal square equations and the body-diagonal square equation. Four exact square checks verify a witness.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://mathworld.wolfram.com/PerfectCuboid.html",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/1601.00636",
+        "role": "supporting"
+      }
+    ]
+  }
+}

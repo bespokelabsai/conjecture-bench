@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0039",
+  "source_registry": "open-problems-project",
+  "title": "Distances among Point Sets in $\\R^2$ and $\\R^3$",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "For a point set $P$ in $\\R^d$, let\n$f_d(P)$ be the number of unit-distance point pairs:\n$$f_d(P) = \\left| \\{ (u,v) \\mid u, v \\in P , \\, \\|u-v\\| = 1 \\} \\right| \\; ;$$\nand let $f_d(n)$ be the maximum over all sets of $n$ points:\n$$f_d(n) = \\max_{|P| = n} f_d(P) \\; .$$\nFurther, let $g_d(P)$ denote the number of distinct\ndistances induced by a set of points $P$:\n$$g_d(P) = \\left| \\{ \\|u-v\\| \\mid u, v \\in P \\} \\right| \\; ;$$\nand let $g_d(n)$ be the minimum over all sets of $n$ points:\n$$g_d(n) = \\min_{|P|=n} g_d(P) \\; .$$\n\nGive upper and lower bounds on $f_d(n)$ and $g_d(n)$,\nparticularly for $d=2$ and $d=3$.",
+    "sha256": "9b3092a35da67dc878beadbb4b8e3f1369e48d578abab2afff5909c53478230f",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p39",
+    "source_locator": "TOPP problem 39 (Problems/P.000039)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "combinatorial geometry"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

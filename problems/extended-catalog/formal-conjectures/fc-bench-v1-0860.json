@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0860",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "rank_height_count_asymptotic",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11 14]\ntheorem rank_height_count_asymptotic (r : ℕ) (h₁ : 1 ≤ r) (h₂ : r ≤ 20) :\n    ∃ f : ℕ → ℝ, atTop.Tendsto f (𝓝 0) ∧\n      ∀ H : ℕ, 1 < H → {E ∈ heightLE H | r ≤ E.rank}.ncard = (H : ℝ) ^ ((21 - r) / 24 + f H)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "32d5752b68b2095a35182d2a8939ca4a920aee59c60046a2720ee92ea76b4cc7",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/EllipticCurveRank.lean#L142",
+    "source_locator": "FormalConjectures/Wikipedia/EllipticCurveRank.lean:142#rank_height_count_asymptotic",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11",
+      "AMS-14"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

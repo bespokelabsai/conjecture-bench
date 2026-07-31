@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-123",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.123 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that the extension of the A. Agrachev–R. Gamkrelidze construction\nof groups from pre-Lie rings in (J. Soviet Math., 17 (1981), 1650–1675) suggested in\nDefinition 66 of (A. Smoktunowicz, J. Pure Appl. Algebra, 229, no. 12 (2025), 108128)\nproduces groups from pre-Lie rings?\n    If this extended construction does give a group, then it also gives a brace, and\nso an affirmative answer to this question would have consequences for the theory of\nset-theoretic solutions of the Yang–Baxter equation and for the theory of braces.\n                                                                       A. Smoktunowicz",
+    "sha256": "247485c9164e357e85c3dfe59499ecfb459a528ab60839f2e940aa2b9eb9f6bf",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=182",
+    "source_locator": "Kourovka 21.123, main section, page 182",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2630",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.121",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $p$ be a prime number. A group $\\Gamma$ is called $p$-Jordan if there exist constants $J$ and $e$ such that any finite subgroup $G\\subset\\Gamma$ contains a normal abelian subgroup of order coprime to $p$ and of index at most $J\\cdot |G(p)|^e$. (For example by the results of Brauer--Feit and Larsen--Pink, for any field $K$ of characteristic $p$ the group $\\operatorname{GL}_n(K)$ is $p$-Jordan with $e=3$.) Let the $p$-Jordan exponent $e(\\Gamma)$ of the group $\\Gamma$ be the infimum of all constants $e$ for which the above bound holds for some constant $J=J(e)$.\n\na) Is it true that this infimum is always attained?\n\nb) Is it true that $e(\\Gamma)\\leqslant 3$ for any $p$-Jordan group $\\Gamma$?",
+    "sha256": "1bc6e53a67bfc270063c7b8856de59c68aa5ecacf360f87eb83fbf51de9f2159",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.121",
+    "source_locator": "dataset ID 2630; problem number KOU-21.121",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2269",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #705",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $G$ be a finite unit distance graph in $\\mathbb{R}^2$ (i.e. the vertices are a finite collection of points in $\\mathbb{R}^2$ and there is an edge between two points if and only if the distance between them is $1$).\nIs there some $k$ such that if $G$ has girth $\\geq k$ (i.e. $G$ contains no cycles of length $<k$) then $\\chi(G)\\leq 3$?",
+    "sha256": "3251c57ef89b8a251967e6b7fc7c54ac47c65ea7ff66feef7f99ed8e86c9faa2",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-705",
+    "source_locator": "dataset ID 2269; problem number EP-705",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

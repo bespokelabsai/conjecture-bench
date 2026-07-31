@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-036",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.36 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "The free Burnside group of exponent four on three generators, B(3, 4), has\norder 269 as shown by Bayes, Kautsky, and Wamsley (1974). Their proof is based\non a theorem of Sanov (1940) which shows that B(n, 4) is finite. Sanov’s proof for\nB(3, 4) uses more than 232 fourth powers, because the subgroup of B(3, 4) generated\nby two of its generators and the square of the third has order 232 . It is also known\nthat B(3, 4) needs at least 105 relations to define it, as shown by Havas and Newman\n(1980).\n    a) Can B(3, 4) be defined with fewer than a million fourth powers?\n   b) Can B(3, 4) be defined with fewer than a thousand fourth powers?\n    c) What is the smallest number of fourth powers which define B(3, 4)?\n                                                               G. Havas, M. F. Newman",
+    "sha256": "d133c7536bd9ee729954d4e132bfc7fd72c3978543c6ec3a2037626bfdb43b53",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=150",
+    "source_locator": "Kourovka 20.36, main section, page 150",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

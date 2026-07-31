@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-048",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.48 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that P is a finite p-group with a non-trivial partition (which is\nequivalent to having proper Hughes subgroup Hp (P ) := ⟨g ∈ P | g p ̸= 1⟩ ̸= P ). If P\nadmits a fixed-point-free automorphism of prime order, must P be of exponent p?\n                                                                                 M. Lewis",
+    "sha256": "c333dfc51f0b4028c47c59cf0d4920e20b6cb4faa84b1e21ba3fe7be49e44f27",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=151",
+    "source_locator": "Kourovka 20.48, main section, page 151",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

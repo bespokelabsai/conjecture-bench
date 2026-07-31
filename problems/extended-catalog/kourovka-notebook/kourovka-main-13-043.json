@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-13-043",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 13.43 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(G. R. Robinson). Let G be a finite group and B be a p-block of characters\nof G. Conjecture: If the defect group D = D(B) of the block B is non-abelian, and\nif |D : Z(D)| = pa , then each character in B has height strictly less than a.\n    G. R. Robinson’s comment of 2020: the conjecture is proved mod CFSG for p ̸= 2\nin (Z. Feng, C. Li, Y. Liu, G. Malle, J. Zhang, Compos. Math., 155, no. 6 (2019),\n1098–1117).                                                                    J. Olsson\n  ∗ The conjecture is proved (R. Kessar, G. Malle, J. London Math. Soc. (2), 111,\nno. 2 (2025), Article ID e70076, https://arxiv.org/abs/2311.13510).",
+    "sha256": "4a07d2abcd95268e863dd72faa0fbe1e98eef016067cab68aef8e9fbcc3ac70e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=68",
+    "source_locator": "Kourovka 13.43, main section, page 68",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

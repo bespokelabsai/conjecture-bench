@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0025",
+  "source_registry": "open-problems-project",
+  "title": "Polyhedral Surface Approximation",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "How efficiently can one compute a polyhedral surface\nthat is an $\\epsilon$-approximation of a given triangulated surface in\n$\\R^3$?",
+    "sha256": "a380ee906dfc350f1891a0a5aea4c8070e0b4bff60ba07d51b05d8773c1f79c3",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p25",
+    "source_locator": "TOPP problem 25 (Problems/P.000025)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "simplification"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

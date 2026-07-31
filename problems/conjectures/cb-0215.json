@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0215",
+  "slug": "lemoine-prime-extension",
+  "title": "Extended Lemoine conjecture",
+  "field": "number-theory",
+  "statement": "For every odd n≥9 there are odd primes p,q,r,s and natural numbers a,b such that p+2q=n, 2+pq=2^a+r, and 2p+q=2^b+s.",
+  "counterexample": {
+    "description": "An odd integer n≥9 for which exhaustive bounded prime and power-of-two enumeration finds no six witnesses satisfying all three equations.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Lemoine.lean#L44",
+        "role": "status-and-formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0929"
+    ]
+  },
+  "equivalence_group": "lemoine-prime-representations"
+}

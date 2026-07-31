@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0151",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Solutions to Polynomial Equations in Dense Sets",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Finding a single solution to $F(x_1, \\dots, x_n) = C$ can be very difficult. What conditions on $A$ ensure that the number of solutions in $A$ is roughly $\\alpha^n$ times the number in $[X]$?",
+    "sha256": "beac30c28fe39ade5232fcad001b1934632e47d7549918828329b8202085fb0d",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GREEN-063",
+    "source_locator": "dataset ID 151; problem number GREEN-063",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:green-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

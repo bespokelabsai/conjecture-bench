@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2146",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #501",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For every $x\\in\\mathbb{R}$ let $A_x\\subset \\mathbb{R}$ be a bounded set with outer measure $<1$. Must there exist an infinite independent set, that is, some infinite $X\\subseteq \\mathbb{R}$ such that $x\not\\in A_y$ for all $x\neq y\\in X$?\nIf the sets $A_x$ are closed and have measure $<1$, then must there exist an independent set of size $3$?",
+    "sha256": "c97b8daa0c06c077fe98bd4f4ea292665b34f2c5798a5ff0fc5fd8e241966788",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-501",
+    "source_locator": "dataset ID 2146; problem number EP-501",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

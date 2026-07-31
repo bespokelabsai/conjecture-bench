@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0061",
+  "slug": "saxl-staircase-square",
+  "title": "Saxl staircase square",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "For every k, the tensor square of the irreducible symmetric-group representation indexed by the staircase partition ρ_k=(k,k−1,…,1) contains every irreducible representation of S_(k(k+1)/2).",
+  "counterexample": {
+    "description": "A \\(k\\) and \\(\\lambda\\vdash T_k\\) with Kronecker coefficient \\(g(\\rho_k,\\rho_k,\\lambda)=0\\). Exact symmetric-group character sums directly certify zero.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1410.6549",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2512.15035",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "saxl-staircase-square"
+}

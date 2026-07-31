@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0057",
+  "slug": "no-long-barker-sequence",
+  "title": "No long Barker sequence",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "Every Barker sequence has length at most 13.",
+  "counterexample": {
+    "description": "A \\(\\{\\pm1\\}\\) sequence longer than 13 whose nonzero aperiodic autocorrelations have magnitude at most one. An \\(O(n^2)\\) exact check suffices.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1306.0045",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2104.00502",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "no-long-barker-sequence"
+}

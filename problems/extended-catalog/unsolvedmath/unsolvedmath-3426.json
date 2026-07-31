@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3426",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Funcoidal products inside an inward reloid",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture (solved) If $a \\times^{\\mathsf{\\ensuremath{\\operatorname{RLD}}}} b \\subseteq \\left( \\mathsf{\\ensuremath{\\operatorname{RLD}}} \\right)_{\\ensuremath{\\operatorname{in}}} f$ then $a \\times^{\\mathsf{\\ensuremath{\\operatorname{FCD}}}} b \\subseteq f$ for every funcoid $f$ and atomic f.o. $a$ and $b$ on the source and destination of $f$ correspondingly.\n\nA stronger conjecture:\n\nConjecture If $\\mathcal{A} \\times^{\\mathsf{\\ensuremath{\\operatorname{RLD}}}} \\mathcal{B} \\subseteq \\left( \\mathsf{\\ensuremath{\\operatorname{RLD}}} \\right)_{\\ensuremath{\\operatorname{in}}} f$ then $\\mathcal{A} \\times^{\\mathsf{\\ensuremath{\\operatorname{FCD}}}} \\mathcal{B} \\subseteq f$ for every funcoid $f$ and $\\mathcal{A} \\in \\mathfrak{F} \\left( \\ensuremath{\\operatorname{Src}}f \\right)$, $\\mathcal{B} \\in \\mathfrak{F} \\left( \\ensuremath{\\operatorname{Dst}}f \\right)$.",
+    "sha256": "417787f659165f1614ce26a3d9cf697101acf66910cefe1a268be9710c662047",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-37378",
+    "source_locator": "dataset ID 3426; problem number OPG-37378",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0052",
+  "slug": "riemann-hypothesis",
+  "title": "Riemann hypothesis",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "Every nontrivial zero of the Riemann zeta function has real part 1/2.",
+  "counterexample": {
+    "description": "A rigorously isolated nontrivial zero \\(\\beta+i\\gamma\\) with \\(\\beta\\ne1/2\\). Interval arithmetic plus argument-principle/Turing-method data gives a checkable certificate.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2004.09765",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0672"
+    ]
+  }
+}

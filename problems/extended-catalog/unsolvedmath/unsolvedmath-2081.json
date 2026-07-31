@@ -1,0 +1,40 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2081",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #374",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For any $m\\in \\mathbb{N}$, let $F(m)$ be the minimal $k\\geq 2$ (if it exists) such that there are $a_1<\\cdots <a_k=m$ with $a_1!\\cdots a_k!$ a square. Let $D_k=\\{ m : F(m)=k\\}$. What is the order of growth of $\\lvert D_k\\cap\\{1,\\ldots,n\\}\\rvert$ for $3\\leq k\\leq 6$? For example, is it true that $\\lvert D_6\\cap \\{1,\\ldots,n\\}\\rvert \\gg n$?",
+    "sha256": "588155f4e99e83d276d9f6d2eb077e04f9c5a994002b016e0e2272c0aac6e370",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-374",
+    "source_locator": "dataset ID 2081; problem number EP-374",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "background-legacy-list-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

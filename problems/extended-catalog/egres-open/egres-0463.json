@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0463",
+  "source_registry": "egres-open",
+  "title": "Quasi-kernels and quasi-sinks",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "A '''quasi-kernel''' of a digraph <math>D</math> is an independent vertex set <math>K</math>   sucht that every vertex  is reachable from <math>K</math>  in <math>D</math> by a path of length at most two. A '''quasi-sink''' of <math>D</math> is a quasi-kernel of the digraph that we obtain by changing the direction of the edges in <math>D</math>. Is it true that for any infinite digraph <math>D=(V,A)</math> there is a partition <math>\\{V_1, V_2\\}</math> of <math>V</math> such that <math>D[V_1]</math> admits a quasi-kernel and <math>D[V_2]</math> admits a quasi-sink?",
+    "sha256": "2106accc3a837b6f866659932c8afb33c65098c8cefc6f693d5613165fd2f2f4",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-11-21T20:43:49Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Quasi-kernels_and_quasi-sinks&oldid=2377",
+    "source_locator": "EGRES page 463, revision 2377",
+    "source_sha256": "982f55ead9866220b770c453c29abf5d8bfcd05550be3b366047d04db6238d41",
+    "tags": [
+      "combinatorial-optimization",
+      "Infinite combinatorics",
+      "Stable matchings and kernels"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

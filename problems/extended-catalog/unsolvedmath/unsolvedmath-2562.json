@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2562",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.53",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "In the notation of 21.52, let $\\operatorname{Aut}_t(\\Gamma)$ be the set of permutations $\\tau\\in S_D$ such that $(a,b)\\sim(a^\\tau,b^\\tau)$ whenever $|ab|=t$ for $a,b\\in D$. Clearly, $\\operatorname{Aut}(\\Gamma)=\\bigcap_t\\operatorname{Aut}_t(\\Gamma)$. Is it true that for every finite simple group $G$ we have $\\operatorname{Aut}(\\Gamma)=\\operatorname{Aut}_2(\\Gamma)\\cap\\operatorname{Aut}_p(\\Gamma)$, where $\\{2,p\\}$ are the two minimal prime divisors of $|G|$?",
+    "sha256": "5469369e6a687369242832eba84b3bfd9aa74acbc3fc7ad9299d18988dbfca21",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.53",
+    "source_locator": "dataset ID 2562; problem number KOU-21.53",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

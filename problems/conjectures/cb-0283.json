@@ -1,0 +1,42 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0283",
+  "slug": "chung-ross-weighted-bipartite-edge-coloring",
+  "title": "Chung–Ross weighted bipartite edge-coloring conjecture",
+  "field": "graph-coloring-and-combinatorial-optimization",
+  "statement": "Let b be the maximum, over the vertices of a rationally edge-weighted bipartite multigraph, of the minimum number of unit bins needed for the incident edge weights. The edges have a coloring with at most 2b−1 colors such that, at every vertex, the total incident weight of each color is at most one.",
+  "counterexample": {
+    "description": "A rationally weighted bipartite multigraph whose exact local unit-bin bound is between two and four but whose exact minimum number of feasible weighted color classes exceeds 2b−1.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/open/Weighted_bipartite_edge_colouring",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Weighted_bipartite_edge_colouring&oldid=2406",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.4230/LIPIcs.FSTTCS.2015.136",
+        "role": "best-known-bound-and-formulation"
+      },
+      {
+        "url": "https://www.renyi.hu/~emlektab/emlektabla9problems.pdf",
+        "role": "2026-open-problem-source"
+      }
+    ],
+    "discovery_records": [
+      "egres-0471"
+    ]
+  },
+  "equivalence_group": "weighted-bipartite-edge-coloring"
+}

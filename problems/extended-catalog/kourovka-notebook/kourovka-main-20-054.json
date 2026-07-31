@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-054",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.54 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A distance-regular graph of diameter 3 with the second eigenvalue θ1 = a3 is\ncalled a Shilla graph. For a Shilla graph Γ the number a = a3 divides k and we set\nb = b(Γ) = k/a. Koolen and Park proved that there are 12 feasible intersection arrays\nof Shilla graphs with b = 3. At present it is proved that a Shilla graph with b = 3\nhas intersection array {12, 10, 3; 1, 3, 8} (Doro graph), {12, 10, 5; 1, 1, 8} (nonisotropic\nunitary graph for q = 4), or {15, 12, 6; 1, 2, 10}. The automorphisms of the last graph\nwere found by A. Makhnev and N. Zyulyarkina (Doklady Maths., 84, no. 1 (2011),\n510–514). Does the graph with intersection array {15, 12, 6; 1, 2, 10} exist?\n                                                              A. A. Makhnev, D. O. Revin",
+    "sha256": "f7d51e947dc4bbe31e2eb20d960cc075246660e7248995aa5078eca29b65e4dc",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=152",
+    "source_locator": "Kourovka 20.54, main section, page 152",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0899",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "Invariant_subspace_problem",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 47]\ntheorem Invariant_subspace_problem [InnerProductSpace ℂ H] [TopologicalSpace.SeparableSpace H]\n    [CompleteSpace H] (hdim : 2 ≤ Module.rank ℂ H) (T : H →L[ℂ] H) :\n    Nonempty (ClosedInvariantSubspace T)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "c2c1f83d6e39a76b878c8a501898d5b2050f5697babac35897868cb7ba68fe16",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/InvariantSubspaceProblem.lean#L44",
+    "source_locator": "FormalConjectures/Wikipedia/InvariantSubspaceProblem.lean:44#Invariant_subspace_problem",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-47"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

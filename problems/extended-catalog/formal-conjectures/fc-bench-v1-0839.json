@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0839",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "charmichaelTotient",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem charmichaelTotient :\n    ∀ ⦃n : ℕ⦄, 0 < n → CarmichaelTotientFor n",
+    "language_version": "Lean 4.27.0",
+    "sha256": "affc20168ba4a6982a0a7bc73eb22dd6868f3697338393af35c3a4a125ca49aa",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/CarmichaelTotient.lean#L55",
+    "source_locator": "FormalConjectures/Wikipedia/CarmichaelTotient.lean:55#charmichaelTotient",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0045"
+  ]
+}

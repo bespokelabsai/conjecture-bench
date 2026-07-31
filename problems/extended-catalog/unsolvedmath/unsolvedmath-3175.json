@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3175",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Decomposing an eulerian graph into cycles with no two consecutives edges on a prescribed eulerian tour.",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture Let $G$ be an eulerian graph of minimum degree $4$, and let $W$ be an eulerian tour of $G$. Then $G$ admits a decomposition into cycles none of which contains two consecutive edges of $W$.",
+    "sha256": "44fd60b1b85099c31d94e87da0db5a8c3e99ef3c7a17213270328663f84c6527",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-46606",
+    "source_locator": "dataset ID 3175; problem number OPG-46606",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

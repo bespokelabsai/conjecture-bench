@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2218",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #624",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $X$ be a finite set of size $n$ and $H(n)$ be such that there is a function $f:\\{A : A\\subseteq X\\}\\to X$ so that for every $Y\\subseteq X$ with $\\lvert Y\\rvert \\geq H(n)$ we have $ \\{ f(A) : A\\subseteq Y\\}=X. $ Prove that $ H(n)-\\log_2 n \\to \\infty. $ ",
+    "sha256": "a498c65df325c9f5f5dcaeb86829cb1eef787b7997310687b87c2b8c27dcddac",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-624",
+    "source_locator": "dataset ID 2218; problem number EP-624",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-086",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.86 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does every group G = ⟨x1 , . . . , xn | r1 = · · · = rm = 1⟩ possess, in a natural\nway, a homomorphic image H = ⟨x1 , . . . , xn | s1 = · · · = sm = 1⟩\n    a) such that H is a torsion-free group?\n    b) such that the integral group ring of H is embeddable in a skew field?\n    If the stronger assertion “b” is true, then this will give an explicit method of\nfinding elements xi1 , . . . , xin−m which generate a free group in G. Such elements exist\nby N. S. Romanovskiı̆’s theorem (Algebra and Logic, 16, no. 1 (1977), 62–67).\n                                                                         V. A. Roman’kov",
+    "sha256": "5e390b85351a2624ccdac195172a5dfbca1dfa9b69dd70ba741adf2b2e78e502",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=54",
+    "source_locator": "Kourovka 11.86, main section, page 54",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

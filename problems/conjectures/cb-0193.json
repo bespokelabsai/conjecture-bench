@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0193",
+  "slug": "auslander-reiten-conjecture",
+  "title": "Auslander–Reiten conjecture",
+  "field": "representation-theory",
+  "statement": "A finitely generated module M over an Artin algebra is projective if Ext^i(M,M⊕A)=0 for every i>0.",
+  "counterexample": {
+    "description": "A finite-dimensional algebra and nonprojective module with a formal certificate of all required Ext vanishings.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1016/j.jpaa.2024.107730",
+        "role": "supporting"
+      }
+    ]
+  }
+}

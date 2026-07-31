@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-054",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.54 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let k(G) denote the number of conjugacy classes of a finite group G. Is it\ntrue that k(G) ⩽ |N | for some nilpotent subgroup N of G? This is true if G is simple;\nbesides, always k(G) ⩽ |S| for some soluble subgroup S ⩽ G.\n                                                               M. W. Liebeck, L. Pyber\n  ∗ No, not always (S. Tertooy, Preprint, 2026,\nhttps://arxiv.org/abs/2606.21404).",
+    "sha256": "ac26961d410fe279c63516e71a65c3f92a3926b3eff60c6788094f944853cb25",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=77",
+    "source_locator": "Kourovka 14.54, main section, page 77",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

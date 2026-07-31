@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-13-001",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 13.1 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let U (K) denote the group of units of a ring K. Let G be a finite group, ZG\nthe integral group ring of G, and Zp G the group ring of G over the residues modulo\na prime number p. Describe the homomorphism from U (ZG) into U (Zp G) induced\nby reducing the coefficients modulo p. More precisely, find the kernel and the image\nof this homomorphism and an explicit transversal over the kernel.        R. Zh. Aleev",
+    "sha256": "edc800cfbd07f6020f1d1c2b7ed627a6c289aad063053166c252819c8f3e0ee4",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=65",
+    "source_locator": "Kourovka 13.1, main section, page 65",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

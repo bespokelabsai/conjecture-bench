@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0353",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_422.variants.eventually_const",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_422.variants.eventually_const : answer(sorry) ↔ EventuallyConst f atTop",
+    "language_version": "Lean 4.27.0",
+    "sha256": "6981d4a39afabc6c09443b748990d39f1d6c4dced7dcf89d1949f2d43ee95b4c",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/422.lean#L68",
+    "source_locator": "FormalConjectures/ErdosProblems/422.lean:68#erdos_422.variants.eventually_const",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

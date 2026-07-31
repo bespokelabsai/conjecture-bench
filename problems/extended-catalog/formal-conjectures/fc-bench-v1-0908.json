@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0908",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "irrational_eulerMascheroniConstant",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 33]\ntheorem irrational_eulerMascheroniConstant :\n    answer(sorry) ↔ Irrational eulerMascheroniConstant",
+    "language_version": "Lean 4.27.0",
+    "sha256": "1bfc25feaa0beb7a957bba3a8b8d8e1372afd00d4d859904befdc33ac52682aa",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Irrational.lean#L91",
+    "source_locator": "FormalConjectures/Wikipedia/Irrational.lean:91#irrational_eulerMascheroniConstant",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-33"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0068",
+  "source_registry": "egres-open",
+  "title": "Upper bound on common independent set cover",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "For a loopless [[wikipedia:Matroid|matroid]] <math>M=(S,r)</math>, let <math>\\Delta(M)=\\max_{X\\subseteq S} |X|/r(X)</math>. Let <math>M_1=(S,r_1)</math> and <math>M_2=(S,r_2)</math> be two arbitrary loopless matroids on ''S''. Is it true that ''S'' can be partitioned into <math>\\lceil\\max\\{\\Delta(M_1),\\Delta(M_2)\\}\\rceil+1</math> common independent sets?",
+    "sha256": "dd5bc7fc4908fc2d6aefb4ab1aa5758c7171ffbf304cd7a7ae519c8f95002655",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2025-12-11T17:17:54Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Upper_bound_on_common_independent_set_cover&oldid=2508",
+    "source_locator": "EGRES page 68, revision 2508",
+    "source_sha256": "42ac6a1c54547ce28b2eb97fdd8643de6474cb3a53ab2c995a2a41bbebdd95bd",
+    "tags": [
+      "combinatorial-optimization",
+      "Matroids",
+      "Packing common bases"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0286"
+  ]
+}

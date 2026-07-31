@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-120",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.120 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a locally nilpotent group with an automorphism (of infinite order).\nCan G be simple as a group with automorphism?                        E. I. Zelmanov",
+    "sha256": "ec7c02c3dcd7800eb3afc7bfce0bf26a83332cd675f2ddb705f24d9a3f7fa2fc",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=161",
+    "source_locator": "Kourovka 20.120, main section, page 161",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

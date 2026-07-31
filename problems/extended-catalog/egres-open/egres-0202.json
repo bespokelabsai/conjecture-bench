@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0202",
+  "source_registry": "egres-open",
+  "title": "Acyclic orientation with connectivity prescriptions",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "'''Problem 1. ''' Given an undirected graph <math>\\displaystyle  G=(V,E)</math> and <math>\\displaystyle s,t\\in V,\\;\\; \nk\\in N</math>, decide whether the graph has an acyclic orientation,\nso that for every vertex <math>\\displaystyle v\\in V\\setminus\\{s,t\\}</math>, &nbsp;  there are <math>\\displaystyle k</math> pairwise edge-disjoint directed \npaths from  <math>\\displaystyle s</math> to\n<math>\\displaystyle v</math>, and also <math>\\displaystyle k</math> pairwise edge-disjoint directed paths from  <math>\\displaystyle v</math> to\n<math>\\displaystyle t</math>.\n<P>\n</P>\n'''Problem 2. ''' Given an undirected graph <math>\\displaystyle  G=(V,E)</math> and <math>\\displaystyle s, t_1, t_2\\in V,\\;\\; \nk\\in N</math>,  decide whether the graph has an acyclic orientation,\nso that there are <math>\\displaystyle k</math> pairwise edge-disjoint directed paths from  <math>\\displaystyle s</math> to\n<math>\\displaystyle t_1</math>, and also <math>\\displaystyle k</math> pairwise edge-disjoint directed paths from  <math>\\displaystyle s</math> to\n<math>\\displaystyle t_2</math>.",
+    "sha256": "39c3fdf14bc2789f727deb7d63b695ccde68b2ca6d5084b2e827374d42154e99",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2017-01-17T22:06:20Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Acyclic_orientation_with_connectivity_prescriptions&oldid=2414",
+    "source_locator": "EGRES page 202, revision 2414",
+    "source_sha256": "a56ec6a754ba7cfef0e8acfaf79eef48cdcc23ac27f3f91dedc75b4d2e215ccd",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity",
+      "Orientations"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1121",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Sphere Packing Problem in Higher Dimensions",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "What is the densest packing of spheres in dimensions 4 through 23? More generally, what is the optimal sphere packing density in dimension $n$?",
+    "sha256": "63cbba0de0504acbbef05799c24ca2faafa66bf4a176cb6709f02f199b7deda4",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GEO-001",
+    "source_locator": "dataset ID 1121; problem number GEO-001",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:geometry",
+      "difficulty:L5",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0126",
+  "slug": "erdos-617-balanced-edge-colouring",
+  "title": "Erdős problem #617: balanced edge colouring",
+  "field": "ramsey-theory",
+  "statement": "In every r-colouring of K_(r²+1), some r+1 vertices have a colour missing from their induced edges.",
+  "counterexample": {
+    "description": "An r-edge-colouring of K_(r²+1) in which every induced K_(r+1) contains all r colours.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/617",
+        "role": "status"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0412"
+    ]
+  }
+}

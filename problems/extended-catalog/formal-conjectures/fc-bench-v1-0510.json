@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0510",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_897.variants.parts.ii",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_897.variants.parts.ii : answer(sorry) ↔ ∀ (f : ℕ → ℝ),\n    (∀ᵉ (a > 0) (b > 0), a.Coprime b → f (a * b) = f a + f b) →\n    ((Filter.atTop ⊓ Filter.principal {(p, k) : ℕ × ℕ | p.Prime}).limsup\n      (fun (p, k) => (f (p^k) / (p^k : ℝ).log : EReal)) = ⊤) →\n    (∀ k p, p.Prime → f (p^k) = f p) ∨ (∀ (k p : ℕ), p.Prime → f (p^k) = k*f p) →\n    Filter.atTop.limsup (fun (n : ℕ) => (f (n+1) / f n : EReal)) = ⊤",
+    "language_version": "Lean 4.27.0",
+    "sha256": "d23b003cfc9b3b47523fc9d3469b5eb19dcdece68beb90a5fca264bdecc2da0e",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/897.lean#L109",
+    "source_locator": "FormalConjectures/ErdosProblems/897.lean:109#erdos_897.variants.parts.ii",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0165",
+  "slug": "negami-planar-cover-conjecture",
+  "title": "Negami planar-cover conjecture",
+  "field": "topological-graph-theory",
+  "statement": "A connected graph has a finite planar cover if and only if it embeds in the projective plane.",
+  "counterexample": {
+    "description": "In the finite-search polarity, a finite planar cover of K_(1,2,2,2), the standard equivalent obstruction instance.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2412.19560",
+        "role": "supporting"
+      }
+    ]
+  }
+}

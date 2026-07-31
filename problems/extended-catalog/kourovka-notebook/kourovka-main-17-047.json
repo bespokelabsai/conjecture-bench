@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-047",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.47 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a nilpotent group in which every coset x[G, G] for x ̸∈ [G, G]\ncoincides with the conjugacy class xG . Is there a bound for the nilpotency class of G?\n    If G is finite, then its class is at most 3 (R. Dark, C. Scoppola, J. Algebra, 181,\nno. 3 (1996), 787–802).                                    S. H. Ghate, A. S. Muktibodh",
+    "sha256": "5fe2e6d1ec1df83860fd192917c6d612fe30ed06c60dcf5e42dce5283764a007",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=108",
+    "source_locator": "Kourovka 17.47, main section, page 108",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

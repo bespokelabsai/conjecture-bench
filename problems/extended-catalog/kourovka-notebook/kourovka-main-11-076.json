@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-076",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.76 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Well-known problem). Is the group of collineations of a finite non-Desar-\nguasian projective plane defined over a semi-field soluble? (The hypothesis on the\nplane means that the corresponding regular set, see Archive, 10.48, is closed under\naddition.)                                                          N. D. Podufalov",
+    "sha256": "1670ecb3650b1299c28b54a29ba8230b3a376ab511a0d565cf3b62d5b4694443",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=52",
+    "source_locator": "Kourovka 11.76, main section, page 52",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

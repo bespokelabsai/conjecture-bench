@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0044",
+  "slug": "giuga",
+  "title": "Giuga",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "If an integer n≥2 satisfies sum(a^(n−1), a=1,…,n−1)≡−1 (mod n), then n is prime.",
+  "counterexample": {
+    "description": "A composite \\(n\\) satisfying \\(\\sum_{a=1}^{n-1}a^{\\,n-1}\\equiv-1\\pmod n\\). Given the factorization, modular exponentiation or the equivalent divisibility conditions for every prime divisor are cheap and exact.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.carmamaths.org/resources/jon/giuga2013.pdf",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0814",
+      "fc-bench-v1-0815"
+    ]
+  }
+}

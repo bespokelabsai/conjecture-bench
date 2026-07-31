@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-035",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.35 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A topological group is said to be inductively compact if any finite set of its\nelements is contained in a compact subgroup. Is this property preserved under lattice\nisomorphisms in the class of locally compact groups?                  Yu. N. Mukhin",
+    "sha256": "850f7286e74745f0f8f1f2cbe89efab21343a70efce7b01d2e6ad9942d6535a7",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=33",
+    "source_locator": "Kourovka 9.35, main section, page 33",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-094",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.94 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "The Gruenberg–Kegel graph (or the prime graph) GK(G) of a finite group G\nis a labelled graph with vertex set consisting of all prime divisors of the order of G in\nwhich different vertices p and q are adjacent if and only if G contains an element of\norder pq. Let GK(G) denote the abstract graph obtained from GK(G) by removing\nall labels. A finite group G is said to be recognizable by the isomorphism type of its\nGruenberg–Kegel graph if there are no finite groups H ∼   ̸ G with GK(H) isomorphic\n                                                           =\nto GK(G).\n    Are there infinitely many (pairwise non-isomorphic) finite groups which are recog-\nnizable by the isomorphism type of the Gruenberg–Kegel graph?              N. V. Maslova",
+    "sha256": "ee7df147c906044d0f22e27de4213fb5d980c2b607617b971cfb2afff2348dc7",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=178",
+    "source_locator": "Kourovka 21.94, main section, page 178",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

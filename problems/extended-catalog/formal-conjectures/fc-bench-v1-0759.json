@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0759",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "latinSquareOrder11Transversal",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem latinSquareOrder11Transversal : answer(sorry) ↔\n    ∀ (L : LatinSquare 11), ∃ σ, IsTransversal L σ",
+    "language_version": "Lean 4.27.0",
+    "sha256": "d9df83b7382aa24ce05684ddf9ccfe05c7a55c3713fbc06981db5216b044ae04",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Paper/LatinSquare.lean#L55",
+    "source_locator": "FormalConjectures/Paper/LatinSquare.lean:55#latinSquareOrder11Transversal",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Paper",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

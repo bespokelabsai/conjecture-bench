@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0015",
+  "slug": "caccettahaggkvist-conjecture",
+  "title": "Caccetta–Häggkvist conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Caccetta–Häggkvist conjecture · 1978. The first open case asks whether every oriented n-vertex graph of minimum outdegree at least n/3 contains a directed triangle.",
+  "counterexample": {
+    "description": "A refutation is an oriented graph meeting the degree bound with no directed 3-cycle. Degree counts and triangle enumeration check it directly.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://lemon.cs.elte.hu/egres/open/Caccetta-H%C3%A4ggkvist_conjecture",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "caccetta-haggkvist-r3-oriented"
+}

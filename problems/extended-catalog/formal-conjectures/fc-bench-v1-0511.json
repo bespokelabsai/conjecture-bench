@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0511",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_9",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 11]\ntheorem erdos_9 : answer(sorry) ↔ 0 < Erdos9A.upperDensity",
+    "language_version": "Lean 4.27.0",
+    "sha256": "ffeb73d775220015f1ff1e8c1359b1c74d5c6640dbc061164b9abaf8188437e4",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/9.lean#L72",
+    "source_locator": "FormalConjectures/ErdosProblems/9.lean:72#erdos_9",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

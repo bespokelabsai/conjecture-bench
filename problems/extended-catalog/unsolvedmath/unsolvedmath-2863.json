@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2863",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.65",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $S_{2,\\infty}(Y)$ denote the Kauffman bracket skein module of a closed, oriented 3-manifold $Y$; this is a module over $R=\\mathbb{Z}[A,A^{-1}]$. For $Y$ prime and connected, does $S_{2,\\infty}(Y)$ having rank one, in the sense that\n\n$$\nS_{2,\\infty}(Y)\\otimes_R \\mathbb{Q}(A)\\cong \\mathbb{Q}(A),\n$$\n\nimply that $Y$ is $S^3$ or $S^1\\times S^2$?",
+    "sha256": "0703b34b5607c25ec917fcd38352dd0e7133516eafe9a2b023d3f53742f9df8d",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.65",
+    "source_locator": "dataset ID 2863; problem number KP-3.65",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

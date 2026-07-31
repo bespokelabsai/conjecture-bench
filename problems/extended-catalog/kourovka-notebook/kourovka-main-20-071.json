@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-071",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.71 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(J. Lauri). A card of a finite simple undirected graph G of order n = |V (G)|\nis an induced subgraph of order n − 1. Let k be 2, 3, 4. For a connected graph G with\nk isomorphism types of cards, can Aut(G) have more than k orbits on the vertex set\nV (G)?\n    If a graph G has k isomorphism types of cards, then the group Aut(G) of auto-\nmorphisms of G has obviously at least k orbits on V (G). It is known that if all cards\nare mutually isomorphic, then Aut(G) is transitive on V (G). Examples are known of\ngraphs G with 5 isomorphism types of cards for which Aut(G) has 6 orbits on V (G),\nand of graphs with 6 isomorphism types for which Aut(G) has 7 orbits on V (G).\n                                                                               V. Pannone",
+    "sha256": "95a80c40a490e23ea8d1aab0a3f6b999111a421761eef07b60ad4d9d1b2a80d6",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=154",
+    "source_locator": "Kourovka 20.71, main section, page 154",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

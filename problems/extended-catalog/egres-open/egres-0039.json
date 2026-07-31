@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0039",
+  "source_registry": "egres-open",
+  "title": "Highly element-connected orientation",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Is it true that if an undirected graph ''G'' with terminal set ''T'' is ''2k''-[[element-connectivity|element-connected]], then it has a ''k''-element-connected orientation?",
+    "sha256": "52160d5faccd01d143f188aa1a9e2d175e19654f8f486b9b60c1f0a32a4a2e50",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2015-01-09T13:49:04Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Highly_element-connected_orientation&oldid=1802",
+    "source_locator": "EGRES page 39, revision 1802",
+    "source_sha256": "885efd448352ec811e3aba79f96d88b1d5e8233327613ea27b71df2a89eda128",
+    "tags": [
+      "combinatorial-optimization",
+      "Node-connectivity",
+      "Orientations"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0294"
+  ]
+}

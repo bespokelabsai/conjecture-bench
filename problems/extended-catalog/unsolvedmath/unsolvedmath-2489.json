@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2489",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #1101",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "If $u=\\{u_1<u_2<\\cdots\\}$ is a sequence of integers such that $(u_i,u_j)=1$ for all $i\neq j$ and $\\sum \\frac{1}{u_i}<\\infty$ then let $\\{a_1<a_2<\\cdots\\}$ be the sequence of integers which are not divisible by any of the $u_i$. For any $x$ define $t_x$ by $ u_1\\cdots u_{t_x}\\leq x< u_1\\cdots u_{t_x}u_{t_x+1}. $ We call such a sequence $u_i$ good if, for all $\\epsilon>0$, if $x$ is sufficiently large then $ \\max_{a_k<x} (a_{k+1}-a_k) < (1+\\epsilon)t_x \\prod_{i}\\left(1-\\frac{1}{u_i}\\right)^{-1}. $ Is there a good sequence such that $u_n< n^{O(1)}$? Is there a good sequence such that $u_n\\leq e^{o(n)}$?",
+    "sha256": "e04ae23a09a21279785e0ab51621f75dd4952a85ead30041c9ad5c91424129be",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-1101",
+    "source_locator": "dataset ID 2489; problem number EP-1101",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

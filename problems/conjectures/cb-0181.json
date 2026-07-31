@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0181",
+  "slug": "scholz-brauer-addition-chain-conjecture",
+  "title": "Scholz–Brauer addition-chain conjecture",
+  "field": "number-theory",
+  "statement": "For every n≥1, the shortest addition-chain length for 2ⁿ−1 is at most n−1 plus the shortest addition-chain length for n.",
+  "counterexample": {
+    "description": "An integer n for which exact exhaustive addition-chain searches prove l(2^n−1)>n−1+l(n).",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://nntdm.net/volume-28-2022/number-2/276-280/",
+        "role": "supporting"
+      },
+      {
+        "url": "https://link.springer.com/article/10.1007/s00026-026-00816-y",
+        "role": "status"
+      }
+    ]
+  },
+  "equivalence_group": "scholz-brauer-addition-chain-bound"
+}

@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0795",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "eqSystem6_no_solution_ge3_trinary_int",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 14 81]\ntheorem eqSystem6_no_solution_ge3_trinary_int :\n    answer(sorry) ↔\n      ∀ D : Nat, D ≥ 3 →\n        ¬ ∃ W : WeightsN 6 D ℤ,\n            (∀ e, W e = (-1 : ℤ) ∨ W e = 0 ∨ W e = 1) ∧\n              EqSystemN 6 D W",
+    "language_version": "Lean 4.27.0",
+    "sha256": "686ffb6ddbc19080ca0619616606a5a6a44fb3d6f22157b5dad13cf19627ba9a",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Paper/MonochromaticQuantumGraph.lean#L757",
+    "source_locator": "FormalConjectures/Paper/MonochromaticQuantumGraph.lean:757#eqSystem6_no_solution_ge3_trinary_int",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Paper",
+      "AMS-5",
+      "AMS-14",
+      "AMS-81"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

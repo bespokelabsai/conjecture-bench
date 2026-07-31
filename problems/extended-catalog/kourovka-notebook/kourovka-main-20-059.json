@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-059",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.59 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A subgroup H is called a virtual retract of a group G if H is a retract of\na finite-index subgroup of G. Is it true that every finitely generated subgroup of a\nfinitely generated virtually free group is a virtual retract?\n    For motivation and partial results see (A. Minasyan, Int. Math. Res. Notes,\n2021, no. 17 (2021), 13434–13477).                                       A. Minasyan",
+    "sha256": "f62fb70bd1a891e2368f063972f0c5d2c64d52c2607a223649061ba0f21dc4ea",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=152",
+    "source_locator": "Kourovka 20.59, main section, page 152",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

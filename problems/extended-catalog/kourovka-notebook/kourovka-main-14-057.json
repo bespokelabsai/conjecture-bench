@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-057",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.57 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Describe the hereditarily just infinite pro-p-groups of finite width.\n   Definitions: A pro-p-group G has finite width pd if |γi (G)/γi+1 (G)| ⩽ pd for all i,\nand G is hereditarily just infinite if G is infinite and each of its open subgroups has\nno closed normal subgroups of infinite index.                      C. R. Leedham-Green",
+    "sha256": "b53bca829cbb5bb432e6faa7588b55fcb6a65f7163ca01969fa18372d8a6ce79",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=77",
+    "source_locator": "Kourovka 14.57, main section, page 77",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

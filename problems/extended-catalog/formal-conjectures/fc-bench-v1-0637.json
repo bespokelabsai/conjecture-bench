@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0637",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "green_39.variant_theta",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 60]\ntheorem green_39.variant_theta : answer(sorry) ↔\n    ∀ (θ : ℝ), 0 < θ → θ ≤ 1/2 →\n    ∃ C > 1, Tendsto\n      (fun p : {q : ℕ // q.Prime} ↦\n        let k := ⌊(p : ℝ) ^ θ⌋₊\n        let c := ⌊C * (p : ℝ) ^ θ⌋₊\n        (proportionCoverable p k c : ℝ))\n      atTop (𝓝 1)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "42a74ce374ee4086f97cbcd84804d7f1c870d4d0958bedfcb6d578d523a67629",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/39.lean#L108",
+    "source_locator": "FormalConjectures/GreensOpenProblems/39.lean:108#green_39.variant_theta",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-5",
+      "AMS-60"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

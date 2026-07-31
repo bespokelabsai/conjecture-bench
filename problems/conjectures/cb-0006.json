@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0006",
+  "slug": "hoffmann-ostenhofs-3-decomposition-conjecture",
+  "title": "Hoffmann-Ostenhof’s 3-Decomposition conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Hoffmann-Ostenhof’s 3-Decomposition conjecture · 2011. Every connected cubic graph has an edge partition into a spanning tree, a 2-regular subgraph, and a matching.",
+  "counterexample": {
+    "description": "A connected cubic graph on 30 vertices with no edge partition into a spanning tree, a collection of cycles, and a matching. Confirming this requires an exhaustive bounded partition search.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2025.39",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "hoffmann-ostenhof-three-decomposition"
+}

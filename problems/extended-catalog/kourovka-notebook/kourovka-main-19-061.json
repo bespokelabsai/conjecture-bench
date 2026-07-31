@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-061",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.61 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let A = {Ar | r ∈ Φ} be an elementary carpet of type Φ over a commutative\nring K (see 7.28), and let Φ(A) = ⟨xr (Ar ) | r ∈ Φ⟩ be its carpet subgroup. Define the\nclosure of the carpet A to be the set of additive subgroups A = {Ar | r ∈ Φ}, where\nAr = {t ∈ K | xr (t) ∈ Φ(A)}. Is the closure A of a carpet A always a carpet?\n    An affirmative answer is known if Φ = Al , Dl , El .                  Ya. N. Nuzhin",
+    "sha256": "8df5861b9450c0bc05a20a0a28fbfe079c39bfae3c2d5cc0115bc7b3c07d776f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=137",
+    "source_locator": "Kourovka 19.61, main section, page 137",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

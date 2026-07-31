@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-055",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.55 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "a) The Monster, M , is a 6-transposition group. Pairs of Fischer transpositions\ngenerate 9 M -classes of dihedral groups. The order of the product of a pair is the\ncoefficient of the highest root of affine type E8 . Similar properties hold for Baby\n             ′\nB, and F24     with respect to E7 and E6 when the product is read modulo centres\n           ′\n(2.B, 3.F24 ). Explain this. Editors’ Comment of 2005: Some progress was made in\n(C. H. Lam, H. Yamada, H. Yamauchi, Trans. Amer. Math. Soc., 359, no. 9 (2007),\n4107–4123).\n                                                                              ′\n    b) Note that the Schur multiplier of the sporadic simple groups M , B, F24  is the\nfundamental group of type E8 , E7 , E6 , respectively. Why?\n     See (J. McKay, in: Finite groups, Santa Cruz Conf. 1979 (Proc. Symp. Pure\nMath., 37), Amer. Math. Soc., Providence, RI, 1980, 183–186) and (R. E. Borcherds,\nDoc. Math., J. DMV Extra Vol. ICM Berlin 1998, Vol. I (1998), 607–616). J. McKay",
+    "sha256": "46f92b2099ff9303b794cb117215720675d5e01dfe0964bb3af61046850003dd",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=89",
+    "source_locator": "Kourovka 15.55, main section, page 89",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-040",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.40 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let Ω be a countably infinite set. Define a moiety of Ω to be a subset Σ such\nthat both Σ and Ω \\ Σ are infinite. Which permutation groups on Ω are transitive on\nmoieties?                                                            P. M. Neumann",
+    "sha256": "71ac9c99a414bef287b165c1dd536d19716eff163185618644bb428b13921983",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=34",
+    "source_locator": "Kourovka 9.40, main section, page 34",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

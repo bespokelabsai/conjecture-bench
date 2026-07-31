@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0404",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_566",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem erdos_566 : answer(sorry) ↔\n    ∀ (p : ℕ) (G : SimpleGraph (Fin p)),\n      -- G is sparse: every induced subgraph on k ≥ 2 vertices has ≤ 2k - 3 edges\n      (∀ S : Finset (Fin p), 2 ≤ S.card → (G.induce S).edgeSet.ncard ≤ 2 * S.card - 3) →\n      -- Then G is Ramsey size linear\n      ∃ c > (0 : ℝ), ∀ (n : ℕ) (H : SimpleGraph (Fin n)) [DecidableRel H.Adj],\n        -- H has no isolated vertices\n        (∀ v, 0 < H.degree v) →\n        -- r̂(G,H) ≤ c · m\n        (sizeRamsey G H : ℝ) ≤ c * H.edgeSet.ncard",
+    "language_version": "Lean 4.27.0",
+    "sha256": "48d8463085a325f8e444d1acfd74d420019223a29c0e1ed2966aea7ef3f507f5",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/566.lean#L39",
+    "source_locator": "FormalConjectures/ErdosProblems/566.lean:39#erdos_566",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

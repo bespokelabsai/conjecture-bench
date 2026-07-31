@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0057",
+  "source_registry": "open-problems-project",
+  "title": "Chromatic Number of the Plane",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "How many colors are needed to paint the plane so that no two points\na unit distance apart are painted the same color?\nIf the same question is asked of the line, the answer is $2$:\nColoring $[0,1)$ red, $[1,2)$ blue, etc.,\nensures that no two unit-separated points have the same color.\nOne can view the question as asking for the\nchromatic number $\\chi(\\mathbb{E}^2)$\nof the infinite\n\\emph{unit-distance graph} $G$,\nwith every point in the plane a vertex, and an edge between two vertices\nif they are separated by a unit distance.",
+    "sha256": "acefda6739d7417d35de628a567b8a1e97e75c43e5b2f72f8f2e3fcc1ef03d8a",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p57",
+    "source_locator": "TOPP problem 57 (Problems/P.000057)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "combinatorial geometry"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

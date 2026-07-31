@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-059",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.59 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does there exist a periodic group G such that G contains an involution, all\ninvolutions in G are conjugate, and the centralizer of every involution i is isomorphic\nto ⟨i⟩ × L2 (P ), where P is some infinite locally finite field of characteristic 2?\n                                                                               D. V. Lytkina",
+    "sha256": "f2c1070da198a4cf80cb7df23b9ef1642047c756c7f6e7fc1d19254d09b27f6e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=121",
+    "source_locator": "Kourovka 18.59, main section, page 121",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3378",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Gao's theorem for nonabelian groups",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For every finite multiplicative group $G$, let $s(G)$ ( $s'(G)$ ) denote the smallest integer $m$ so that every sequence of $m$ elements of $G$ has a subsequence of length $>0$ (length $|G|$ ) which has product equal to 1 in some order.\n\nConjecture $s'(G) = s(G) + |G| - 1$ for every finite group $G$.",
+    "sha256": "b16d7c20c8604ff99babf7140fd3e213360a102a58ce421478065a95057c916f",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-337",
+    "source_locator": "dataset ID 3378; problem number OPG-337",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

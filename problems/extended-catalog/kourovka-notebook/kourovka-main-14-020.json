@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-020",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.20 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does a free product of two groups have the Noetherian Equation Property\nif this property is enjoyed by the factors?\n                                   G. Baumslag, A. G. Myasnikov, V. N. Remeslennikov\n  ∗ Yes, it does (Z. Sela, Preprint, 2010, https://arxiv.org/abs/1012.0044). Note\nalso that a free product of arbitrarily many equationally Noetherian groups need\nnot be equationally Noetherian (D. Groves, M. Hull, Trans. Amer. Math. Soc., 372\n(2019), 7141–7190).",
+    "sha256": "4b942264ee2174f2d37f8124d93dae021a7716c896d9b92a38c249f19b765dab",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=74",
+    "source_locator": "Kourovka 14.20, main section, page 74",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

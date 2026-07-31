@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0045",
+  "slug": "carmichael-totient-multiplicity",
+  "title": "Carmichael totient multiplicity",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "There is no integer m for which φ(x)=m has exactly one positive-integer solution x.",
+  "counterexample": {
+    "description": "An \\(m\\) for which \\(\\varphi(x)=m\\) has exactly one solution. The solution is easy to check, but uniqueness needs a complete inverse-totient search certificate.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://mathworld.wolfram.com/CarmichaelsTotientFunctionConjecture.html",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0839"
+    ]
+  }
+}

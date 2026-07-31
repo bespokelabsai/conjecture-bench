@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-089",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.89 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "By Bousfield’s theorem, the free pronilpotent completion of a non-cyclic free\ngroup has uncountable Schur multiplier. Is it true that the free prosolvable completion\n(that is, the inverse limit of quotients by the derived subgroups) of a non-cyclic free\ngroup has uncountable Schur multiplier?                                    R. Mikhailov",
+    "sha256": "3747ef6664775c244cdf35f509710bdf4ee9dfa50b4625cae2305689724931e7",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=111",
+    "source_locator": "Kourovka 17.89, main section, page 111",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

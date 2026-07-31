@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0147",
+  "slug": "erdos-672-perfect-power-progression-product",
+  "title": "Erdős problem #672: perfect-power progression products",
+  "field": "number-theory",
+  "statement": "The product of a coprime arithmetic progression of length at least four is never a perfect power.",
+  "counterexample": {
+    "description": "Integers n,d,k and exponent e≥2 for which gcd(n,d)=1 and the progression product is an exact e-th power.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/672",
+        "role": "status"
+      }
+    ]
+  }
+}

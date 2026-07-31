@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0010",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "conjecture_4_2",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem conjecture_4_2 (k : ℕ) (hprim : k.Prime) (hodd : Odd k) (hgt : k > 233) : 2 * k < S k",
+    "language_version": "Lean 4.27.0",
+    "sha256": "5e08a362b02656f47530d28eb93aaa7293dcf0036ea031fe6f961d3e158c61a7",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Arxiv/2501.03234/ArithmeticSumS.lean#L74",
+    "source_locator": "FormalConjectures/Arxiv/2501.03234/ArithmeticSumS.lean:74#conjecture_4_2",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Arxiv",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0238"
+  ]
+}

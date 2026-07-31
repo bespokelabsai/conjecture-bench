@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0110",
+  "slug": "erdosszekeres-exact-value-conjecture",
+  "title": "Erdős–Szekeres exact-value conjecture",
+  "field": "discrete-geometry",
+  "statement": "The Erdős–Szekeres number ES(7) equals 33.",
+  "counterexample": {
+    "description": "Exactly 33 distinct integer-coordinate planar points in general position with no seven in convex position.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "legacy-15-inventory-without-forecasts",
+    "sources": [
+      {
+        "url": "https://www.numdam.org/item/CM_1935__2__463_0.pdf",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2512.24061",
+        "role": "status"
+      },
+      {
+        "url": "https://www.erdosproblems.com/107",
+        "role": "live-status-and-problem-source"
+      }
+    ],
+    "discovery_records": [
+      "erdos-0107"
+    ]
+  },
+  "equivalence_group": "erdos-szekeres-es7-exact-value"
+}

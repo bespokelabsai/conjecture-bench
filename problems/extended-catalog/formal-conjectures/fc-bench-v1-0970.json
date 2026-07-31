@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0970",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "irrational_nine",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11 33]\ntheorem irrational_nine : ∃ x, Irrational x ∧ riemannZeta 9 = x",
+    "language_version": "Lean 4.27.0",
+    "sha256": "76f7d2046b2b217b4fcf9b54eeb455fe612d263fa4b6e5ed31075ef97bf46c74",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/RiemannZetaValues.lean#L44",
+    "source_locator": "FormalConjectures/Wikipedia/RiemannZetaValues.lean:44#irrational_nine",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11",
+      "AMS-33"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

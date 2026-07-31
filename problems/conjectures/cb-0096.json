@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0096",
+  "slug": "cosmetic-crossing-conjecture",
+  "title": "Cosmetic crossing conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Every crossing change that preserves a knot's isotopy type is nugatory.",
+  "counterexample": {
+    "description": "Give a knot and nonnugatory crossing whose switch is isotopic to the original. Reidemeister or complement certificates prove isotopy; normal surfaces certify nonnugatoriness.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11139753/",
+        "role": "supporting"
+      }
+    ]
+  }
+}

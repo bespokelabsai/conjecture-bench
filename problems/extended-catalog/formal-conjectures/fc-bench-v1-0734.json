@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0734",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "beaver_math_olympiad_problem_1",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 11 68]\ntheorem beaver_math_olympiad_problem_1 :\n    answer(sorry) ↔ ∀ᵉ (a : ℕ → ℕ) (b : ℕ → ℕ)\n    (a_ini : a 0 = 1)\n    (a_rec : ∀ n, a (n + 1) = if b n ≤ a n then a n - b n else 2 * a n + 1)\n    (b_ini : b 0 = 2)\n    (b_rec : ∀ n, b (n + 1) = if b n ≤ a n then 4 * b n + 2 else b n - a n),\n    ∃ i, a i = b i",
+    "language_version": "Lean 4.27.0",
+    "sha256": "0d55a1f4d8b49e7645aac424a65c33703582a1e0ea723e7a48d21689c976e3bc",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Other/BeaverMathOlympiad.lean#L67",
+    "source_locator": "FormalConjectures/Other/BeaverMathOlympiad.lean:67#beaver_math_olympiad_problem_1",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Other",
+      "AMS-5",
+      "AMS-11",
+      "AMS-68"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

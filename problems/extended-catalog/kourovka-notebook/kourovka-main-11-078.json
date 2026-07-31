@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-078",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.78 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "An isomorphism of groups of points of algebraic groups is called semialgebraic\nif it can be represented as a composition of an isomorphism of translation of the field\nof definition and a rational morphism.\n     a) Is it true that the existence of an isomorphism of groups of points of two directly\nundecomposable algebraic groups with trivial centres over an algebraically closed field\nimplies the existence of a semialgebraic isomorphism of the groups of points?\n     b) Is it true that every isomorphism of groups of points of directly undecomposable\nalgebraic groups with trivial centres defined over algebraic fields is semialgebraic?\nA field is called algebraic if all its elements are algebraic over the prime subfield.\n                                                                        K. N. Ponomarëv",
+    "sha256": "3bfec83ae518319a43fe24c5cd66a3f3a1684f3ff800bd91a68a31d129ae71fa",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=53",
+    "source_locator": "Kourovka 11.78, main section, page 53",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0093",
+  "slug": "perfect-one-factorisation-conjecture",
+  "title": "Perfect one-factorisation conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Perfect one-factorisation conjecture · Anton Kotzig, 1963. Every complete graph \\(K_n\\) of even order \\(n\\ge4\\) has an edge partition into perfect matchings such that every pair of matchings forms a Hamilton cycle (current formulation and history).",
+  "counterexample": {
+    "description": "For a fixed even \\(n\\), a proof-producing exhaustive SAT search showing that no such partition exists is a finite refutation; the check recomputes the edge partition and Hamiltonicity clauses from \\(K_n\\).",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2607.09459",
+        "role": "supporting"
+      }
+    ]
+  }
+}

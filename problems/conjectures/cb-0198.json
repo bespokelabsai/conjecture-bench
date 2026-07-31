@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0198",
+  "slug": "andrews-curtis-conjecture",
+  "title": "Andrews–Curtis conjecture",
+  "field": "geometric-group-theory",
+  "statement": "Every balanced presentation of the trivial group is reducible to the standard presentation by Andrews–Curtis moves.",
+  "counterexample": {
+    "description": "A finite balanced trivial-group presentation with a formal invariant separating it from the standard move-equivalence class.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1606.08196",
+        "role": "supporting"
+      }
+    ]
+  }
+}

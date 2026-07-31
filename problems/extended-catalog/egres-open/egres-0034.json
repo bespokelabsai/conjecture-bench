@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0034",
+  "source_registry": "egres-open",
+  "title": "List colouring of two matroids",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Given some [[wikipedia:Matroid|matroids]] on the same ground set <math>S</math>, a colouring of <math>S</math> is called '''proper''' if each monochromatic set is independent in each matroid.\nLet <math>M_1</math> and <math>M_2</math> be two matroids on ground set <math>S</math>, and suppose that there is a proper colouring by <math>k</math> colours. \nIs it true that <math>M_1</math> and <math>M_2</math> can be ''k''-list-coloured, i.e. for arbitrary lists <math>L_s</math> of ''k'' colours for each <math>s \\in S</math>, there is a proper colouring that uses colours from these lists?",
+    "sha256": "e41ee8b322d2d459e13d93cbf6a99100c51d7320d68fa4e7016592545ae24435",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-01-16T23:32:46Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=List_colouring_of_two_matroids&oldid=1992",
+    "source_locator": "EGRES page 34, revision 1992",
+    "source_sha256": "d332791d211aa8dd8b0ea935e1b1b0bd98904991e4fc52ac2fc0f9f9362654b5",
+    "tags": [
+      "combinatorial-optimization",
+      "Colouring",
+      "Matroids",
+      "Stable matchings and kernels"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0285"
+  ]
+}

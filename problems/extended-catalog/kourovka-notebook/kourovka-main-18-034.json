@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-034",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.34 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a topological group and S = G0 ⩽ . . . ⩽ Gn = G a subnormal series\nof closed subgroups. The infinite-length of S is the cardinality of the set of infinite\nfactors Gi /Gi−1 . The virtual length of G is the supremum of the infinite lengths\ntaken over all such series of G. It is known that if G is a pronilpotent group with\nfinite virtual length then every closed subnormal subgroup is topologically finitely\ngenerated (N. Gavioli, V. Monti, C. M. Scoppola, J. Austral. Math. Soc., 95, no. 3\n(2013), 343–355). Let G be a pro-p group (or more generally a pronilpotent group).\nIf every closed subnormal subgroup of G is tolopologically finitely generated, is it true\nthat G has finite virtual length?                N. Gavioli, V. Monti, C. M. Scoppola",
+    "sha256": "ad7ce6180b0363c7863919af4fd4be4e691637bafa2c50355a313272c1e34d84",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=118",
+    "source_locator": "Kourovka 18.34, main section, page 118",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

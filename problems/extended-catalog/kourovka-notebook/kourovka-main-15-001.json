@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-001",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.1 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(P. Longobardi, M. Maj, A. H. Rhemtulla). Let w = w(x1 , . . . , xn ) be a group\nword in n variables x1 , . . . , xn , and V (w) the variety of groups defined by the law\nw = 1. Let V (w∗ ) (respectively, V (w# )) be the class of all groups G in which for\nevery n infinite subsets S1 , . . . , Sn there exist si ∈ Si such that w(s1 , . . . , sn ) = 1\n(respectively, ⟨s1 , . . . , sn ⟩ ∈ V (w)).\n    a) Is there some word w and an infinite group G such that G ∈ V (w# ) but\nG∈ / V (w)?\n    b) Is there some word w and an infinite group G such that G ∈ V (w∗ ) but\nG∈ / V (w# )?\n    The answer to both of these questions is likely to be “yes”. It is known that in a)\nw cannot be any of several words such as xn1 , [x1 , . . . , xn ], [x1 , x2 ]2 , (x1 x2 )3 x−3 −3\n                                                                                            2 x1 ,\n      a1      an\nand x1 · · · xn for any non-zero integers a1 , . . . , an .                         A. Abdollahi",
+    "sha256": "c5a91ea1982b02dae2e28de779997ab02afd430d969ea96297f72a7836cdaa94",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=83",
+    "source_locator": "Kourovka 15.1, main section, page 83",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

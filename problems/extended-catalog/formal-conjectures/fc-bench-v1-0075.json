@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0075",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_11.variants.two_pow_two",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_11.variants.two_pow_two (n : ℕ) (hn : Odd n) (hn' : 1 < n) :\n    ∃ k l m : ℕ , Squarefree k ∧ n = k + 2^l + 2^m",
+    "language_version": "Lean 4.27.0",
+    "sha256": "1e2f5ae860b91ad364fbdb55683b515b52b8e071fca18c4eac6a4859bea28794",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/11.lean#L47",
+    "source_locator": "FormalConjectures/ErdosProblems/11.lean:47#erdos_11.variants.two_pow_two",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0256"
+  ]
+}

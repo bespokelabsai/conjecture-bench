@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0142",
+  "slug": "erdos-547-tree-ramsey-upper-bound",
+  "title": "Erdős problem #547: a Ramsey bound for trees",
+  "field": "ramsey-theory",
+  "statement": "Every n-vertex tree T has two-colour Ramsey number at most 2n−2.",
+  "counterexample": {
+    "description": "An n-vertex tree and the red edge set of a red-blue colouring of K_(2n−2) containing no monochromatic copy of the tree.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/547",
+        "role": "status"
+      }
+    ]
+  },
+  "equivalence_group": "tree-ramsey-two-n-minus-two"
+}

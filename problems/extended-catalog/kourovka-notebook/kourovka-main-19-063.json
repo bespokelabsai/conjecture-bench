@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-063",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.63 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let A = {A | r ∈ Φ} be an elementary carpet of type Φ over a commutative\n                      r\nring K (see 7.28) and let A2r = {t2 | t ∈ Ar }. Are the inclusions A2r A−r ⊆ Ar , r ∈ Φ,\nsufficient for the carpet A to be closed (admissible)?                    Ya. N. Nuzhin\n  ∗ Yes, they are sufficient (Ya. N. Nuzhin, J. Siberian Fed. Univ. Ser. Math. Phys.,\n16, no. 6 (2023), 732–737; Ya. N. Nuzhin, to appear in Siberian Math. J.).",
+    "sha256": "bb1eda4c4fbd503a7f162e2407c2f65182a99a873ddb794b998d7980d123c422",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=138",
+    "source_locator": "Kourovka 19.63, main section, page 138",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

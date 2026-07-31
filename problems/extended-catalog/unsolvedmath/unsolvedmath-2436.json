@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2436",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #1005",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $\\frac{a_1}{b_1},\\frac{a_2}{b_2},\\ldots$ be the Farey fractions of order $n\\geq 4$. Let $f(n)$ be the largest integer such that if $1\\leq k<l\\leq k+f(n)$ then $\\frac{a_k}{b_k}$ and $\\frac{a_l}{b_l}$ are similarly ordered - in other words, $ (a_k-a_l)(b_k-b_l)\\geq 0. $ Estimate $f(n)$ - in particular, is there a constant $c>0$ such that $f(n)=(c+o(1))n$ for all large $n$?",
+    "sha256": "78421f319c8e764ec861d2e6a8241636a85614ec9d436c43cab7d7a6a46d8d58",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-1005",
+    "source_locator": "dataset ID 2436; problem number EP-1005",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

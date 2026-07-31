@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0682",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem conjecture (n : ℕ) (hn : 0 < n) : IsSumOfBinomials n",
+    "language_version": "Lean 4.27.0",
+    "sha256": "4c3cd74cf019a0e13d9df0ccb1a86c3be7157ccd3ee55bf46bbe8f823a9b45ef",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OEIS/306477.lean#L57",
+    "source_locator": "FormalConjectures/OEIS/306477.lean:57#conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "OEIS",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0226"
+  ]
+}

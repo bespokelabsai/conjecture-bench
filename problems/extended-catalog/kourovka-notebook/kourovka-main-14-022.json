@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-022",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.22 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Prove that any irreducible system of equations S(x1 , . . . , xn ) = 1 with\ncoefficients in a torsion-free linear group G is equivalent over G to a finite sys-\ntem T (x1 , . .√  . , xn ) = 1 satisfying an analogue of Hilbert’s Nullstellensatz, i. e.\nRadG (T ) = T . This is true if G is a free group (O. Kharlampovich, A. Myasnikov,\nJ. Algebra, 200 (1998), 472–570).\n    Here both S and T are regarded as subsets of G[X] = G ∗ F (X), a free prod-\nuct of G and a free group on X = {x1 , . . . , xn }. By definition, RadG (T ) =\n{w(x1 , . . . , xn ) ∈ G[X] |√w(g1 , . . . , gn ) = 1 for any solution g1 , . . . , gn ∈ G of the\nsystem T (X) = 1}, and T is the minimal normal isolated subgroup of G[X] con-\ntaining T .                            G. Baumslag, A. G. Myasnikov, V. N. Remeslennikov",
+    "sha256": "7c87418437a6e945d7f043487efbef027d3f0b09deb6d2b4ef1d9977250c1884",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=74",
+    "source_locator": "Kourovka 14.22, main section, page 74",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

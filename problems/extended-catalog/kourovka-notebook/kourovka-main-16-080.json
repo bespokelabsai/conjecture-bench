@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-080",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.80 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that a group G is obtained from the free product of torsion-free\ngroups A1 , . . . , An by imposing m additional relations, where m < n. Is it true that\nthe free product of some n − m of the Ai embeds into G?             N. S. Romanovskiı̆",
+    "sha256": "f5fb32b26c0411ccfd0b1d3b043a1b76b9e3f311e521670c2cfe98266749845b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=101",
+    "source_locator": "Kourovka 16.80, main section, page 101",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

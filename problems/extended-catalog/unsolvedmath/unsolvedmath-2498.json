@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2498",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #1111",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "If $G$ is a finite graph and $A,B$ are disjoint sets of vertices then we call $A,B$ anticomplete if there are no edges between $A$ and $B$.\nIf $t,c\\geq 1$ then there exists $d\\geq 1$ such that if $\\chi(G)\\geq d$ and $\\omega(G)<t$ then there are anticomplete sets $A,B$ with $\\chi(A)\\geq \\chi(B)\\geq c$.",
+    "sha256": "fecf4782cfb9ef8007da3d8ae6e994984359b437bbdc1245dcd5f507e835f129",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-1111",
+    "source_locator": "dataset ID 2498; problem number EP-1111",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

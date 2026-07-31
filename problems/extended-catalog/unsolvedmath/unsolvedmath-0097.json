@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0097",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Almost Sum-Free Sets",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Suppose that $A \\subset [N]$ has no more than $\\varepsilon N^2$ solutions to $x + y = z$. Can one remove $\\varepsilon' N$ elements to leave a sum-free set, where $\\varepsilon' \\to 0$ as $\\varepsilon \\to 0$, with a reasonable bound?",
+    "sha256": "aa22134908c6ae422394df9f90355f1dd3a365cc45dda34696e2e0d2043c47cf",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GREEN-008",
+    "source_locator": "dataset ID 97; problem number GREEN-008",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:combinatorics",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:green-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

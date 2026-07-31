@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-013",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.13 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "If ⟨Ω, ⩽⟩ is the countable universal poset, then G = Aut (⟨Ω, ⩽⟩) is simple\n(A. M. W. Glass, S. H. McCleary, M. Rubin, Math. Z., 214, no. 1 (1993), 55–66). If H\nis a subgroup of G such that |G : H| < 2ℵ0 and H is transitive on Ω, does H = G?\n                                                                                   A. M. W. Glass",
+    "sha256": "36e5948814a73e416526e825cb4d01d0cdffdd24affb6856cdbff633b3c2d3b1",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=58",
+    "source_locator": "Kourovka 12.13, main section, page 58",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

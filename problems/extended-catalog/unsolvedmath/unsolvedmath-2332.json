@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2332",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #837",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $k\\geq 2$ and $A_k\\subseteq [0,1]$ be the set of $\\alpha$ such that there exists some $\\beta(\\alpha)>\\alpha$ with the property that, if $G_1,G_2,\\ldots$ is a sequence of $k$-uniform hypergraphs with $ \\liminf \\frac{e(G_n)}{\\binom{\\lvert G_n\\rvert}{k}} >\\alpha $ then there exist subgraphs $H_n\\subseteq G_n$ such that $\\lvert H_n\\rvert \\to \\infty$ and $ \\liminf \\frac{e(H_n)}{\\binom{\\lvert H_n\\rvert}{k}} >\\beta, $ and further that this property does not necessarily hold if $>\\alpha$ is replaced by $\\geq \\alpha$.\nWhat is $A_3$?",
+    "sha256": "b71c1feeac2e5f2a5ea7fe65f65434da9d0c1a9ea66eb73091e00bead740d9de",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-837",
+    "source_locator": "dataset ID 2332; problem number EP-837",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

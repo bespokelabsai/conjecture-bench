@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0024",
+  "slug": "hadwigers-conjecture",
+  "title": "Hadwiger’s conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Hadwiger’s conjecture · 1943. Every graph with chromatic number at least t contains K_t as a minor.",
+  "counterexample": {
+    "description": "The first counterexample target is a 7-chromatic graph with no K_7 minor. Supply a 7-coloring, DRAT proof against six colors, and a fixed-t minor-exclusion certificate.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://web.math.princeton.edu/~pds/barbados25/problems.pdf",
+        "role": "supporting"
+      }
+    ]
+  }
+}

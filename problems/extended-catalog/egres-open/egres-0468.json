@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0468",
+  "source_registry": "egres-open",
+  "title": "Strongly maximal matchings",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Is it true that if all the hyperedges of a hypergraph <math>H </math> have size at most <math>k </math> for some <math>k\\in \\mathbb{N} </math>, then <math>H </math> admits a strongly maximal matching?",
+    "sha256": "2239530a3ed0f7465b1792ef33d6446da6fa31b0ef09635d114054659ef75fc9",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2021-07-15T20:29:31Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Strongly_maximal_matchings&oldid=2453",
+    "source_locator": "EGRES page 468, revision 2453",
+    "source_sha256": "63a12d28686912b7dc2ebba06733fbf20893597be21ebc0d721d244bf23510d5",
+    "tags": [
+      "combinatorial-optimization",
+      "Infinite combinatorics",
+      "Matchings"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

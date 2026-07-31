@@ -1,0 +1,42 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2266",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #700",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $ f(n)=\\min_{1<k\\leq n/2}\\textrm{gcd}\\left(n,\\binom{n}{k}\\right). $ {UL}\n{LI}Characterise those composite $n$ such that $f(n)=n/P(n)$, where $P(n)$ is the largest prime dividing $n$.{/LI}\n{LI}Are there infinitely many composite $n$ such that $f(n)>n^{1/2}$?{/LI}\n{LI} Is it true that, for every composite $n$, $ f(n) \\ll_A \\frac{n}{(\\log n)^A} $ for every $A>0$?{/LI}\n{/UL}",
+    "sha256": "bece37bc339cd0e0548f7f941ce41078f5ed7efc016a3cc1d04a374b3b42db38",
+    "contains_placeholder": false,
+    "quality_flags": [
+      "statement-legacy-list-markup"
+    ]
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-700",
+    "source_locator": "dataset ID 2266; problem number EP-700",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems",
+      "statement-legacy-list-markup"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "statement-extraction-repair",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

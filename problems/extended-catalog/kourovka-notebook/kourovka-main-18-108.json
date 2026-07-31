@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-108",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.108 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A group G is said to have property (τ ) if its trivial representation is an\nisolated point in the subspace of irreducible representations with finite images (in the\ntopological unitary dual space of G). Is it true that there exists a finitely generated\ngroup satisfying property (τ ) that homomorphically maps onto every finite simple\ngroup?\n    The motivation is the theorem in (E. Breuillard, B. Green, M. Kassabov,\nA. Lubotzky, N. Nikolov, T. Tao) saying that there are ϵ > 0 and k such that every\nfinite simple group G contains a generating set S with at most k elements such that\nthe Cayley graph of G with respect to S is an ϵ-expander. In (M. Ershov, A. Jaikin-\nZapirain, M. Kassabov, Mem. Amer. Math. Soc., 1186, 2017) it is proved that there\nexists a group with Kazhdan’s property (T) that maps onto every simple group of Lie\ntype of rank ⩾ 2. (A group G is said to have Kazhdan’s property (T) if its trivial\nrepresentation is an isolated point in the unitary dual space of G.) A. Jaikin-Zapirain",
+    "sha256": "8230c4fa6a662c1862626ea4e37a6679af6c337b2602ddc97e0fa450bcfa53da",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=128",
+    "source_locator": "Kourovka 18.108, main section, page 128",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

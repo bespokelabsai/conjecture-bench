@@ -1,0 +1,35 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0722",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "ame_10_10_open",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 15 81 94]\ntheorem ame_10_10_open :\n    answer(sorry) ↔ ExistsAME 10 10",
+    "language_version": "Lean 4.27.0",
+    "sha256": "28c0f5f6be7d6ea26d05c0c0e7308873ec6bb1c874de54e42fd6c38184432686",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OpenQuantumProblems/35.lean#L796",
+    "source_locator": "FormalConjectures/OpenQuantumProblems/35.lean:796#ame_10_10_open",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "OpenQuantumProblems",
+      "AMS-5",
+      "AMS-15",
+      "AMS-81",
+      "AMS-94"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

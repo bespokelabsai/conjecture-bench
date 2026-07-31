@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0054",
+  "source_registry": "open-problems-project",
+  "title": "Traveling Salesman Problem in Solid Grid Graphs",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "What is the complexity of finding a shortest tour in a solid\nplanar grid graph?\nA \\emph{planar grid graph} is a graph whose vertices are any set\nof points on the planar integer lattice and whose edges connect every\npair of vertices at unit distance.\nDistances between nodes correspond to induced shortest-path distances in the\ngraph, which corresponds to ``Manhattan'' distances.\nA grid graph is \\emph{solid} if it\ndoes not have any holes, i.e., its complement in the planar integer lattice\nis connected.",
+    "sha256": "b827c75f6a59819df13107e01597e40bdbdc8054cb6b20001e79754eb7ffe909",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p54",
+    "source_locator": "TOPP problem 54 (Problems/P.000054)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "graphs",
+      "optimization",
+      "point sets",
+      "traveling salesman"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

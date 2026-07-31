@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2847",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.49",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Are any of the three conditions in the L-space Conjecture equivalent, for all prime rational homology 3-spheres Y, to the condition that Y admits a contact structure that is filled by a symplectic 4-manifold with $b_2^+>0$.",
+    "sha256": "f102d2b66159d220593ab5825e2de2aa610a192e64fefcdd1a42c4281dc5fe81",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.49",
+    "source_locator": "dataset ID 2847; problem number KP-3.49",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

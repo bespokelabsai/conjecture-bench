@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0072",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Game Theory at Scale",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Create scalable mathematics for differential games, replacing traditional PDE approaches.",
+    "sha256": "7a7f1cfbefe1e06516525a8b9c7659508a45d619b764a1ba0df518d772cee52f",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/DARPA-013",
+    "source_locator": "dataset ID 72; problem number DARPA-013",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:computer-science",
+      "difficulty:L4",
+      "secondary-aggregation",
+      "set:darpa-challenges"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

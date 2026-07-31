@@ -1,0 +1,62 @@
+id,kind,title,source,family,status
+topp-0003,catalog,Voronoi Diagram of Lines in 3D,open-problems-project,,open
+topp-0004,catalog,Union of Fat Objects in 3D,open-problems-project,,open
+topp-0005,catalog,Euclidean Minimum Spanning Tree,open-problems-project,,open
+topp-0006,catalog,Minimum Euclidean Matching in 2D,open-problems-project,,open
+topp-0007,catalog,$k$-sets,open-problems-project,,open
+topp-0008,catalog,Linear Programming: Strongly Polynomial?,open-problems-project,,open
+topp-0009,catalog,Edge-Unfolding Convex Polyhedra,open-problems-project,,open
+topp-0010,catalog,Simple Linear-Time Polygon Triangulation,open-problems-project,,open
+topp-0011,catalog,3SUM Hard Problems,open-problems-project,,open
+topp-0013,catalog,Point Location in 3D Subdivision,open-problems-project,,open
+topp-0015,catalog,Output-sensitive Convex Hull in $\R^d$,open-problems-project,,open
+topp-0016,catalog,Simple Polygonalizations,open-problems-project,,open
+topp-0017,catalog,Visibility Graph Recognition,open-problems-project,,open
+topp-0019,catalog,Vertical Decompositions in $\R^d$,open-problems-project,,open
+topp-0022,catalog,Minimum-Link Path in 2D,open-problems-project,,open
+topp-0023,catalog,Vertex $\pi$-Floodlights,open-problems-project,,open
+topp-0024,catalog,Polygonal Curve Simplification,open-problems-project,,open
+topp-0025,catalog,Polyhedral Surface Approximation,open-problems-project,,open
+topp-0026,catalog,Surface Reconstruction,open-problems-project,,open
+topp-0027,catalog,Hexahedral Meshing,open-problems-project,,partially-open
+topp-0028,catalog,Flip Graph Connectivity in 3D,open-problems-project,,open
+topp-0029,catalog,Hamiltonian Tetrahedralizations,open-problems-project,,open
+topp-0030,catalog,Thrackles,open-problems-project,,open
+topp-0031,catalog,Trapping Light Rays with Segment Mirrors,open-problems-project,,open
+topp-0033,catalog,Sum of Square Roots,open-problems-project,,open
+topp-0034,catalog,Extending Pseudosegment Arrangements by Subdivision,open-problems-project,,open
+topp-0035,catalog,Freeze-Tag: Optimal Strategies for Awakening a Swarm of Robots,open-problems-project,,open
+topp-0037,catalog,Counting Polyominoes,open-problems-project,,open
+topp-0038,catalog,Compatible Triangulations,open-problems-project,,open
+topp-0039,catalog,Distances among Point Sets in $\R^2$ and $\R^3$,open-problems-project,,open
+topp-0040,catalog,The Number of Pointed Pseudotriangulations,open-problems-project,,open
+topp-0041,catalog,Sorting $X+Y$ (Pairwise Sums),open-problems-project,,open
+topp-0042,catalog,Vertex-Unfolding Polyhedra,open-problems-project,,open
+topp-0043,catalog,General Unfoldings of Nonconvex Polyhedra,open-problems-project,,open
+topp-0044,catalog,3-Colorability of Arrangements of Great Circles,open-problems-project,,open
+topp-0045,catalog,Smallest Universal Set of Points for Planar Graphs,open-problems-project,,open
+topp-0046,catalog,3D Minimum-Bend Orthogonal Graph Drawings,open-problems-project,,open
+topp-0049,catalog,Planar Euclidean Maximum TSP,open-problems-project,,open
+topp-0051,catalog,Linear-Volume 3D Grid Drawings of Planar Graphs,open-problems-project,,open
+topp-0052,catalog,Queue-Number of Planar Graphs,open-problems-project,,open
+topp-0054,catalog,Traveling Salesman Problem in Solid Grid Graphs,open-problems-project,,open
+topp-0055,catalog,Pallet Loading,open-problems-project,,open
+topp-0057,catalog,Chromatic Number of the Plane,open-problems-project,,open
+topp-0058,catalog,Monochromatic Triangles,open-problems-project,,open
+topp-0059,catalog,Most Circular Partition of a Square,open-problems-project,,open
+topp-0060,catalog,Transforming Polygons via Vertex-Centroid Moves,open-problems-project,,open
+topp-0061,catalog,Lines Tangent to Four Unit Balls,open-problems-project,,open
+topp-0062,catalog,Volume Maximizing Convex Shape,open-problems-project,,open
+topp-0063,catalog,Dynamic Planar Nearest Neighbors,open-problems-project,,open
+topp-0064,catalog,Edge-Unfolding Polycubes,open-problems-project,,open
+topp-0066,catalog,Reflexivity of Point Sets,open-problems-project,,open
+topp-0067,catalog,Fair Partitioning of Convex Polygons,open-problems-project,,open
+topp-0068,catalog,Rolling a Die over a Labeled Board,open-problems-project,,open
+topp-0070,catalog,Yao-Yao Graph a Spanner?,open-problems-project,,open
+topp-0072,catalog,Polyhedron with Regular Pentagon Faces,open-problems-project,,open
+topp-0073,catalog,Congruent Partitions of Polygons,open-problems-project,,unclear
+topp-0074,catalog,Slicing Axes-Parallel Rectangles,open-problems-project,,partially-open
+topp-0075,catalog,Edge-Coloring Geometric Graphs,open-problems-project,,open
+topp-0076,catalog,Equiprojective Polyhedra,open-problems-project,,open
+topp-0077,catalog,Zipper Unfoldings of Convex Polyhedra,open-problems-project,,open
+topp-0078,catalog,Rectangling a Rectangle,open-problems-project,,partially-open

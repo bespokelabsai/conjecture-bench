@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0505",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_891",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_891 :\n    answer(sorry) ↔\n      ∀ k ≥ 2, ∀ᶠ n in atTop,\n      ∃ m ∈ Ico n (n + ∏ i ∈ range k, i.nth Nat.Prime), k < ω m",
+    "language_version": "Lean 4.27.0",
+    "sha256": "08b5420c5ad97b8bfdfe9b119188bbcad9f4104ae736129b2cdbc55ee2b5e874",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/891.lean#L37",
+    "source_locator": "FormalConjectures/ErdosProblems/891.lean:37#erdos_891",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

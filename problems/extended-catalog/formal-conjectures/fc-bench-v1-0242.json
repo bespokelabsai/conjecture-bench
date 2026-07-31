@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0242",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_340.variants.sub_hasPosDensity",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem erdos_340.variants.sub_hasPosDensity :\n    Set.HasPosDensity (Set.range greedySidon - Set.range greedySidon)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "50177ef08143a585ceca3d10161ed949c1e7dd4f09de0bb2cc9b3554c9608c0e",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/340.lean#L136",
+    "source_locator": "FormalConjectures/ErdosProblems/340.lean:136#erdos_340.variants.sub_hasPosDensity",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

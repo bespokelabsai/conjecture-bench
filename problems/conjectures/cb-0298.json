@@ -1,0 +1,42 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0298",
+  "slug": "oda-smooth-polytope-idp",
+  "title": "Oda's smooth-polytope integer-decomposition conjecture",
+  "field": "lattice-polytopes-and-integer-decomposition",
+  "statement": "Every smooth lattice polytope P has the integer decomposition property: for every positive integer k and every lattice point z in kP, there are lattice points z_1,...,z_k in P whose sum is z.",
+  "counterexample": {
+    "description": "A full-dimensional smooth lattice polytope and an integer point in its second or third dilation that is not a sum of the corresponding number of lattice points of the polytope.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://lemon.cs.elte.hu/egres/open/Integer_decomposition_of_smooth_polytopes",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Integer_decomposition_of_smooth_polytopes&oldid=1752",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://arxiv.org/abs/2512.20680",
+        "role": "current-open-problem-exposition"
+      },
+      {
+        "url": "https://arxiv.org/abs/2603.14227",
+        "role": "smooth-fano-special-case"
+      }
+    ],
+    "discovery_records": [
+      "egres-0340"
+    ]
+  },
+  "equivalence_group": "oda-smooth-polytope-idp"
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-083",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.83 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A generating system X of a group G is fast if there is an integer n such that\nevery element of G can be expressed as a product of at most n elements of X or their\ninverses. If not, we say that it is slow. For instance, in (Z, +), the squares are fast,\nbut the powers of 2 are slow.\n   Do there exist countable infinite groups without an infinite slow generating set?\nUncountable ones do exist.                                                    B. Poizat",
+    "sha256": "221b7392fc09eb32037fa14ab1357cbff5886b9c441a9f5f33b6d49cc44e16ad",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=124",
+    "source_locator": "Kourovka 18.83, main section, page 124",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

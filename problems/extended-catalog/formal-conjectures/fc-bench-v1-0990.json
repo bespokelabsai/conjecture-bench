@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0990",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "taxicab_for_5_2_2",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem taxicab_for_5_2_2 : answer(sorry) ↔ ∃ x : ℕ, IsTaxicabFor 5 2 2 x",
+    "language_version": "Lean 4.27.0",
+    "sha256": "621bb69f81570be170e86242a8b82eb0c8a8d118927e6e85a33b94b8b350c17e",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Taxicab.lean#L109",
+    "source_locator": "FormalConjectures/Wikipedia/Taxicab.lean:109#taxicab_for_5_2_2",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

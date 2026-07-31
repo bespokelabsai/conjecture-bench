@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-042",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.42 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For an orientation-preserving homeomorphism f : S 1 → S 1 of a unit circle\nS 1 , let f˜ be its lifting to a homeomorphism of R; then the rotation number of f\nis defined to be the limit limn→∞ (f˜n (x) − x)/n (which is independent of the point\nx ∈ S 1 ). Let F be a free group of rank 2 with generators a, b. For w ∈ F and r, s ∈ R,\nlet R(w, r, s) denote the maximum value of the (real-valued) rotation number of w,\nunder all representations from F to the universal central extension of Homeo+ (S 1 )\nfor which the rotation number of a is r, and the rotation number of b is s.\n     a) If r, s are rational, must R(w, r, s) be rational?\n     b) Let R(w, r−, s−) denote the supremum of the rotation number of w (as above)\nunder all representations for which a and b are conjugate to rotations through r and\ns, respectively (in the universal central extension of Homeo+ (S 1 )). Is R(w, r−, s−)\nalways rational if r and s are rational?\n      c) Weak Slippery Conjecture: Let w be a word containing only positive powers of\na and b. A pair of values (r, s) is slippery if there is a strict inequality R(w, r′ , s′ ) <\nR(w, r−, s−) for all r′ < r, s′ < s. Is it true that then R(w, r−, s−) = ha (w)r +\nhb (w)s, where ha (w) counts the number of a’s in w, and hb (w) counts the number of\nb’s in w?\n     d) Slippery Conjecture: More precisely, is it always (without assuming (r, s) be-\ning slippery) true that if w has the form w = aα1 bβ1 · · · aαm bβm (all positive) and\nR(w, r, s) = p/q where p/q is reduced, then |p/q − ha (w)r − hb (w)s| ⩽ m/q?\n                                                                       D. Calegari, A. Walker",
+    "sha256": "bd128c6894470a6bc91e643ffda8728e138d5113d29d4966c4e64a5cd84f7e56",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=120",
+    "source_locator": "Kourovka 18.42, main section, page 120",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

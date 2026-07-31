@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0042",
+  "source_registry": "open-problems-project",
+  "title": "Vertex-Unfolding Polyhedra",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Consider a polyhedron with simply connected facets (no holes on a facet)\nand without boundary (every edge is incident to exactly two facets).\nCan the polyhedron be cut along potentially all of its edges,\nbut leaving certain faces connected at vertices,\nand unfolded into one piece in the plane without overlap?\nSuch an unfolding is called a \\emph{vertex-unfolding},\nto distinguish from widely studied\n\\emph{edge-unfoldings} (see Problem~\\ref{Problem.9}) and\n\\emph{general unfoldings}.\nAn important subproblem here is whether all convex polyhedra have\nvertex-unfoldings;\na negative answer would also resolve Problem \\ref{Problem.9}.",
+    "sha256": "00e7c8d1d510589f38a9e909bcd73b40801d30e0b95588b07d665dcfdf55d63f",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p42",
+    "source_locator": "TOPP problem 42 (Problems/P.000042)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "folding and unfolding",
+      "polyhedra"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0157"
+  ]
+}

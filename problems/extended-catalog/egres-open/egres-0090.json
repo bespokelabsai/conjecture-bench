@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0090",
+  "source_registry": "egres-open",
+  "title": "Finding kernels in special digraphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "In which classes of digraphs can we decide if a [[Kernel (in digraph)|kernel]] exists and find one in polynomial time?",
+    "sha256": "a36c1cb3f65c34e2f19180cdd991dc327abecf489b704e4e7c5dc1b464630024",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2018-10-15T21:29:22Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Finding_kernels_in_special_digraphs&oldid=2437",
+    "source_locator": "EGRES page 90, revision 2437",
+    "source_sha256": "a183798edbedb0d69414b4f0da3ae4a3e59b5f711afa938a109de7adde9a1245",
+    "tags": [
+      "combinatorial-optimization",
+      "Stable matchings and kernels"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

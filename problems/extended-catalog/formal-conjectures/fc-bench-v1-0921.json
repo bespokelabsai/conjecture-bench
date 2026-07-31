@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0921",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "lander_parkin_selfridge",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem lander_parkin_selfridge :\n    ∀ (k n m : ℕ) (x : Fin n → ℕ) (y : Fin m → ℕ),\n      (∀ i, 0 < x i) → (∀ j, 0 < y j) →\n      (∀ i j, x i ≠ y j) →\n      ∑ i, x i ^ k = ∑ j, y j ^ k →\n      k ≤ n + m",
+    "language_version": "Lean 4.27.0",
+    "sha256": "179e33c4f8bf3f3f639b984f801dfc9d0413a643a5281a779d9cd1bae4ded3f1",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/LanderParkinAndSelfridgeConjecture.lean#L36",
+    "source_locator": "FormalConjectures/Wikipedia/LanderParkinAndSelfridgeConjecture.lean:36#lander_parkin_selfridge",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0058"
+  ]
+}

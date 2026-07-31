@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0478",
+  "source_registry": "egres-open",
+  "title": "Gonality and edge subdivisions",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "How does gonality change if each edge of the graph is subdivided <math>k</math> times?",
+    "sha256": "9143b8f6909f0b30702cbd298b36b8f79c5b69c2edb548e0823c949df4135817",
+    "contains_placeholder": false,
+    "extraction_method": "lead"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2021-11-30T21:23:30Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Gonality_and_edge_subdivisions&oldid=2468",
+    "source_locator": "EGRES page 478, revision 2468",
+    "source_sha256": "5fe7ec9e931f85316f5f04bf38ab9f4f3d545e0c47ce340e6cafef9c3d2376f1",
+    "tags": [
+      "combinatorial-optimization",
+      "Chip-firing"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

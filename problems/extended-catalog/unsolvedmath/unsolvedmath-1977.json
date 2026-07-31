@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1977",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #177",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Find the smallest $h(d)$ such that the following holds. There exists a function $f:\\mathbb{N}\\to\\{-1,1\\}$ such that, for every $d\\geq 1$, $ \\max_{P_d}\\left\\lvert \\sum_{n\\in P_d}f(n)\\right\\rvert\\leq h(d), $ where $P_d$ ranges over all finite arithmetic progressions with common difference $d$.",
+    "sha256": "3ed56ea9e209af5499f9fe6db0a4272023928889c3253429b6d9dc8fd9c8ead9",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-177",
+    "source_locator": "dataset ID 1977; problem number EP-177",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

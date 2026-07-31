@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-058",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.58 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Describe the finite groups which contain a tightly embedded subgroup H such\nthat a Sylow 2-subgroup of H is a direct product of a quaternion group of order 8\nand a non-trivial elementary group.                                  A. A. Makhnëv",
+    "sha256": "b4c76c8c7b898c2296b9c31798580920759055c2eac4dea8117d81275f95a5f4",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=51",
+    "source_locator": "Kourovka 11.58, main section, page 51",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

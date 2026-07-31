@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0008",
+  "source_registry": "open-problems-project",
+  "title": "Linear Programming: Strongly Polynomial?",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Is linear programming strongly polynomial?",
+    "sha256": "2d6d547aa4c83271f0671cac70ce9b39d4d9861449c17f38dc0721947c2522f6",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p8",
+    "source_locator": "TOPP problem 8 (Problems/P.000008)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "linear programming"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

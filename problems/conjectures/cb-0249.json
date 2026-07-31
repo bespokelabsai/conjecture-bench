@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0249",
+  "slug": "no-two-five-perfect-number",
+  "title": "No positive (2,5)-perfect number",
+  "field": "number-theory",
+  "statement": "There is no positive integer n such that σ(σ(n))=5n, where σ is the sum of positive divisors.",
+  "counterexample": {
+    "description": "A positive n together with complete prime factorizations of n and σ(n), allowing both divisor sums to be recomputed exactly.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "number-theory-status-promotion",
+    "sources": [
+      {
+        "url": "https://projecteuclid.org/journals/experimental-mathematics/volume-5/issue-2/Iterating-the-sum-of-divisors-function/em/1047565640.full",
+        "role": "origin"
+      },
+      {
+        "url": "https://greenbluemath.nl/wp-content/uploads/2025/11/Recreational-Integer-Iterations.pdf",
+        "role": "current-status-source"
+      }
+    ]
+  },
+  "equivalence_group": "iterated-sigma-perfect-numbers"
+}

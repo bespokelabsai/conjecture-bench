@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0157",
+  "slug": "topp-42-vertex-unfolding-polyhedra",
+  "title": "Vertex-unfolding polyhedra",
+  "field": "discrete-geometry",
+  "statement": "Every closed polyhedron with simply connected facets has a nonoverlapping one-piece vertex unfolding.",
+  "counterexample": {
+    "description": "A rational polyhedron for which every permitted vertex-connected unfolding overlaps or disconnects.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "topp-open-finite",
+    "sources": [
+      {
+        "url": "https://topp.openproblem.net/p42",
+        "role": "status"
+      }
+    ]
+  }
+}

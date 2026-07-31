@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0613",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "green_28",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 60]\ntheorem green_28 : answer(sorry) ↔\n  ∀ (X Y : PMF ℤ), -- marginals, independence is built into indepSum\n    X.support.Finite ∧ Y.support.Finite ∧ IsUniformOnSupport (indepSum X Y) →\n      IsUniformOnSupport X ∧ IsUniformOnSupport Y",
+    "language_version": "Lean 4.27.0",
+    "sha256": "9bbcc7a5aec37647ccc48ab610ae8109c127e65afa08df62acc335f131b2f5b6",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/28.lean#L48",
+    "source_locator": "FormalConjectures/GreensOpenProblems/28.lean:48#green_28",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-60"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

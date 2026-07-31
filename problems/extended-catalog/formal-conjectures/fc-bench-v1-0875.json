@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0875",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "fermat_number_are_composite",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem fermat_number_are_composite : answer(sorry) ↔ ∀ n > 4, ¬Prime n.fermatNumber",
+    "language_version": "Lean 4.27.0",
+    "sha256": "47dfc351da4fcdd303358064ea382f5e30b11db928d05c965326293204c85a98",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Fermat.lean#L30",
+    "source_locator": "FormalConjectures/Wikipedia/Fermat.lean:30#fermat_number_are_composite",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

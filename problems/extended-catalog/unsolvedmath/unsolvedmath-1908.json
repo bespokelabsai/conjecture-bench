@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1908",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #65",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $G$ be a graph with $n$ vertices and $kn$ edges, and $a_1<a_2<\\cdots $ be the lengths of cycles in $G$. Is it true that $ \\sum\\frac{1}{a_i}\\gg \\log k? $ Is the sum $\\sum\\frac{1}{a_i}$ minimised when $G$ is a complete bipartite graph?",
+    "sha256": "3fc0f1995213b4655da8aafa5d63f79242df47090924b383fb7f2b0e33fad95e",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-65",
+    "source_locator": "dataset ID 1908; problem number EP-65",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-latex-citation-markup",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

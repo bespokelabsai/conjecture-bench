@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3233",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Hedetniemi's Conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture If $G,H$ are simple finite graphs, then $\\chi(G \\times H) = \\min \\{ \\chi(G), \\chi(H) \\}$.\n\nHere $G \\times H$ is the tensor product (also called the direct or categorical product) of $G$ and $H$.",
+    "sha256": "d2441e925e6e5d088d544952abd938c9bdf27a9d54f0b8423f90afd63ac03e76",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-806",
+    "source_locator": "dataset ID 3233; problem number OPG-806",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

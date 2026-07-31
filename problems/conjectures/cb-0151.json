@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0151",
+  "slug": "topp-46-two-bend-orthogonal-drawings",
+  "title": "Two-bend 3D orthogonal graph drawings",
+  "field": "graph-drawing",
+  "statement": "Every simple graph of maximum degree at most six has a crossing-free three-dimensional orthogonal grid drawing with at most two bends per edge.",
+  "counterexample": {
+    "description": "A finite simple graph of maximum degree at most six for which the complete two-bend orthogonal-layout constraint system is unsatisfiable.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "topp-open-finite",
+    "sources": [
+      {
+        "url": "https://topp.openproblem.net/p46",
+        "role": "status"
+      }
+    ]
+  }
+}

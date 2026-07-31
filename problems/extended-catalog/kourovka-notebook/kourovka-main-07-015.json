@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-07-015",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 7.15 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Prove that if F ∗ (G) is quasisimple and α ∈ Aut G, |α| = 2, then CG (α)\ncontains an involution outside Z(F ∗ (G)), except when F ∗ (G) has quaternion Sylow\n2-subgroups.                                                               R. Griess",
+    "sha256": "a59a840e5fc17329e00b34e59c83778c49f7846ffe89d2ff07b706c72ed91a8a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=22",
+    "source_locator": "Kourovka 7.15, main section, page 22",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

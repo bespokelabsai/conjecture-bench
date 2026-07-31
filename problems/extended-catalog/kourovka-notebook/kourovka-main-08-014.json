@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-08-014",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 8.14 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "b) Assume a group G is existentially closed in one of the classes LN+ , LSπ ,\nLS+ , LS of, respectively, all locally nilpotent torsion-free groups, all locally soluble\nπ-groups, all locally soluble torsion-free groups, or all locally soluble groups. Is it true\nthat G is characteristically simple?\n   The existential closedness of G is a local property, thus it seems difficult to obtain\nglobal properties of G from it. See also Archive, 8.14 a.                      O. H. Kegel",
+    "sha256": "37b8be8ce5c0e1ae8689c3e251b65121093977c29639f4ea360e230486edbaa0",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=27",
+    "source_locator": "Kourovka 8.14, main section, page 27",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0176",
+  "slug": "lovasz-vertex-transitive-hamilton-path-conjecture",
+  "title": "Lovász vertex-transitive Hamilton-path conjecture",
+  "field": "graph-theory",
+  "statement": "Every finite connected vertex-transitive graph has a Hamiltonian path.",
+  "counterexample": {
+    "description": "A finite connected simple graph whose automorphism group is vertex-transitive but which has no path visiting every vertex exactly once.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2606.09742",
+        "role": "status"
+      }
+    ]
+  }
+}

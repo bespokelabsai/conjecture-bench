@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2543",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.34",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(Well-known problem). A group $G$ is a unique product group if, for any nonempty finite subsets $A,B$ of $G$, there exists an element of $G$ which can be written uniquely as $ab$ with $a\\in A$ and $b\\in B$. A group $G$ is locally invariant orderable if $G$ admits a partial order $<$ such that for all $g,h\\in G$ with $h\\ne 1$, we have either $gh>g$ or $gh^{-1}>g$. Does there exist a unique product group which is not locally invariant orderable?",
+    "sha256": "cffb35731d42beecaaf1f5c69358fd6faf6bde29b8f98d764a9df18f88c24c33",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.34",
+    "source_locator": "dataset ID 2543; problem number KOU-21.34",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

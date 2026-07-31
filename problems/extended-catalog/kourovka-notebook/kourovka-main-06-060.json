@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-06-060",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 6.60 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Do there exist infinite finitely generated simple periodic (conjugacy) biprim-\nitively finite groups which contain both involutions and non-trivial elements of odd\norder?                                                                  V. P. Shunkov",
+    "sha256": "1b0585191fadc2dbf1ef53b4648d6cbfe61cc7834d1ee38dfda9cb0065fa18db",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=21",
+    "source_locator": "Kourovka 6.60, main section, page 21",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

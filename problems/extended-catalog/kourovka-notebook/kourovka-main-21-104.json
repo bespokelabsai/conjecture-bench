@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-104",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.104 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For a group word w(x1 , . . . , xn ) on n letters, define e0 (x1 , . . . , xn ) = x1 and\nek+1 (x1 , . . . , xn ) = w(ek (x1 , . . . , xn ), . . . , xn ) for all k ∈ N. A group G is said to\nsatisfy the Engel type iterated identity w if for all x1 , . . . , xn ∈ G there exists m ∈ N\nsuch that em (x1 , . . . , xn ) = 1.\n    Conjecture: For every non-trivial word w, if a finitely generated branch group G\n(see 15.12) satisfies the iterated identity w, then G is a torsion group.\n    This is true in the case of the commutator word w = [x1 , x2 ] (G. Fernández-\nAlcober, M. Noce, G. Tracey, J. Algebra, 554 (2020), 54–77).                           M. Petschick",
+    "sha256": "77d59b5e3507abf514f312900e422adf245eb4748f9ee578c70a5d05325dee00",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=179",
+    "source_locator": "Kourovka 21.104, main section, page 179",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-107",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.107 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does G = SL2 (C) contain a 2-generated free subgroup that is conjugate in G\nto a proper subgroup of itself?\n    A 6-generated free subgroup with this property has been found (D. Calegari,\nN. M. Dunfield, Proc. Amer. Math. Soc., 134, no. 11 (2006), 3131–3136). M. Sapir",
+    "sha256": "3526023a4f2fdf84612d22d6189f7af59d7d0ebf63c7593ec0bce2f0380d90f7",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=113",
+    "source_locator": "Kourovka 17.107, main section, page 113",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

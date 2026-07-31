@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0063",
+  "source_registry": "open-problems-project",
+  "title": "Dynamic Planar Nearest Neighbors",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Is there a data structure maintaining a set of $n$ points in the plane\nsubject to\ninsertions, deletions, and nearest-neighbor queries in $O(\\log n)$ time?\nA \\emph{nearest-neighbor query} asks to find a point among the set\nthat is nearest (in Euclidean distance) to a given a point in the plane.\nThis problem reduces to maintaining the convex hull of a set of $n$ points\nin 3D subject to insertions, deletions, and extreme-point queries.",
+    "sha256": "8403eef856b6770071b7b826021b39f55cba344f33140fc06fe2954c1bc746bd",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p63",
+    "source_locator": "TOPP problem 63 (Problems/P.000063)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "convex hulls",
+      "data structures",
+      "Voronoi diagrams"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2558",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.49",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "An isometric action of a group G on a metric space S is called acylindrical if for every $\\varepsilon>0$ there exist R, N > 0 such that for every two points x, y with $d(x,y)\\geqslant R$, there are at most N elements $g\\in G$ satisfying $d(x,gx)\\leqslant\\varepsilon$ and $d(y,gy)\\leqslant\\varepsilon$. A group is said to be acylindrically hyperbolic if it is not virtually cyclic and admits an acylindrical action on a hyperbolic space with unbounded orbits. Is the automorphism group of a finitely generated acylindrically hyperbolic group also acylindrically hyperbolic?",
+    "sha256": "b19fb6d3ca8a9c71dae23454298d9e54115fa0c2023d4c2fee456b87474a3bcd",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.49",
+    "source_locator": "dataset ID 2558; problem number KOU-21.49",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

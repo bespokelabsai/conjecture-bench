@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2920",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.44",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) Let X be a closed, simply connected 4-manifold. Let $g \\geq$ 0 and $d \\geq$ 0 be integers. Fix $x \\in H_{2}(X;\\mathbb{Z})$. Does there exist a (smooth, locally flat) generic immersion $f: \\Sigma_{g} \\to X$ such that $f_{*}[\\Sigma_{g}] = x$, with d transverse double points?\n\n(b) An important special case is $d =$ 0. Let $g: H_{2}(X;\\mathbb{Z}) \\to \\mathbb{N}_{0}$ be the genus function assigning to $x \\in H_{2}(X;\\mathbb{Z})$ the minimal genus of any (smooth, locally flat) embedded surface in X whose fundamental class represents x. The problem is to compute the locally flat genus function for some 4-manifold $X \\ne S^{4}$, and to compute the smooth genus function for new 4-manifolds.\n\n(c) For a specific example, is the class (3,2) $\\in H_{2}(\\mathbb{CP}^{2}\\#\\mathbb{CP}^{2};\\mathbb{Z})$ represented by a sphere?",
+    "sha256": "fd87e070ab9ef75a01b167a2ef3978f0d21bcc19eeba2300357f162e9ff9dbb1",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.44",
+    "source_locator": "dataset ID 2920; problem number KP-4.44",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

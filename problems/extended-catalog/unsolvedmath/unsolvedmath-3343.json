@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3343",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Vertex Cover Integrality Gap",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture For every $\\varepsilon > 0$ there is $\\delta > 0$ such that, for every large $n$, there are $n$-vertex graphs $G$ and $H$ such that $G \\equiv_{\\delta n}^{\\mathrm{C}} H$ and $\\mathrm{vc}(G) \\ge (2 - \\varepsilon) \\cdot \\mathrm{vc}(H)$.",
+    "sha256": "6a2b5c12c90442c85d57910fb79f836f5e5321d5864b7236ae8d16931f4bb6b5",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-38188",
+    "source_locator": "dataset ID 3343; problem number OPG-38188",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:logic",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

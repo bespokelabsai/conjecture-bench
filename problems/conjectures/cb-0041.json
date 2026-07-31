@@ -1,0 +1,35 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0041",
+  "slug": "erdosstraus",
+  "title": "Erdős–Straus",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "For every integer n≥2, there are positive integers x,y,z such that 4/n=1/x+1/y+1/z.",
+  "counterexample": {
+    "description": "An integer n≥2 for which 4/n cannot be written as the sum of three positive unit fractions.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2509.00128",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/1812.05684",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2605.23601",
+        "role": "status"
+      }
+    ]
+  },
+  "equivalence_group": "erdos-straus"
+}

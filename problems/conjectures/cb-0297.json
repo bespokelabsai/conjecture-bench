@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0297",
+  "slug": "capacitated-two-arborescence-packing",
+  "title": "Capacitated packing of 2-arborescences",
+  "field": "directed-graphs-and-matroid-packing",
+  "statement": "Let D=(V,A) be a finite digraph rooted at r, let k,l be positive integers, and let each arc have a positive integer capacity at most l. If the capacities admit a packing of kl spanning out-arborescences rooted at r, then they admit a packing of l k-arborescences, where each k-arborescence is the arc-disjoint union of k rooted spanning arborescences.",
+  "counterexample": {
+    "description": "A finite simple rooted digraph with capacities one or two that packs four rooted spanning arborescences, but for which no capacity-obeying selection of four trees can be partitioned into two pairs that are arc-disjoint within each pair.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://lemon.cs.elte.hu/egres/open/Capacitated_packing_of_k-arborescences",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Capacitated_packing_of_k-arborescences&oldid=1259",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://arxiv.org/abs/1903.03579",
+        "role": "packing-common-bases-context-and-open-status"
+      }
+    ],
+    "discovery_records": [
+      "egres-0062"
+    ]
+  },
+  "equivalence_group": "capacitated-k-arborescence-packing"
+}

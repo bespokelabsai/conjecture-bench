@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-008",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.8 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose K < H < F are free groups of finite rank such that rank(H) <\nrank(K), but all proper subgroups of H which contain K have ranks ⩾ rank(K).\nThen is the inclusion of H in F the only homomorphism H → F fixing all elements\nof K?                                                           G. M. Bergman",
+    "sha256": "0b6c98d5816a1257e75a4a612f6972464590a5623ddaf608bdf30a3bf03af082",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=145",
+    "source_locator": "Kourovka 20.8, main section, page 145",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

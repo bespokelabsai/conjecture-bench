@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3389",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Counterexamples to the Baillie-PSW primality test",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem (1) Find a counterexample to Baillie-PSW primality test or prove that there is no one.\n\nProblem (2) Find a composite $n\\equiv 3$ or $7\\pmod{10}$ which divides both $2^{n-1} - 1$ (see Fermat pseudoprime) and the Fibonacci number $F_{n+1}$ (see Lucas pseudoprime), or prove that there is no such $n$.",
+    "sha256": "b0295eab772af160174043adf15b6a93df0da570bad61a1a5f8d02ca76942c30",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-511",
+    "source_locator": "dataset ID 3389; problem number OPG-511",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

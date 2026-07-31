@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-052",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.52 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "The Gruenberg–Kegel graph (or the prime graph) GK(G) of a finite group G\nhas vertex set consisting of all prime divisors of the order of G, and different vertices\np and q are adjacent in GK(G) if and only if the number pq is an element order in G.\nIs there a finite non-solvable group G such that GK(G) does not contain 3-cocliques\nand is not isomorphic to the Gruenberg–Kegel graph of any finite solvable group?\n    It is known that there are no examples of such groups G among almost simple\ngroups.                                                                    N. V. Maslova",
+    "sha256": "07d7598b0a847770fb58dfac1fb728485a60b11dc2ab4028554ca7a47b99bbb3",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=136",
+    "source_locator": "Kourovka 19.52, main section, page 136",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0177",
+  "slug": "wall-sun-sun-nonexistence",
+  "title": "Wall–Sun–Sun prime nonexistence conjecture",
+  "field": "number-theory",
+  "statement": "No prime p has Fibonacci entry point modulo p² equal to its entry point modulo p.",
+  "counterexample": {
+    "description": "A prime p satisfying the Wall–Sun–Sun congruence.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2302.10357",
+        "role": "supporting"
+      }
+    ]
+  }
+}

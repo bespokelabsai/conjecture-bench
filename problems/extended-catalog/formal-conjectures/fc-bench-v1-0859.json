@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0859",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "finite_twentyone_lt_finrank",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11 14]\ntheorem finite_twentyone_lt_finrank : {E : RatEllipticCurve | 21 < E.rank}.Finite",
+    "language_version": "Lean 4.27.0",
+    "sha256": "e48543f2f69f4fa6ff5c535d3910cfc76186fb56256e9c51211f5ebb11326c9d",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/EllipticCurveRank.lean#L132",
+    "source_locator": "FormalConjectures/Wikipedia/EllipticCurveRank.lean:132#finite_twentyone_lt_finrank",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11",
+      "AMS-14"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

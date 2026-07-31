@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2486",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #1096",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $1<q<1+\\epsilon$ and consider the set of numbers of the shape $\\sum_{i\\in S}q^i$ (for all finite $S$), ordered by size as $0=x_1<x_2<\\cdots$.\nIs it true that, provided $\\epsilon>0$ is sufficiently small, $x_{k+1}-x_k \\to 0$?",
+    "sha256": "b2bbc91b9e4abb10dfd2c026ee702f03d59f40787656c00607f53da9e4c2c195",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-1096",
+    "source_locator": "dataset ID 2486; problem number EP-1096",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-013",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.13 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is a soluble torsion-free group minimax if it satisfies the weak minimum condi-\ntion for normal subgroups?                                                 D. I. Zaitsev",
+    "sha256": "05f78008e01eb61278431fab03f696cfcc7d7a174a0d23733a5a7f66b30fba74",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=32",
+    "source_locator": "Kourovka 9.13, main section, page 32",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

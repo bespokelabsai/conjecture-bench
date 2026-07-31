@@ -1,0 +1,42 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2066",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #348",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For what values of $0\\leq m<n$ is there a complete sequence $A=\\{a_1\\leq a_2\\leq \\cdots\\}$ of integers such that\n{UL}\n{LI} $A$ remains complete after removing any $m$ elements, but {/LI}\n{LI} $A$ is not complete after removing any $n$ elements? {/LI}\n{/UL}",
+    "sha256": "50e3d880ed3298bfae88815f85626500d97125526065e7bfe80d6da8c7c4c621",
+    "contains_placeholder": false,
+    "quality_flags": [
+      "statement-legacy-list-markup"
+    ]
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-348",
+    "source_locator": "dataset ID 2066; problem number EP-348",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems",
+      "statement-legacy-list-markup"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "statement-extraction-repair",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

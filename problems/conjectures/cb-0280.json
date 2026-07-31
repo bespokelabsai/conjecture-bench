@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0280",
+  "slug": "kriesell-two-steiner-trees",
+  "title": "Kriesell’s Steiner-tree packing conjecture",
+  "field": "graph-theory-and-combinatorial-optimization",
+  "statement": "If a terminal set T in a finite graph is 2k-edge-connected, then the graph contains k pairwise edge-disjoint Steiner trees spanning T.",
+  "counterexample": {
+    "description": "A finite simple graph with at least six terminals that are 4-edge-connected but admit no two edge-disjoint Steiner trees.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/open/Kriesell%27s_conjecture",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Kriesell%27s_conjecture&oldid=2084",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.4230/LIPIcs.STACS.2026.51",
+        "role": "peer-reviewed-2026-status-source"
+      }
+    ],
+    "discovery_records": [
+      "egres-0121"
+    ]
+  },
+  "equivalence_group": "kriesell-steiner-tree-packing"
+}

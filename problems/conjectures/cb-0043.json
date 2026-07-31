@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0043",
+  "slug": "lehmer-totient",
+  "title": "Lehmer totient",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "If φ(n) divides n−1, then n is prime.",
+  "counterexample": {
+    "description": "A composite \\(n\\) satisfying \\(\\varphi(n)\\mid n-1\\). A complete factorization makes compositeness, \\(\\varphi(n)\\), and divisibility cheap to verify.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://ems.press/journals/em/articles/8549048",
+        "role": "supporting"
+      }
+    ]
+  }
+}

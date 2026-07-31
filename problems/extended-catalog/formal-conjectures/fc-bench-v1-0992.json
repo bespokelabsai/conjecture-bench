@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0992",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "DiscreteTopology.of_t2_of_torontoSpace",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 54]\ntheorem DiscreteTopology.of_t2_of_torontoSpace [T2Space X] [TorontoSpace X] :\n    DiscreteTopology X",
+    "language_version": "Lean 4.27.0",
+    "sha256": "096e799affc9ce69d277ce3f0a05b5c45fd73659e749f67049a53d061384380e",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Toronto.lean#L62",
+    "source_locator": "FormalConjectures/Wikipedia/Toronto.lean:62#DiscreteTopology.of_t2_of_torontoSpace",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-54"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

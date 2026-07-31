@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-1022",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "conjecture198a",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem conjecture198a (G : SimpleGraph α) (h : G.Connected)\n    (hb : b G ≤ 2 + averageEccentricity G) :\n    ∃ a b : α, ∃ p : G.Walk a b, p.IsHamiltonian",
+    "language_version": "Lean 4.27.0",
+    "sha256": "d62579e233c545b3030066cfe295791303d242059d557fec2b2bd95869eb208f",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/WrittenOnTheWallII/GraphConjecture198a.lean#L40",
+    "source_locator": "FormalConjectures/WrittenOnTheWallII/GraphConjecture198a.lean:40#conjecture198a",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "WrittenOnTheWallII",
+      "AMS-5"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0268"
+  ]
+}

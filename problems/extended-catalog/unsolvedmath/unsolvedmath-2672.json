@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2672",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.13",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $K$ be a null-homotopic knot in a 3-manifold $Y$ , and let\n$Y_{0}(K)$ be the manifold obtained by 0-surgery on $K$.\n(a) Conjecture: Let $F$ be a Seifert surface for $K$, and let $\\widetilde{F} \\subset Y_{0}(K)$ be the\nclosed surface obtained by capping off $\\partial F$ with a disk. If $Y_{0}(K)$ is a surface\nbundle over $S^{1}$ with fiber in the homology class $[\\widetilde{F}]$, then $K$ is a fibered\nknot with fiber in the homology class $[F]$.\n(b) Conjecture: If $F$ is taut in the exterior of $K$ in $Y$ , then $\\widetilde{F}$ is also taut in\n$Y_{0}(K)$.",
+    "sha256": "90d477f4164b6834358db3c1ab8e973b8d6fb33f71a6d97b2a495603f90589b0",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.13",
+    "source_locator": "dataset ID 2672; problem number KP-1.13",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

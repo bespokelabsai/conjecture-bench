@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0432",
+  "source_registry": "egres-open",
+  "title": "Sparsifier subgraphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Devise combinatorial polynomial-time algorithms for the following two problems.\n* Given a graph ''G'', find a subgraph H with <math>O(n)</math> edges such that <math>d_H(X) \\geq \\Omega(\\frac{n}{m}) d_G(X)</math> for every <math>X \\subseteq V</math> \n* Given a graph ''G'', find a subgraph H with <math>\\Omega(n)</math> edges such that <math>d_H(X) \\leq O(\\frac{n}{m}) d_G(X)</math> for every <math>X \\subseteq V</math>",
+    "sha256": "915eaf21be713774116bd697904be8d9c96592a1e01c5920714d0b904e221b2e",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-01-11T02:38:54Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Sparsifier_subgraphs&oldid=1990",
+    "source_locator": "EGRES page 432, revision 1990",
+    "source_sha256": "220dabc0e03164abaf354a91d5904352deb21b610d872a9c15426dc03b597e7e",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

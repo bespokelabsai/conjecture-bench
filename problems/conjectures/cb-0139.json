@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0139",
+  "slug": "erdos-364-three-consecutive-powerful-numbers",
+  "title": "Erdős problem #364: consecutive powerful numbers",
+  "field": "number-theory",
+  "statement": "There are no three consecutive positive integers that are all powerful.",
+  "counterexample": {
+    "description": "An integer n such that n,n+1,n+2 each has every prime divisor occurring to exponent at least two.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/364",
+        "role": "status"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0287"
+    ]
+  }
+}

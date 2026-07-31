@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0034",
+  "source_registry": "open-problems-project",
+  "title": "Extending Pseudosegment Arrangements by Subdivision",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "How many intersections among an arrangement of pseudosegments in the plane\nmust be added as vertices to allow the pseudosegment arrangment to be\nextended to a pseudoline arrangement?\n\nAn \\emph{arrangement of pseudosegments} in the plane is a family of\nfinite-length planar curves such that every two curves intersect in at\nmost one point.  An \\emph{arrangement of pseudolines} in the plane is a family\nof planar curves that extend to infinity on both ends such that every two\ncurves intersect in at most one point.  Only some pseudosegment arrangements\ncan be \\emph{extended} to pseudoline arrangements.  However, if we allow\nturning intersection points into vertices of the arrangement, thereby\nsubdividing the segments, then it is always possible to make a\npseudosegment arrangement extendible.  The question is how many such vertices\nmust be added in the worst-case in terms of the number $n$ of pseudosegments.",
+    "sha256": "031bb33ef786307a91b1728169bcb98bec722aeaf4b1766b7ac8a40abb7760c9",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p34",
+    "source_locator": "TOPP problem 34 (Problems/P.000034)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "combinatorial geometry"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

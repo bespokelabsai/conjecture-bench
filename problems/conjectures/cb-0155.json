@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0155",
+  "slug": "topp-31-segment-mirror-light-trap",
+  "title": "Trapping light with segment mirrors",
+  "field": "discrete-geometry",
+  "statement": "No finite collection of pairwise disjoint two-sided segment mirrors traps every ray from one disjoint point source.",
+  "counterexample": {
+    "description": "Exact source and mirror coordinates together with a finite symbolic certificate that every ray remains in the mirrors' convex hull.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "topp-open-finite",
+    "sources": [
+      {
+        "url": "https://topp.openproblem.net/p31",
+        "role": "status"
+      }
+    ]
+  }
+}

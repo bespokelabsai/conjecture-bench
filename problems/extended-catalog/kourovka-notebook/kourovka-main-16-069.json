@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-069",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.69 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let W be as above.\n    a) Must the range of the function Tr(W (x, y)) for x, y ∈ GL(2, R) include the\ninterval [−2, +∞)?\n    b) For x, y being non-zero quaternions, must the range of the function Re(W (x, y))\ninclude the interval [−5/27, 1]?\n    (For some comments see ibid.)                                          J. Mycielski",
+    "sha256": "8b69c3bdd9d0d775cea9e38db550a5ed07e1161cb5af10e07cbcb26057a9ca97",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=100",
+    "source_locator": "Kourovka 16.69, main section, page 100",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

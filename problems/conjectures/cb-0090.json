@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0090",
+  "slug": "szymanskis-hypercube-routing-conjecture",
+  "title": "Szymanski’s hypercube-routing conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "For every permutation σ of the vertices of the d-dimensional hypercube, the doubly directed hypercube has pairwise edge-disjoint paths from each v to σ(v), where opposite uses of an edge are allowed.",
+  "counterexample": {
+    "description": "Give a permutation of \\(Q_d\\) with no pairwise arc-disjoint source–target paths. SAT/ILP plus DRAT or exact branch-and-bound certifies infeasibility.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://dwest.web.illinois.edu/regs/szymanski.html",
+        "role": "supporting"
+      }
+    ]
+  }
+}

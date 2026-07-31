@@ -1,0 +1,36 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0013",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "ABC Conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For any $\\epsilon > 0$, there exist only finitely many triples $(a, b, c)$ of coprime positive integers with $a + b = c$ such that $c > \\text{rad}(abc)^{1+\\epsilon}$, where $\\text{rad}(n)$ is the product of distinct prime factors of $n$.",
+    "sha256": "9254c0c33b4dbc24fa61e8c3540f7a1b7bf2af7a3e6e8c298a0c8e5cbc3655db",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/NT-005",
+    "source_locator": "dataset ID 13; problem number NT-005",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L5",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

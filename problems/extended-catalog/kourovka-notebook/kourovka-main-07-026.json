@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-07-026",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 7.26 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "The ordinal height of a variety of groups is, by definition, the supremum of\norder types (ordinals) of all well-ordered by inclusion chains of its proper subvarieties.\nIt is clear that its cardinality is either finite or countably infinite, or equal to ω1 . Is\nevery countable ordinal number the ordinal height of some variety?\n                                                                           A. V. Kuznetsov",
+    "sha256": "2a39dbc7b3b2a07abd0b824de5246cc8362cf71a7b8e8d90b9b056cccb392fa0",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=23",
+    "source_locator": "Kourovka 7.26, main section, page 23",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

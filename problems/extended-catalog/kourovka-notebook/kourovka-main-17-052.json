@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-052",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.52 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(N. Eggert). Let R be a commutative associative finite-dimensional nilpotent\nalgebra over a finite field F of characteristic p. Let R(p) be the subalgebra of all\nelements of the form rp (r ∈ R). Is it true that dim R ⩾ p dim R(p) ?\n    An affirmative answer gives a solution to 11.44 for the case where the factors A\nand B are abelian.                                                      L. S. Kazarin",
+    "sha256": "bd8b4cc25f9c6dd8fd9366d8e2f648bceeb37494b0787bdbcc864df81b66efbb",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=108",
+    "source_locator": "Kourovka 17.52, main section, page 108",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

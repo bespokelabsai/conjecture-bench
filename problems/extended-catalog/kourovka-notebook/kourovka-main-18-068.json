@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-068",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.68 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "What are the nonabelian composition factors of a finite nonsoluble group all\nof whose maximal subgroups have complements?\n    Note that finite simple groups with all maximal subgroups having complements\nare, up to isomorphism, L2 (7), L2 (11), and L5 (2) (V. M. Levchuk, A. G. Likharev,\nSiberian Math. J., 47, no. 4 (2006), 659–668). The same groups exhaust finite simple\ngroups with Hall maximal subgroups and composition factors of groups with Hall\nmaximal subgroups (N. V. Maslova, Siberian Math. J., 53, no. 5 (2012), 853–861).\nIt is also proved that in a finite group with Hall maximal subgroups all maximal\nsubgroups have complements (N. V. Maslova, D. O. Revin, Siberian Adv. Math., 23,\nno. 3 (2013), 196–209).                                  N. V. Maslova, D. O. Revin",
+    "sha256": "72fbc83791325cbb1b98f431f431dbeec5b755c3a38fcfb35555a4e852493816",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=123",
+    "source_locator": "Kourovka 18.68, main section, page 123",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

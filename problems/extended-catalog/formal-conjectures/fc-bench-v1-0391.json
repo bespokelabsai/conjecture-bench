@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0391",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_522.variants.zero_one",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 12 60]\ntheorem erdos_522.variants.zero_one :\n    answer(sorry) ↔ ∀ {Ω : Type*} [MeasureSpace Ω] [IsProbabilityMeasure (ℙ : Measure Ω)]\n      {n : ℕ} (hn : 1 ≤ n) (f : KacCoefficients ({0, 1} : Set ℂ) Ω),\n      ℙ {ω | atTop.Tendsto (fun n : ℕ ↦ (2 * f.numRootsInUnitDisk n ω : ℝ) / n) (𝓝 1)} = 1",
+    "language_version": "Lean 4.27.0",
+    "sha256": "a88c600ae4466839e32a2a91a1eddacc91980acd30e97ae4559620aa44f276b3",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/522.lean#L112",
+    "source_locator": "FormalConjectures/ErdosProblems/522.lean:112#erdos_522.variants.zero_one",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-12",
+      "AMS-60"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

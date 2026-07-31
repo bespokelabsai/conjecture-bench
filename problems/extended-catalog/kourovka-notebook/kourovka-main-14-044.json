@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-044",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.44 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let k(X) denote the number of conjugacy classes of a finite group X. Suppose\nthat a finite group G = AB is a product of two subgroups A, B of coprime orders. Is\nit true that k(AB) ⩽ k(A)k(B)?\n    Note that one cannot drop the coprimeness condition and the answer is positive\nif one of the subgroups is normal, see Archive, 11.43.   L. S. Kazarin, J. Sangroniz",
+    "sha256": "07d628738c0b1f6b26ab068d72bc76e2a9632d3bc0276a5ce541179499923385",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=76",
+    "source_locator": "Kourovka 14.44, main section, page 76",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

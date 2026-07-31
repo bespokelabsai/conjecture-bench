@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-092",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.92 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let F be an infinitely generated free group. Is Aut F equal to its derived\nsubgroup? This is true if F is countably generated (R. Bryant, V. A. Roman’kov,\nJ. Algebra, 209 (1998), 713–723).                                    V. Tolstykh",
+    "sha256": "f6bb1a6cabd7c1f0850b8ee824d1e5efbab0fe393afc120b8809a2b0f354542f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=102",
+    "source_locator": "Kourovka 16.92, main section, page 102",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

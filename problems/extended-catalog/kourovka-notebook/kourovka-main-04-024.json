@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-04-024",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 4.24 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose T is a non-abelian Sylow 2-subgroup of a finite simple group G.\n   a) Suppose T has nilpotency class n. The best possible bound for the exponent of\nthe center of T is 2n−1 . This easily implies the bound 2n(n−1) for the exponent of T ,\nhowever, this is almost certainly too crude. What is the best possible bound?\n   d) Find a “small number” of subgroups T1 , . . . , Tn of T which depend only on the\nisomorphism class of T such that {NG (T1 ), . . . , NG (Tn )} together control fusion in T\nwith respect to G (in the sense of Alperin).                           D. M. Goldschmidt",
+    "sha256": "c233453da18e0e1056e3e456754b9a280758a1bcd2d24db85f31ec88a0f4d4ad",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=12",
+    "source_locator": "Kourovka 4.24, main section, page 12",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

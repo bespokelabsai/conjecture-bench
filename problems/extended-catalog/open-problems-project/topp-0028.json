@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0028",
+  "source_registry": "open-problems-project",
+  "title": "Flip Graph Connectivity in 3D",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Is the \\emph{flip graph} connected for general-position points in $\\R^3$?\nGiven a set of $n$ points in $\\R^3$,\nthe flip graph has a node\nfor each tetrahedralization of the set.\nTwo nodes are connected by an arc if there is a 2-to-3 or 3-to-2\n``bistellar flip'' of tetrahedra between the two simplicial complexes.\nIn the plane, the flips correspond to convex quadrilateral diagonal switches;\nin $\\R^3$, a $5$-vertex convex polyhedron is ``flipped'' between two\nof its tetrahedralizations.",
+    "sha256": "b87881af9834ec8578b96407e9fdc6dd1e40d96c6ef66ef2477bab1b389b9827",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p28",
+    "source_locator": "TOPP problem 28 (Problems/P.000028)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "Delaunay triangulations",
+      "triangulations"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0153"
+  ]
+}

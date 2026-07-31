@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-090",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.90 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A skew brace is a set B equipped with two operations + and · such that (B, +)\nis an additively written (but not necessarily abelian) group, (B, ·) is a multiplicatively\nwritten group, and a · (b + c) = ab − a + ac for any a, b, c ∈ B.\n    b) Is there a skew brace with non-soluble additive group but nilpotent multiplica-\ntive group?\n    c) Is there a finite skew brace with soluble additive group but non-soluble multi-\nplicative group?                                       A. Smoktunowicz, L. Vendramin",
+    "sha256": "cc85f81864c23fd2c514a1efe86e360025de4520bbd78ed027dbd1bc3b8c0796",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=140",
+    "source_locator": "Kourovka 19.90, main section, page 140",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-007",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.7 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let Γg be the fundamental group of a closed surface of genus g ⩾ 2. For\neach finite system S of generators of Γg , let βS (n) denote the number of elements\nof Γg which can be written   p   as products of at most n elements of S ∪ S −1 , and let\n                             n\nω(Γg , S) = lim supn→∞ βS (n) be the growth rate of the sequence (βS (n))n⩾0 .\nCompute the infimum ω(Γg ) of the ω(Γg , S) over all finite sets of generators of Γg .\n    It is easy to see that, for a free group Fk of rank k ⩾ 2, the corresponding infimum\nis ω(Fk ) = 2k − 1 (M. Gromov, Structures métriques pour les variétés riemanniennes,\nCedic/F. Nathan, Paris, 1981, Ex. 5.13). As any generating set of Γg contains a subset\nof 2g − 1 elements generating a subgroup of infinite index in Γg with abelianization\nZ2g−1 , hence a subgroup which is free of rank 2g − 1, it follows that ω(Γg ) ⩾ 4g − 3.\n                                                                           P. de la Harpe",
+    "sha256": "22ea76a6cd2be3bce663852acc3ed693c3ebc709005c3f75662d79154ee19396",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=72",
+    "source_locator": "Kourovka 14.7, main section, page 72",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

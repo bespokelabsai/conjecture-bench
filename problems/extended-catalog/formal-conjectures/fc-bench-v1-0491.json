@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0491",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_881",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 11]\ntheorem erdos_881 :\n    answer(sorry) ↔ ∀ (k : ℕ) (A : Set ℕ),\n      IsMinimalAsymptoticAddBasisOfOrder k A →\n        ∃ (B : Set ℕ), B ⊆ A ∧ B.Infinite ∧\n          (A \\ B).IsAsymptoticAddBasisOfOrder (k + 1)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "164a7f8bec16f5dea1247c21ed761c036d6c6f4e5e618280cc896a0af1eb1092",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/881.lean#L49",
+    "source_locator": "FormalConjectures/ErdosProblems/881.lean:49#erdos_881",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-02-045",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 2.45 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "b) (P. Hall). Prove or refute the following conjecture: If the marginal subgroup\nv ∗ G has finite index m in G, then the order of vG is finite and divides a power of m.\n     Editors’ comment: There are examples when |vG| does not divide a power of m\n(Yu. G. Kleiman, Trans. Moscow Math. Soc., 1983, no. 2, 63–110), but the question\nof finiteness remains open.                                            Yu. I. Merzlyakov",
+    "sha256": "5be5dc2e74353b1eb58aa747c6ca95939ffd1288f1400f4e8d35c8616941bb6a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=8",
+    "source_locator": "Kourovka 2.45, main section, page 8",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

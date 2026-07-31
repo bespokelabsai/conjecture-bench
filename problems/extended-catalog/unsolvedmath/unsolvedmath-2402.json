@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2402",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #950",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $ f(n) = \\sum_{p<n}\\frac{1}{n-p}. $ Is it true that $ \\liminf f(n)=1 $ and $ \\limsup f(n)=\\infty? $ Is it true that $f(n)=o(\\log\\log n)$ for all $n$?",
+    "sha256": "551583504bdf74485706720da552af7d9f56c399102e54134997798c3b7cedad",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-950",
+    "source_locator": "dataset ID 2402; problem number EP-950",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-094",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.94 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For each positive integer r find the p-cohomological dimension\n                                                                   � cdp (H r ) where\n                                                                         ∞\n                                                                                   �\n                                                                                 r\n                                                                            ai xp i ,\n                                                                        P\nHr is the closed subgroup of N (Z/pZ) consisting of the series x 1 +\n                                                                            i=1\nai ∈ Z/pZ.                                                                  I. B. Fesenko",
+    "sha256": "aa0955d0d50a82572f047b9e38b1b5c9d65869818b2a6461f38cc4ccfcb2a786",
+    "contains_placeholder": false,
+    "unmapped_control_count": 2
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=81",
+    "source_locator": "Kourovka 14.94, main section, page 81",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-01-040",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 1.40 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is a group a nilgroup if it is the product of two normal nilsubgroups?\n   By definition, a nilgroup is a group consisting of nilelements, in other words, of\n(not necessarily boundedly) Engel elements.                         Sh. S. Kemkhadze",
+    "sha256": "a30a898fab0c7929cdbbd5d9aee0703401b8f02c7f5ddea17a06dc5fdf2eaef0",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=5",
+    "source_locator": "Kourovka 1.40, main section, page 5",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

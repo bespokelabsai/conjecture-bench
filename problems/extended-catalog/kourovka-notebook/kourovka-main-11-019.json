@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-019",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.19 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(C. Sims). Is the nth term of the lower central series of an absolutely free group\nthe normal closure of the set of basic commutators (in some fixed free generators) of\nweight exactly n?\n   D. Jackson announced a positive answer for n ⩽ 5.           A. Gaglione, D. Spellman",
+    "sha256": "990d893879bca4cbebdf132e8f5733edbd136e462dd765ca6cb9e56cf8a0a10c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=47",
+    "source_locator": "Kourovka 11.19, main section, page 47",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-100",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.100 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that every periodic conjugacy biprimitively finite group (see 6.59)\ncan be obtained from 2-groups and binary finite groups by taking extensions? This\nquestion is of independent interest for p-groups, p an odd prime.       S. P. Strunkov",
+    "sha256": "ab5e636ce0966712e770696012451c41b638ef07ecbe1d47e76ecdd567b9c89b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=55",
+    "source_locator": "Kourovka 11.100, main section, page 55",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-07-056",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 7.56 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(B. Amberg). Does a group satisfy the minimum (respectively, maximum)\ncondition on subgroups if it is a product of two subgroups satisfying the minimum\n(respectively, maximum) condition on subgroups?                     N. S. Chernikov",
+    "sha256": "f786f7a7148fb4aeb90b0223243a2138cdbb34f4918b6434df20fcd382d117d2",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=25",
+    "source_locator": "Kourovka 7.56, main section, page 25",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

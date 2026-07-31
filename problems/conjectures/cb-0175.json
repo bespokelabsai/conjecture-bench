@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0175",
+  "slug": "chvatal-intersecting-downset-conjecture",
+  "title": "Chvátal intersecting-downset conjecture",
+  "field": "extremal-set-theory",
+  "statement": "Every finite downset other than {∅} has no intersecting subfamily larger than its largest star.",
+  "counterexample": {
+    "description": "A finite downset other than {∅}, together with an explicitly supplied pairwise-intersecting subfamily whose size exceeds every star in the downset.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1112/jlms/s2-9.2.355",
+        "role": "supporting"
+      },
+      {
+        "url": "https://users.encs.concordia.ca/~chvatal/conjecture.html",
+        "role": "supporting"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Paper/Chvatal.lean#L45",
+        "role": "formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0746"
+    ]
+  }
+}

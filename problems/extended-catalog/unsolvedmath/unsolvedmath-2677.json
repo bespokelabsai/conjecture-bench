@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2677",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.18",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) $($ Meridional Rank Conjecture $)$ Is the meridional $\\operatorname{rank} \\mu(L)$ of every link\n$L$ equal to its bridge number $b(L)$?\n(b) Given two knots $K_{1}, K_{2} \\subset S^{3}$ such that $\\pi_{1}(S^{3}\\setminus K_{1})$ and $\\pi_{1}(S^{3}\\setminus K_{2})$ have\nthe same finite quotients, does $\\mu(K_{1}) = \\mu(K_{2})$? In particular, is it possible\nto explicitly detect the meridional $\\operatorname{rank} \\mu(K)$ of a knot $K \\subset S^{3}$ from the\nfinite quotients of $\\pi_{1}(S^{3}\\setminus K)$?\n(c) Given two links $L_{1}, L_{2} \\subset S^{3}$, if there exists a surjective homomorphism\n$\\pi_{1}(S^{3}\\setminus L_{1}) \\twoheadrightarrow\\pi_{1}(S^{3}\\setminus L_{2})$ that sends the meridians of $L_{1}$ to the meridians\nof $L_{2}$, do the bridge numbers satisfy $b(L_{1}) \\geq b(L_{2})$?\n(d) Given two knots $K_{1}, K_{2} \\subset S^{3}$, if there exists a surjective homomorphism\n$\\pi_{1}(S^{3}\\setminus K_{1}) \\twoheadrightarrow\\pi_{1}(S^{3}\\setminus K_{2})$ (which may not send meridians to meridians):\n(i) Do the meridional ranks satisfy $\\mu(K_{1}) \\geq \\mu(K_{2})$?\n(ii) Do the bridge numbers satisfy $b(K_{1}) \\geq b(K_{2})$?\n(e) Let $K \\subset S^{3}$ be a hyperbolic knot. Is every subgroup of $\\pi_{1}(S^{3}\\setminus K)$ generated\nby at most $b(K) - 1$ meridians free? See [BJW18].",
+    "sha256": "ecac98d9d4565ba2ab1b8f446eac0c2d62f351efb731553ca1a4263ec9911aa6",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.18",
+    "source_locator": "dataset ID 2677; problem number KP-1.18",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0149",
+  "slug": "erdos-835-hypergraph-local-rainbow-colouring",
+  "title": "Erdős problem #835: local-rainbow hypergraph colouring",
+  "field": "hypergraph-theory",
+  "statement": "No k>2 admits a (k+1)-colouring of the k-subsets of [2k] in which every (k+1)-set sees all colours.",
+  "counterexample": {
+    "description": "An integer k>2 and an explicit colouring with the stated local-rainbow property.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/835",
+        "role": "status"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-03-060",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 3.60 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "The notion of the p-length of an arbitrary finite group was introduced in\n(L. A. Shemetkov, Math. USSR Sbornik, 1 (1968), 83–92). Investigate the relations\nbetween the p-length of a finite group and the invariants cp , dp , ep of its Sylow\np-subgroup.                                                         L. A. Shemetkov",
+    "sha256": "ca4a1acf3b210a32ff339112a1ff2a808e77ac4ff35fe06eecbc591560a8616f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=11",
+    "source_locator": "Kourovka 3.60, main section, page 11",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

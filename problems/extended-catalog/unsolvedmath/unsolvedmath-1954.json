@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1954",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #143",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $A\\subset (1,\\infty)$ be a countably infinite set such that for all $x\neq y\\in A$ and integers $k\\geq 1$ we have $  \\lvert kx -y\\rvert \\geq 1. $ Does this imply that $A$ is sparse? In particular, does this imply that $ \\sum_{x\\in A}\\frac{1}{x\\log x}<\\infty $ or $ \\sum_{\\substack{x <n\\\\ x\\in A}}\\frac{1}{x}=o(\\log n)? $ ",
+    "sha256": "cbd730e7e7cf2ffba57f0a1451f2c9000977bae99af0cd501218c016e8eb5559",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-143",
+    "source_locator": "dataset ID 1954; problem number EP-143",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-118",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.118 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a pro-p group that is a 3-dimensional Poincaré duality group. Can\nit contain a direct product F2 × F2 of free pro-p groups of rank 2?\n    If it can, then the answer to 20.117 is negative, but in the abstract case it is known\nthat it can not (P. H. Kropholler, M. A. Roller, J. London Math. Soc. (2), 39 (1989),\n271–284).                                                                      P. Zalesskii",
+    "sha256": "343a804044068412ad247cfa5044f1e408327fa29046c612c6300734e5f0d19c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=161",
+    "source_locator": "Kourovka 20.118, main section, page 161",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

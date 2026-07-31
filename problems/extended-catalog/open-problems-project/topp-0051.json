@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0051",
+  "source_registry": "open-problems-project",
+  "title": "Linear-Volume 3D Grid Drawings of Planar Graphs",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Does every $n$-vertex planar graph have a 3D grid\ndrawing with $O(n)$ volume? A \\emph{3D grid drawing} of a graph\nis a placement of the vertices at distinct points with integer\ncoordinates such that the straight line segments representing\nthe edges are pairwise non-crossing. The volume is of the\nbounding box.",
+    "sha256": "6c5b2a61ecb5879b527c4285b7b131d1338449813a49d7d9f25e20060d28c314",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p51",
+    "source_locator": "TOPP problem 51 (Problems/P.000051)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "graph drawing"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

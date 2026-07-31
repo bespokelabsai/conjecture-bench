@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2206",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #602",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $(A_i)$ be a family of sets with $\\lvert A_i\\rvert=\\aleph_0$ for all $i$, such that for any $i\neq j$ we have $\\lvert A_i\\cap A_j\\rvert$ finite and $\neq 1$. Is there a $2$-colouring of $\\cup A_i$ such that no $A_i$ is monochromatic?",
+    "sha256": "c92c2dd28db51aa7f9631267686cefc16cb4591be705236380f42b4eb422c64d",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-602",
+    "source_locator": "dataset ID 2206; problem number EP-602",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

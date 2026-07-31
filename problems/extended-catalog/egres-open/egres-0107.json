@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0107",
+  "source_registry": "egres-open",
+  "title": "Generic rigidity in three dimensions",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Can we decide in polynomial time whether a given graph is [[Rigid graph|rigid]] in 3-dimensional space?",
+    "sha256": "30eab767b7d1a26fe210e6e112949ebcd933e9f69144d1bf7d7d51350ae26575",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-01-01T22:22:10Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Generic_rigidity_in_three_dimensions&oldid=1986",
+    "source_locator": "EGRES page 107, revision 1986",
+    "source_sha256": "7944813f37404142ebcda6c5d8e8ef420e79e2e6ede245cb243f769eac129f29",
+    "tags": [
+      "combinatorial-optimization",
+      "Matrices with indeterminates",
+      "Rigidity"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

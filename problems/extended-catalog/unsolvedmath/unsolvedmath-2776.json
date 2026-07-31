@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2776",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 2.28",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $\\Gamma$ be a graph that is not a nontrivial join, and let $A(\\Gamma)$\nbe the associated right-angled Artin group. Does there exist an injective map from\n$A(\\Gamma)$ to the mapping class group of a surface such that every loxodromic element\nof $A(\\Gamma)$ is sent to a pseudo-Anosov mapping class?",
+    "sha256": "75874ffaac46846f57a989491eb2fe4ba03c81b70b047c2087ce54e90a62ac95",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-2.28",
+    "source_locator": "dataset ID 2776; problem number KP-2.28",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

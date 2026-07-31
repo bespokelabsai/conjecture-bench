@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0363",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_458",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_458 :\n    answer(sorry) ↔ ∀ k : ℕ, lcm_upto ((k + 1).nth Prime - 1)\n     < k.nth Prime * lcm_upto (k.nth Prime)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "a1754cbc01f898b777b5a1243f507c8349528caec031488f71a983ae11958e65",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/458.lean#L37",
+    "source_locator": "FormalConjectures/ErdosProblems/458.lean:37#erdos_458",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

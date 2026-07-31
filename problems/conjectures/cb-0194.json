@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0194",
+  "slug": "slice-ribbon-conjecture",
+  "title": "Slice–ribbon conjecture",
+  "field": "knot-theory",
+  "statement": "Every smooth slice knot in S³ is ribbon.",
+  "counterexample": {
+    "description": "A finite knot diagram with a certified smooth slice disk and a formal obstruction to every ribbon disk.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2106.09171",
+        "role": "supporting"
+      }
+    ]
+  }
+}

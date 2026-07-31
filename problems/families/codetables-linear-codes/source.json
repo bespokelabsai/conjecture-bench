@@ -1,0 +1,33 @@
+{
+  "slug": "codetables-linear-codes",
+  "name": "Bounds on the minimum distance of linear codes",
+  "maintainers": [
+    "Markus Grassl",
+    "Andries E. Brouwer"
+  ],
+  "homepage": "https://codetables.de/",
+  "license": "No formal licence stated; a public research reference on code bounds.",
+  "credit": {
+    "statement": "Linear-code records come from the tables of bounds on the minimum distance of linear codes, compiled and maintained by Markus Grassl at codetables.de. Many entries descend from the earlier tables of Andries E. Brouwer, which the cell pages cite by name and date.",
+    "requested_citation": "Cite M. Grassl, \"Bounds on the minimum distance of linear codes and quantum codes\", online at http://www.codetables.de, and credit A. E. Brouwer's tables for the entries derived from them.",
+    "citation_url": "https://codetables.de/"
+  },
+  "retrieval": {
+    "method": "Read the published GF(2) bound table, keep cells printed as a lower-upper range, then confirm each one against its own cell page and quote that page.",
+    "urls": [
+      "https://codetables.de/BKLC/Tables.php?q=2&n0=1&n1=256&k0=1&k1=14",
+      "https://codetables.de/BKLC/BKLC.php?q=2&n=<n>&k=<k>"
+    ],
+    "retrieved": "2026-07-23",
+    "upstream_version": "last change 30.12.2011"
+  },
+  "redistribution": {
+    "policy": "metadata-only",
+    "note": "Records store the code parameters, the two published bounds, and the quoted table cell. No generator matrices or construction descriptions are copied."
+  },
+  "caveats": [
+    "The lower bound can be raised by exhibiting a better code, while lowering the upper bound requires a nonexistence proof.",
+    "A better lower bound narrows the range but does not settle the exact minimum distance unless it reaches the upper bound.",
+    "This release is restricted to small dimensions; the upstream tables extend far beyond that."
+  ]
+}

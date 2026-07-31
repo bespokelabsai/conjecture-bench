@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-036",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.36 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Kropholler’s hierarchy (see 15.45) is closed under finite extensions, that is,\n(Hα F)F ⊆ Hα F for every α (P. Kropholler, J. Pure Appl. Algebra, 90 (1993), 55–67).\nLet a hierarchy of tdlc groups HK be defined analogously to Kropholler’s hierarchy\nin 15.45, with K being the class of profinite groups and with the cell stabilisers of the\nadmissible action required to be open.\n    Is it true that HK is closed under profinite extensions, that is, (Hα K)K ⊆ Hα K\nfor every α?                                                                 G. C. Cook",
+    "sha256": "ce3a0b5da99f345a4ddcffd6ba58c9b2ecd4fa15000132efe2c155e06a80b219",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=169",
+    "source_locator": "Kourovka 21.36, main section, page 169",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

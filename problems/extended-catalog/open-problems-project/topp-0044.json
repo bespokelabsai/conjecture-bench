@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0044",
+  "source_registry": "open-problems-project",
+  "title": "3-Colorability of Arrangements of Great Circles",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Is every zonohedron face $3$-colorable when viewed as a planar map?\nAn equivalent question, under a different guise, is the following:\nis the arrangement graph of great circles on the sphere always\nvertex $3$-colorable?\n(The \\emph{arrangement graph} has a vertex for each intersection point,\nand an edge for each arc directly connecting two intersection points.)\nAssume that no three circles meet at a point,\nso that this arrangement graph is $4$-regular.",
+    "sha256": "2932028d749b9a809d98a4d71508ed874b75e3a17c18ccadaa2a01bb982d78d8",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p44",
+    "source_locator": "TOPP problem 44 (Problems/P.000044)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "arrangements",
+      "coloring",
+      "polyhedra"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0159"
+  ]
+}

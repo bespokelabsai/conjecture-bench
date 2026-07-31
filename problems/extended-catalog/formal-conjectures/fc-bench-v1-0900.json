@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0900",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "inverse_galois_problem",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 12]\ntheorem inverse_galois_problem {G : Type*} [Fintype G] [Group G] :\n    IsRealizable ℚ G",
+    "language_version": "Lean 4.27.0",
+    "sha256": "a23abada5d03e7a87fbf4953b6f828734fde281685fb1dbc094f076ba5962b6d",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/InverseGalois.lean#L47",
+    "source_locator": "FormalConjectures/Wikipedia/InverseGalois.lean:47#inverse_galois_problem",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-12"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

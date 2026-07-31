@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0553",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_962",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_962 :\n    answer(sorry) ↔\n      ∃ ε : ℕ → ℝ,\n        (∀ δ > 0, ∀ᶠ n in atTop, |ε n| < δ) ∧\n        ∀ᶠ n : ℕ in atTop,\n          log (k n : ℝ)\n            ≤ rpow (log n) ((1 : ℝ) / 2 + ε n)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "556e1fdbe4f0bdd925068ffaae5587943910ffd472feca988a2f81dd6dc60064",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/962.lean#L53",
+    "source_locator": "FormalConjectures/ErdosProblems/962.lean:53#erdos_962",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

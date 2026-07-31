@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0278",
+  "slug": "fermat-numbers-squarefree",
+  "title": "Fermat-number square-freeness conjecture",
+  "field": "number-theory",
+  "statement": "Every Fermat number F_n=2^(2^n)+1, for n≥0, is square-free.",
+  "counterexample": {
+    "description": "An index n and an integer d>1 such that d² divides 2^(2^n)+1.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "number-theory-live-promotion",
+    "sources": [
+      {
+        "url": "https://math.colgate.edu/~integers/aa77/aa77.pdf",
+        "role": "peer-reviewed-2026-status-and-statement-source"
+      },
+      {
+        "url": "https://projecteuclid.org/journals/pacific-journal-of-mathematics/volume-22/issue-3/On-the-square-freeness-of-Fermat-and-Mersenne-numbers/pjm/1102992105.full",
+        "role": "classical-source"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/e751934294a381afd2d5fc1124c5953c8e25f9fa/FormalConjectures/Wikipedia/Fermat.lean",
+        "role": "current-formal-status-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0878",
+      "unsolvedmath-3372"
+    ]
+  },
+  "equivalence_group": "fermat-number-squarefreeness"
+}

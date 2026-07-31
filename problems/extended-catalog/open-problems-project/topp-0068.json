@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0068",
+  "source_registry": "open-problems-project",
+  "title": "Rolling a Die over a Labeled Board",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Label the faces of a unit cube with numbers $1$--$6$ as in a die.\n%(There are actually two standard labelings, with all opposite pairs of face\n% labels summing to~$7$; pick one.)\nPlace the cube to sit on an integer lattice grid,\nwith one corner at the origin and sides aligned with the axes.\nCompletely label every lattice square of a rectangular ``board'' $R$,\nwhose corner is at the origin,\nwith numbers in\n$\\{1,2,3,4,5,6\\}$.\nThe problem is to roll the cube over its edges so that,\nfor each square $s \\in B$ labeled $l$,\nthe cube lands on $s$ precisely once, and when it does so,\nthe top face of the cube has label~$l$.\n\nWhat is the computational complexity of solving an instance of this problem?",
+    "sha256": "8a8346bfb6ad2044746f27d36cd1e61f46837b72931310813a40ef66bae69676",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p68",
+    "source_locator": "TOPP problem 68 (Problems/P.000068)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "combinatorial geometry"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

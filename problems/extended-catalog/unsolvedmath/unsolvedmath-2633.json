@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2633",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.124",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "A group G is said to be virtually special if G has a finite-index subgroup isomorphic to the fundamental group of a special complex. A group G is called a CAT(0) group if it acts properly discontinuously and cocompactly by isometries on a CAT(0) metric space.\n\na) Is every CAT(0) free-by-cyclic group virtually special?\n\nb) A weaker question: does every CAT(0) free-by-cyclic group virtually embed into a right-angled Artin group?",
+    "sha256": "017f430de0912122e18fa85829bb5508cde70c7f45dae840ff290ec3c432525d",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.124",
+    "source_locator": "dataset ID 2633; problem number KOU-21.124",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

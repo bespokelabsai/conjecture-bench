@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0075",
+  "slug": "marcusde-oliveira-determinantal-conjecture",
+  "title": "Marcus–de Oliveira determinantal conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Marcus–de Oliveira determinantal conjecture · 1973/1982. For normal \\(A,B\\in\\mathbb C^{n\\times n}\\), \\(\\det(A+B)\\) belongs to \\(\\operatorname{co}\\{\\prod_{j=1}^n(\\lambda_j(A)+\\lambda_{\\sigma(j)}(B)):\\sigma\\in S_n\\}\\). Marcus posed it in 1973 and de Oliveira independently in 1982 (survey).",
+  "counterexample": {
+    "description": "Give Gaussian-rational spectra a,b, a scaled Gaussian-rational unitary U defining B=U diag(b) U*/s, and a rational line that strictly separates det(diag(a)+B) from all 24 sigma points in the first-open case n=4.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.mdpi.com/2227-7390/13/5/711",
+        "role": "status"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0024379526001266",
+        "role": "supporting"
+      },
+      {
+        "url": "https://journals.uwyo.edu/index.php/ela/article/view/263",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0849"
+    ]
+  }
+}

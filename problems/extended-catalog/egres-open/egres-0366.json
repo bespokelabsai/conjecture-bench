@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0366",
+  "source_registry": "egres-open",
+  "title": "Strong colouring of matroid-graph pairs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''G=(V,E)'' be a graph with maximum degree <math>\\Delta \\geq 2</math>, and let ''M=(V,r)'' be a matroid that has <math>2 \\Delta</math> disjoint bases. Is it true that ''M'' has <math>2 \\Delta</math> disjoint bases that are all independent in ''G''?",
+    "sha256": "6bba7b415b0ea6acbd4e9a52f747e692dd0f1d9b0b7f34984900b0c9fbf27c67",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2015-09-10T06:05:34Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Strong_colouring_of_matroid-graph_pairs&oldid=1908",
+    "source_locator": "EGRES page 366, revision 1908",
+    "source_sha256": "c9740cff4a9799e21a40bf66fca40fad47a7d9847d737dabcf42a19f8d20022a",
+    "tags": [
+      "combinatorial-optimization",
+      "Colouring",
+      "Matroids",
+      "Packing common bases"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0287"
+  ]
+}

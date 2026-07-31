@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-072",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.72 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "We say that a group is a Tarski monster if it is finitely generated, not cyclic,\nand all of its proper non-trivial subgroups are isomorphic to each other.\n   a) Do there exist amenable torsion-free Tarski monsters?\n   b) Do there exist amenable Tarski monsters of prime exponent?             D. Kielak",
+    "sha256": "7f99c4f50bcef26c15f2b8f68005da7b3e93b4caceb9e41f4addd31d0a56e186",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=174",
+    "source_locator": "Kourovka 21.72, main section, page 174",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

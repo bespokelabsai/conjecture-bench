@@ -1,0 +1,28 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0046",
+  "source_registry": "open-problems-project",
+  "title": "3D Minimum-Bend Orthogonal Graph Drawings",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Does every simple graph with maximum vertex degree $\\Delta \\leq 6$\nhave a 3D orthogonal point-drawing with no more than two bends per edge?\nA \\emph{3D orthogonal point-drawing} of a graph maps each vertex to a unique\npoint of the 3D cubic lattice, and maps each edge to a lattice path between\nthe endpoints; these paths can only intersect at common endpoints.\nIn this problem, each path must have at most two bends, that is,\nconsist of at most three orthogonal line segments (links).",
+    "sha256": "47864590f7bc88cf073769081bc479803fa5261f740cd36a5827fefe689519b2",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p46",
+    "source_locator": "TOPP problem 46 (Problems/P.000046)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "graph drawing"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0151"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0053",
+  "slug": "beal",
+  "title": "Beal",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "If positive integers A,B,C and exponents x,y,z>2 satisfy A^x+B^y=C^z, then A,B,C have a common prime factor.",
+  "counterexample": {
+    "description": "Primitive positive integers satisfying \\(A^x+B^y=C^z\\), with \\(x,y,z>2\\) and \\(\\gcd(A,B,C)=1\\). Exact exponentiation and gcd checking verify a tuple.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.bealconjecture.com/",
+        "role": "supporting"
+      },
+      {
+        "url": "https://github.com/dotnwat/beals-conjecture",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0830"
+    ]
+  }
+}

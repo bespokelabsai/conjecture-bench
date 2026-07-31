@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-04-046",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 4.46 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "a) We call a variety of groups a limit variety if it cannot be defined by finitely\nmany laws, while each of its proper subvarieties has a finite basis of identities. It\nfollows from Zorn’s lemma that every variety that has no finite basis of identities\ncontains a limit subvariety. Give explicitly (by means of identities or by a generating\ngroup) at least one limit variety.                                    A. Yu. Olshanskii",
+    "sha256": "3f3e9d4509706744f2c8b4bbbd12339f2e9437901ee50b99b790b8b4fee54f81",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=13",
+    "source_locator": "Kourovka 4.46, main section, page 13",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

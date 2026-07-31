@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-080",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.80 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Do there exist finitely generated left-orderable groups with only one nontrivial\nconjugacy class?\n   A positive answer to this question implies a positive answer to 21.78. Note that\nD. Osin constructed torsion-free finitely generated groups with only one nontrivial\nconjugacy class; see 9.10 in Archive.                              Y. Lodha, A. Navas",
+    "sha256": "544476247a1cf409ab30f6ac60776abc083aedb3a8b731980005366ddf7284b7",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=176",
+    "source_locator": "Kourovka 21.80, main section, page 176",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

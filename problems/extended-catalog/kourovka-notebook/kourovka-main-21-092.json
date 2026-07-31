@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-092",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.92 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Conjecture: The number of irreducible p-Brauer characters of a finite group\nG is bounded above by the maximum of the number of conjugacy classes k(H) in\np′ -subgroups H of G.                           G. Malle, G. Navarro, G. Robinson",
+    "sha256": "06e454111aa862fae7ff2fbdfd111a2458743e82f837def595e50961ffdded1f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=177",
+    "source_locator": "Kourovka 21.92, main section, page 177",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

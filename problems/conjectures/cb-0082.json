@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0082",
+  "slug": "sidorenkos-graph-homomorphism-conjecture",
+  "title": "Sidorenko’s graph-homomorphism conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Sidorenko’s graph-homomorphism conjecture · 1991. Sidorenko conjectured that every finite bipartite \\(H\\) and graphon \\(W\\) satisfy \\(t_H(W)\\ge t_{K_2}(W)^{e(H)}\\) (original publication).",
+  "counterexample": {
+    "description": "A finite bipartite \\(H\\) and rational step graphon \\(W\\) with the reverse strict inequality are checked by exact finite sums.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.mathnet.ru/eng/dm804",
+        "role": "supporting"
+      },
+      {
+        "url": "https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/article/sidorenkos-conjecture-for-subdivisions-and-theta-substitutions/7587A22E3A717B29DBAB2A6E99875345",
+        "role": "supporting"
+      }
+    ]
+  }
+}

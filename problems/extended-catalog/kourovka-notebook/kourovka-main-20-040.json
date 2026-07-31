@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-040",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.40 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a κ-existentially closed group of cardinality λ > κ, where κ is a\nregular cardinal. Is it true that |Aut(G)| = 2λ ?\n    The answer is known to be affirmative if λ = κ (B. Kaya, M. Kuzucuoğlu,\nP. Longobardi, M. Maj, J. Algebra, 666 (2025), 840–849). B. Kaya, M. Kuzucuoğlu",
+    "sha256": "1a4771e27ba5efc671a1a49779b206fc6e28ddf482bc28709c09e5405c109a1e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=150",
+    "source_locator": "Kourovka 20.40, main section, page 150",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

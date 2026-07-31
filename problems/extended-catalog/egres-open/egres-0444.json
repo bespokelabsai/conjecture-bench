@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0444",
+  "source_registry": "egres-open",
+  "title": "Complexity of the halting problem for simple digraphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Is it true that the [[Chip-firing#Halting problem|chip-firing halting problem]] for simple digraphs is '''NP'''-complete?",
+    "sha256": "0e6c1c1e98f7849e9c332c265d404c41088a3eba039cdbc22febe5fc625ad870",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-12-05T23:11:38Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Complexity_of_the_halting_problem_for_simple_digraphs&oldid=2387",
+    "source_locator": "EGRES page 444, revision 2387",
+    "source_sha256": "895ef1585b15ce1f5d8498a1cf60cf6910fbe12c0457c9b57f857ca25ba6b113",
+    "tags": [
+      "combinatorial-optimization",
+      "Chip-firing"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

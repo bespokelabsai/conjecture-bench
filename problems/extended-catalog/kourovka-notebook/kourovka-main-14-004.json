@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-004",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.4 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "a) Is it true that there exists a nilpotent group G for which the lattice L (G) of\nall group topologies is not modular? (It is known that for abelian groups the lattice\nL (G) is modular and that there are groups for which this lattice is not modular:\nV. I. Arnautov, A. G. Topale, Izv. Akad. Nauk Moldova Mat., 1997, no. 1, 84–92\n(Russian).)\n    b) Is it true that for every countable nilpotent non-abelian group G the lattice\nL (G) of all group topologies is not modular?                         V. I. Arnautov\n  ∗ a) Yes, it is true (V. Arnautov, A. Topală, Bul. Acad. Ştiinţ. Repub. Moldova,\nMat., 1998, no. 2(27), 130–131).\n  ∗ b) No, there are such groups with modular L (G) (Dekui Peng, Preprint, 2023,\nhttps://arxiv.org/abs/2310.08269).",
+    "sha256": "57cfb75aac79da6896b57e20d106c9bce125480441edc1841c9b06982a7254a4",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=71",
+    "source_locator": "Kourovka 14.4, main section, page 71",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

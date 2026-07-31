@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-102",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.102 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(V. Lin). Let B be the braid group on n strings, and let n > 4.\n                             n\n    a) Does Bn have any non-trivial non-injective endomorphisms with non-cyclic\nimages?\n    b) Is it true that every non-trivial endomorphism of the derived subgroup [Bn , Bn ]\nis an automorphism?                                                        V. Shpilrain\n  ∗ a) No, for n ⩾ 5 any non-injective homomorphism B → B has cyclic image\n                                                            n     n\n(F. Castel, Geometric representations of the braid groups, (Astérisque, 378), Paris,\n2016, for n ⩾ 6, and L. Chen, K. Kordek, D. Margalit, Preprint, 2019, https://\narxiv.org/abs/1910.00712 for n = 5).\n  ∗ b) Yes, it is true for n ⩾ 5 (S. Orevkov, Ann. Fac. Sci. Toulouse. Math., 33,\nno. 1 (2024), 105–121, extending the result for n ⩾ 7 in K. Kordek, D. Margalit, Bull.\nLondon Math. Soc., 54, no. 1 (2022), 95–111).",
+    "sha256": "0952cc0ada04f1f970e12bfd64b1478ca29bfd12c3d76200b4c50afddcd4792e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=82",
+    "source_locator": "Kourovka 14.102, main section, page 82",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

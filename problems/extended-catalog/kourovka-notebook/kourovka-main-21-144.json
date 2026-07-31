@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-144",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.144 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(M. Brin, M. Sapir). Conjecture: Every subgroup of Thompson’s group F is\neither elementary amenable or else contains a subgroup isomorphic to F .\n                                                                      M. C. B. Zaremsky",
+    "sha256": "d46c06b02b2bd04cd32dfd185495191670082da1fab31b246a4feea4dda17131",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=185",
+    "source_locator": "Kourovka 21.144, main section, page 185",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

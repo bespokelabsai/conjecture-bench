@@ -1,0 +1,42 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0281",
+  "slug": "cyclic-orderings-of-matroids",
+  "title": "Cyclic ordering conjecture for matroids",
+  "field": "matroid-theory",
+  "statement": "If the ground set of a finite matroid can be partitioned into k disjoint bases, then its elements have a cyclic ordering in which every rank-many consecutive elements form a basis.",
+  "counterexample": {
+    "description": "Two labeled bases of a rank-six vector matroid over a prime field for which exhaustive search finds no cyclic ordering whose six-element windows are all bases.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/open/Cyclic_orderings_of_matroids",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Cyclic_orderings_of_matroids&oldid=2502",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.37236/13537",
+        "role": "peer-reviewed-2026-status-and-known-cases"
+      },
+      {
+        "url": "https://arxiv.org/abs/2411.01061",
+        "role": "open-access-status-source"
+      }
+    ],
+    "discovery_records": [
+      "egres-0110"
+    ]
+  },
+  "equivalence_group": "cyclic-matroid-ordering"
+}

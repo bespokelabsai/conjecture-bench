@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0299",
+  "slug": "three-arc-connected-in-out-branchings",
+  "title": "Disjoint in- and out-arborescences at arc-connectivity three",
+  "field": "directed-connectivity-and-arborescences",
+  "statement": "Every finite 3-arc-connected digraph D and every root r in V(D) have an arc-disjoint spanning out-arborescence and spanning in-arborescence, both rooted at r.",
+  "counterexample": {
+    "description": "A finite 3-arc-connected simple digraph with a specified root for which no spanning out-arborescence is arc-disjoint from a spanning in-arborescence at that root.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://lemon.cs.elte.hu/egres/open/Disjoint_spanning_in-_and_out-arborescences",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Disjoint_spanning_in-_and_out-arborescences&oldid=603",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.1002/jgt.23157",
+        "role": "recent-partial-result-and-open-conjecture-context"
+      }
+    ],
+    "discovery_records": [
+      "egres-0058"
+    ]
+  },
+  "equivalence_group": "thomassen-disjoint-in-out-branchings"
+}

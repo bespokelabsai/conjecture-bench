@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0170",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Hamming Ball Covering Growth",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $r$ be fixed and let $H(r)$ be the Hamming ball of radius $r$ in $\\mathbb{F}_2^n$. Let $f(r)$ be the smallest constant such that there exist infinitely many $n$ with subspaces $V_n \\leq \\mathbb{F}_2^n$ satisfying $V_n + H(r) = \\mathbb{F}_2^n$ and $|V_n| = (f(r) + o(1)) \\frac{2^n}{|H(r)|}$. Does $f(r) \\to \\infty$?",
+    "sha256": "8ea3d6f4468cec173bb3136b7c220396c41ccd4c129d43c4579133568c0c854a",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GREEN-082",
+    "source_locator": "dataset ID 170; problem number GREEN-082",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:combinatorics",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:green-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

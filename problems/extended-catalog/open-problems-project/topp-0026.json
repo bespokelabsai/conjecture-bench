@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0026",
+  "source_registry": "open-problems-project",
+  "title": "Surface Reconstruction",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Given a sufficiently dense sample of\npoints on a surface (technically, an $\\epsilon$-sample),\nreconstruct a surface homeomorphic to the original.",
+    "sha256": "38b01f62005867f6a92c5da1ad312f3a18fce52ae9f8c0f700ded9392e012a15",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p26",
+    "source_locator": "TOPP problem 26 (Problems/P.000026)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "point sets",
+      "reconstruction"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

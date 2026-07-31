@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-121",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.121 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let p be a prime number. A group Γ is called p-Jordan if there exist\nconstants J and e such that any finite subgroup G ⊂ Γ contains a normal abelian\nsubgroup of order coprime to p and of index at most J · |G(p) |e . (For example by the\nresults of Brauer–Feit and Larsen–Pink, for any field K of characteristic p the group\nGLn (K) is p-Jordan with e = 3.) Let the p-Jordan exponent e(Γ) of the group Γ be\nthe infimum of all constants e for which the above bound holds for some constant\nJ = J(e).\n    a) Is it true that this infimum is always attained?\n    b) Is it true that e(Γ) ⩽ 3 for any p-Jordan group Γ?                  C. Shramov",
+    "sha256": "81eec63021a608422d3c9f35dd79563060f213bdfebc7ca9bad9187f93b68a88",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=182",
+    "source_locator": "Kourovka 21.121, main section, page 182",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

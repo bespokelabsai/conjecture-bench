@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-021",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.21 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Can a non-discrete, compactly generated, topologically simple, locally com-\npact group be amenable and non-compact?\n   (A positive answer implies a negative answer to 19.107.)         P.-E. Caprace",
+    "sha256": "6ee828dac42930d44d1e40fc704d545c2cc8bbd438564851bd987c2d48c1ebda",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=133",
+    "source_locator": "Kourovka 19.21, main section, page 133",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

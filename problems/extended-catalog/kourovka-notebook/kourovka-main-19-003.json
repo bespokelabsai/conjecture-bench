@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-003",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.3 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G = A ∗H B be the generalized free product of groups A and B with\namalgamated subgroup H. Is ψ(G) = 1 in the following cases?\n  a) H is finite cyclic and HG = 1.\n  b) H is finite cyclic and either λ(A) ∩ HG = 1 or λ(B) ∩ HG = 1.\n  c) HG = 1 and H satisfies the minimum condition on subgroups.\n  d) λ(G) ∩ H = 1.\n  e) A and B are free groups, H is finitely generated and at least one of |A : H| or\n     |B : H| is infinite.\n  f) H is infinite cyclic and is a retract of A and B.\n  g) G nearly splits over H, and H is a normal subgroup of G of prime order.\n                                                                          M. K. Azarian",
+    "sha256": "318988e7f758b26bac899c0ac9f01195dfdffcfd71394d5f3e4631121b95a493",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=130",
+    "source_locator": "Kourovka 19.3, main section, page 130",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

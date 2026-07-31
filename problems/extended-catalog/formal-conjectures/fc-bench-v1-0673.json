@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0673",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "generalized_riemann_hypothesis",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem generalized_riemann_hypothesis (q : ℕ) [NeZero q] (χ : DirichletCharacter ℂ q)\n    (hχ : χ.IsPrimitive) (s : ℂ) (hs : χ.LFunction s = 0)\n    (hs_nontrivial : s ∉ Int.cast '' trivialZeros χ) :\n    s.re = 1 / 2",
+    "language_version": "Lean 4.27.0",
+    "sha256": "3eda073b5329f26e95fc1977f8a2941159c17953bfce52ad92c5d1ab61a3666b",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Millenium/RiemannHypothesis.lean#L79",
+    "source_locator": "FormalConjectures/Millenium/RiemannHypothesis.lean:79#generalized_riemann_hypothesis",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Millenium",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

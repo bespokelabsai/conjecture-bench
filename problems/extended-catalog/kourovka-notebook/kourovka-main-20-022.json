@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-022",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.22 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a non-free and non-cyclic one-relator group in which every subgroup\nof infinite index is free. Is G a surface group?   B. Fine, G. Rosenberger, L. Wienke\n  ∗ Yes, it is (H. Wilton, Preprint, 2024, https://arxiv.org/abs/2406.02121).",
+    "sha256": "e8f6116ae38d43df6f0f7f62700b7d1f2286355d157f2315437aaf92065edd71",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=148",
+    "source_locator": "Kourovka 20.22, main section, page 148",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

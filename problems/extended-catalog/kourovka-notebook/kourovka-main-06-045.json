@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-06-045",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 6.45 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Construct a characteristic subgroup N of a finitely generated free group\nF such that F/N is infinite and simple. If no such exists, it would follow that\nd(S 2 ) = d(S) for every infinite finitely generated simple group S. There is reason to\nbelieve that this is false.                                                  J. Wiegold\n  ∗ It is proved that for all n ⩾ 2, the free group F admits continuum many pairwise\n                                                     n\nnon-isomorphic infinite simple characteristic quotients (R. Coulon, F. Fournier-Facio,\nhttps://arxiv.org/abs/2312.11684).",
+    "sha256": "ae7cd68d20153bf6b7e39d1e4be091534ce49c90e68648d13586ad239a00f13a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=20",
+    "source_locator": "Kourovka 6.45, main section, page 20",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

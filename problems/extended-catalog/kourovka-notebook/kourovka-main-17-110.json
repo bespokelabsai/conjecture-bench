@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-110",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.110 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "a) Is it true that for each word w, there is a function h : N × N → N such\nthat the width of w in every finite p-group of Prüfer rank r is bounded by h(p, r)?\n   b) If so, can h(p, r) be made independent of p?\n   An affirmative answer to a) would imply A. Jaikin-Zapirain’s result (ibid.) that\nevery word has finite width in each p-adic analytic pro-p group, since a pro-p group is\np-adic analytic if and only if the Prüfer ranks of all its finite quotients are uniformly\nbounded.                                                                          D. Segal",
+    "sha256": "e98b5d73efdd4aaa7017bacc633fd23a41129ff3d7cb401781bb2b09f047f821",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=113",
+    "source_locator": "Kourovka 17.110, main section, page 113",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

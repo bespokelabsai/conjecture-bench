@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-030",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.30 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that A and B are subgroups of a group G and G = AB. Will G have\ncomposition (principal) series if A and B have composition (respectively, principal)\nseries?                                                           V. A. Vedernikov",
+    "sha256": "ebb72bca583f84bcfe02d632858839f94c031e304eac6052793898b839fb576b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=97",
+    "source_locator": "Kourovka 16.30, main section, page 97",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

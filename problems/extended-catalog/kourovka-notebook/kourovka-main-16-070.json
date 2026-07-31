@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-070",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.70 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that a finitely generated group G acts freely on an A-tree, where A\nis an ordered abelian group. Is it true that G acts freely on a Zn -tree for some n?\n    Comment of 2013: It was proved that every finitely presented group acting freely\non an A-tree acts freely on some Rn -tree for a suitable n, where R has the lexicograph-\nical order (O. Kharlampovich, A. Myasnikov, D. Serbin, Int. J. Algebra Comput., 23\n(2013), 325–345).         A. G. Myasnikov, V. N. Remeslennikov, O. G. Kharlampovich",
+    "sha256": "30a46ad4f24db9feae49227fb4f1a1d60cab1794939dd2acd2f99cf5c8e640f7",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=100",
+    "source_locator": "Kourovka 16.70, main section, page 100",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

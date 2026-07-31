@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-001",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.1 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "An element g of a group G is a non-near generator of G if for every subset\nS ⊆ G such that |G : ⟨g, S⟩| < ∞ it follows that |G : ⟨S⟩| < ∞. The set of all\nnon-near generators of G forms a characteristic subgroup of G called the lower near\nFrattini subgroup of G, denoted by λ(G). A subgroup M ⩽ G is nearly maximal in\nG if it is maximal with respect to being of infinite index in G. The intersection of\nall nearly maximal subgroups forms a characteristic subgroup called the upper near\nFrattini subgroup of G, denoted by µ(G). In general, λ(G) ⩽ µ(G). If λ(G) = µ(G),\nthen this subgroup is called the near Frattini subgroup of G, denoted by ψ(G).\n    a) Is it true that ψ(G) = 1 if G is the knot group of any product of knots?\n    b) Is it true that ψ(G) = 1 if G is a cable knot group?             M. K. Azarian",
+    "sha256": "3804a25a867726bb896b502c60470cce43b8347b021af87abcd30513b1874af0",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=130",
+    "source_locator": "Kourovka 19.1, main section, page 130",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

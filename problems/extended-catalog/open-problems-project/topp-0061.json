@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0061",
+  "source_registry": "open-problems-project",
+  "title": "Lines Tangent to Four Unit Balls",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Given a set of $n$ unit-radius balls in\n$\\R^3$,\nwhat is the number of\nlines that are tangent to four of the balls in the set,\nand miss all the others?\n(The balls are not necessarily disjoint.)",
+    "sha256": "a265c2cc25bc43e4fefd25529911dda65f33d3ac2a60daa3355dc6922d44d1aa",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p61",
+    "source_locator": "TOPP problem 61 (Problems/P.000061)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "combinatorial geometry"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

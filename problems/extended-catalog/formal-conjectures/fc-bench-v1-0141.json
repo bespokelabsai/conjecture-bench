@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0141",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_184",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem erdos_184 :\n    ∃ f : ℕ → ℝ,\n      (f =O[atTop] fun n : ℕ ↦ (n : ℝ)) ∧\n      ∀ {V : Type*} [Fintype V] [DecidableEq V] (G : SimpleGraph V),\n      ∃ (D : Finset G.Subgraph),\n        (∀ H ∈ D, IsCycleOrEdge H.coe) ∧\n        IsDecomposition G D ∧\n        (D.card : ℝ) ≤ f (Fintype.card V)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "94fae4577709752ed8e7be88823a61e73455ce11dba9188e0281dd8f7ad2f552",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/184.lean#L52",
+    "source_locator": "FormalConjectures/ErdosProblems/184.lean:52#erdos_184",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

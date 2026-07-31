@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-071",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.71 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(N. Aronszajn). Suppose that W (x, y) = 1 in an open subset of G × G,\nwhere G is a connected topological group. Must W (x, y) = 1 for all (x, y) ∈ G × G?\n    For locally compact groups the answer is yes.                        J. Mycielski\n  ∗ No, not necessarily: for any odd integer n > 1010 there is a connected topological\ngroup such that the identity xn = 1 holds in some neighborhood of unity, but not\nin the entire group (E. Reznichenko, I. Zyabrev, Preprint, 2024, https://arxiv.org/\nabs/2406.05203).",
+    "sha256": "c3fd5e7963797257058444d6d3b08aed63684038559b067690fe40c983ce9e5a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=123",
+    "source_locator": "Kourovka 18.71, main section, page 123",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

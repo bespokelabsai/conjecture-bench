@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-029",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.29 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let F be a Fitting class of finite soluble groups which contains every soluble\ngroup G = AB, where A and B are abnormal F-subgroups of G. Is F a formation?\n                                                                                A. F. Vasil’ev",
+    "sha256": "d1fa4415cf027df9a489ff0ef0dfd80556151e93284c62dac30d20361143acd1",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=118",
+    "source_locator": "Kourovka 18.29, main section, page 118",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

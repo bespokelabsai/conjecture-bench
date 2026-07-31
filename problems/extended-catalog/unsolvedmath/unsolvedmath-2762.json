@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2762",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 2.14",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) Does every Jordan curve in the Euclidean plane contain the vertices of a\nsquare?\n(b) Does every Jordan curve in the Euclidean plane contain the vertices of the\naffine image of a regular hexagon?\n(c) Let $\\gamma \\subset \\mathbb{C}$ be a smooth Jordan curve, and let $S \\subset \\mathbb{C}$ consist of $2n \\geq 4$\nconcyclic points. Does there exist a non-constant polynomial $p(z) \\in \\mathbb{C}[z]$\nof degree $< n$ such that $p(S) \\subset \\gamma$?\n(d) Suppose that $h$ is a continuous, real-valued function defined on the unit\nsphere $S^{2} \\subset \\mathbb{R}^{3}$ and that points $x_{1},..., x_{4} \\in S^{2}$ form the vertices of\na square.\nIs there an isometry $\\rho \\in \\operatorname{SO}(3)$ such that $h$ is constant on\n$\\rho(x_{1}),..., \\rho(x_{4})$?",
+    "sha256": "612902c4d3543bbe712bc82fc2a2586aa92b30dd34c9862b5ef45e90bd92d038",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-2.14",
+    "source_locator": "dataset ID 2762; problem number KP-2.14",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

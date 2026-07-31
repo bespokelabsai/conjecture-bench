@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2380",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #917",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $k\\geq 4$ and $f_k(n)$ be the largest number of edges in a graph on $n$ vertices which has chromatic number $k$ and is critical (i.e. deleting any edge reduces the chromatic number).\nIs it true that $ f_k(n) \\gg_k n^2? $ Is it true that $ f_6(n)\\sim n^2/4? $ More generally, is it true that, for $k\\geq 6$, $ f_k(n) \\sim \\frac{1}{2}\\left(1-\\frac{1}{\\lfloor k/3\\rfloor}\\right)n^2? $ ",
+    "sha256": "d2fa30be6fab325e84815cbcf53f96cfcbda70aa29a8cfd35e4b17b1c3e7c8c3",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-917",
+    "source_locator": "dataset ID 2380; problem number EP-917",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

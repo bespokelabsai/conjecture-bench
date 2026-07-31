@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0423",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_66",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_66 : answer(sorry) ↔ ∃ (A : Set ℕ) (c : ℝ), c ≠ 0 ∧\n    Tendsto (fun n ↦ (sumRep A n : ℝ) / Real.log n) atTop (𝓝 c)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "11b591679fd1f5dbe248280fef9f55dcd2b5a88fba9855b55403051e481c5e75",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/66.lean#L36",
+    "source_locator": "FormalConjectures/ErdosProblems/66.lean:36#erdos_66",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

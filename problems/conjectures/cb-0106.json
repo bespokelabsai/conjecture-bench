@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0106",
+  "slug": "largest-fifth-pivot-under-gaussian-elimination-with-complete-pivoting",
+  "title": "Largest fifth pivot under Gaussian elimination with complete pivoting",
+  "field": "numerical-linear-algebra",
+  "statement": "The largest fifth pivot growth factor under Gaussian elimination with complete pivoting is the unique real root in [4,5] of the explicit degree-61 polynomial P₅ in Equation (2.15) of the source.",
+  "counterexample": {
+    "description": "A rational \\(5\\times5\\) matrix with growth factor exceeding the conjectured algebraic value \\(4.1325\\ldots\\). Continuous optimization can propose candidates and exact arithmetic can certify them. The 1988 work found the numerical value; the degree-61-root maximum was first posed explicitly as a conjecture in 2026.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "legacy-15-inventory-without-forecasts",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2602.20390",
+        "role": "supporting"
+      }
+    ]
+  }
+}

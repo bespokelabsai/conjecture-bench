@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0058",
+  "source_registry": "egres-open",
+  "title": "Disjoint spanning in- and out-arborescences",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Does there exist  a value ''k'' so that in every ''k''-arc-connected directed graph ''D=(V,A)'' and for every node <math>v\\in V</math>, there is a [[arborescence|spanning in-arborescence]] and a disjoint [[arborescence|spanning out-arborescence]] rooted in ''v''?",
+    "sha256": "e29292afb2321a77e37cd6b636cb5afa75bc260b11b7fcaeb9a8138b79336529",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2009-11-11T22:44:19Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Disjoint_spanning_in-_and_out-arborescences&oldid=603",
+    "source_locator": "EGRES page 58, revision 603",
+    "source_sha256": "15733193b0379ad5e24a0274da636fe8d2f479ae73d3583a21efa4a1af6e79f1",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity",
+      "Trees and branchings"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0299"
+  ]
+}

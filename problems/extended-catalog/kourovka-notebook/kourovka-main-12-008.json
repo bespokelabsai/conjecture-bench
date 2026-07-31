@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-008",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.8 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let V be a non-trivial variety of groups and let a1 , . . . , ar freely generate a\nfree group Fr (V ) in V . We say Fr (V ) strongly discriminates V just in case every\nfinite system of inequalities wi (a1 , . . . , ar , x1 , . . . , xk ) ̸= 1 for 1 ⩽ i ⩽ n having a\nsolution in some Fs (V ) containing Fr (V ) as a varietally free factor in the sense of\nV , already has a solution in Fr (V ). Does there exist V such that for some integer\nr > 0, Fr (V ) discriminates but does not strongly discriminate V ? What about the\nanalogous question for general algebras in the context of universal algebra?\n                                                                A. M. Gaglione, D. Spellman",
+    "sha256": "7c5c9208b1c1cac6032a5942f347ed9d052325097494d1efc8a8c48078d97291",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=57",
+    "source_locator": "Kourovka 12.8, main section, page 57",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

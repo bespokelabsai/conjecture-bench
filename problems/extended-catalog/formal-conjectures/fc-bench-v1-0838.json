@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0838",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "BB_6",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 3]\ntheorem BB_6 : BB 6 = answer(sorry)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "aabc1ba22f77c748741f09409ef0e3a65e5e1a8d94aec9336aaa9ed75c851338",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/BusyBeaver.lean#L97",
+    "source_locator": "FormalConjectures/Wikipedia/BusyBeaver.lean:97#BB_6",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-3"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

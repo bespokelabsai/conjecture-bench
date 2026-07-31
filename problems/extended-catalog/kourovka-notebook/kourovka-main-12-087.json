@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-087",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.87 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let Γ be a connected undirected graph without loops or multiple edges and\nsuppose that the automorphism group Aut(Γ) acts transitively on the vertex set of Γ.\nIs it true that at least one of the following assertions holds?\n    1. The stabilizer of a vertex of Γ in Aut(Γ) is finite.\n    2. The group Aut(Γ) as a permutation group on the vertex set of Γ admits an\nimprimitivity system σ with finite blocks for which the stabilizer of a vertex of the\nfactor-graph Γ/σ in Aut(Γ/σ) is finite.\n    3. There exists a natural number n such that the graph obtained from Γ by adding\nedges joining distinct vertices the distance between which in Γ is at most n contains\na regular tree of valency 3.                                           V. I. Trofimov",
+    "sha256": "8cc42489b6b493ad2058bbedb629e9f587d47be6fe941abdb2b5d72c7cdd9201",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=63",
+    "source_locator": "Kourovka 12.87, main section, page 63",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

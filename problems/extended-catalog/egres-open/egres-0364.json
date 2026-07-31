@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0364",
+  "source_registry": "egres-open",
+  "title": "Equitable list colouring",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Is it true that every graph ''G'' is [[Chromatic number|equitably ''k''-list-colourable]] for any <math>k \\geq \\Delta(G)+1</math>?",
+    "sha256": "ae22d8a9463706bb1a2c708e961cd48c1dc17fd856ad499f056b80efa5e642a4",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-06-17T11:18:00Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Equitable_list_colouring&oldid=2033",
+    "source_locator": "EGRES page 364, revision 2033",
+    "source_sha256": "278208470ecee2ac06963f60ae63186e931a72755cbb997295e34ec7291cee38",
+    "tags": [
+      "combinatorial-optimization",
+      "Colouring"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0276"
+  ]
+}

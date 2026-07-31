@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-034",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.34 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let Nc be the quasivariety of nilpotent torsion-free groups of class at most c.\nIs it true that the dominion in Nc (see the definition in 16.20) of a divisible subgroup\nin every group in Nc is equal to this subgroup?                              A. I. Budkin",
+    "sha256": "25325d8d2aeec44b7cd507d45dc5e47951b6d29cfcd8003737f4d111bd215082",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=106",
+    "source_locator": "Kourovka 17.34, main section, page 106",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

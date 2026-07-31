@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0031",
+  "slug": "reeds-conjecture",
+  "title": "Reed’s ω–Δ–χ conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Reed’s ω–Δ–χ conjecture · formulated around 1995 and published in 1998. Every graph satisfies \\(\\chi\\le\\lceil(\\Delta+1+\\omega)/2\\rceil\\).",
+  "counterexample": {
+    "description": "A connected simple graph on at most 18 vertices not colorable with ceil((Δ+1+ω)/2) colors. A complete check computes Δ, the exact clique number, and bounded colorability.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.openproblemgarden.org/op/reeds_omega_delta_and_chi_conjecture",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0800",
+      "fc-bench-v1-0801"
+    ]
+  },
+  "equivalence_group": "reed-omega-delta-chi"
+}

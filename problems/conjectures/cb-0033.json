@@ -1,0 +1,28 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0033",
+  "slug": "tuzas-triangle-packingcovering-conjecture",
+  "title": "Tuza’s triangle packing–covering conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Tuza’s triangle packing–covering conjecture · 1981, sometimes dated by its 1984 publication. Every graph’s minimum triangle edge cover is at most twice its maximum edge-disjoint triangle packing.",
+  "counterexample": {
+    "description": "A refutation has \\(\\tau>2\\nu\\). Supply an explicit packing of size \\(\\nu\\), a DRAT proof that no packing of size \\(\\nu+1\\) exists, and a DRAT proof that no triangle edge cover of size \\(2\\nu\\) exists.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2606.09736",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "tuza-triangle-packing-cover",
+  "duplicate_of": "cb-0202"
+}

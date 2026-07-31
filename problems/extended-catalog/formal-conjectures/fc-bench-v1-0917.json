@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0917",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "KotherConjecture.variants.general_matrix",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 16]\ntheorem KotherConjecture.variants.general_matrix {I : TwoSidedIdeal R} (hI : IsNil I)\n    (n : Type*) [Fintype n] : IsNil (matrix n I)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "48424c08f66e74c80fcf2fb52640a25420674415b423f9e3612519cc384fd9cd",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Koethe.lean#L61",
+    "source_locator": "FormalConjectures/Wikipedia/Koethe.lean:61#KotherConjecture.variants.general_matrix",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-16"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

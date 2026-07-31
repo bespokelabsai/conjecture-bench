@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0162",
+  "slug": "topp-77-zipper-unfolding-convex-polyhedra",
+  "title": "Zipper unfoldings of convex polyhedra",
+  "field": "discrete-geometry",
+  "statement": "Every convex polyhedron has a nonoverlapping zipper unfolding cut along one vertex-spanning path.",
+  "counterexample": {
+    "description": "A rational convex polyhedron for which every admissible spanning cut path yields overlap.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "topp-open-finite",
+    "sources": [
+      {
+        "url": "https://topp.openproblem.net/p77",
+        "role": "status"
+      }
+    ]
+  }
+}

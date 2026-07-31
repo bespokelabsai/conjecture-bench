@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0167",
+  "slug": "kelly-tournament-decomposition-conjecture",
+  "title": "Kelly tournament-decomposition conjecture",
+  "field": "graph-theory",
+  "statement": "Every regular tournament decomposes into directed Hamilton cycles.",
+  "counterexample": {
+    "description": "A finite regular tournament whose Hamilton-cycle exact-cover instance is unsatisfiable.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1902.10775",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/1202.6219",
+        "role": "supporting"
+      }
+    ]
+  }
+}

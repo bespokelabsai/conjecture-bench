@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-13-019",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 13.19 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that both a group Q and its normal subgroup H are subgroups of\nthe direct product G1 × · · · × Gn such that for each i the projections of both Q and\nH onto Gi coincide with Gi . If Q/H is a p-group, is Q/H a regular p-group?\n                                                                        Yu. M. Gorchakov",
+    "sha256": "eb1d8de7b1f62cfb0fa39e3bb0ee5556db66b38518092edf37839e0090e3e56f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=66",
+    "source_locator": "Kourovka 13.19, main section, page 66",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

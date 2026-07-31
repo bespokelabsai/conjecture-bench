@@ -1,0 +1,41 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3395",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "P vs. NP",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem Is P = NP?",
+    "sha256": "890ead73ca70e035214a51e55086c4b6e9e5c059629c0fafac2cacc92e7f904f",
+    "contains_placeholder": false,
+    "quality_flags": [
+      "suspiciously-short-statement"
+    ]
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-661",
+    "source_locator": "dataset ID 3395; problem number OPG-661",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:computer-science",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:opengarden",
+      "suspiciously-short-statement"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "statement-extraction-repair",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-064",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.64 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(M. F. Newman). Classify the finite 5-groups of maximal class; computer\ncalculations suggest some conjectures (M. F. Newman, in: Groups–Canberra, 1989\n(Lecture Notes Math., 1456), Springer, Berlin, 1990, 49–62).\n    M. F. Newman’s comment of 2025: Recent work on related conjectures can be\nfound in (A. Cant, H. Dietrich, B. Eick, T. Moede, J. Algebra, 604 (2022), 429–450).\n                                                                              A. Moretó",
+    "sha256": "0034cb12bde523840f1616819061163603718c7d124b548739976db20487f5c4",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=78",
+    "source_locator": "Kourovka 14.64, main section, page 78",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-10-074",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 10.74 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that a group G contains an element a of prime order such that its\ncentralizer CG (a) is finite and all subgroups ⟨a, ag ⟩, g ∈ G, are finite and almost all\nof them are soluble. Is G locally finite? This problem is closely connected with 6.56.\nThe question was solved in the positive for a number of very important partial cases\nby the author (Abstracts on Group Theory of the Mal’cev Int. Conf. on Algebra,\nNovosibirsk, 1989, p. 145 (Russian)).                                       V. P. Shunkov",
+    "sha256": "eb172955dd9089efc6684959586a5869309e3b0079fd7a39a8d70f4da9063be6",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=44",
+    "source_locator": "Kourovka 10.74, main section, page 44",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

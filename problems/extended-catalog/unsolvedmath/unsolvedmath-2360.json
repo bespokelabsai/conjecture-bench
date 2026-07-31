@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2360",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #879",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Call a set $S\\subseteq \\{1,\\ldots,n\\}$ admissible if $(a,b)=1$ for all $a\neq b\\in S$. Let $ G(n) = \\max_{S\\subseteq \\{1,\\ldots,n\\}} \\sum_{a\\in S}a $ and $ H(n)=\\sum_{p<n}p+ n\\pi(n^{1/2}). $ Is it true that $ G(n) >H(n)-n^{1+o(1)}? $ Is it true that, for every $k\\geq 2$, if $n$ is sufficiently large then the admissible set which maximises $G(n)$ contains at least one integer with at least $k$ prime factors?",
+    "sha256": "a379750eb2e029f7175bb907b6b07cfee5496cedf69dc3d565ae6d2a593bc733",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-879",
+    "source_locator": "dataset ID 2360; problem number EP-879",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

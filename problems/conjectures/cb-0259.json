@@ -1,0 +1,35 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0259",
+  "slug": "plane-jacobian-rational-collision",
+  "title": "Plane Jacobian conjecture: rational-collision variant",
+  "field": "algebraic-geometry",
+  "statement": "Every polynomial map F:ℂ²→ℂ² whose Jacobian determinant is a nonzero constant is a polynomial automorphism.",
+  "counterexample": {
+    "description": "Two rational-coefficient polynomials defining a plane map with nonzero constant Jacobian determinant, together with two distinct rational points having the same image.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "current-status-promotion",
+    "sources": [
+      {
+        "url": "https://mathworld.wolfram.com/JacobianConjecture.html",
+        "role": "current-status-and-statement-source"
+      },
+      {
+        "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+        "role": "current-status-and-counterexample-context"
+      },
+      {
+        "url": "https://arxiv.org/abs/2607.20210",
+        "role": "current-plane-and-graded-case-context"
+      }
+    ]
+  },
+  "equivalence_group": "plane-jacobian-conjecture"
+}

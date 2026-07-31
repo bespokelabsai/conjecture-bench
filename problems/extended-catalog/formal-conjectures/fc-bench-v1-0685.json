@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0685",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "exists_k_stronger",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem exists_k_stronger {n : ℕ} (hn : 0 < n) : ∃ k : ℕ,\n    k < 1 + (Real.nthRoot 4 n) ^ 3 ∧ (n * k + 1).Prime",
+    "language_version": "Lean 4.27.0",
+    "sha256": "e078aa359b21c1a908992d642e95b84bd9d454ab579bbcee057a93b7acb7b4c8",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OEIS/34693.lean#L63",
+    "source_locator": "FormalConjectures/OEIS/34693.lean:63#exists_k_stronger",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "OEIS",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0228"
+  ]
+}

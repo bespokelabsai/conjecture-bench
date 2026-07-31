@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3108",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Shuffle-Exchange Conjecture (graph-theoretic form)",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Given integers $k,n \\ge 2$, the 2-stage Shuffle-Exchange graph/network, denoted $\\text{SE}(k,n)$, is the simple $k$-regular bipartite graph with the ordered pair $(U,V)$ of linearly labeled parts $U:=\\{u_0,\\dots,u_{t-1}\\}$ and $V:=\\{v_0,\\dots,v_{t-1}\\}$, where $t:=k^{n-1}$, such that vertices $u_i$ and $v_j$ are adjacent if and only if $(j - ki) \\text{ mod } t < k$ (see Fig.1).\n\nGiven integers $k,n,r \\ge 2$, the $r$-stage Shuffle-Exchange graph/network, denoted $(\\text{SE}(k,n))^{r-1}$, is the proper (i.e., respecting all the orders) concatenation of $r-1$ identical copies of $\\text{SE}(k,n)$ (see Fig.1).\n\nLet $r(k,n)$ be the smallest integer $r\\ge 2$ such that the graph $(\\text{SE}(k,n))^{r-1}$ is rearrangeable.\n\nProblem Find $r(k,n)$.\n\nConjecture $r(k,n)=2n-1$.",
+    "sha256": "d6bbce55d860b302769f1035cd996651ae74bcf24c4de773eadea5afda38e0de",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-37089",
+    "source_locator": "dataset ID 3108; problem number OPG-37089",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

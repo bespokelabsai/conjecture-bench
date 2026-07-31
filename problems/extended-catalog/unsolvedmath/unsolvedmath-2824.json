@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2824",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.26",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $M$ be a finite-volume hyperbolic 3-manifold, and let $M^1$ be a minimal-index finite cover of $M$ such that $\\pi_1(M^1)$ embeds in a right-angled Artin group. Can one obtain good control over the complexity of the smallest right-angled Artin group containing $\\pi_1(M^1)$ from the data of $M$?",
+    "sha256": "64b19d252a91fc962e11461e7a86f3258b887cba12217dd8bca91ca55f50f765",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.26",
+    "source_locator": "dataset ID 2824; problem number KP-3.26",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

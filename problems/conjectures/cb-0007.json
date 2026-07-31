@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0007",
+  "slug": "sheehans-conjecture",
+  "title": "Sheehan’s conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Sheehan’s conjecture · 1975. No 4-regular graph has exactly one Hamiltonian cycle.",
+  "counterexample": {
+    "description": "A finite simple 4-regular graph for which exact enumeration finds exactly one undirected Hamiltonian cycle.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1812.05650",
+        "role": "supporting"
+      },
+      {
+        "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol345-mfcs2025/html/LIPIcs.MFCS.2025.15/LIPIcs.MFCS.2025.15.html",
+        "role": "supporting"
+      }
+    ]
+  }
+}

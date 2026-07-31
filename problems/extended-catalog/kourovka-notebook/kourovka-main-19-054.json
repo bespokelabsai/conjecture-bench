@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-054",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.54 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "What are the chief factors of a finite group in which every 2-maximal subgroup\nis not m-maximal for any m ⩾ 3?\n    A subgroup H of a group G is said to be m-maximal if there is a chain of subgroups\nH = H0 < H1 < . . . < Hm−1 < Hm = G in which Hi is maximal in Hi+1 for every i.\nNote that for every m ⩾ 3 there is a finite group in which some 2-maximal subgroup\nis m-maximal.                                                          V. S. Monakhov",
+    "sha256": "df569f7e6fca46df4b97c08f4bdf3896ee40b99352df5c6a99fdc23a42960397",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=137",
+    "source_locator": "Kourovka 19.54, main section, page 137",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

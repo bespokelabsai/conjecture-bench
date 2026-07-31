@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-031",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.31 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let ω(G, S) be the exponential growth rate of a group G with a finite gen-\nerating set S (see 14.7). Let M CG(Σg ) be the mapping class group of the orientable\nsurface Σg of genus g. Is there a constant C > 1 such that ω(M CG(Σg ), S) ⩾ C for\nevery g > 0 and every finite generating set S of M CG(Σg )?             K. Fujiwara\n  ∗ No, there is no such constant that works for all genera; but if the genus g is fixed,\nthen such a constant C = C(g) > 1 does exist (J. Mangahas, Geom. Funct. Anal.\n19, no. 5 (2010), 1468–1480).",
+    "sha256": "ad7cc7ff3143d9c5473c69f26cbe41f8eae7f62141ba7057c5f3eb479784c960",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=134",
+    "source_locator": "Kourovka 19.31, main section, page 134",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

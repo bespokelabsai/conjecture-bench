@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0676",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem conjecture (n : ℕ) (hn : 1 < n) : HasPrimeRepresentation n",
+    "language_version": "Lean 4.27.0",
+    "sha256": "6b0c90e0580d9c7fb9934ff0ce3a8d6a31471127e45b3613600338e31dcb334a",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OEIS/232174.lean#L58",
+    "source_locator": "FormalConjectures/OEIS/232174.lean:58#conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "OEIS",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0222"
+  ]
+}

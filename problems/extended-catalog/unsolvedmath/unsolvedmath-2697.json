@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2697",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.38",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "What is the structure of the smooth knot concordance group?\n(a) Is there a torsion element of the smooth concordance group $\\mathcal{C}$ having order\nother than two? Is there a torsion element in $\\mathcal{C}_{TS}$, the smooth concordance\ngroup of topologically slice knots, having order other than two?\n(b) Is there a knot $K$ having concordance order two in $\\mathcal{C}$ that is not concordant\nto a strongly negatively amphichiral knot?\n(c) Do there exist infinitely divisible elements in $\\mathcal{C}$, that is, does there exist $K$\nsuch that for infinitely many $n \\in \\mathbb{N}$, there is a $J$ such that $[K] = n[J]$?",
+    "sha256": "d2dcfb25b6fbe21e5150c5d945075763ec8cea80e108c7671df478321bd2a420",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.38",
+    "source_locator": "dataset ID 2697; problem number KP-1.38",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

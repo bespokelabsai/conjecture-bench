@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0036",
+  "slug": "collatz-finite-cycle-route",
+  "title": "Collatz, finite-cycle route",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "The Collatz map T(n)=n/2 for even n and T(n)=3n+1 for odd n has no positive-integer cycle other than 1→4→2→1.",
+  "counterexample": {
+    "description": "A nontrivial positive-integer cycle, encoded by its values or parity word; exact integer transitions are a cheap check. This target intentionally excludes a divergent orbit, which is not finitely certifiable.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.fit.vut.cz/research/result/c197809/.en",
+        "role": "supporting"
+      }
+    ]
+  }
+}

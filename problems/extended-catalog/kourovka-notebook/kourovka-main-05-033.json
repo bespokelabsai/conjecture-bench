@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-05-033",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 5.33 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Y. Ihara). Consider the quaternion algebra Q with norm f = x2 − τ y 2 −\nρz 2 + ρτ u2 , ρ, τ ∈ Z. Assume that f is indefinite and of Q-rank 0, i. e. f = 0 for\nx, y, z, u ∈ Q implies x = y = z = u = 0. Consider Q as the algebra of the matrices\n                                 �     √            √    �\n                                   x + √ τ y ρ(z +√ τ u)\n                            X=\n                                   z − τu      x − τy\n\nwith x, y, z, u ∈ Q. Let p be a prime, p ∤ ρτ . Consider the group G of all X with\nx, y, z, u ∈ Z(p) , det X = 1, where Z(p) = {m/pt | m, t ∈ Z}.\n    Conjecture: G has the congruence subgroup property, i. e. every non-central\nnormal subgroup N of G contains a full congruence subgroup N (A) = {X ∈ G | X ≡\nE (mod A)} for some A. Notice that the congruence subgroup property is independent\nof the matrix representation of Q.                                      J. Mennicke",
+    "sha256": "4ebdef7b275891aad25a4fd6d83e64fa7da52f6d0e6a2bb7a512bd7f5760276c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 2
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=16",
+    "source_locator": "Kourovka 5.33, main section, page 16",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

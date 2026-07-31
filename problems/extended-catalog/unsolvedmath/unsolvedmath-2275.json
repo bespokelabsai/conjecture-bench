@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2275",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #712",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Determine, for any $k>r>2$, the value of $ \\frac{\\mathrm{ex}_r(n,K_k^r)}{\\binom{n}{r}}, $ where $\\mathrm{ex}_r(n,K_k^r)$ is the largest number of $r$-edges which can placed on $n$ vertices so that there exists no set of $k$ vertices which is covered by all $\\binom{k}{r}$ possible $r$-edges.",
+    "sha256": "65af2d3e47347644be6fc7bca8e2939b93d3c369d58fa9e873dead7a87b1575f",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-712",
+    "source_locator": "dataset ID 2275; problem number EP-712",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

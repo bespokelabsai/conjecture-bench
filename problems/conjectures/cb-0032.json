@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0032",
+  "slug": "linear-arboricity-conjecture",
+  "title": "Linear Arboricity conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Linear Arboricity conjecture · Akiyama, Exoo, and Harary, 1980. A graph’s edges can be partitioned into at most ceil((Δ+1)/2) linear forests.",
+  "counterexample": {
+    "description": "A connected maximum-degree-seven graph that cannot be decomposed into four linear forests. A complete check exhausts all bounded edge partitions with degree and cycle pruning.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0166218X26001009",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "linear-arboricity"
+}

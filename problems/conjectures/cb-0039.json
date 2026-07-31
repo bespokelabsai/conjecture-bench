@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0039",
+  "slug": "andrica",
+  "title": "Andrica",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "For every pair of consecutive primes p<q, sqrt(q)−sqrt(p)<1.",
+  "counterexample": {
+    "description": "Consecutive primes \\(p<q\\) with \\(\\sqrt q-\\sqrt p\\ge1\\). Primality certificates plus factors for every intervening integer establish consecutiveness.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1812.02762",
+        "role": "supporting"
+      },
+      {
+        "url": "https://www.dorinandrica.ro/articles1.php",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0822"
+    ]
+  }
+}

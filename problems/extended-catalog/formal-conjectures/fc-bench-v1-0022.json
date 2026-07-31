@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0022",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_100",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 52]\ntheorem erdos_100 :\n    answer(sorry) ↔ ∃ C > (0 : ℝ), ∀ᶠ n in atTop, ∀ A : Finset ℝ²,\n      A.card = n →\n      DistancesSeparated A →\n      diam (A : Set ℝ²) > C * n",
+    "language_version": "Lean 4.27.0",
+    "sha256": "07fac5cb939d7ff8aee498e5470e0f35aa4c96ce8343a438e8dd48792d2bdbfd",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/100.lean#L40",
+    "source_locator": "FormalConjectures/ErdosProblems/100.lean:40#erdos_100",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-52"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

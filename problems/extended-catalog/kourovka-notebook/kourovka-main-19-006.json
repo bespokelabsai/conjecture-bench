@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-006",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.6 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G = A ∗H B be the generalized free product of groups A and B with\namalgamated subgroup H.\n    a) Conjecture: If both A and B are nilpotent, then µ(G) ⩽ H.\n   b) Conjecture: If G is residually finite, and H satisfies a nontrivial identical rela-\ntion, then λ(G) ⩽ H.                                                      M. K. Azarian",
+    "sha256": "9553e68ec59fa09c4385d196ff0c6dfc60c11201b2ce638b1ceb42312202bdae",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=130",
+    "source_locator": "Kourovka 19.6, main section, page 130",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

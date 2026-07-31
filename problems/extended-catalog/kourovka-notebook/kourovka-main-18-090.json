@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-090",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.90 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Prove that the group Y (m, n) = ⟨a1 , a2 , . . . , am | ank = 1 (1 ⩽ k ⩽\nm), (aik ail )2 = e (1 ⩽ k < l ⩽ m, 1 ⩽ i ⩽ n2 )⟩ is finite for every pair (m, n).\n    Some known cases are (where Cn denotes a cyclic group of order n): Y (m, 2) =\n                                                                               m(m+3)\nC2m ; Y (m; 3) = Am+2 (presentation by Carmichael); Y (m; 4) has order 2 2 , nilpo-\ntency class 3 and exponent 4; Y (2, n) is the natural extension of the augmentation\nideal ω(Cn ) of GF (2)[Cn ] by Cn (presentation by Coxeter); Y (3, n) ∼     = SL(2, ω(Cn )).\n    These groups have connections with classical groups in characteristic 2. When\nn is odd, the group Y (m, n) has the following presentation, where τij are transpo-\n                                              ai                             1+a+···+an−1\nsitions: y(m, n) = ⟨a, Sm | an = e, [τ12         , τ12 ] = e (1 ⩽ i ⩽ n2 ), τ12             =\ne, τi,i+1 aτi,i+1 = a−1 (2 ⩽ i ⩽ m − 1)⟩, and it is known that, for example, y(3, 5) ∼      =\nSL(2, 16) ∼   = Ω− (4, 4), y(4, 5) ∼           = Ω(5, 4), y(5, 5) ∼\n                                   = Sp(2, 16) ∼                   = SU (4, 16) ∼= Ω− (6, 4),\ny(6, 5) ∼\n        = 46 Ω− (6, 4), y(3, 7) ∼= SL(2, 8)2 ∼                    = Sp(4, 8) ∼\n                                             = Ω+ (4, 8), y(4, 7) ∼           = Ω(5, 8). Ex-\ntensive computations by Felsch, Neubüser and O’Brien confirm this trend. Different\ntypes reveal Bott periodicity and a connection with Clifford algebras.                S. Sidki",
+    "sha256": "37db84b589705de8862de640da93d3c72545e0effb1de970c3c2b55959f0e729",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=125",
+    "source_locator": "Kourovka 18.90, main section, page 125",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

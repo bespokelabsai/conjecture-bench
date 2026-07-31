@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0344",
+  "source_registry": "egres-open",
+  "title": "Orientation of nonideal clutters",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let <math>\\mathcal{C}</math> be a [[clutter]] on ground set ''V'', and let <math>\\mathcal{B}</math> be its blocker. Is it true that <math>\\mathcal{C}</math> is nonideal if and only if there exist <math>p:{\\mathcal C} \\to V</math> and <math>q: {\\mathcal B} \\to V</math> such that\n* <math>p(X)\\in X</math> for every <math>X \\in {\\mathcal C}</math>,\n* <math>p(Y)\\in Y</math> for every <math>Y \\in {\\mathcal B}</math>,\n* if <math>p(X)=q(Y)</math>, then <math>|X \\cap Y|>1</math>?",
+    "sha256": "0c14532193f5671ff973a85e502695de401b0e7e391136c2c99187cfb01fded9",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2015-01-02T17:37:51Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Orientation_of_nonideal_clutters&oldid=1782",
+    "source_locator": "EGRES page 344, revision 1782",
+    "source_sha256": "f9a3217f5608e6da6ea704b9884017ddc1bfeea150cb30ac68fc5371c3357a1d",
+    "tags": [
+      "combinatorial-optimization",
+      "Integer polyhedra",
+      "Orientations"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

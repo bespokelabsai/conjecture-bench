@@ -1,0 +1,42 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0292",
+  "slug": "bipartite-proportional-factors",
+  "title": "Correa–Goemans bipartite proportional-factors question",
+  "field": "graph-coloring-and-combinatorial-optimization",
+  "statement": "Let G=(V,E) be a finite bipartite graph, and let c₁,…,cₖ be positive real numbers with sum one. Then E can be partitioned into E₁,…,Eₖ so that, for every vertex v and every i, ⌊cᵢd_E(v)⌋≤d_{Eᵢ}(v)≤⌈cᵢd_E(v)⌉.",
+  "counterexample": {
+    "description": "A finite simple nonregular bipartite graph and three distinct positive rational weights summing to one for which exhaustive edge assignment finds no partition satisfying every rounded degree target.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://lemon.cs.elte.hu/egres/open/Partitioning_a_bipartite_graph_into_proportional_factors",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Partitioning_a_bipartite_graph_into_proportional_factors&oldid=2419",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.1137/060656413",
+        "role": "origin-and-plus-two-bound"
+      },
+      {
+        "url": "https://doi.org/10.1007/978-3-540-87744-8_34",
+        "role": "alternative-plus-two-bound"
+      }
+    ],
+    "discovery_records": [
+      "egres-0129"
+    ]
+  },
+  "equivalence_group": "correa-goemans-bipartite-proportional-factors"
+}

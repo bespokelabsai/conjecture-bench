@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3388",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "A sextic counterexample to Euler's sum of powers conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem Find six positive integers $x_1, x_2, \\dots, x_6$ such that $$x_1^6 + x_2^6 + x_3^6 + x_4^6 + x_5^6 = x_6^6$$ or prove that such integers do not exist.",
+    "sha256": "a4e5c771a019b6e81009665e29a3ed5a1195a5b0afa39a65cc86cd3b39dfe50c",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-508",
+    "source_locator": "dataset ID 3388; problem number OPG-508",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

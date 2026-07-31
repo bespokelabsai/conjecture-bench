@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0192",
+  "slug": "kaplansky-direct-finiteness-conjecture",
+  "title": "Kaplansky direct-finiteness conjecture",
+  "field": "algebra",
+  "statement": "For every group G and field K, ab=1 in K[G] implies ba=1.",
+  "counterexample": {
+    "description": "A finitely presented group, a field, and finite-support group-ring elements a,b with ab=1 but ba≠1.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2111.07930",
+        "role": "supporting"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0041",
+  "source_registry": "open-problems-project",
+  "title": "Sorting $X+Y$ (Pairwise Sums)",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Given two sets of numbers, each of size $n$, how quickly can the set\nof all pairwise sums be sorted?  In symbols, given two sets $X$ and\n$Y$, our goal is to sort the set $$X+Y = \\{x+y \\mid x \\in X, y \\in Y\\}.$$",
+    "sha256": "e20ab9ddc28f25e19d5b9053a0e74264f56777056be97bd97fe7af6cd673faf6",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p41",
+    "source_locator": "TOPP problem 41 (Problems/P.000041)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "lower bounds"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0017",
+  "source_registry": "open-problems-project",
+  "title": "Visibility Graph Recognition",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Given a visibility graph $G$ and a Hamiltonian circuit $C$,\ndetermine in polynomial time whether there is a simple polygon whose\nvertex visibility graph is $G$, and whose boundary corresponds to $C$.",
+    "sha256": "e338664c654794e0cbd734eedcb542d472674432e9c0929c7c0367954c217bb5",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p17",
+    "source_locator": "TOPP problem 17 (Problems/P.000017)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "visibility"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-071",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.71 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For a ring R, we say that a group G is of type FL(R) if the trivial RG-module\nR admits a finite resolution by finitely generated free modules. If R is a field, we\ndefine the Euler characteristic of G over R to be the alternating sum of R-ranks of\nhomology groups Hi (G; R).\n    Does there exist a group of type FL(Fi ) for two fields F1 and F2 such that the\nEuler characteristics of the group over the fields F1 and F2 differ?        D. Kielak",
+    "sha256": "013a04dd1083f163765b1f57d6c61d21cb20a84e6616dc04fb6098dc8b06d5db",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=174",
+    "source_locator": "Kourovka 21.71, main section, page 174",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

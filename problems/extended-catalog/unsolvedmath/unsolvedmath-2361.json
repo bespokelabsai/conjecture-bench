@@ -1,0 +1,41 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2361",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #881",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $A\\subset\\mathbb{N}$ be an additive basis of order $k$ which is minimal, in the sense that if $B\\subset A$ is any infinite set then $A\\backslash B$ is not a basis of order $k$.\nMust there exist an infinite $B\\subset A$ such that $A\\backslash B$ is a basis of order $k+1$?\",\n    \"difficulty\": \"L1\"\n},{",
+    "sha256": "aa82281ef5b1ad27f78db91e9f7b0e1c6e848bebaa8bc083d6d8233360f6507b",
+    "contains_placeholder": false,
+    "quality_flags": [
+      "statement-embedded-json-fragment"
+    ]
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-881",
+    "source_locator": "dataset ID 2361; problem number EP-881",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems",
+      "statement-embedded-json-fragment"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "statement-extraction-repair",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

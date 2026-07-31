@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0143",
+  "slug": "erdos-551-cycle-clique-ramsey-number",
+  "title": "Erdős problem #551: cycle-versus-clique Ramsey number",
+  "field": "ramsey-theory",
+  "statement": "For k≥n≥3, except n=k=3, R(Cₖ,Kₙ)=(k−1)(n−1)+1.",
+  "counterexample": {
+    "description": "Give k,n and a graph on (k−1)(n−1)+1 vertices with neither a C_k nor an independent set of size n. The standard disjoint-clique construction already proves the matching lower bound at one fewer vertex, so this witness is enough to refute the equality.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/551",
+        "role": "status"
+      },
+      {
+        "url": "https://doi.org/10.1093/imrn/rnz119",
+        "role": "supporting"
+      }
+    ]
+  }
+}

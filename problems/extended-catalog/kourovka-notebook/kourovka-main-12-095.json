@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-095",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.95 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a finitely generated pro-p-group and let g1 , . . . , gn ∈ G. Let H be an\nopen subgroup of G, and suppose there exists a non-trivial word w = w(X1 , . . . , Xn )\nsuch that w(a1 , . . . , an ) = 1 whenever a1 ∈ g1 H, . . . , an ∈ gn H (that is, G satisfies a\ncoset identity). Does it follow that G satisfies some non-trivial identity?\n    A positive answer to this question would imply that an analogue of the Tits\nAlternative holds for finitely generated pro-p-groups. Note that J. S. Wilson and\nE. I. Zelmanov (J. Pure Appl. Algebra, 81 (1992), 103–109) showed that the graded\nLie algebra Lp (G) with respect to the dimension subgroups of G in characteristic p\nsatisfies a polynomial identity.\n    Comment of 2017: This has been shown to be true for finitely generated linear\ngroups (M. Larsen, A. Shalev, Algebra Number Theory, 10, no. 6 (2016), 1359–1371).\n                                                                                    A. Shalev",
+    "sha256": "54c374495b4b0bfbbc383793130ae960d44214dd0a94f93e9508925c21206ed5",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=63",
+    "source_locator": "Kourovka 12.95, main section, page 63",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

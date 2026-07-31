@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-10-018",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 10.18 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(M. J. Tomkinson). Let G be an F C-group which is residually in the class\nof groups with finite derived subgroups. Must G/Z(G) be embeddable in a direct\nproduct of finite groups?                                    L. A. Kurdachenko",
+    "sha256": "8b44ce54e4e2776b0989e183265adb28cf53b0535ec4ff0ccdc14ce52cd00ff7",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=39",
+    "source_locator": "Kourovka 10.18, main section, page 39",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

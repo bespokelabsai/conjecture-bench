@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0473",
+  "source_registry": "egres-open",
+  "title": "Edge-independent spanning trees",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "In a graph ''G=(V,E)'' with a root node ''r'', two spanning trees <math>T_1</math> and <math>T_2</math> are called '''edge-independent''' if for any node ''x'' in ''V-r'', the unique paths between ''r'' and ''x'' in  <math>T_1</math> and \n<math>T_2</math> are edge-disjoint. Is it true that if ''G'' is ''k''-edge-connected then there exist ''k'' edge-independent spanning trees for arbitrary ''r''?",
+    "sha256": "5b2be5460b35bded1ae87c682b840c7ba430f364fed4d573527143423a3bf9e6",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2018-06-02T11:02:40Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Edge-independent_spanning_trees&oldid=2436",
+    "source_locator": "EGRES page 473, revision 2436",
+    "source_sha256": "b3bff1419db5685b7c2d829371e0014eacd52761450d0e2c26dc97c9ae420d43",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity",
+      "Trees and branchings"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0293"
+  ]
+}

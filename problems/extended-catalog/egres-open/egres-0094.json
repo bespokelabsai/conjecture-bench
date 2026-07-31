@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0094",
+  "source_registry": "egres-open",
+  "title": "Exact matching in red-blue bipartite graphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Give an algorithm and/or a good characterization to decide if a red-blue edge-coloured bipartite graph contains a perfect matching with exactly ''k'' red edges.",
+    "sha256": "5e3d22781a773cef693faf8aefec6b3aadd145fb36078461396695d3d800b386",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-06-17T11:57:32Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Exact_matching_in_red-blue_bipartite_graphs&oldid=2044",
+    "source_locator": "EGRES page 94, revision 2044",
+    "source_sha256": "d1ce86dfc593c454f9b46d53416b9fe41cc211b106116f0da4debd9af14f54ad",
+    "tags": [
+      "combinatorial-optimization",
+      "Matchings",
+      "Matrices with indeterminates"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

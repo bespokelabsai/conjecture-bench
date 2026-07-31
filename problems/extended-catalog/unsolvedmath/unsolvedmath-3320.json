@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3320",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "The Crossing Number of the Hypercube",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "The crossing number $cr(G)$ of $G$ is the minimum number of crossings in all drawings of $G$ in the plane.\n\nThe $d$-dimensional (hyper)cube $Q_d$ is the graph whose vertices are all binary sequences of length $d$, and two of the sequences are adjacent in $Q_d$ if they differ in precisely one coordinate.\n\nConjecture $\\displaystyle \\lim \\frac{cr(Q_d)}{4^d} = \\frac{5}{32}$",
+    "sha256": "2897f7d3d5454e0cefcd653d807865ee6c250922b8a402a677bdc60bbc288eeb",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-313",
+    "source_locator": "dataset ID 3320; problem number OPG-313",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

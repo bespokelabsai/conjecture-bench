@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-080",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.80 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A sequence {F } of pairwise disjoint finite subsets of a topological group is\n                              n\ncalled expansive if for every open subset U there is a number m such that Fn ∩ U ̸= ∅\nfor all n > m. Suppose that a group G can be partitioned into countably many dense\nsubsets. Is it true that in G there exists an expansive sequence?       I. V. Protasov\n  ∗ Not necessarily. One example is G = Q R under the box topology. It is well-\n                                               N\nknown that G does not have a countable dense subset (hence has no expansive se-\nquence). However, the topology on G has a basis having 2ℵ0 elements, each element\nof the basis having 2ℵ0 points, and one can partition G into countably many dense\nsubsets (via a transfinite induction of length 2ℵ0 ). (Letter of S. Corson of 19 May\n2025.) Another example: any infinite abelian group G with finite set of elements of\norder 2 can be partitioned into countably many subsets dense in every non-discrete\ngroup topology on G according to Corollary 12.21 in (Y. Zelenyuk, Ultrafilters and\ntopologies on groups, De Gruyter, 2011) (Letter of I. V. Protasov of 19 May 2025).",
+    "sha256": "93fe3c111c922eb7b2bb3878af7cd26989fca15cf32b051398b2604fb0789b10",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=92",
+    "source_locator": "Kourovka 15.80, main section, page 92",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-039",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.39 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let Ω be a countable set and m a cardinal number such that ℵ0 ⩽ m ⩽ 2ℵ0\n(we assume Axiom of Choice but not Continuum Hypothesis). Does there exist a\npermutation group G on Ω that has exactly m orbits on the power set P(Ω)?\n   Comment of 2001: It is proved (S. Shelah, S. Thomas, Bull. London Math. Soc.,\n20, no. 4 (1988), 313–318) that the answer is positive in set theory with Martin’s\nAxiom. The question is still open in ZFC.                           P. M. Neumann",
+    "sha256": "ec81ce18c9d61a181dee399189bf0b33deb95035d322436a4a7b04b4830a64d0",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=34",
+    "source_locator": "Kourovka 9.39, main section, page 34",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

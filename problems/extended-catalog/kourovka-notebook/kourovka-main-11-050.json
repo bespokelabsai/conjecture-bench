@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-050",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.50 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let A, C be abelian groups. If A[n] = 0, i.� e. for a �\n                              Hom (C, A)             C    A\na = 0, then the sequence                  ↣ Hom        ,       ↠ Ext (C, A)[n] is\n                        � nHom  � (C, A) �        �nC nA\n                              A             C   A\nexact. Given f ∈ Hom C,           = Hom       ,       the corresponding extension\n                             nA            nC nA\nXf is obtained as a pull-back\n                                A ↣      Xf   ↠      C\n                                ↓         ↓          ↓ .\n                                                     A\n                                 A ↣ A ↠\n                                                    nA\nUse this scheme to classify certain extensions of A by C. The case nC = 0, A being\ntorsion-free is interesting. Here Ext (C, A)[n] = Ext (C, A). (See E. L. Lady, A. Mader,\nJ. Algebra, 140 (1991), 36–64.)                                                A. Mader",
+    "sha256": "af452eedc6f4bcee54e3e46fd97f5ec07466c736df231d36ed2e35c287003b71",
+    "contains_placeholder": false,
+    "unmapped_control_count": 6
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=50",
+    "source_locator": "Kourovka 11.50, main section, page 50",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

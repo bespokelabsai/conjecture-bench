@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0936",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "exists_semi_magic_square_cubes",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 11]\ntheorem exists_semi_magic_square_cubes :\n    answer(sorry) ↔ ∃ m : Fin 3 → Fin 3 → ℕ, ∃ t : ℕ,\n       m.Injective2 ∧\n       (∀ i j, ∃ n : ℕ, 0 < n ∧ m i j = n ^ 3) ∧\n       (∀ i, ∑ j, m i j = t) ∧\n       (∀ j, ∑ i, m i j = t)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "8b08bb47f1fd470d84aad3fbdd28226bd171cf967e2442e8f039f702d39229fe",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/MagicSquares.lean#L61",
+    "source_locator": "FormalConjectures/Wikipedia/MagicSquares.lean:61#exists_semi_magic_square_cubes",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-5",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

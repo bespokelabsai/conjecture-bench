@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0092",
+  "slug": "hadwigernelson-exact-value-hypothesis-chi-mathbb-r-2-5",
+  "title": "Hadwiger–Nelson exact-value hypothesis \\(\\chi(\\mathbb R^2)=5\\)",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Hadwiger–Nelson exact-value hypothesis \\(\\chi(\\mathbb R^2)=5\\) · April 2018. This post-de Grey hypothesis has no canonical proposer; his construction made 5 the lower endpoint (paper).",
+  "counterexample": {
+    "description": "Six to 128 distinct real points over one bounded cyclotomic field whose exact unit-distance graph is not 5-colorable. Such a finite graph proves χ(R²)≥6 and refutes the exact-value-five hypothesis.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1804.02385",
+        "role": "supporting"
+      },
+      {
+        "url": "https://teorth.github.io/optimizationproblems/constants/27a.html",
+        "role": "status"
+      }
+    ]
+  }
+}

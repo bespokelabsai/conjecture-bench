@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-071",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.71 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let A be a finite group with a normal\n                                      S a subgroup H. A subgroup U of H is\ncalled an A-covering subgroup of H if    U = H. Is there a function f : N → N\n                                          a∈A\nsuch that whenever U < H < A, where A is a finite group, H is a normal subgroup\nof A of index n, and U is an A-covering subgroup of H, the index |H : U | ⩽ f (n)?\n(We have shown that the answer is “yes” if U is a maximal subgroup of H.)\n   Comments of 2025: The conjecture is proved in the case where H acts innately\ntransitively on the coset space [H : U ] (M. Fusari, A. Previtali, P. Spiga, J. Group\nTheory, 27 (2024), 929–965); for n = 3 with |H : U | ⩽ 10 (L. Gogniat, P. Spiga,\nPreprint, 2025, https://arxiv.org/abs/2502.01287); and if H = U L where L is\na minimal A-invariant subgroup of H (M. Fusari, S. Harper, P. Spiga, Bull. Austral.\nMath. Soc., 2025, https://doi.org/10.1017/S0004972725000176).\n                                                           P. M. Neumann, C. E. Praeger",
+    "sha256": "59c618e50b9af232ad274dec02241f7636460d2a35641e4be8dd7aa953a83238",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=52",
+    "source_locator": "Kourovka 11.71, main section, page 52",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

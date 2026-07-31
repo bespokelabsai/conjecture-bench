@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-015",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.15 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For the automorphism group An = Aut Fn of a free group Fn of rank n ⩾ 3\nfind the supremum kn of the commutator lengths of the elements of A′n .\n    It is easy to show that k2 = ∞. On the other hand, the commutator length of any\nelement of the derived subgroup of lim An is at most 2 (R. K. Dennis, L. N. Vaserstein,\n                                    −→\nK-Theory, 2, N 6 (1989), 761–767).                                       V. G. Bardakov",
+    "sha256": "e220243a7ac74684c421269f66053f28c4d2f3af18c80f6a5679f67c326a4bb6",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=73",
+    "source_locator": "Kourovka 14.15, main section, page 73",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

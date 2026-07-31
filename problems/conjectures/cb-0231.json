@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0231",
+  "slug": "a239957-square-plus-one-primitive-root",
+  "title": "Sun's square-plus-one primitive-root conjecture",
+  "field": "number-theory",
+  "statement": "For every prime p, there is an integer k such that k²+1<p and k²+1 is a primitive root modulo p.",
+  "counterexample": {
+    "description": "A prime p for which exhaustive checking finds no integer k with k²+1<p and multiplicative order p−1 modulo p.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://oeis.org/A239957",
+        "role": "status-and-problem-source"
+      },
+      {
+        "url": "https://arxiv.org/abs/1405.0290",
+        "role": "primary-source"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OEIS/239957.lean#L37",
+        "role": "formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0677"
+    ]
+  },
+  "equivalence_group": "a239957-square-plus-one-primitive-root"
+}

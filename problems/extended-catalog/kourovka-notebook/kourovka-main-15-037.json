@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-037",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.37 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a group satisfying the minimum condition for centralizers. Suppose\nthat X is a normal subset of G such that [x, y, . . . , y] = 1 for any x, y ∈ X with y\nrepeated f (x, y) times. Does X generate a locally nilpotent (whence hypercentral)\nsubgroup?\n   If the numbers f (x, y) can be bounded, the answer is affirmative (F. O. Wagner,\nJ. Algebra, 217, no. 2 (1999), 448–460).                                   F. O. Wagner",
+    "sha256": "0690a0fd65d42e3238ce39f8ce44a6407e9964cea9e93429c7ccad0eb19a5ea7",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=86",
+    "source_locator": "Kourovka 15.37, main section, page 86",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

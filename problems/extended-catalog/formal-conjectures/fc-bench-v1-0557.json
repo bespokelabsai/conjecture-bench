@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0557",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_97",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 52]\ntheorem erdos_97 :\n    answer(sorry) ↔ ∀ A : Finset ℝ², A.Nonempty → ConvexIndep A → ¬HasNEquidistantProperty 4 A",
+    "language_version": "Lean 4.27.0",
+    "sha256": "b1d3980c77fef084c2bb1aaa29d4316b77127ae7b04c1e39cf5d5282c7f95534",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/97.lean#L75",
+    "source_locator": "FormalConjectures/ErdosProblems/97.lean:75#erdos_97",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-52"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

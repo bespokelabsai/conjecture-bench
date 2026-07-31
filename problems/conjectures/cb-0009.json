@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0009",
+  "slug": "jaegers-petersen-coloring-conjecture",
+  "title": "Jaeger’s Petersen Coloring conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Jaeger’s Petersen Coloring conjecture · 1988. Every bridgeless cubic graph has a Petersen coloring, equivalently a compatible local edge map to the Petersen graph.",
+  "counterexample": {
+    "description": "A refutation is a bridgeless cubic graph plus a DRAT proof that every local-map encoding fails.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0095895613000312",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2603.17789",
+        "role": "supporting"
+      }
+    ]
+  }
+}

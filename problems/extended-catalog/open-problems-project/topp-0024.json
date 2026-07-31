@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0024",
+  "source_registry": "open-problems-project",
+  "title": "Polygonal Curve Simplification",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Can an $n$-vertex polygonal curve be simplified\nin time nearly linear in $n$?",
+    "sha256": "e21ef666c27767fe88ee1617ab8eab29a4cd111331ce90b0abdd6a9a6af1e341",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p24",
+    "source_locator": "TOPP problem 24 (Problems/P.000024)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "simplification"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

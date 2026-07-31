@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0029",
+  "source_registry": "open-problems-project",
+  "title": "Hamiltonian Tetrahedralizations",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Can every convex polytope in $\\R^3$ be partitioned into tetrahedra\nsuch that the dual graph has a Hamiltonian path?",
+    "sha256": "51b8e72f18ab9a25b918a487c44a4399bbc02526ea5becede5ddbc444bbbc8b1",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p29",
+    "source_locator": "TOPP problem 29 (Problems/P.000029)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "polyhedra",
+      "triangulations"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0154"
+  ]
+}

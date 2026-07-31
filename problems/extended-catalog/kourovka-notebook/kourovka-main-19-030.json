@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-030",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.30 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "An element g of a finite group G is said to be vanishing if χ(g) = 0 for some\nirreducible complex character χ ∈ Irr(G). Must a finite group and a finite simple\ngroup be isomorphic if they have equal orders and the same set of orders of vanishing\nelements?                                 M. Foroudi Ghasemabadi, A. Iranmanesh,",
+    "sha256": "ad70a9dab05bbb657aaf969cceddc835383c2b74818a0988404b056df4e8270a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=134",
+    "source_locator": "Kourovka 19.30, main section, page 134",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

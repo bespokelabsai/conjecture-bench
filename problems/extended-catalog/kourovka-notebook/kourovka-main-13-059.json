@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-13-059",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 13.59 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "One can show that any extension of shape Zd . S Ld (Z) is residually finite,\nunless possibly d = 3 or d = 5. Are there in fact any extensions of this shape that fail\nto be residually finite when d = 5? As shown in (P. R. Hewitt, Groups/St. Andrews’93\nin Galway, Vol. 2 (London Math. Soc. Lecture Note Ser., 212), Cambridge Univ.\nPress, 1995, 305–313), there is an extension of Z3 by S L3 (Z) that is not residually\nfinite. Usually it is true that an extension of an arithmetic subgroup of a Chevalley\ngroup over a rational module is residually finite. Is it ever false, apart from the\nexamples of shape Z3 . S L3 (Z)?                                           P. R. Hewitt",
+    "sha256": "410698f3d814b78bc5015401e0669fae99fd6f406db611be8383c7e3abb7f4d9",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=69",
+    "source_locator": "Kourovka 13.59, main section, page 69",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

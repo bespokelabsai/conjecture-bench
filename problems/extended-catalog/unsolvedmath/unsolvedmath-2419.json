@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2419",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #973",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Does there exist a constant $C>1$ such that, for every $n\\geq 2$, there exists a sequence $z_i\\in \\mathbb{C}$ with $z_1=1$ and $\\lvert z_i\\rvert \\geq 1$ for all $1\\leq i\\leq n$ with $ \\max_{2\\leq k\\leq n+1}\\left\\lvert \\sum_{1\\leq i\\leq n}z_i^k\\right\\rvert < C^{-n}? $ ",
+    "sha256": "fac18fc35b5521868702d2b3e73e91afd2ec0827c4b616cc9e0b58e5d93a49ca",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-973",
+    "source_locator": "dataset ID 2419; problem number EP-973",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

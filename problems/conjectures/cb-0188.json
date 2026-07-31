@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0188",
+  "slug": "sphere-packing-dimension-six",
+  "title": "E₆ sphere-packing optimality conjecture",
+  "field": "discrete-geometry",
+  "statement": "The E₆ root-lattice density is optimal among unit-sphere packings in Euclidean dimension six.",
+  "counterexample": {
+    "description": "A positive-definite rational 6×6 Gram matrix whose lattice has minimum squared norm at least four and determinant strictly below 192. This is a unit-sphere lattice packing denser than scaled E₆.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1016/j.ejc.2005.05.001",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2211.09044",
+        "role": "status"
+      }
+    ]
+  },
+  "equivalence_group": "low-dimensional-sphere-packing"
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0633",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "green_38.lower",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 11]\ntheorem green_38.lower :\n    let ans := (answer(sorry) : ℕ → ℝ)\n    ans ≤ᶠ[atTop] LargestAdmissibleCardinality ∧\n    ∃ c > C₁, (fun n ↦ c ^ n) =O[atTop] ans",
+    "language_version": "Lean 4.27.0",
+    "sha256": "1939f0e9eca1a45a743246385cac93fb7ada57b7b52da05db1911832eeba1e12",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/38.lean#L75",
+    "source_locator": "FormalConjectures/GreensOpenProblems/38.lean:75#green_38.lower",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-5",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0136",
+  "slug": "erdos-7-odd-distinct-covering-system",
+  "title": "Erdős problem #7: odd distinct covering systems",
+  "field": "number-theory",
+  "statement": "No finite distinct covering system has all moduli odd.",
+  "counterexample": {
+    "description": "A finite list of residue classes with distinct odd moduli whose union covers every integer.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/7",
+        "role": "status"
+      }
+    ]
+  }
+}

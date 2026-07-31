@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0831",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "same_parity_betrothed",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem same_parity_betrothed :\n    answer(sorry) ↔ ∃ m n : ℕ, IsBetrothed m n ∧ (Even m ↔ Even n)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "9de33b7db7c0b7d5e2ad60e5c13cbc714a73f86e33f2aab50e4a6d2fc52aec0b",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/BetrothedNumbers.lean#L60",
+    "source_locator": "FormalConjectures/Wikipedia/BetrothedNumbers.lean:60#same_parity_betrothed",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

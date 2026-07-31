@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2873",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.75",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $Y$ be a rational homology 3-sphere equipped with an action of a cyclic group $\\mathbb{Z}/p\\mathbb{Z}$. Suppose $W$ is a 4-manifold with boundary $Y$ over which the action of $\\mathbb{Z}/p\\mathbb{Z}$ extends smoothly.\n\n(a) What constraints are there on the intersection form of $W$?\n\n(b) Does there exist an integer homology sphere $Y$ bounding a homology ball such that $Y$ admits a cyclic group action that does not extend over any definite manifold of either sign?\n\n(c) Develop methods for constraining the intersection form of $W$ that apply to indefinite, non-spin $W$.",
+    "sha256": "da068846eb2dc8dac114930a33ac565cdb950a3c1593c2339bef4348e63e9941",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.75",
+    "source_locator": "dataset ID 2873; problem number KP-3.75",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

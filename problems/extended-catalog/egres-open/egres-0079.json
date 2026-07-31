@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0079",
+  "source_registry": "egres-open",
+  "title": "Small quasi-kernels in directed graphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Is it true that if ''D=(V,A)'' is a digraph where every node has positive out-degree, then ''D'' has a [[Kernel (in digraph)|quasi-kernel]] of size at most ''|V|/2''?",
+    "sha256": "e28b52c411d310bba4fddb53200062e89832a72daf4056c0517811643ddf1b79",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2013-12-05T13:14:31Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Small_quasi-kernels_in_directed_graphs&oldid=1592",
+    "source_locator": "EGRES page 79, revision 1592",
+    "source_sha256": "746e7fa931e2a0b7501441dba17ad4c364824e4bea927091ddb7d5fa62b29e7b",
+    "tags": [
+      "combinatorial-optimization",
+      "Stable matchings and kernels"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0274"
+  ]
+}

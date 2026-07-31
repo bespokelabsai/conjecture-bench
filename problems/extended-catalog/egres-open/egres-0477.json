@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0477",
+  "source_registry": "egres-open",
+  "title": "Rotor-routing halting problem",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "The rotor-routing halting problem asks the following: Given an initial chip-and-rotor configuration on a digraph, does the rotor-routing game eventually terminate?\n\nA more refined version of the problem is the halting configuration problem: If the rotor-routing game terminates, what is the final configuration?",
+    "sha256": "de68dadb0739f01aaab61270daadb09a6a9cbff1410e1d7b98492184fd5af57c",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2021-11-15T14:07:24Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Rotor-routing_halting_problem&oldid=2458",
+    "source_locator": "EGRES page 477, revision 2458",
+    "source_sha256": "cb500abb285a84be0229bc8e73b87331f24b2d8964a829c7bbc0c13527e7bd59",
+    "tags": [
+      "combinatorial-optimization",
+      "Chip-firing"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

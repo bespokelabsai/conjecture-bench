@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0007",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "zariski_cancellation_problem",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 13 14]\ntheorem zariski_cancellation_problem {k : Type*} [Field k]\n    [CharZero k] {ι : Type*} [Fintype ι] : IsCancellative k (MvPolynomial ι k)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "164a994a757b82e8c1780a0d04ff1a64469cfc28ceb8fb9745ac4e5a7544fe2e",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Arxiv/2208.14736/ZariskiCancellation.lean#L44",
+    "source_locator": "FormalConjectures/Arxiv/2208.14736/ZariskiCancellation.lean:44#zariski_cancellation_problem",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Arxiv",
+      "AMS-13",
+      "AMS-14"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

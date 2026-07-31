@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2938",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.62",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let X be a smooth, closed, connected, oriented 4-manifold with $b^{+}_{2}(X)$ >1.\n\n(a) Does X have Donaldson simple type?\n\n(b) Does X have Seiberg–Witten simple type?",
+    "sha256": "c6cc78799b63905c8ecdca8d5a0d9b9815b1950e04531eb754c8881e8878f0df",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.62",
+    "source_locator": "dataset ID 2938; problem number KP-4.62",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

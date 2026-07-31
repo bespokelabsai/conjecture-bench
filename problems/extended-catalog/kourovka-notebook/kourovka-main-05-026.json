@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-05-026",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 5.26 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a finite p-group with the minimal number of generators d, and let r1\n(respectively, r2 ) be the minimal number of defining relations on d generators in the\nsense of representing G as a factor-group of a free discrete group (pro-p-group). It is\nwell known that always r2 > d2 /4. For each prime number p denote by c(p) the exact\nupper bound for the numbers b(p) with the property that r2 ⩾ b(p)d2 for all finite\np-groups.\n    a) It is obvious that r1 ⩾ r2 . Find a p-group with r1 > r2 .\n    b) Conjecture: lim c(p) = 1/4. It is proved (J. Wisliceny, Math. Nachr., 102\n                      p→∞\n                             �\n(1981), 57–78) that lim r2 d2 = 1/4.                                          H. Koch\n                     d→∞",
+    "sha256": "d27a5d82e4a0af30d6a215cad9f6931ac0896e26cc38b4b9c2da3ae2f37524f1",
+    "contains_placeholder": false,
+    "unmapped_control_count": 1
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=15",
+    "source_locator": "Kourovka 5.26, main section, page 15",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

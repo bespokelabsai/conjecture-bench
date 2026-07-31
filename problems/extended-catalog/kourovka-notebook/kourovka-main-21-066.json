@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-066",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.66 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that A is a nilpotent group of automorphisms of a finite soluble group\nG. Is the Fitting height of G bounded in terms of |A| and |CG (A)|?\n    An affirmative answer is known when (|G|, |A|) = 1 (J. G. Thompson, even for\nsoluble A, with improved bounds in subsequent papers of H. Kurzweil, A. Turull,\nB. Hartley–I. M. Isaacs), when A is cyclic (see 19.43), or when CG (A) = 1 (E. C. Dade).\nNote that for any non-nilpotent finite group A there are finite soluble groups G of\nunbounded Fitting height with CG (A) = 1 (S. D. Bell–B. Hartley).         E. I. Khukhro",
+    "sha256": "0426b239b0050cdb02e7b576532acb0a848ae7bac2f8fa5a7112e5d2c14eb634",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=174",
+    "source_locator": "Kourovka 21.66, main section, page 174",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

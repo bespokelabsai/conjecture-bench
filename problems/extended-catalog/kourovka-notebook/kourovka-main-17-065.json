@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-065",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.65 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "If Problem 17.64 has an affirmative answer, does it follow that, for some\nfunction g(p), the number of isomorphism classes of g(p)-approximations to J is\n   a) countable?\n   b) one?\nNote that if, for some g(p), there are only finitely many isomorphism classes, then for\nsome h(p) there is only one.                                     C. R. Leedham-Green",
+    "sha256": "403f15dace5e422c71bc611f10af33d0f1eaa30e09b660dcf75009021f80bd45",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=109",
+    "source_locator": "Kourovka 17.65, main section, page 109",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

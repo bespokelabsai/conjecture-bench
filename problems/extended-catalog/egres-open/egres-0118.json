@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0118",
+  "source_registry": "egres-open",
+  "title": "Red-blue cut problem",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Given a directed graph whose arcs are coloured red and blue and integers ''r'' and ''b'', can we decide in polynomial time whether the digraph has a cut with at most ''r'' red arcs and at most ''b'' blue arcs?",
+    "sha256": "52cf49d6946b444b03be44a26b6d85850b515e81bfe2aad9b6de1d87fb19c8c3",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2009-10-22T13:34:26Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Red-blue_cut_problem&oldid=407",
+    "source_locator": "EGRES page 118, revision 407",
+    "source_sha256": "cd0d51a167294f54394946bfd7a0287445a934481faa621d9b8563a6f99d2d6f",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

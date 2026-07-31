@@ -1,0 +1,42 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2201",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #596",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For which graphs $G_1,G_2$ is it true that\n{UL}\n{LI} for every $n\\geq 1$ there is a graph $H$ without a $G_1$ but if the edges of $H$ are $n$-coloured then there is a monochromatic copy of $G_2$, and yet{/LI}\n{LI} for every graph $H$ without a $G_1$ there is an $\\aleph_0$-colouring of the edges of $H$ without a monochromatic $G_2$.\n{/UL}",
+    "sha256": "607bf12d94bc87551e9565e1b47d0169b60586d27eb30b4bee7b97a524bfbffc",
+    "contains_placeholder": false,
+    "quality_flags": [
+      "statement-legacy-list-markup"
+    ]
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-596",
+    "source_locator": "dataset ID 2201; problem number EP-596",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems",
+      "statement-legacy-list-markup"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "statement-extraction-repair",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

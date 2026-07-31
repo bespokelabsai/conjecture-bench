@@ -1,0 +1,42 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0276",
+  "slug": "equitable-list-coloring",
+  "title": "Equitable list-coloring conjecture",
+  "field": "graph-coloring",
+  "statement": "For every finite simple graph G and every integer k greater than its maximum degree, every assignment of a k-element color list to each vertex has a proper list coloring in which no color is used more than ceil(|V(G)|/k) times.",
+  "counterexample": {
+    "description": "A finite simple graph, an integer k≥Δ(G)+1, and one k-list assignment for which exhaustive search proves that every proper list coloring overuses some color.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/open/Equitable_list_colouring",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Equitable_list_colouring&oldid=2033",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://arxiv.org/abs/2605.17783",
+        "role": "current-status-and-definition-source"
+      },
+      {
+        "url": "https://arxiv.org/abs/2504.14711",
+        "role": "survey-and-known-cases"
+      }
+    ],
+    "discovery_records": [
+      "egres-0364"
+    ]
+  },
+  "equivalence_group": "equitable-list-coloring"
+}

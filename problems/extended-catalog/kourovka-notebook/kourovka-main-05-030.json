@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-05-030",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 5.30 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Well-known problem). Suppose that G is a finite soluble group, A ⩽ Aut G,\nCG (A) = 1, the orders of G and A are coprime, and let |A| be the product of n not\nnecessarily distinct prime numbers. Is the nilpotent length of G bounded above by n?\nThis is proved for large classes of groups (E. Shult, F. Gross, T. Berger, A. Turull), and\nthere is a bound in terms of n if A is soluble (J. G. Thompson’s ⩽ 5n , H. Kurzweil’s\n⩽ 4n, A. Turull’s ⩽ 2n), but the problem remains open.                     V. D. Mazurov",
+    "sha256": "77fec8f907a71a1679031894522a6b273b8da611dabcfe83ca2d84723246def5",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=16",
+    "source_locator": "Kourovka 5.30, main section, page 16",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

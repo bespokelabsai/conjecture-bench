@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-005",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.5 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let the (soluble) group G = AB with finite torsion-free rank r0 (G) be the\nproduct of two subgroups A and B. Is the equation r0 (G) = r0 (A)+r0 (B)−r0 (A∩B)\nvalid in this case? It is known that the inequality ⩽ always holds.     B. Amberg",
+    "sha256": "efe4dfc89642cc8c926df3e4f502ab4cf7fb1d9ef20e77c4df57a123a51f6f09",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=116",
+    "source_locator": "Kourovka 18.5, main section, page 116",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2483",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #1093",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For $n\\geq 2k$ we define the deficiency of $\\binom{n}{k}$ as follows. If $\\binom{n}{k}$ is divisible by a prime $p\\leq k$ then the deficiency is undefined. Otherwise, the deficiency is the number of $0\\leq i<k$ such that $n-i$ is $k$-smooth, that is, divisible only by primes $\\leq k$.\nAre there infinitely many binomial coefficients with deficiency $1$? Are there only finitely many with deficiency $>1$?",
+    "sha256": "12a70b123aa6071aae991ca733138187f8f5f9ebc3c1a1a22aabec8f4164975f",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-1093",
+    "source_locator": "dataset ID 2483; problem number EP-1093",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

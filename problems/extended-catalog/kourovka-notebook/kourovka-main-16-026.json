@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-026",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.26 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "We say that the prime graphs of finite groups G and H coincide if the sets\nof primes dividing their orders are the same, π(G) = π(H), and for any distinct\np, q ∈ π(G) there is an element of order pq in G if and only if there is such an\nelement in H. Does there exist a positive integer k such that there are no k pairwise\nnon-isomorphic finite non-abelian simple groups with the same graphs of primes?\nConjecture: k = 5.                                                      A. V. Vasil’ev",
+    "sha256": "1c42727c3f63e74816b0a1192e37cd89708b014a484e28db87dede24f55b1441",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=97",
+    "source_locator": "Kourovka 16.26, main section, page 97",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

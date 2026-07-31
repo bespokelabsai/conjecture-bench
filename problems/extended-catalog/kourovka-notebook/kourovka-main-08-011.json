@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-08-011",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 8.11 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Consider the group\n\n          M = ⟨x, y, z, t | [x, y] = [y, z] = [z, x] = (x, t) = (y, t) = (z, t) = 1⟩\nwhere [x, y] = x−1 y −1 xy and (x, t) = x−1 t−1 x−1 txt. The subgroup H = ⟨x, t, y⟩ is\nisomorphic to the braid group B4 , and is normally complemented by N = (zx−1 )M .\nIs N a free group (?) of countably infinite rank (?) on which H acts faithfully by\nconjugation?                                                           D. L. Johnson\n  ∗ As pointed by Y. Antolı́n, the group M is the Artin group of type D ; it is proved\nin (B. Perron, J. P. Vannier, Math. Ann., 306, no. 2 (1996), 231–246) that N is a free\ngroup of rank 3 and H acts on N faithfully by conjugation.",
+    "sha256": "7311a64ac3a48dec2e6041f3a8bdedd8d11cbfb52e18155204aaa5fd51c725d2",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=27",
+    "source_locator": "Kourovka 8.11, main section, page 27",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

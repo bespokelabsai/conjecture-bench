@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-085",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.85 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let F be a free group. An element ω ∈ F is said to be primitive if there is\na minimal generating system of F that contains ω, almost primitive if it is prim-\nitive in each finitely generated proper subgroup of F containing ω, tame almost\nprimitive if, whenever ω α is contained in a subgroup H of F with α ⩾ 1 mini-\nmal, either ω α is primitive in H or the index of H in F is just α. In (B. Fine,\nA. Moldenhauer, G. Rosenberger, L. Wienke, Topics in Infinite Group Theory: Nielsen\nMethods, Covering Spaces, and Hyperbolic Groups, De Gruyter, Berlin, 2021) it is\nshown that u = [a1 , b1 ][a2 , b2 ] · · · [ag , bg ] is tame almost primitive in the free group\non a1 , b1 , . . . , ag , bg with g ⩾ 1, and v = c21 · · · c2p is tame almost primitive in the free\ngroup on c1 , . . . , cp with p ⩾ 2.\n    Are there tame almost primitive elements in free groups other than u, v, and their\nproduct uv in the free group on a1 , b1 , . . . , ag , bg , c1 , . . . , cp ?\n                                                                    G. Rosenberger, L. Wienke",
+    "sha256": "6fe90169f4d68b638bf1a132d953f47d21b0c389aab8c8f01f3779137d60a9ea",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=156",
+    "source_locator": "Kourovka 20.85, main section, page 156",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

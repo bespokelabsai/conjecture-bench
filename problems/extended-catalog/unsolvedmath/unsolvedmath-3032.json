@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3032",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Waring rank of determinant",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Question What is the Waring rank of the determinant of a $d \\times d$ generic matrix?\n\nFor simplicity say we work over the complex numbers. The $d \\times d$ generic matrix is the matrix with entries $x_{i,j}$ for $1 \\leq i,j \\leq d$. Its determinant is a homogeneous form of degree $d$, in $d^2$ variables. If $F$ is a homogeneous form of degree $d$, a power sum expression for $F$ is an expression of the form $F = \\ell_1^d+\\dotsb+\\ell_r^d$, the $\\ell_i$ (homogeneous) linear forms. The Waring rank of $F$ is the least number of terms $r$ in any power sum expression for $F$. For example, the expression $xy = \\frac{1}{4}(x+y)^2 - \\frac{1}{4}(x-y)^2$ means that $xy$ has Waring rank $2$ (it can't be less than $2$, as $xy \\neq \\ell_1^2$ ).\n\nThe $2 \\times 2$ generic determinant $x_{1,1}x_{2,2}-x_{1,2}x_{2,1}$ (or $ad-bc$ ) has Waring rank $4$. The Waring rank of the $3 \\times 3$ generic determinant is at least $14$ and no more than $20$, see for instance Lower bound for ranks of invariant forms, Example 4.1. The Waring rank of the permanent is also of interest. The comparison between the determinant and permanent is potentially relevant to Valiant's \"VP versus VNP\" problem.",
+    "sha256": "cca9a40a6aabfd802991cdee30d8089cefad347acfdc9d83117ada8e3e2ad411",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-60031",
+    "source_locator": "dataset ID 3032; problem number OPG-60031",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:algebra",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

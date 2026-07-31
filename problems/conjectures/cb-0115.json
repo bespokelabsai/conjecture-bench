@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0115",
+  "slug": "metric-tsp-4-3-subtour-lp-integrality-gap-conjecture",
+  "title": "Metric-TSP \\(4/3\\) subtour-LP integrality-gap conjecture",
+  "field": "combinatorial-optimization",
+  "statement": "The integrality gap of the subtour-elimination linear program for metric TSP is at most 4/3.",
+  "counterexample": {
+    "description": "A rational 16-vertex metric together with any exact feasible point of the subtour LP whose cost is less than three quarters of the exact optimal tour cost. Feasibility plus this strict inequality lower-bounds the true integrality gap above 4/3.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "legacy-15-inventory-without-forecasts",
+    "sources": [
+      {
+        "url": "https://math.mit.edu/~goemans/PAPERS/Goemans-1995-WorstCaseComparisonOfValidInequalitiesForTheTSP.pdf",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2603.12995",
+        "role": "supporting"
+      }
+    ]
+  }
+}

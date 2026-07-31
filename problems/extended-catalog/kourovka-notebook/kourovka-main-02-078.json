@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-02-078",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 2.78 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Any set of all subgroups of the same given order of a finite group G that\ncontains at least one non-normal subgroup is called an IEn̄ -system of G. A positive\ninteger k is called a soluble (non-soluble; simple; composite; absolutely simple)\ngroup-theoretic number if every finite group having exactly k IEn̄ -systems is soluble\n(respectively, if there is at least one non-soluble finite group having k IEn̄ -systems;\nif there is at least one simple finite group having k IEn̄ -systems; if there are no\nsimple finite groups having k IEn̄ -systems; if there is at least one simple finite group\nhaving k IEn̄ -systems and there are no non-soluble non-simple finite groups having\nk IEn̄ -systems).\n    Are the sets of all soluble and of all absolutely simple group-theoretic numbers\nfinite or infinite? Do there exist composite, but not soluble group-theoretic numbers?\n                                                                             P. I. Trofimov",
+    "sha256": "36cf0e0fd4e54abcf9b34fa6b8a3d5163feb183d333b4a8b6e431300a026277c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=8",
+    "source_locator": "Kourovka 2.78, main section, page 8",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

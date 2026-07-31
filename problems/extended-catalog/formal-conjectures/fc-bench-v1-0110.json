@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0110",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_137.variants.multiple_powerful_factors",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_137.variants.multiple_powerful_factors (k : ℕ) : ∀ᶠ n in Filter.atTop,\n    ∀ (m : ℕ) (hm : 0 < m),\n    letI N := ∏ x ∈ Finset.Ioc m (m + n), x\n    ∃ P : Finset ℕ, P.card = k ∧ ∀ p ∈ P, p.Prime ∧\n    p ∣ N ∧ ¬ p ^ 2 ∣ N",
+    "language_version": "Lean 4.27.0",
+    "sha256": "d1476062b46644497646b49a4d698b0d5a3a19303f3ac69790fd61444105ec52",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/137.lean#L55",
+    "source_locator": "FormalConjectures/ErdosProblems/137.lean:55#erdos_137.variants.multiple_powerful_factors",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

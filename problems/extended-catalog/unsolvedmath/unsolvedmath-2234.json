@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2234",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #654",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $x_1,\\ldots,x_n\\in \\mathbb{R}^2$ with no four points on a circle. Must there exist some $x_i$ with at least $(1-o(1))n$ distinct distances to other $x_i$?",
+    "sha256": "b1ddfad2c9a83115cdfd189650b7e8f2aad85cd588d169c4d13713dce13d7006",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-654",
+    "source_locator": "dataset ID 2234; problem number EP-654",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

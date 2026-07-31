@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-015",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.15 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let κ be an infinite cardinal. If a residually finite group G is embeddable\nin the full permutation group of a set of cardinality κ, must it be embeddable in\nthe direct product of κ finite groups? See (G. M. Bergman, Indag. Math., 18 (2007),\n349–403).\n    The converse is true: any such direct product is residually finite and embeddable\nin the indicated permutation group. Also, the statement asked for becomes true if one\nreplaces “direct product of κ finite groups” by “direct product of 2κ finite groups”,\nsince G has cardinality at most 2κ , hence homomorphisms to that many finite groups\ncan be chosen which, together, separate each element of G from e. G. M. Bergman",
+    "sha256": "e80d267e5202c24c86e595e51e7fdec6d3b841f36a2e4547f1514c0ef3d43496",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=146",
+    "source_locator": "Kourovka 20.15, main section, page 146",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

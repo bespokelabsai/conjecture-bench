@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2788",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 2.40",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) Let $S$ be an infinite-type surface and $\\varphi$ a mapping class for which there is\na (marked) conformal structure $\\Sigma$ on $S$ with respect to which $\\varphi$ is realized\nas a quasi-conformal homeomorphism.\nThen for each quasi-conformal\nstructure in the connected component of Teichmüller space containing $\\Sigma$,\nthere is a quasiconformal homeomorphism representing $\\varphi$ which minimizes\nthe dilatation. If the infimum of the minimal dilatations for each structure\nin this component is achieved and is greater than 1, is the minimizing\nquasiconformal homeomorphism unique? What is the structure of such a\nminimizer?\n(b) If $\\varphi$ is parabolic (see Remark (1) below) for $T$, must a sequence of con-\nformal structures with dilatation converging to the infimum degenerate by\npinching along some sequence of essential simple closed curves? Is this\nsystem unique? Can it depend on the component $T$?\n(c) If $\\varphi$ fixes more than one component $T, T'$ of $\\operatorname{Teich}(S)$, can the type be dif-\nferent for $T$ and $T'$? In particular, can $\\varphi$ be parabolic for $T$ and hyperbolic\nfor $T'$?",
+    "sha256": "cb972aa049ae450d000449020046fe8cebeaea1fe8991e262d41ce266ba21ed8",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-2.40",
+    "source_locator": "dataset ID 2788; problem number KP-2.40",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

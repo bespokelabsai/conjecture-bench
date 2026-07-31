@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0062",
+  "source_registry": "open-problems-project",
+  "title": "Volume Maximizing Convex Shape",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Let $C$ be a convex piece of paper; its\nboundary may be a smooth curve, or a polygon.\nA \\emph{perimeter halving folding} is a folding of $C$ obtained by\nidentifying two points $x$ and $y$ on the boundary of $C$ that halve\nthe perimeter, and then folding $C$ by ``gluing'' $xy$ to $yx$.\nThis always results in a unique convex shape in 3D, a polyhedron if\n$C$ is a convex polygon~\\cite{do-gfalop-07}.\nWhat unit-area shape $C$ achieves the maximum volume\npossible via a perimeter-halving\nfolding?",
+    "sha256": "84f2db486947803b2e6a620d9246113f0fdb160ed5ef33e97a72f01861e810e3",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p62",
+    "source_locator": "TOPP problem 62 (Problems/P.000062)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "folding and unfolding"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

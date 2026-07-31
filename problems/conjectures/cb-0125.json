@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0125",
+  "slug": "erdos-583-gallai-path-decomposition",
+  "title": "Erdős problem #583: Gallai path decomposition",
+  "field": "graph-theory",
+  "statement": "Every connected n-vertex graph can be partitioned into at most ceil(n/2) edge-disjoint paths.",
+  "counterexample": {
+    "description": "A connected finite simple graph whose edge set cannot be partitioned into ceil(n/2) or fewer nonempty simple paths.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/583",
+        "role": "status"
+      }
+    ]
+  }
+}

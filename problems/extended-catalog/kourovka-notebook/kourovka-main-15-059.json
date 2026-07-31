@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-059",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.59 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does there exist a profinite group G that is not free but can be represented\nas a projective limit G = lim(G/Nα ), where all the G/Nα are free profinite groups of\n                           ←−\nfinite ranks?\n    The finiteness condition on the ranks of the G/Nα is essential. Such a group G\ncannot satisfy the first axiom of countability (O. V. Mel’nikov, Dokl. AN BSSR, 24,\nno. 11 (1980), 968–970 (Russian)).                                     O. V. Mel’nikov",
+    "sha256": "cec2600ef3f8245f64179f73053c4e4db26009195ba1b9ec4eeddd05d8e3367d",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=89",
+    "source_locator": "Kourovka 15.59, main section, page 89",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

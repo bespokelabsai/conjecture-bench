@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-070",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.70 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let α be an automorphism of prime order q of an infinite free Burnside group\nG = B(q, p) of prime exponent p such that α cyclically permutes the free generators\nof G. Is it true that α fixes some non-trivial element of G?\n   Editors’ comment: this is proved for q = 2 in (V. S. Atabekyan, H. T. Aslanyan,\nProc. Yerevan State Univ. Physic. Math. Sci., 53, no. 3 (2019), 147–149).\n                                                                                V. D. Mazurov",
+    "sha256": "45ee6e4a6c43bfc764aad5bf74157828772cdb41b3ce3f913e434619d0aaef34",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=110",
+    "source_locator": "Kourovka 17.70, main section, page 110",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

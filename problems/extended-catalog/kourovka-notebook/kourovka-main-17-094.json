@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-094",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.94 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Well-known problem). Can the free product Z ∗ G of the infinite cyclic group\nZ and a nontrivial group G be the normal closure of a single element?\n   Editors’ comments: the negation is also known as Kervaire’s conjecture. It was\nproved for torsion-free groups (A. Klyachko, Commun. Algebra, 21, no. 7 (1993),\n2555–2575) and for residually finite groups (M. Gerstenhaber, O. S. Rothaus, Proc.\nNat. Acad. Sci. U.S.A., 48 (1962) 1531–1533).                           J. Mycielski",
+    "sha256": "0a415600bc1c41a8a30dcb0f49b787f5eb389bc7336593f54a2f09f1226ac46f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=111",
+    "source_locator": "Kourovka 17.94, main section, page 111",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-125",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.125 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does there exist a non-abelian group G and a Rota–Baxter operator B :\nG → G such that B is surjective but not injective?                   V. G. Bardakov\n  ∗ Yes, it does exist (P. Monticone, Preprint, 2026, https://kourovkanotebookorg.\nwordpress.com/wp-content/uploads/2026/03/20_125-1.pdf).",
+    "sha256": "91c918a67a791eef9c94a04ba282217bec31ef3a4f628e2bd45891782460a113",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=162",
+    "source_locator": "Kourovka 20.125, main section, page 162",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

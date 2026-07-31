@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-072",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.72 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is there a variety of groups Θ such that the group of automorphisms of the\ncategory of free finitely generated groups Θ0 contains outer automorphisms?\n                                                                                 E. Plotkin",
+    "sha256": "1aee241dbba15368bdc8d5d46814c79ddc94f75b20bc20ebf6adcdb6c726e218",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=154",
+    "source_locator": "Kourovka 20.72, main section, page 154",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

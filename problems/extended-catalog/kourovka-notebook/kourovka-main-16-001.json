@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-001",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.1 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a finite non-abelian group, and Z(G) its centre. One can associate a\ngraph ΓG with G as follows: take G\\Z(G) as vertices of ΓG and join two vertices x\nand y if xy ̸= yx. Let H be a finite non-abelian group such that ΓG ∼= ΓH .\n    b) If H is nilpotent, is it true that G is nilpotent?\n   Comment of 2009: This is true if |H| = |G| (A. Abdollahi, S. Akbari,\nH. R. Maimani, J. Algebra, 298 (2006), 468–492).\n   Comments of 2023: This is true if |Z(H)| ⩾ |Z(G)| (H. Shahverdi, J. Algebra,\n642 (2024), 60–64), using the earlier result under the additional assumption that\nthe centralizer of every non-central element in H is abelian (V. Grazian, C. Monetta,\nJ. Algebra, 633 (2023), 389–402).\n    c) If H is solvable, is it true that G is solvable?\n                                                A. Abdollahi, S. Akbari, H. R. Maimani",
+    "sha256": "f926af45d329168c55112090f1cc49b3d625866883b79e297777c065aa42d423",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=95",
+    "source_locator": "Kourovka 16.1, main section, page 95",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

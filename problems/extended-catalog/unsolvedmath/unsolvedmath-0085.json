@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0085",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Hilbert's 7th Problem: Transcendence of Certain Numbers",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "If $\\alpha$ is algebraic and irrational, and $\\beta$ is algebraic and irrational, is $\\alpha^\\beta$ transcendental?",
+    "sha256": "a5ed2c797ce13f21f824c92eec9aed515632fecc5cd2e518620095690a4d2203",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/HIL-007",
+    "source_locator": "dataset ID 85; problem number HIL-007",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L4",
+      "secondary-aggregation",
+      "set:hilbert-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

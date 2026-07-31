@@ -1,0 +1,41 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2262",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #693",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $k\\geq 2$ and $n$ be sufficiently large depending on $k$. Let $A=\\{a_1<a_2<\\cdots \\}$ be the set of those integers in $[n,n^k]$ which have a divisor in $(n,2n)$. Estimate $ \\max_{i} a_{i+1}-a_i. $ Is this $\\leq (\\log n)^{O(1)}$?\n\",\n    \"difficulty\": \"L1\"\n},{",
+    "sha256": "fb495986d9ecb26cfeddfcab335938785a98c8863a64752061b6328137c1d5bb",
+    "contains_placeholder": false,
+    "quality_flags": [
+      "statement-embedded-json-fragment"
+    ]
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-693",
+    "source_locator": "dataset ID 2262; problem number EP-693",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems",
+      "statement-embedded-json-fragment"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "statement-extraction-repair",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

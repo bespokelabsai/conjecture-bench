@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-087",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.87 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let M be a variety of groups and let Gr be a free r-generator group in M. A\nsubset S ⊆ Gr is called a test set if every endomorphism of Gr identical on S is an\nautomorphism. The minimum of the cardinalities of test sets is called the test rank\nof Gr . Suppose that the test rank of Gr is r for every r ⩾ 1.\n   a) Is it true that M is an abelian variety?\n   b) Suppose that M is not a periodic variety. Is it true that M is the variety of all\nabelian groups?                                                      E. I. Timoshenko",
+    "sha256": "a0eec37ee30b5f415931fcb7dacf99106b8310b7e08567cf37a52c52de60d59f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=101",
+    "source_locator": "Kourovka 16.87, main section, page 101",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3387",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Singmaster's conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture There is a finite upper bound on the multiplicities of entries in Pascal's triangle, other than the number $1$.\n\nThe number $2$ appears once in Pascal's triangle, $3$ appears twice, $6$ appears three times, and $10$ appears $4$ times. There are infinite families of numbers known to appear $6$ times. The only number known to appear $8$ times is $3003$. It is not known whether any number appears more than $8$ times. The conjectured upper bound could be $8$; Singmaster thought it might be $10$ or $12$. See Singmaster's conjecture.",
+    "sha256": "e7e6fc31a09db8841b862acaa5b59a2400c3b025984bbb3843db69cbeb58f06c",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-60034",
+    "source_locator": "dataset ID 3387; problem number OPG-60034",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

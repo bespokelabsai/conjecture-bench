@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-077",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.77 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "The Stable Small Cancellation Conjecture: If F is a free group of rank r ⩾ 2,\nthen, for any fixed n > 0, there exists a generic subset S of F n such that, for any\nautomorphism ϕ of F , the set ϕ(S) satisfies the small cancellation condition C ′ (1/6).\n                                                                             P. E. Schupp",
+    "sha256": "8fe54291cabc4e97ed3792b8c81c298749a46d8c7d5f197f49a904424b4be27f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=139",
+    "source_locator": "Kourovka 19.77, main section, page 139",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

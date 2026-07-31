@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-097",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.97 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(M. Tărnăuceanu). Is it true that for every positive rational number r there\nexists a finite group G such that | Aut(G)|/|G| = r?\n    A similar question is answered in the positive for graphs, monoids, partial groups,\nand posets (R. Molinier, Preprint, 2025, https://arxiv.org/abs/2504.21059). It\nis also known that the set {| Aut(G)|/|G| | G is a finite abelian group} is dense in\n[0, +∞) (M. Tărnăuceanu, Elemente Math. (2025), https://ems.press/journals/\nem/articles/14298544).                                                     R. Molinier\n  ∗ Yes, it is true (S. Sureaux, Preprint, 2026,\nhttps://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/\n21.97-automorphism-ratios-of-finite-groups.pdf).",
+    "sha256": "d401e73d1b37bbceb00d5ec1b18af5591f063e7516bd23ba1f4653aaa09dee17",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=178",
+    "source_locator": "Kourovka 21.97, main section, page 178",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

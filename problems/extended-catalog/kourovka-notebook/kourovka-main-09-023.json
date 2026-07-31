@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-023",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.23 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a finite group, B a block of characters of G, D(B) its defect group\nand k(B) (respectively, k0 (B)) the number of all irreducible complex characters (of\nheight 0) lying in B. Conjectures:\n    a) (R. Brauer) k(B) ⩽ |D(B)|; this has been proved for p-soluble groups\n(D. Gluck, K. Magaard, U. Riese, P. Schmid, J. Algebra, 279 (2004), 694–719);\n    b) (J. B. Olsson) k0 (B) ⩽ |D(B) : D(B)′ |, where D(B)′ is the derived subgroup\nof D(B);\n    c) (R. Brauer) D(B) is abelian if and only if k0 (B) = k(B).      V. D. Mazurov",
+    "sha256": "e8be46f9287a84583bfa6f0fc8803a0704fe14f31c0b605d6701a635179a3a1b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=33",
+    "source_locator": "Kourovka 9.23, main section, page 33",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

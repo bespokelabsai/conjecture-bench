@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0163",
+  "slug": "antimagic-labeling-conjecture",
+  "title": "Antimagic labeling conjecture",
+  "field": "graph-theory",
+  "statement": "Every finite connected simple graph other than K₂ has a bijective edge labeling by 1,…,m with pairwise distinct incident-label sums at its vertices.",
+  "counterexample": {
+    "description": "A connected simple graph other than K₂ for which the finite antimagic-labeling constraint system is unsatisfiable.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://link.springer.com/article/10.1007/s00009-025-03020-z",
+        "role": "status"
+      }
+    ]
+  }
+}

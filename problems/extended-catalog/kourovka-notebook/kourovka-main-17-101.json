@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-101",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.101 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "According to P. Hall, a group G is said to be homogeneous if every iso-\nmorphism of its finitely generated subgroups is induced by an automorphism of G.\nIt is known (Higman–Neumann–Neumann) that every group is embeddable into a\nhomogeneous one. Is the same true for the category of representations of groups?\nA representation (V, G) is finitely generated if G is a finitely generated group, and V\na finitely generated module over the group algebra of G.                    B. I. Plotkin",
+    "sha256": "95937fec8b751b643594f72faff50d666e029329dcea2a3b890857aa8c4e4486",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=112",
+    "source_locator": "Kourovka 17.101, main section, page 112",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

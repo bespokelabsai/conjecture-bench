@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-04-009",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 4.9 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a finitely generated torsion-free nilpotent group. Are there only a finite\nnumber of non-isomorphic groups in the sequence αG, α2 G, . . . ? Here αG denotes\nthe automorphism group of G and αn+1 G = α(αn G) for n = 1, 2, . . . G. Baumslag",
+    "sha256": "7d02a43dcdbc79128304aa03d64bd34ceea6d102980fe4bc9d02355eec9985f5",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=12",
+    "source_locator": "Kourovka 4.9, main section, page 12",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

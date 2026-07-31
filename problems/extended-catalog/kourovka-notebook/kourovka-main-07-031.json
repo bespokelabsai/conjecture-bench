@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-07-031",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 7.31 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let A be a group of automorphisms of a finite non-abelian 2-group G acting\ntransitively on the set of involutions of G. Is A necessarily soluble?\n    Such groups G were divided into several classes in (F. Gross, J. Algebra, 40,\nno. 2 (1976), 348–353). For one of these classes a positive answer was given by\nE. G. Bryukhanova (Algebra and Logic, 20, no. 1 (1981), 1–12).         V. D. Mazurov",
+    "sha256": "8023f739ca2d510718d6635641c1a145af16a40b1dc1e36c5dccbeb560e2beac",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=23",
+    "source_locator": "Kourovka 7.31, main section, page 23",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

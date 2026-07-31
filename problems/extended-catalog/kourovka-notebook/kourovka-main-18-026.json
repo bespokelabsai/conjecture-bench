@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-026",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.26 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that a finite group G has a normal series 1 < G1 < G2 < G such\nthat the groups G1 and G2 /G1 are elementary abelian p-groups, G/G2 ∼    = A5 × A5\n(where A5 is the alternating group of degree 5), G1 and G2 /G1 are minimal normal\nsubgroups of G and G/G1 , respectively. Is it true that form(G) has finitely many\nsubformations?                                                     V. P. Burichenko",
+    "sha256": "f4ca5b61a009de52eae8e6f0e045399cbb2deadc24c1b562a69230df9766c629",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=118",
+    "source_locator": "Kourovka 18.26, main section, page 118",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

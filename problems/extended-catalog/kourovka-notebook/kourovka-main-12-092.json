@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-092",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.92 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For a field K of characteristic 2, each finite group G = {g1 , . . . , gn } of odd\norder n is determined up to isomorphism by its group determinant (Formanek–Sibley,\n1990) and even by its reduced norm which is defined as the last coefficient sm (x) of\nthe minimal polynomial φ(λ; x) = λm − s1 (x)λm−1 + · · · + (−1)m sm (x) for the generic\nelement x = x1 g1 + · · · + xn gn of the group ring KG (Hoehnke, 1991). Is it possible in\nthis theorem to replace sm (x) by some other coefficients si (x), i < m? For notation\nsee (G. Frobenius, Sitzungsber. Preuss. Akad. Wiss. Berlin, 1896, 1343–1382) and\n(K. W. Johnson, Math. Proc. Cambridge Phil. Soc., 109 (1991), 299–311).\n                                                                               H.-J. Hoehnke",
+    "sha256": "ad4c13f395425e828cf2e4412a09e911862186519a00228c652cdaa345a58562",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=63",
+    "source_locator": "Kourovka 12.92, main section, page 63",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0677",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem conjecture (p : ℕ) (hp : p.Prime) :\n    ∃ k : ℤ, k ^ 2 + 1 < p ∧\n      orderOf (k ^ 2 + 1 : ZMod p) = p - 1",
+    "language_version": "Lean 4.27.0",
+    "sha256": "d5e45808fb0ef978968e0b5226402318d63a4e53b76ce34151308394b0a4a111",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OEIS/239957.lean#L37",
+    "source_locator": "FormalConjectures/OEIS/239957.lean:37#conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "OEIS",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0231"
+  ]
+}

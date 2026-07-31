@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0066",
+  "source_registry": "open-problems-project",
+  "title": "Reflexivity of Point Sets",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Let $\\rho(S)$ be the fewest number of reflex vertices\nin a polygonization of a 2D point set $S$,\ni.e., the fewest reflexivities of any simple polygon whose\nvertex set is $S$.\nLet $\\rho(n)$ be the maximum of $\\rho(S)$ over all\nsets $S$ with $n$ points.\nWhat is $\\rho(n)$?",
+    "sha256": "01a03ef31b8ae9f5df193c900f00e430add2750bf023608e5a4ba0ea1649595a",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p66",
+    "source_locator": "TOPP problem 66 (Problems/P.000066)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "point sets",
+      "polygons"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

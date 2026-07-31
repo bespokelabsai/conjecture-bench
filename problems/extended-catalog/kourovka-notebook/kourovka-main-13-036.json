@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-13-036",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 13.36 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For a finitely generated pro-p-group G set an (G) = dim Fp I n /I n+1 , where I\nis the augmentation ideal of the group ring Fp [[G]]. We define the growth of G to be\nthe growth of the sequence {an (G)}n∈N .\n    a) If the growth of G is exponential, does it follow that G contains a free pro-p-\nsubgroup of rank 2?\n    c) Do there exist pro-p-groups of finite cohomological dimension which are not\np-adic analytic, and whose growth is slower than an exponential one?\n                                                                        O. V. Mel’nikov",
+    "sha256": "fd5a5a569374a2555130284d3bcc3fdb6aa0700523207220775040c1c879b38d",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=67",
+    "source_locator": "Kourovka 13.36, main section, page 67",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

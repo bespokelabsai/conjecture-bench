@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0230",
+  "slug": "pollock-four-tetrahedral-largest-exception",
+  "title": "Salzer–Levine four-tetrahedral maximum conjecture",
+  "field": "additive-number-theory",
+  "statement": "The greatest nonnegative integer that is not a sum of four tetrahedral numbers T_m=m(m+1)(m+2)/6 is 343867.",
+  "counterexample": {
+    "description": "An integer N>343867 that is not an exact sum of four tetrahedral numbers, allowing T₀=0 to pad a shorter sum.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://mathworld.wolfram.com/PollocksConjecture.html",
+        "role": "status-and-background"
+      },
+      {
+        "url": "https://oeis.org/A000797",
+        "role": "exception-sequence"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/PollocksConjecture.lean#L64",
+        "role": "formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0961"
+    ]
+  },
+  "equivalence_group": "pollock-tetrahedral-basis-order"
+}

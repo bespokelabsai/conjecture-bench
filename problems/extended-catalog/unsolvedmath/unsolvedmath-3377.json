@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3377",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Few subsequence sums in Z_n x Z_n",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture For every $0 \\le t \\le n-1$, the sequence in ${\\mathbb Z}_n^2$ consisting of $n-1$ copes of $(1,0)$ and $t$ copies of $(0,1)$ has the fewest number of distinct subsequence sums over all zero-free sequences from ${\\mathbb Z}_n^2$ of length $n-1+t$.",
+    "sha256": "306563b56662a3143239e60e51efbc50629103b1c114e69e1932698db4658e14",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-156",
+    "source_locator": "dataset ID 3377; problem number OPG-156",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

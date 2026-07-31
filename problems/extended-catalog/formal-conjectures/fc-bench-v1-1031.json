@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-1031",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "conjecture58",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem conjecture58 (hG : G.Connected) :\n    Nat.ceil (G.b / G.l_avg) ≤ G.largestInducedForestSize",
+    "language_version": "Lean 4.27.0",
+    "sha256": "a2b937c8c9a3b68f888e8c00bc9283d6c5eab89268849067bc0b82ba864f7d7a",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/WrittenOnTheWallII/GraphConjecture58.lean#L40",
+    "source_locator": "FormalConjectures/WrittenOnTheWallII/GraphConjecture58.lean:40#conjecture58",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "WrittenOnTheWallII",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

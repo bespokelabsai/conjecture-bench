@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0929",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "lemoine_conjecture_extension",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem lemoine_conjecture_extension (n : ℕ) (hn : 8 < n) (odd : Odd n) :\n    ∃ (p q r s a b : ℕ), OddPrime p ∧ OddPrime q ∧ OddPrime r ∧ OddPrime s ∧\n    p + 2 * q = n ∧ 2 + p * q = 2 ^ a + r ∧ 2 * p + q = 2 ^ b + s",
+    "language_version": "Lean 4.27.0",
+    "sha256": "2c2a09a951b3f9ce9250b506c39fd8ab03d23ec6d8587ad060de03b93a690ddb",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Lemoine.lean#L44",
+    "source_locator": "FormalConjectures/Wikipedia/Lemoine.lean:44#lemoine_conjecture_extension",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0215"
+  ]
+}

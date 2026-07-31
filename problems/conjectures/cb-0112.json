@@ -1,0 +1,41 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0112",
+  "slug": "rotas-basis-conjecture",
+  "title": "Rota’s basis conjecture",
+  "field": "matroid-theory",
+  "statement": "If the ground set of a rank-n matroid is partitioned into n bases, those elements can be rearranged into n disjoint transversal bases.",
+  "counterexample": {
+    "description": "Five or six labeled bases of a rank-n vector matroid over a prime field F_p for which exhaustive transversal-basis exact cover finds no rearrangement into n disjoint rainbow bases.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "legacy-15-inventory-without-forecasts",
+    "sources": [
+      {
+        "url": "https://gilkalai.wordpress.com/wp-content/uploads/2017/02/huang-rota.pdf",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2508.05601",
+        "role": "status"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/open/Rota%27s_conjecture_on_disjoint_bases",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Rota%27s_conjecture_on_disjoint_bases&oldid=2439",
+        "role": "pinned-statement-source"
+      }
+    ],
+    "discovery_records": [
+      "egres-0474"
+    ]
+  }
+}

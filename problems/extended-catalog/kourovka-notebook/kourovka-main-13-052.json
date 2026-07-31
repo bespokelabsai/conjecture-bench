@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-13-052",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 13.52 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "The dimension of a finitely based variety of algebras V is defined to be the\nmaximal length of a basis (that is, an independent generating set) of the SC-theory\nSC(V ), which consists of the strong Mal’cev conditions satisfied on V . The dimension\nis defined to be infinite if the lengths of bases in SC(V ) are not bounded. Does every\nfinite abelian group generate a variety of finite dimension?              D. M. Smirnov",
+    "sha256": "91dd728d8c905d03b008cd51e8b8db193f74008a2aa7f073cb97b83f6ccd26d0",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=69",
+    "source_locator": "Kourovka 13.52, main section, page 69",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

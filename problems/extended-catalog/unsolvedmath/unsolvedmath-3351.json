@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3351",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Diophantine quintuple conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Definition A set of m positive integers $\\{a_1, a_2, \\dots, a_m\\}$ is called a Diophantine $m$-tuple if $a_i\\cdot a_j + 1$ is a perfect square for all $1 \\leq i < j \\leq m$.\n\nConjecture (1) Diophantine quintuple does not exist.\n\nIt would follow from the following stronger conjecture [Da]:\n\nConjecture (2) If $\\{a, b, c, d\\}$ is a Diophantine quadruple and $d > \\max \\{a, b, c\\}$, then $d = a + b + c + 2bc + 2\\sqrt{(ab+1)(ac+1)(bc+1)}.$",
+    "sha256": "e87b7a5800da7c4507cc1e3aedc006312e3a184249e86e60a15e2b3ab10d68b1",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-16555",
+    "source_locator": "dataset ID 3351; problem number OPG-16555",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0219",
+  "slug": "erdos-11-squarefree-plus-power-of-two",
+  "title": "Erdős problem 11: squarefree plus a power of two",
+  "field": "additive-number-theory",
+  "statement": "Every odd integer n>1 is the sum of a squarefree nonnegative integer and a power of two.",
+  "counterexample": {
+    "description": "An odd n>1 together with, for every 2^l≤n, a divisor d_l>1 whose square divides n−2^l.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-problems-promotion",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/11",
+        "role": "status-and-primary-index"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/11.lean#L30",
+        "role": "formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0073",
+      "erdos-0011"
+    ]
+  },
+  "equivalence_group": "erdos-11-squarefree-power-of-two"
+}

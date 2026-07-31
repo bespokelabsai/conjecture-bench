@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-043",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.43 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Well-known problem). Does there exist an infinite finitely-generated residu-\nally finite p-group such that each subgroup is either finite or of finite index?\n                                                                           J. C. Lennox",
+    "sha256": "62bbf5c82f5d6948d5a7378e68fab0e27e34b59386db7983a666396e875e816a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=60",
+    "source_locator": "Kourovka 12.43, main section, page 60",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

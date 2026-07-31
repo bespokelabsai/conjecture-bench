@@ -1,0 +1,36 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1855",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "The Prime Number Race",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $\\pi(n; a, b)$ be the number of primes $p \\le n$ with $p \\equiv a \\pmod b$. For every $a$ and $b$ with $a \\perp b$, are there infinitely many values of $n$ for which $\\pi(n; a, b) > \\pi(n; a_1, b)$ for every $a_1 \\not\\equiv a \\pmod b$?",
+    "sha256": "5dac514d517cf34c06397ae11b84c561c9073b9e3023fd887e2078af06515169",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GUY-A4",
+    "source_locator": "dataset ID 1855; problem number GUY-A4",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L4",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

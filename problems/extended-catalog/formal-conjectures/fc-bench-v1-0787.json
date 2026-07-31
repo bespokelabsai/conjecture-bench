@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0787",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "eqSystem6_no_solution_d5_int",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 14 81]\ntheorem eqSystem6_no_solution_d5_int :\n    answer(sorry) ↔\n      ¬ ∃ W : WeightsN 6 5 ℤ, EqSystemN 6 5 W",
+    "language_version": "Lean 4.27.0",
+    "sha256": "ab44f54787d655c9237bb12ea94ee9e9025f6d11a244e974f91524113d259e99",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Paper/MonochromaticQuantumGraph.lean#L666",
+    "source_locator": "FormalConjectures/Paper/MonochromaticQuantumGraph.lean:666#eqSystem6_no_solution_d5_int",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Paper",
+      "AMS-5",
+      "AMS-14",
+      "AMS-81"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0119",
+  "slug": "erdos-114-polynomial-lemniscate-length",
+  "title": "Erdős problem #114: polynomial lemniscate length",
+  "field": "analysis",
+  "statement": "Among monic complex polynomials of degree n, the length of the lemniscate |p(z)|=1 is maximized by p(z)=zⁿ−1.",
+  "counterexample": {
+    "description": "An algebraic monic polynomial together with a rigorous lower bound on its lemniscate length exceeding the exact benchmark.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/114",
+        "role": "status"
+      }
+    ]
+  }
+}

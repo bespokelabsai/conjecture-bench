@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2915",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.39",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let K be a closed surface smoothly embedded in a 4-manifold $M^{4}$. Describe the subgroup of the mapping class group $Mod(K)$ of diffeomorphisms of K that extend to diffeomorphisms of M. Conversely, is it possible to characterize when a given subgroup of the mapping class group arises as the group of extendable diffeomorphisms for some K inside some $M^{4}$?",
+    "sha256": "d82cd5faba56270c8185e899dc3d11dfdfaf573cb74e3bbc6b1832377b4cebde",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.39",
+    "source_locator": "dataset ID 2915; problem number KP-4.39",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

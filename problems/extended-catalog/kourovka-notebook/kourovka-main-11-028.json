@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-028",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.28 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose the prime graph of the finite group G is disconnected. (This means\nthat the set of prime divisors of the order of G is the disjoint union of non-empty\nsubsets π and π ′ such that G contains no element of order pq where p ∈ π, q ∈ π ′ .)\nThen P. A. Linnell (Proc. London Math. Soc., 47, no. 1 (1983), 83–127) has proved\nmod CFSG that there is a decomposition of ZG-modules Z ⊕ ZG = A ⊕ B with A\nand B non-projective. Find a proof independent of CFSG.                K. Gruenberg",
+    "sha256": "35b08bbf4f0a778b90696d6e86f3457a6db47d1d411c6179127bf28a0afab2b0",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=48",
+    "source_locator": "Kourovka 11.28, main section, page 48",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

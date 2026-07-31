@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0263",
+  "slug": "popovych-polynomial-congruences",
+  "title": "Popovych polynomial-congruence conjecture",
+  "field": "computational-number-theory",
+  "statement": "Let n>1 and let r be a prime not dividing n. If both (X−1)^n ≡ X^n−1 and (X+2)^n ≡ X^n+2 in (ℤ/nℤ)[X]/(X^r−1), then n is prime or n² ≡ 1 (mod r).",
+  "counterexample": {
+    "description": "A composite n and prime r not dividing n for which n² is not 1 modulo r but both stated cyclic polynomial congruences hold exactly.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Agrawal.lean#L66",
+        "role": "formal-and-status-source"
+      },
+      {
+        "url": "https://eprint.iacr.org/2009/008.pdf",
+        "role": "primary-conjecture-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0817"
+    ]
+  },
+  "equivalence_group": "agrawal-polynomial-congruences"
+}

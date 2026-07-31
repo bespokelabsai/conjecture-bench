@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0818",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "exists_almost_perfect_not_power_of_two",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem exists_almost_perfect_not_power_of_two :\n    answer(sorry) ↔ ∃ n : ℕ, AlmostPerfect n ∧ ¬ ∃ k : ℕ, n = 2^k",
+    "language_version": "Lean 4.27.0",
+    "sha256": "0778518313ca76c93751c520d6a6dde7c1677e3735d8497db7d3efea57a01aa4",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/AlmostPerfectNumbers.lean#L44",
+    "source_locator": "FormalConjectures/Wikipedia/AlmostPerfectNumbers.lean:44#exists_almost_perfect_not_power_of_two",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

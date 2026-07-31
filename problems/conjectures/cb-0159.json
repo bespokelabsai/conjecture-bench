@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0159",
+  "slug": "topp-44-great-circle-arrangement-colouring",
+  "title": "Three-colouring great-circle arrangements",
+  "field": "graph-theory",
+  "statement": "The arrangement graph of any set of great circles with no triple intersection is vertex three-colourable.",
+  "counterexample": {
+    "description": "Twelve primitive integer plane normals in general position whose exact great-circle arrangement graph has no vertex 3-coloring.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "topp-open-finite",
+    "sources": [
+      {
+        "url": "https://topp.openproblem.net/p44",
+        "role": "status"
+      }
+    ]
+  }
+}

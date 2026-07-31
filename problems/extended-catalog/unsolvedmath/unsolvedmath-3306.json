@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3306",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "End-Devouring Rays",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem Let $G$ be a graph, $\\omega$ a countable end of $G$, and $K$ an infinite set of pairwise disjoint $\\omega$-rays in $G$. Prove that there is a set $K'$ of pairwise disjoint $\\omega$-rays that devours $\\omega$ such that the set of starting vertices of rays in $K'$ equals the set of starting vertices of rays in $K$.",
+    "sha256": "18a6db7a4c7f71d4679092c35f4346e8001f81ffd1faa7a7dba454e1b6b0186a",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-735",
+    "source_locator": "dataset ID 3306; problem number OPG-735",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

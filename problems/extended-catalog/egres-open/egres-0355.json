@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0355",
+  "source_registry": "egres-open",
+  "title": "Sabidussi's compatibility conjecture",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''G=(V,E)'' be an Eulerian graph with minimum degree at least 4, and let ''W'' be a closed Eulerian walk of ''G''. Is it true that ''G'' has a cycle decomposition such that no pair of consecutive edges of ''W'' appear in the same cycle of the decomposition?",
+    "sha256": "4e88a87d8425e6f97d6d36725faf8ca87f8d74dbdb21f85f488a5446da8be0dd",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2020-11-12T22:54:05Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Sabidussi's_compatibility_conjecture&oldid=2446",
+    "source_locator": "EGRES page 355, revision 2446",
+    "source_sha256": "64b26c439229546efd713b5b38ee6def36a8c592cfcefc20b74d2a3b7a12dd4a",
+    "tags": [
+      "combinatorial-optimization",
+      "Cycles and paths"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

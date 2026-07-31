@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-099",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.99 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Conjecture: If G is a transitive permutation group on a finite set Ω, then for\nany distinct α, β in Ω there is an element g ∈ G with αg = β whose number of fixed\npoints is different from 1.                                                 P. Müller",
+    "sha256": "d88025788cb916ddf73578bbdacbc921c43d1c0e33c0ad8c3c541bbf53475746",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=178",
+    "source_locator": "Kourovka 21.99, main section, page 178",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

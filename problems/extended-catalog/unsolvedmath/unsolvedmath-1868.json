@@ -1,0 +1,36 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1868",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Congruent Products of Consecutive Numbers",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "What is the least prime $p$ such that there are integers $a, k_1, k_2, k_3$ with $\\prod_{i=1}^{k_1} (a+i) \\equiv \\prod_{i=1}^{k_2} (a+k_1+i) \\equiv \\prod_{i=1}^{k_3} (a+k_1+k_2+i) \\equiv 1 \\pmod{p}$?",
+    "sha256": "b0e69842642484001fd5c907928207fc28c078dd2e154fea0c63e594be5bbdab",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GUY-A15",
+    "source_locator": "dataset ID 1868; problem number GUY-A15",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L2",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

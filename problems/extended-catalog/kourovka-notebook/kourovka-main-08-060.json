@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-08-060",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 8.60 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Describe the locally compact primary locally soluble groups which are covered\nby compact subgroups and all of whose closed abelian subgroups have finite rank.\n                                                         V. M. Poletskikh, V. S. Charin",
+    "sha256": "f1a12089fd2ea6133e32e98e670ef9850fe36984c483301f53fb4c13dfcd6cbe",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=29",
+    "source_locator": "Kourovka 8.60, main section, page 29",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

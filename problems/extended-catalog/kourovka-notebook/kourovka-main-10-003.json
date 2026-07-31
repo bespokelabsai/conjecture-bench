@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-10-003",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 10.3 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Characterize (in terms of bases of mixed identities or in terms of generating\ngroups) minimal mixed varieties of groups.                            V. S. Anashin",
+    "sha256": "f8bc103c01005c4791456e6f5b57d2773ef46495164f5fd1982ba298dd1fe83e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=38",
+    "source_locator": "Kourovka 10.3, main section, page 38",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

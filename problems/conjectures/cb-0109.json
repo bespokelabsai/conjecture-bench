@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0109",
+  "slug": "integer-complexity-of-2-k3-ell",
+  "title": "Integer complexity of \\(2^k3^\\ell\\)",
+  "field": "number-theory",
+  "statement": "For all nonnegative k and ℓ, the integer complexity of 2^k3^ℓ equals 2k+3ℓ.",
+  "counterexample": {
+    "description": "A \\(+\\), \\(\\times\\), and \\(1\\) expression for \\(2^k3^\\ell\\) using fewer than \\(2k+3\\ell\\) ones. The equality is verified for every \\(\\ell\\) when \\(k\\le48\\).",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "legacy-15-inventory-without-forecasts",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1606.03635",
+        "role": "supporting"
+      }
+    ]
+  }
+}

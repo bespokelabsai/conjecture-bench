@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-058",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.58 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that a free profinite product G ∗ H is a free profinite group of finite\nrank. Must G and H be free profinite groups?\n   By (J. Neukirch, Arch. Math., 22, no. 4 (1971), 337–357) this may not be true if\nthe rank of G ∗ H is infinite.                                        O. V. Mel’nikov",
+    "sha256": "5a9cb0fd277db4cf705cf062c4229d51ba5e1458c7ee68449f0babc4c7bb6d9a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=89",
+    "source_locator": "Kourovka 15.58, main section, page 89",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1976",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #176",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $N(k,\\ell)$ be the minimal $N$ such that for any $f:\\{1,\\ldots,N\\}\\to\\{-1,1\\}$ there must exist a $k$-term arithmetic progression $P$ such that $  \\left\\lvert \\sum_{n\\in P}f(n)\\right\\rvert\\geq \\ell. $ Find good upper bounds for $N(k,\\ell)$. Is it true that for any $c>0$ there exists some $C>1$ such that $ N(k,ck)\\leq C^k? $ What about $ N(k,2)\\leq C^k $ or $ N(k,\\sqrt{k})\\leq C^k? $ ",
+    "sha256": "fcb7825c40ca40561fcdc8edfae3d32d51fab99fbbd7b04fa3d2547b4b52e964",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-176",
+    "source_locator": "dataset ID 1976; problem number EP-176",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0114",
+  "slug": "wilfs-numerical-semigroup-conjecture",
+  "title": "Wilf’s numerical-semigroup conjecture",
+  "field": "number-theory",
+  "statement": "Every numerical semigroup with conductor c, embedding dimension e, and L the semigroup elements below c satisfies e|L|≥c.",
+  "counterexample": {
+    "description": "A finitely generated numerical semigroup violating Wilf’s inequality. Kunz-coordinate MILP is natural, but exhaustive computations cover every semigroup through genus 100, and through genus 120 when the multiplicity divides the conductor.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "legacy-15-inventory-without-forecasts",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1080/00029890.1978.11994639",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2310.07742",
+        "role": "supporting"
+      }
+    ]
+  }
+}

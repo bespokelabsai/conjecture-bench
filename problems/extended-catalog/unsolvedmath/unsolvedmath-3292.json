@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3292",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Ryser's conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture Let $H$ be an $r$-uniform $r$-partite hypergraph. If $\\nu$ is the maximum number of pairwise disjoint edges in $H$, and $\\tau$ is the size of the smallest set of vertices which meets every edge, then $\\tau \\le (r-1) \\nu$.",
+    "sha256": "71bb2247feb9b0d6edacc17cadbabbc902bf2130c1a85bbe59abd633d24a8e0a",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-165",
+    "source_locator": "dataset ID 3292; problem number OPG-165",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-04-056",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 4.56 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let R be a commutative Noetherian ring with 1, and Λ an R-algebra, which is\nfinitely generated as R-module. Put T = {U ∈ Mod Λ | ∃ an exact Λ-sequence 0 →\nP → Λ(n) → U → 0 for some n, with Pm ∼\n                                                  (n)\n                                             = Λm for every maximal ideal m of R}.\nDenote by G(T ) the Grothendieck group of T relative to short exact sequences.\n     a) Describe G(T ), in particular, what does it mean: [U ] = [V ] in G(T )?\n    b) Conjecture: if dim(max(R)) = d < ∞, and there are two epimorphisms φ :\nΛ(n) → U , ψ : Λ(n) → V , n > d, and [U ] = [V ] in G(T ), then Ker φ = Ker ψ.\n                                                                     K. W. Roggenkamp\n                       q                       p\n                       p −1                   q −1",
+    "sha256": "46c77c89f600e41c7d0cdd89ae1edd89da63a4841cdb9b55db45d1178f1a9693",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=14",
+    "source_locator": "Kourovka 4.56, main section, page 14",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

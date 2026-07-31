@@ -1,0 +1,41 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2000",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #234",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For every $c\\geq 0$ the density $f(c)$ of integers for which $ \\frac{p_{n+1}-p_n}{\\log n}< c $ exists and is a continuous function of $c$.\n\",\n    \"difficulty\": \"L1\"\n},{",
+    "sha256": "ff488b5bbd3b3be9126b0625c232ad4546a212b3b6190c7ac2d60ac07b1b8747",
+    "contains_placeholder": false,
+    "quality_flags": [
+      "statement-embedded-json-fragment"
+    ]
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-234",
+    "source_locator": "dataset ID 2000; problem number EP-234",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems",
+      "statement-embedded-json-fragment"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "statement-extraction-repair",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

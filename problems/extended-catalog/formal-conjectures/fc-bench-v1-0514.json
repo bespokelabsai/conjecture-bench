@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0514",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_91",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 52]\ntheorem erdos_91 :\n    (∀ᶠ n : ℕ in atTop, ¬ UniqueMinimizer n) ↔ answer(sorry)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "a5f95bdf4c7b39bc39399ecbd68267264728056638c1c4a593909370ac930b5c",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/91.lean#L146",
+    "source_locator": "FormalConjectures/ErdosProblems/91.lean:146#erdos_91",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-52"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

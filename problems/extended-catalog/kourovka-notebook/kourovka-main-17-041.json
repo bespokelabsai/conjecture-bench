@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-041",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.41 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let S be a solvable subgroup of a finite group G that has no nontrivial solvable\nnormal subgroups.\n   (a) (L. Babai, A. J. Goodman, L. Pyber). Do there always exist seven conjugates\nof S whose intersection is trivial?\n   (b) Do there always exist five conjugates of S whose intersection is trivial?\n    Editors’ comments: Reduction of part (b) to almost simple group G is obtained in\n(E. P. Vdovin, J. Algebra Appl., 11, no. 1 (2012), 1250015 (14 pages)). An affirmative\nanswer to (b) has been obtained for almost simple groups with socle isomorphic to\nan alternating group (A. A. Baikalov, Algebra Logic, 56 (2017), 87–97), to a sporadic\nsimple group (T. C. Burness, Israel J. Math., 254 (2023), 313–340), to P SL(n, q)\n(A. A. Baykalov, J. Group Theory, 28 (2025), 1003–1077), to P SU (n, q) or P Sp(n, q)′\n(A. A. Baykalov, Int. J. Algebra Comput., 35, no. 06 (2025), 823–908). Part (b) also\nhas an affirmative answer if S is a maximal subgroup of G (T. C. Burness, Algebra\nNumber Theory, 15, no. 7 (2021), 1755–1807).                              E. P. Vdovin",
+    "sha256": "146115cc260986836f43640d1ef726d30a0c6decf7e402212d98914b32306264",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=107",
+    "source_locator": "Kourovka 17.41, main section, page 107",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

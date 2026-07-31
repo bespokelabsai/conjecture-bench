@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-107",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.107 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let A E be the smallest class of locally compact groups such that\n  (1) A E contains the compact groups and the discrete amenable groups;\n  (2) A E is closed under taking closed subgroups, Hausdorff quotients, directed\n      unions of open subgroups, and group extensions.\nIs every amenable locally compact group an element of A E ?\n    (A negative answer would follow from a positive answer to 19.21.)   P. Wesolek",
+    "sha256": "06a5b94ddc2f520f27484ceb255ccda951b7f415342fbb1db3536272c2efcd86",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=142",
+    "source_locator": "Kourovka 19.107, main section, page 142",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

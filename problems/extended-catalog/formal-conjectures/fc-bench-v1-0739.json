@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0739",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "Finite.Equation677_implies_Equation255",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 8]\ntheorem Finite.Equation677_implies_Equation255 (G : Type) [Magma G] [Finite G]\n    (h : Equation677 G) : Equation255 G",
+    "language_version": "Lean 4.27.0",
+    "sha256": "b37ee96b817db67d3fa5f32ded2a1a86bc3b20d8b3a1b70d51515d4b3a4c250f",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Other/EquationalTheories_677_255.lean#L71",
+    "source_locator": "FormalConjectures/Other/EquationalTheories_677_255.lean:71#Finite.Equation677_implies_Equation255",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Other",
+      "AMS-8"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0264"
+  ]
+}

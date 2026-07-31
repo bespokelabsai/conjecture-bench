@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-075",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.75 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Find all local formations F of finite groups such that, in every finite group, the\nset of F-subnormal subgroups forms a lattice.\n    Comment of 2015 : Subgroup-closed formations with this property are described\nin (Xiaolan Yi, S. F. Kamornikov, J. Algebra, 444 (2015), 143–151). L. A. Shemetkov",
+    "sha256": "aaec7100cefd6060440c1e38c19ba2d7de10bb898d63b08e9db4185cdb4bfcb6",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=36",
+    "source_locator": "Kourovka 9.75, main section, page 36",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

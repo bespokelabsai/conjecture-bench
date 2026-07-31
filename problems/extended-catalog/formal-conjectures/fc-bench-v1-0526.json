@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0526",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_930",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_930 :\n    answer(sorry) ↔ ∀ r > 0, ∃ k, ∀ I₁ I₂ : Fin r → ℕ,\n      (∀ i : Fin r, 0 < I₁ i ∧ I₁ i + k ≤ I₂ i + 1) →\n        (∀ i j : Fin r, i < j → I₂ i < I₁ j) →\n          ¬ IsPower (∏ i : Fin r, ∏ m ∈ Icc (I₁ i) (I₂ i), m)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "5effe75c08e7f0e2632a4b8cb6a103d92fd33e50b613e4226ccddc7cfcb6c198",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/930.lean#L45",
+    "source_locator": "FormalConjectures/ErdosProblems/930.lean:45#erdos_930",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

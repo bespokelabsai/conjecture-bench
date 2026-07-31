@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2043",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #317",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Is there some constant $c>0$ such that for every $n\\geq 1$ there exists some $\\delta_k\\in \\{-1,0,1\\}$ for $1\\leq k\\leq n$ with $ 0< \\left\\lvert \\sum_{1\\leq k\\leq n}\\frac{\\delta_k}{k}\\right\\rvert < \\frac{c}{2^n}? $ Is it true that for sufficiently large $n$, for any $\\delta_k\\in \\{-1,0,1\\}$, $ \\left\\lvert \\sum_{1\\leq k\\leq n}\\frac{\\delta_k}{k}\\right\\rvert > \\frac{1}{[1,\\ldots,n]} $ whenever the left-hand side is not zero?",
+    "sha256": "1e6f29b7ea4d8d02e87e92c76ba74ece9832f29859accc2a387769c5284acbee",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-317",
+    "source_locator": "dataset ID 2043; problem number EP-317",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

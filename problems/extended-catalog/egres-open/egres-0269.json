@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0269",
+  "source_registry": "egres-open",
+  "title": "Rank-respecting augmentation of hypergraphs with negamodular constraints",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Given a [[supermodular function|crossing negamodular]] function <math>R:2^V\\to\n\\mathbb{Z}</math> such that <math>R(X)\\ne 1</math> for every\n<math>X\\subseteq V</math> and a hypergraph\n<math>G_0=(V,\\mathcal{E}_0)</math>, find a hypergraph\n<math>G=(V,\\mathcal{E})</math> of minimum total size such that\n<math>d_G(X)\\ge R(X)-d_{G_0}(X)</math> holds for every\n<math>X\\subseteq V</math> and the rank of <math>G</math> does not\nexceed the rank of <math>G_0</math>.",
+    "sha256": "b7843654f7328b2c9fbf655e0d683665b045faee0b8c2f0a222166ede566acb8",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2010-12-01T11:25:46Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Rank-respecting_augmentation_of_hypergraphs_with_negamodular_constraints&oldid=1186",
+    "source_locator": "EGRES page 269, revision 1186",
+    "source_sha256": "7335a3279e357ca0276da8c4827dbe75ddbdf5f5a1a620b4886766ad18990fe0",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

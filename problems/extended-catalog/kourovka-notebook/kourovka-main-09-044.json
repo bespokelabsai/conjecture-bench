@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-044",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.44 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A topological group is said to be layer compact if the full inverse images of all\nof its compacts under mappings x → xn , n = 1, 2, . . . , are compacts. Describe the\nlocally compact locally soluble layer compact groups.                 V. M. Poletskikh",
+    "sha256": "2249a86aed487c9ff7632023c8b4c1ef8b4e9b647e32822101f0161db6d37342",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=34",
+    "source_locator": "Kourovka 9.44, main section, page 34",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

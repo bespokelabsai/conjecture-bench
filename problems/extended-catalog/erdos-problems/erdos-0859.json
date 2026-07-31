@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "erdos-0859",
+  "source_registry": "erdos-problems",
+  "title": "Erdős problem #859",
+  "statement": {
+    "representation": "source-reference",
+    "text": null,
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-08-31",
+    "evidence": "pinned Erdős Problems maintainer feed"
+  },
+  "provenance": {
+    "source_url": "https://www.erdosproblems.com/859",
+    "source_locator": "Erdős problem 859",
+    "source_commit": "1fddae4643fac0308db2e557876b78072e30f2e1",
+    "tags": [
+      "number theory",
+      "divisors"
+    ]
+  },
+  "review_flags": [
+    "exact-statement",
+    "status"
+  ]
+}

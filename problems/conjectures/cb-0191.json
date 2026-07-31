@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0191",
+  "slug": "kaplansky-zero-divisor-conjecture",
+  "title": "Kaplansky zero-divisor conjecture",
+  "field": "algebra",
+  "statement": "The group algebra of every torsion-free group over a field has no nonzero zero divisors.",
+  "counterexample": {
+    "description": "A finite presentation of a torsion-free group and nonzero finite-support group-algebra elements whose product is zero.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://aimath.org/WWN/rapiddecay/rapiddecay.pdf",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0913"
+    ]
+  }
+}

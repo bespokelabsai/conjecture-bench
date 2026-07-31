@@ -1,0 +1,303 @@
+id,kind,title,source,family,status
+cb-0001,conjecture,Barnette’s conjecture,original-100-inventory,,open
+cb-0002,conjecture,Graceful Tree conjecture,original-100-inventory,,open
+cb-0003,conjecture,Vertex Reconstruction conjecture,original-100-inventory,,open
+cb-0004,conjecture,Edge Reconstruction conjecture,original-100-inventory,,open
+cb-0005,conjecture,Erdős–Gyárfás conjecture,original-100-inventory,,open
+cb-0006,conjecture,Hoffmann-Ostenhof’s 3-Decomposition conjecture,original-100-inventory,,open
+cb-0007,conjecture,Sheehan’s conjecture,original-100-inventory,,open
+cb-0008,conjecture,Kotzig’s \(P_k\)-graph conjecture,original-100-inventory,,open
+cb-0009,conjecture,Jaeger’s Petersen Coloring conjecture,original-100-inventory,,open
+cb-0010,conjecture,Berge–Fulkerson conjecture,original-100-inventory,,open
+cb-0011,conjecture,Fan–Raspaud conjecture,original-100-inventory,,open
+cb-0012,conjecture,Tutte’s 5-Flow conjecture,original-100-inventory,,open
+cb-0013,conjecture,Tutte’s 3-Flow conjecture,original-100-inventory,,open
+cb-0014,conjecture,Bouchet’s 6-Flow conjecture,original-100-inventory,,open
+cb-0015,conjecture,Caccetta–Häggkvist conjecture,original-100-inventory,,open
+cb-0016,conjecture,Bermond–Thomassen conjecture,original-100-inventory,,open
+cb-0017,conjecture,The 1/3–2/3 conjecture,original-100-inventory,,open
+cb-0018,conjecture,Prime-power conjecture for finite projective planes,original-100-inventory,,open
+cb-0019,conjecture,Seymour’s Second Neighborhood conjecture,original-100-inventory,,open
+cb-0020,conjecture,Conway’s Thrackle conjecture,original-100-inventory,,open
+cb-0021,conjecture,Harary–Hill conjecture,original-100-inventory,,open
+cb-0022,conjecture,Zarankiewicz’s complete-bipartite crossing conjecture,original-100-inventory,,open
+cb-0023,conjecture,Albertson’s conjecture,original-100-inventory,,open
+cb-0024,conjecture,Hadwiger’s conjecture,original-100-inventory,,open
+cb-0025,conjecture,Total Coloring conjecture,original-100-inventory,,open
+cb-0026,conjecture,List Edge Coloring conjecture,original-100-inventory,,open
+cb-0027,conjecture,Acyclic Edge Coloring conjecture,original-100-inventory,,open
+cb-0028,conjecture,Erdős–Nešetřil Strong Chromatic Index conjecture,original-100-inventory,,open
+cb-0029,conjecture,Wegner’s planar graph-square conjecture,original-100-inventory,,open
+cb-0030,conjecture,Borodin–Kostochka conjecture,original-100-inventory,,open
+cb-0031,conjecture,Reed’s ω–Δ–χ conjecture,original-100-inventory,,open
+cb-0032,conjecture,Linear Arboricity conjecture,original-100-inventory,,open
+cb-0033,conjecture,Tuza’s triangle packing–covering conjecture,original-100-inventory,,open
+cb-0034,conjecture,Frankl’s Union-Closed Sets conjecture,original-100-inventory,,open
+cb-0035,conjecture,Goldbach,original-100-inventory,,open
+cb-0036,conjecture,"Collatz, finite-cycle route",original-100-inventory,,open
+cb-0037,conjecture,Legendre prime-between-squares,original-100-inventory,,open
+cb-0038,conjecture,Oppermann,original-100-inventory,,open
+cb-0039,conjecture,Andrica,original-100-inventory,,open
+cb-0040,conjecture,Firoozbakht,original-100-inventory,,open
+cb-0041,conjecture,Erdős–Straus,original-100-inventory,,open
+cb-0042,conjecture,Kurepa left factorial,original-100-inventory,,open
+cb-0043,conjecture,Lehmer totient,original-100-inventory,,open
+cb-0044,conjecture,Giuga,original-100-inventory,,open
+cb-0045,conjecture,Carmichael totient multiplicity,original-100-inventory,,open
+cb-0046,conjecture,No odd perfect numbers,original-100-inventory,,open
+cb-0047,conjecture,No perfect cuboid,original-100-inventory,,open
+cb-0048,conjecture,Erdős–Moser,original-100-inventory,,open
+cb-0049,conjecture,Goormaghtigh,original-100-inventory,,open
+cb-0050,conjecture,Brocard–Ramanujan,original-100-inventory,,open
+cb-0051,conjecture,Lehmer-number minimality conjecture,original-100-inventory,,open
+cb-0052,conjecture,Riemann hypothesis,original-100-inventory,,open
+cb-0053,conjecture,Beal,original-100-inventory,,open
+cb-0054,conjecture,Grimm,original-100-inventory,,open
+cb-0055,conjecture,Hadamard matrix existence,original-100-inventory,,open
+cb-0056,conjecture,Circulant Hadamard nonexistence,original-100-inventory,,open
+cb-0057,conjecture,No long Barker sequence,original-100-inventory,,open
+cb-0058,conjecture,Lander–Parkin–Selfridge,original-100-inventory,,open
+cb-0059,conjecture,Alon–Tarsi Latin-square parity,original-100-inventory,,open
+cb-0060,conjecture,Foulkes plethysm,original-100-inventory,,open
+cb-0061,conjecture,Saxl staircase square,original-100-inventory,,open
+cb-0062,conjecture,Stanley tree chromatic symmetric function,original-100-inventory,,open
+cb-0063,conjecture,Symmetric Mahler volume product,original-100-inventory,,open
+cb-0064,conjecture,Kalai \(3^d\)-faces,original-100-inventory,,open
+cb-0065,conjecture,Gilbreath–Proth prime differences,original-100-inventory,,open
+cb-0066,conjecture,Hadwiger–Levi illumination,original-100-inventory,,open
+cb-0067,conjecture,Borsuk in dimension four,original-100-inventory,,open
+cb-0068,conjecture,Černý–Starke synchronizing-word conjecture,original-100-inventory,,open
+cb-0069,conjecture,Aanderaa–Karp–Rosenberg evasiveness conjecture,original-100-inventory,,open
+cb-0070,conjecture,Conforti–Cornuéjols replication conjecture,original-100-inventory,,open
+cb-0071,conjecture,Ryser’s \(r\)-partite hypergraph conjecture,original-100-inventory,,open
+cb-0072,conjecture,Complete EFX for additive goods,original-100-inventory,,open
+cb-0073,conjecture,Circuit-Hirsch conjecture,original-100-inventory,,open
+cb-0074,conjecture,Dittert’s permanent conjecture,original-100-inventory,,open
+cb-0075,conjecture,Marcus–de Oliveira determinantal conjecture,original-100-inventory,,open
+cb-0076,conjecture,Woodall’s dijoin-packing conjecture,original-100-inventory,,open
+cb-0077,conjecture,Samuels’s small-deviation conjecture,original-100-inventory,,open
+cb-0078,conjecture,Gaussian product inequality,original-100-inventory,,open
+cb-0079,conjecture,Crouzeix’s conjecture,original-100-inventory,,open
+cb-0080,conjecture,Atiyah–Sutcliffe determinant conjecture,original-100-inventory,,open
+cb-0081,conjecture,Dürer–Shephard edge-unfolding conjecture,original-100-inventory,,open
+cb-0082,conjecture,Sidorenko’s graph-homomorphism conjecture,original-100-inventory,,open
+cb-0083,conjecture,Lonely Runner conjecture,original-100-inventory,,open
+cb-0084,conjecture,Kneser–Poulsen contraction conjecture,original-100-inventory,,open
+cb-0085,conjecture,Conway’s 99-graph problem,original-100-inventory,,open
+cb-0086,conjecture,Smale’s mean-value conjecture,original-100-inventory,,open
+cb-0087,conjecture,Chollet’s permanent conjecture,original-100-inventory,,open
+cb-0088,conjecture,Log-Brunn–Minkowski conjecture,original-100-inventory,,open
+cb-0089,conjecture,Beurling–Ahlfors norm conjecture,original-100-inventory,,open
+cb-0090,conjecture,Szymanski’s hypercube-routing conjecture,original-100-inventory,,open
+cb-0091,conjecture,Exact Beck–Fiala \(t\)-bound,original-100-inventory,,open
+cb-0092,conjecture,Hadwiger–Nelson exact-value hypothesis \(\chi(\mathbb R^2)=5\),original-100-inventory,,open
+cb-0093,conjecture,Perfect one-factorisation conjecture,original-100-inventory,,open
+cb-0094,conjecture,Cabling conjecture,original-100-inventory,,open
+cb-0095,conjecture,Purely cosmetic surgery conjecture,original-100-inventory,,open
+cb-0096,conjecture,Cosmetic crossing conjecture,original-100-inventory,,open
+cb-0097,conjecture,Zauner’s Weyl–Heisenberg SIC existence conjecture,original-100-inventory,,open
+cb-0098,conjecture,Zauner’s dimension-six MUB conjecture,original-100-inventory,,open
+cb-0099,conjecture,PPT-squared conjecture,original-100-inventory,,open
+cb-0100,conjecture,Centrally symmetric Viterbo conjecture,original-100-inventory,,open
+cb-0101,conjecture,Li–Guo Laplacian degree-sequence inequality,legacy-15-inventory-without-forecasts,,open
+cb-0102,conjecture,Positive-edge graph imbalance conjecture,legacy-15-inventory-without-forecasts,,open
+cb-0103,conjecture,Positive square-energy strengthening,legacy-15-inventory-without-forecasts,,open
+cb-0104,conjecture,Nordhaus–Gaddum product for the \(k\)-th Laplacian eigenvalue,legacy-15-inventory-without-forecasts,,open
+cb-0105,conjecture,Rule 115 even-period formula,legacy-15-inventory-without-forecasts,,open
+cb-0106,conjecture,Largest fifth pivot under Gaussian elimination with complete pivoting,legacy-15-inventory-without-forecasts,,open
+cb-0107,conjecture,Graphical Merino–Welsh conjecture,legacy-15-inventory-without-forecasts,,open
+cb-0108,conjecture,"\(\operatorname{ex}(Q_8,C_4)=680\)",legacy-15-inventory-without-forecasts,,open
+cb-0109,conjecture,Integer complexity of \(2^k3^\ell\),legacy-15-inventory-without-forecasts,,open
+cb-0110,conjecture,Erdős–Szekeres exact-value conjecture,legacy-15-inventory-without-forecasts,,open
+cb-0111,conjecture,"\(R(5,5)=43\)",legacy-15-inventory-without-forecasts,,open
+cb-0112,conjecture,Rota’s basis conjecture,legacy-15-inventory-without-forecasts,,open
+cb-0113,conjecture,Ryser’s odd-order Latin-square transversal conjecture,legacy-15-inventory-without-forecasts,,open
+cb-0114,conjecture,Wilf’s numerical-semigroup conjecture,legacy-15-inventory-without-forecasts,,open
+cb-0115,conjecture,Metric-TSP \(4/3\) subtour-LP integrality-gap conjecture,legacy-15-inventory-without-forecasts,,open
+cb-0116,conjecture,Erdős problem #23: triangle-free bipartization,erdos-finite-status,,open
+cb-0117,conjecture,Erdős problem #97: equal distances in a convex polygon,erdos-finite-status,,open
+cb-0118,conjecture,Erdős problem #106: square-packing side-length sum,erdos-finite-status,,open
+cb-0119,conjecture,Erdős problem #114: polynomial lemniscate length,erdos-finite-status,,open
+cb-0120,conjecture,Erdős problem #128: half-density triangle condition,erdos-finite-status,,open
+cb-0121,conjecture,Erdős problem #287: unit-fraction denominator gaps,erdos-finite-status,,open
+cb-0122,conjecture,Erdős problem #458: primorial LCM inequality,erdos-finite-status,,open
+cb-0123,conjecture,Erdős problem #488: divisibility-set density,erdos-finite-status,,open
+cb-0124,conjecture,Erdős problem #548: dense-graph tree embedding,erdos-finite-status,,open
+cb-0125,conjecture,Erdős problem #583: Gallai path decomposition,erdos-finite-status,,open
+cb-0126,conjecture,Erdős problem #617: balanced edge colouring,erdos-finite-status,,open
+cb-0127,conjecture,Erdős problem #628: chromatic splitting,erdos-finite-status,,open
+cb-0128,conjecture,Erdős problem #699: prime divisors of binomial gcds,erdos-finite-status,,open
+cb-0129,conjecture,Erdős problem #743: tree packing into a complete graph,erdos-finite-status,,open
+cb-0130,conjecture,Erdős problem #779: primorial plus a prime,erdos-finite-status,,open
+cb-0131,conjecture,Erdős problem #982: distances from a convex-polygon vertex,erdos-finite-status,,open
+cb-0132,conjecture,Erdős problem #993: unimodality of tree independent sets,erdos-finite-status,,open
+cb-0133,conjecture,Erdős problem #1020: matching extremal hypergraph,erdos-finite-status,,status-contested
+cb-0134,conjecture,Erdős problem #1041: short paths in polynomial sublevel sets,erdos-finite-status,,open
+cb-0135,conjecture,Erdős problem #1082: distinct distances in general position,erdos-finite-status,,open
+cb-0136,conjecture,Erdős problem #7: odd distinct covering systems,erdos-finite-status,,open
+cb-0137,conjecture,Erdős problem #19: chromatic number of clique unions,erdos-finite-status,,open
+cb-0138,conjecture,Erdős problem #307: a product of reciprocal-prime sums,erdos-finite-status,,open
+cb-0139,conjecture,Erdős problem #364: consecutive powerful numbers,erdos-finite-status,,open
+cb-0140,conjecture,Erdős problem #366: consecutive 2-full and 3-full numbers,erdos-finite-status,,open
+cb-0141,conjecture,Erdős problem #475: distinct partial sums in finite fields,erdos-finite-status,,open
+cb-0142,conjecture,Erdős problem #547: a Ramsey bound for trees,erdos-finite-status,,open
+cb-0143,conjecture,Erdős problem #551: cycle-versus-clique Ramsey number,erdos-finite-status,,open
+cb-0144,conjecture,Erdős problem #556: three-colour cycle Ramsey bound,erdos-finite-status,,open
+cb-0145,conjecture,Erdős problem #580: half-dense tree containment,erdos-finite-status,,open
+cb-0146,conjecture,Erdős problem #647: divisor-count record inequality,erdos-finite-status,,open
+cb-0147,conjecture,Erdős problem #672: perfect-power progression products,erdos-finite-status,,open
+cb-0148,conjecture,Erdős problem #742: diameter-two edge-critical graphs,erdos-finite-status,,open
+cb-0149,conjecture,Erdős problem #835: local-rainbow hypergraph colouring,erdos-finite-status,,open
+cb-0150,conjecture,Erdős problem #848: squarefree-product-avoiding sets,erdos-finite-status,,open
+cb-0151,conjecture,Two-bend 3D orthogonal graph drawings,topp-open-finite,,open
+cb-0152,conjecture,Hexahedral meshing,topp-open-finite,,open
+cb-0153,conjecture,Flip-graph connectivity in three dimensions,topp-open-finite,,open
+cb-0154,conjecture,Hamiltonian tetrahedralizations,topp-open-finite,,open
+cb-0155,conjecture,Trapping light with segment mirrors,topp-open-finite,,open
+cb-0156,conjecture,Compatible triangulations,topp-open-finite,,open
+cb-0157,conjecture,Vertex-unfolding polyhedra,topp-open-finite,,open
+cb-0158,conjecture,General unfoldings of nonconvex polyhedra,topp-open-finite,,open
+cb-0159,conjecture,Three-colouring great-circle arrangements,topp-open-finite,,open
+cb-0160,conjecture,Edge-unfolding genus-zero polycubes,topp-open-finite,,open
+cb-0161,conjecture,Polyhedral surfaces with regular pentagon faces,topp-open-finite,,open
+cb-0162,conjecture,Zipper unfoldings of convex polyhedra,topp-open-finite,,open
+cb-0163,conjecture,Antimagic labeling conjecture,famous-finite-expansion,,open
+cb-0164,conjecture,Burning number conjecture,famous-finite-expansion,,open
+cb-0165,conjecture,Negami planar-cover conjecture,famous-finite-expansion,,open
+cb-0166,conjecture,Graham–Sloane harmonious tree-labeling conjecture,famous-finite-expansion,,open
+cb-0167,conjecture,Kelly tournament-decomposition conjecture,famous-finite-expansion,,open
+cb-0168,conjecture,Erdős–Chvátal simplex conjecture,famous-finite-expansion,,open
+cb-0169,conjecture,Manickam–Miklós–Singhi conjecture,famous-finite-expansion,,open
+cb-0170,conjecture,Brualdi partial-transversal conjecture,famous-finite-expansion,,open
+cb-0171,conjecture,White symmetric-exchange conjecture,famous-finite-expansion,,open
+cb-0172,conjecture,Hajós cycle-decomposition conjecture,famous-finite-expansion,,open
+cb-0173,conjecture,Graham graph-pebbling product conjecture,famous-finite-expansion,,open
+cb-0174,conjecture,Aharoni–Berger rainbow-matching conjecture,famous-finite-expansion,,open
+cb-0175,conjecture,Chvátal intersecting-downset conjecture,famous-finite-expansion,,open
+cb-0176,conjecture,Lovász vertex-transitive Hamilton-path conjecture,famous-finite-expansion,,open
+cb-0177,conjecture,Wall–Sun–Sun prime nonexistence conjecture,famous-finite-expansion,,open
+cb-0178,conjecture,Jeśmanowicz conjecture,famous-finite-expansion,,open
+cb-0179,conjecture,Zaremba bound-five conjecture,famous-finite-expansion,,open
+cb-0180,conjecture,Vandiver conjecture,famous-finite-expansion,,open
+cb-0181,conjecture,Scholz–Brauer addition-chain conjecture,famous-finite-expansion,,open
+cb-0182,conjecture,Lehmer tau nonvanishing conjecture,famous-finite-expansion,,open
+cb-0183,conjecture,Euler idoneal-number list conjecture,famous-finite-expansion,,open
+cb-0184,conjecture,Five-dimensional kissing-number conjecture,famous-finite-expansion,,open
+cb-0185,conjecture,Six-dimensional kissing-number conjecture,famous-finite-expansion,,open
+cb-0186,conjecture,D₄ sphere-packing optimality conjecture,famous-finite-expansion,,open
+cb-0187,conjecture,D₅ sphere-packing optimality conjecture,famous-finite-expansion,,open
+cb-0188,conjecture,E₆ sphere-packing optimality conjecture,famous-finite-expansion,,open
+cb-0189,conjecture,Fejes Tóth sausage conjecture,famous-finite-expansion,,open
+cb-0190,conjecture,Square peg conjecture,famous-finite-expansion,,open
+cb-0191,conjecture,Kaplansky zero-divisor conjecture,famous-finite-expansion,,open
+cb-0192,conjecture,Kaplansky direct-finiteness conjecture,famous-finite-expansion,,open
+cb-0193,conjecture,Auslander–Reiten conjecture,famous-finite-expansion,,open
+cb-0194,conjecture,Slice–ribbon conjecture,famous-finite-expansion,,open
+cb-0195,conjecture,Smooth four-dimensional Poincaré conjecture,famous-finite-expansion,,open
+cb-0196,conjecture,Generalized Property R conjecture,famous-finite-expansion,,open
+cb-0197,conjecture,Alperin weight conjecture,famous-finite-expansion,,open
+cb-0198,conjecture,Andrews–Curtis conjecture,famous-finite-expansion,,open
+cb-0199,conjecture,Hopf sign conjecture,famous-finite-expansion,,open
+cb-0200,conjecture,Singer L²-cohomology conjecture,famous-finite-expansion,,open
+cb-0201,conjecture,Erdős problem #64: power-of-two cycle,erdos-finite-status,,open
+cb-0202,conjecture,Erdős problem #167: triangle packing versus cover,erdos-finite-status,,open
+cb-0203,conjecture,Second Hardy–Littlewood conjecture,formal-conjectures-promotion,,open
+cb-0204,conjecture,Strong sensitivity conjecture,formal-conjectures-promotion,,open
+cb-0205,conjecture,"Cho–Choi–Park independent-domination conjecture, even case",formal-conjectures-promotion,,open
+cb-0206,conjecture,"Cho–Choi–Park independent-domination conjecture, odd case",formal-conjectures-promotion,,open
+cb-0207,conjecture,Erdős ternary-digit conjecture for powers of two,formal-conjectures-promotion,,open
+cb-0208,conjecture,Erdős problem 677: separated interval LCMs,erdos-problems-promotion,,open
+cb-0209,conjecture,Unfair zero–one polynomial conjecture,formal-conjectures-promotion,,open
+cb-0210,conjecture,Dubner twin-prime sum conjecture,formal-conjectures-promotion,,open
+cb-0211,conjecture,Brocard conjecture on consecutive prime squares,formal-conjectures-promotion,,open
+cb-0212,conjecture,Feit–Thompson prime divisibility conjecture,formal-conjectures-promotion,,open
+cb-0213,conjecture,Euler sum-of-powers conjecture for k≥6,formal-conjectures-promotion,,open
+cb-0214,conjecture,Lemoine's conjecture,formal-conjectures-promotion,,open
+cb-0215,conjecture,Extended Lemoine conjecture,formal-conjectures-promotion,,open
+cb-0216,conjecture,Pollock's tetrahedral-number conjecture,formal-conjectures-promotion,,open
+cb-0217,conjecture,Juggler conjecture: nontrivial-cycle variant,formal-conjectures-promotion,,open
+cb-0218,conjecture,OEIS A034693 bounded-multiplier conjecture,formal-conjectures-promotion,,open
+cb-0219,conjecture,Erdős problem 11: squarefree plus a power of two,erdos-problems-promotion,,open
+cb-0220,conjecture,Selfridge's PSW primality conjecture,formal-conjectures-promotion,,open
+cb-0221,conjecture,OEIS A231201 power-of-two prime-sum conjecture,formal-conjectures-promotion,,open
+cb-0222,conjecture,OEIS A232174 two-prime representation conjecture,formal-conjectures-promotion,,open
+cb-0223,conjecture,Sun's 1680 four-square conjecture,formal-conjectures-promotion,,open
+cb-0224,conjecture,OEIS A281976 restricted four-square conjecture,formal-conjectures-promotion,,open
+cb-0225,conjecture,OEIS A303656 squares-and-powers conjecture,formal-conjectures-promotion,,open
+cb-0226,conjecture,Sun's 2-4-6-8 conjecture,formal-conjectures-promotion,,open
+cb-0227,conjecture,OEIS A308734 restricted power-square conjecture,formal-conjectures-promotion,,open
+cb-0228,conjecture,OEIS A034693 three-quarter-power strengthening,formal-conjectures-promotion,,open
+cb-0229,conjecture,Antihydra nontermination conjecture,formal-conjectures-promotion,,open
+cb-0230,conjecture,Salzer–Levine four-tetrahedral maximum conjecture,formal-conjectures-promotion,,open
+cb-0231,conjecture,Sun's square-plus-one primitive-root conjecture,formal-conjectures-promotion,,open
+cb-0232,conjecture,A056777 prime-quadruple characterization conjecture,formal-conjectures-promotion,,open
+cb-0233,conjecture,A063880 residue-108 conjecture,formal-conjectures-promotion,,open
+cb-0234,conjecture,A063880 unique primitive-term conjecture,formal-conjectures-promotion,,open
+cb-0235,conjecture,A067720 unique composite-successor conjecture,formal-conjectures-promotion,,open
+cb-0236,conjecture,Arithmetic sum S positivity conjecture,formal-conjectures-promotion,,open
+cb-0237,conjecture,Arithmetic sum S greater-than-k conjecture,formal-conjectures-promotion,,open
+cb-0238,conjecture,Arithmetic sum S greater-than-2k conjecture,formal-conjectures-promotion,,open
+cb-0239,conjecture,Arithmetic sum S greater-than-3k conjecture,formal-conjectures-promotion,,open
+cb-0240,conjecture,Gowers–Long 2-increasing triples conjecture,formal-conjectures-promotion,,open
+cb-0241,conjecture,Unique crystal components conjecture,formal-conjectures-promotion,,open
+cb-0242,conjecture,Erdős problem 373: largest factorial-product solution,formal-conjectures-promotion,,open
+cb-0243,conjecture,Surányi factorial equation conjecture,formal-conjectures-promotion,,open
+cb-0244,conjecture,Erdős problem 406: ternary 1–2 powers of two,formal-conjectures-promotion,,open
+cb-0245,conjecture,New Mersenne conjecture,formal-conjectures-promotion,,open
+cb-0246,conjecture,Second cuboid polynomial irreducibility conjecture,formal-conjectures-promotion,,open
+cb-0247,conjecture,Third cuboid polynomial irreducibility conjecture,formal-conjectures-promotion,,open
+cb-0248,conjecture,Lander–Parkin–Selfridge fifth-power 3-to-1 case,formal-conjectures-promotion,,open
+cb-0249,conjecture,"No positive (2,5)-perfect number",number-theory-status-promotion,,open
+cb-0250,conjecture,Catch-Up even-total draw conjecture,formal-conjectures-promotion,,open
+cb-0251,conjecture,Lebesgue–Nagell equation x²−2=yᵖ,formal-conjectures-promotion,,open
+cb-0252,conjecture,Weak Grimm distinct-prime-support conjecture,formal-conjectures-promotion,,open
+cb-0253,conjecture,Tight union-closed family cardinality conjecture,formal-conjectures-promotion,,open
+cb-0254,conjecture,Erdős problem 324: equal sums of two fifth powers,formal-conjectures-promotion,,open
+cb-0255,conjecture,Erdős problem 11: not-divisible-by-four variant,formal-conjectures-promotion,,open
+cb-0256,conjecture,Erdős problem 11: squarefree plus two powers of two,formal-conjectures-promotion,,open
+cb-0257,conjecture,Erdős–Straus with distinct denominators,formal-conjectures-promotion,,open
+cb-0258,conjecture,Reed’s conjecture at Δ=6 and ω=2,formal-conjectures-promotion,,open
+cb-0259,conjecture,Plane Jacobian conjecture: rational-collision variant,current-status-promotion,,open
+cb-0260,conjecture,Herzog–Schönheim coset-partition conjecture,formal-conjectures-promotion,,open
+cb-0261,conjecture,Latin Tableau Conjecture,formal-conjectures-promotion,,open
+cb-0262,conjecture,Agrawal polynomial-congruence conjecture,formal-conjectures-promotion,,open
+cb-0263,conjecture,Popovych polynomial-congruence conjecture,formal-conjectures-promotion,,open
+cb-0264,conjecture,Finite magma equation 677→255 implication,formal-conjectures-promotion,,open
+cb-0265,conjecture,Written on the Wall II Conjecture 141,formal-conjectures-live-promotion,,open
+cb-0266,conjecture,Written on the Wall II Conjecture 19,formal-conjectures-live-promotion,,open
+cb-0267,conjecture,Written on the Wall II Conjecture 194,formal-conjectures-live-promotion,,open
+cb-0268,conjecture,Written on the Wall II Conjecture 198a,formal-conjectures-live-promotion,,open
+cb-0269,conjecture,Written on the Wall II Conjecture 2,formal-conjectures-live-promotion,,open
+cb-0270,conjecture,Written on the Wall II Conjecture 200,formal-conjectures-live-promotion,,open
+cb-0271,conjecture,Written on the Wall II Conjecture 316,formal-conjectures-live-promotion,,open
+cb-0272,conjecture,Written on the Wall II Conjecture 40,formal-conjectures-live-promotion,,open
+cb-0273,conjecture,Erdős problem 931: prime-support interval,formal-conjectures-live-promotion,,open
+cb-0274,conjecture,Small quasi-kernel conjecture,egres-live-promotion,,open
+cb-0275,conjecture,Büchi five-squares problem,formal-conjectures-live-promotion,,open
+cb-0276,conjecture,Equitable list-coloring conjecture,egres-live-promotion,,open
+cb-0277,conjecture,Smale’s constant-one mean-value problem,formal-conjectures-live-promotion,,open
+cb-0278,conjecture,Fermat-number square-freeness conjecture,number-theory-live-promotion,,open
+cb-0279,conjecture,Prime-exponent Mersenne square-freeness conjecture,number-theory-live-promotion,,open
+cb-0280,conjecture,Kriesell’s Steiner-tree packing conjecture,egres-live-promotion,,open
+cb-0281,conjecture,Cyclic ordering conjecture for matroids,egres-live-promotion,,open
+cb-0282,conjecture,Kotlar–Ziv serial symmetric exchange conjecture,egres-live-promotion,,open
+cb-0283,conjecture,Chung–Ross weighted bipartite edge-coloring conjecture,egres-live-promotion,,open
+cb-0284,conjecture,Scrambled Rota conjecture,egres-live-promotion,,open
+cb-0285,conjecture,List-coloring conjecture for two matroids,egres-live-promotion,,open
+cb-0286,conjecture,Aharoni–Berger common-independent-set covering conjecture,egres-live-promotion,,open
+cb-0287,conjecture,Strong coloring conjecture for matroid–graph pairs,egres-live-promotion,,open
+cb-0288,conjecture,Berge’s strong path-partition conjecture,egres-live-promotion,,open
+cb-0289,conjecture,Aharoni–Berger rank-partition conjecture,egres-live-promotion,,open
+cb-0290,conjecture,Zehavi–Itai independent spanning-trees conjecture,egres-live-promotion,,open
+cb-0291,conjecture,Baker’s graph-gonality conjecture,egres-live-promotion,,open
+cb-0292,conjecture,Correa–Goemans bipartite proportional-factors question,egres-live-promotion,,open
+cb-0293,conjecture,Zehavi–Itai edge-independent spanning-trees conjecture,egres-live-promotion,,open
+cb-0294,conjecture,Highly element-connected orientation conjecture,egres-live-promotion,,open
+cb-0295,conjecture,Binary matroid representation of cyclic families,egres-live-promotion,,open
+cb-0296,conjecture,Opposite vertices of base polyhedra,egres-live-promotion,,open
+cb-0297,conjecture,Capacitated packing of 2-arborescences,egres-live-promotion,,open
+cb-0298,conjecture,Oda's smooth-polytope integer-decomposition conjecture,egres-live-promotion,,open
+cb-0299,conjecture,Disjoint in- and out-arborescences at arc-connectivity three,egres-live-promotion,,open
+cb-0300,conjecture,Independent arborescences on convex sets in acyclic digraphs,egres-live-promotion,,open
+cb-0301,conjecture,"Rooted (2,2)-connected graph decomposition",egres-live-promotion,,open
+cb-0302,conjecture,Polychromatic plane-graph coloring at face size five,egres-live-promotion,,open

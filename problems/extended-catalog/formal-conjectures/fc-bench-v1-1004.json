@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-1004",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "rlog_rlog_two_transcendental",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11 33]\ntheorem rlog_rlog_two_transcendental : Transcendental ℚ ((2 : ℝ).log.log)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "fb7bad4a4a8a43e1d27cb4478cec3e9317d88e3df8b23f24af32c17e11e1d781",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Transcendental.lean#L115",
+    "source_locator": "FormalConjectures/Wikipedia/Transcendental.lean:115#rlog_rlog_two_transcendental",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11",
+      "AMS-33"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

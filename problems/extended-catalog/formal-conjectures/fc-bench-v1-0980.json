@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0980",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "extended_sierpinski_problem",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem extended_sierpinski_problem :\n    answer(sorry) ↔\n      IsLeast {k | k.IsSierpinskiNumber ∧\n        ∃ k', k'.IsSierpinskiNumber ∧ k' < k} 271129",
+    "language_version": "Lean 4.27.0",
+    "sha256": "c93a6b93d2267206a61e2c869f9b430883985c22ea33c77203468295cf5e173b",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/SierpinskiNumber.lean#L85",
+    "source_locator": "FormalConjectures/Wikipedia/SierpinskiNumber.lean:85#extended_sierpinski_problem",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2714",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.55",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Suppose that $C$ is a ribbon concordance from a fibered knot $K_{1}$\nto a fibered knot $K_{0}$.\n(a) Does the capped-off monodromy of $K_{1}$ (i.e. extended over a disk) extend to\na compression body whose lower boundary gives the capped-off monodromy\nof $K_{0}$?\n(b) Is $C$ fibered by compression bodies?\n(c) Suppose a fibered knot in a homology 3-sphere bounds a homotopy-ribbon\ndisk $D$ in a contractible 4-manifold $V$ . Is $V \\setminus\\nu(D)$ fibered by handlebodies?",
+    "sha256": "2fed1c2c2100e06935128d784da2ebe8cfa7b47c86239a4ee48ba804bdf1946d",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.55",
+    "source_locator": "dataset ID 2714; problem number KP-1.55",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

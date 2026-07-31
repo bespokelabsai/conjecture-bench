@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0694",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "gcdCondition_iff_primePowerCondition",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem gcdCondition_iff_primePowerCondition (k : ℕ) (hk : 2 ≤ k) :\n    GCDCondition k ↔ PrimePowerCondition (k - 1)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "6dcdf3efaa462c9ebd0407751340af6a0729026712edc125fe9ef6f31e133cb4",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OEIS/80170.lean#L62",
+    "source_locator": "FormalConjectures/OEIS/80170.lean:62#gcdCondition_iff_primePowerCondition",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "OEIS",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

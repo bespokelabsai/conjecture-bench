@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-100",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.100 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Conjecture: A finite group is not simple if it has an irreducible complex\ncharacter of odd degree vanishing on a class of odd length.\n    If true, this implies the solvability of groups of odd order, so a proof independent\nof CFSG is of special interest.                                               V. Pannone",
+    "sha256": "60a2cdf2deb34a4478b60fe3da777fbaee4735f76b1e1f3815f634cdff61d4be",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=112",
+    "source_locator": "Kourovka 17.100, main section, page 112",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

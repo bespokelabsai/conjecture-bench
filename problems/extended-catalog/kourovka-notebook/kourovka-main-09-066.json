@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-066",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.66 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "a) B. Jonsson’s Conjecture: elementary equivalence is preserved under taking\nfree products in the class of all groups, that is, if T h(G1 ) = T h(G2 ) and T h(H1 ) =\nT h(H2 ) for groups G1 , G2 , H1 , H2 , then T h(G1 ∗ H1 ) = T h(G2 ∗ H2 ).\n    b) It may be interesting to consider also the following weakened conjecture: if\nT h(G1 ) = T h(G2 ) and T h(H1 ) = T h(H2 ) for countable groups G1 , G2 , H1 , H2 , then\nfor any numerations of the groups Gi , Hi there are m-reducibility T1 ≡ T2 and Turing\n                                                                        m\nreducibility T1 ≡ T2 , where Ti is the set of numbers of all theorems in T h(Gi ∗ Hi ).\n               T\nA proof of this weakened conjecture would be a good illustration of application of the\nreducibility theory to solving concrete mathematical problems.        A. D. Taimanov\n  ∗ The conjecture (also known as R. L. Vaught’s conjecture) is proved (Z. Sela,\nPreprint, 2010, https://arxiv.org/pdf/1012.0044).",
+    "sha256": "2df8e7c7ab30f7b5165f04afd109a71049f15cdd6d2e1ae530b2ddba511c99e9",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=35",
+    "source_locator": "Kourovka 9.66, main section, page 35",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

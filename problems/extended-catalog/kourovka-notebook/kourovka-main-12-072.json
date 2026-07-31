@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-072",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.72 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let F be a soluble local hereditary formation of finite groups. Prove that F is\nradical if every finite soluble minimal non-F-group G is a minimal non-Nl(G)−1 -group.\nHere N is the formation of all finite nilpotent groups, and l(G) is the nilpotent length\nof G.                                                                  V. N. Semenchuk",
+    "sha256": "9c4d781db4ec0a1a0907f4df5a5100fe852ffd248cc306f8a601195ebfcba0c7",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=62",
+    "source_locator": "Kourovka 12.72, main section, page 62",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

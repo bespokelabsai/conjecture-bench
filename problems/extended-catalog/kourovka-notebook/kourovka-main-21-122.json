@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-122",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.122 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let w be a group word, and G a profinite group. Is it true that the cardinality\nof the set of w-values in G is either finite or at least continuum?\n    An affirmative answer is known for several important words; see (E. Detomi,\nB. Klopsch, P. Shumyatsky, J. London Math. Soc. (2), 102 (2020), 977–993).\n                                                                          P. Shumyatsky",
+    "sha256": "957aa9147bdc8a7716d102f9c26dda4b6eafe563509ebc4cbfa119b02081851c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=182",
+    "source_locator": "Kourovka 21.122, main section, page 182",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

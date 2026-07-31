@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0164",
+  "slug": "burning-number-conjecture",
+  "title": "Burning number conjecture",
+  "field": "graph-theory",
+  "statement": "Every connected n-vertex graph has burning number at most ceil(sqrt(n)).",
+  "counterexample": {
+    "description": "A connected graph for which no collection of one metric ball of each radius 0 through ceil(sqrt(n))−1 covers every vertex.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2509.03144",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2603.00304",
+        "role": "status"
+      }
+    ]
+  },
+  "equivalence_group": "graph-burning-ceil-square-root"
+}

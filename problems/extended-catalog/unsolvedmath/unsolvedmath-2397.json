@@ -1,0 +1,41 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2397",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #943",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $A$ be the set of powerful numbers (if $p\\mid n$ then $p^2\\mid n$). Is it true that $ 1_A\\ast 1_A(n)=n^{o(1)} $ for every $n$?\",\n    \"difficulty\": \"L1\"\n},{",
+    "sha256": "a478f370993d5c707a7d5e9dc60d01dc6484fd332c8beb1061597127922c4f74",
+    "contains_placeholder": false,
+    "quality_flags": [
+      "statement-embedded-json-fragment"
+    ]
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-943",
+    "source_locator": "dataset ID 2397; problem number EP-943",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems",
+      "statement-embedded-json-fragment"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "statement-extraction-repair",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

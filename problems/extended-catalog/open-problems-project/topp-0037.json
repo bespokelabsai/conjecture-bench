@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0037",
+  "source_registry": "open-problems-project",
+  "title": "Counting Polyominoes",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "How many polyominoes on $n$ squares are there?\nA \\emph{polyomino} is a connected interior-disjoint union of axis-aligned unit\nsquares joined edge-to-edge, in other words, an edge-connected union of\ncells in the planar square lattice.\nThe \\emph{order} of a polyomino is the number of unit squares forming it.\nThe problem asks for the number of polyominoes of order $n$.\nThe key constraint here is that polyominoes must be edge-connected.\nThere are three variations on the problem, depending on whether two polyominoes\nare considered equivalent by factoring out just translations\n(fixed polyominoes), rotations and translations (chiral polyominoes),\nor reflections, rotations, and translations (free polyominoes).",
+    "sha256": "8828752349435d2d0dc3126c58d4bb2175a04b97b5fa25a813f7f4b78c89773f",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p37",
+    "source_locator": "TOPP problem 37 (Problems/P.000037)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "combinatorial geometry"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

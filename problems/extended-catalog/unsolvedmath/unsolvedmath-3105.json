@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3105",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Book Thickness of Subdivisions",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $G$ be a finite undirected simple graph.\n\nA $k$-page book embedding of $G$ consists of a linear order $\\preceq$ of $V(G)$ and a (non-proper) $k$-colouring of $E(G)$ such that edges with the same colour do not cross with respect to $\\preceq$. That is, if $v\\prec x\\prec w\\prec y$ for some edges $vw,xy\\in E(G)$, then $vw$ and $xy$ receive distinct colours.\n\nOne can think that the vertices are placed along the spine of a book, and the edges are drawn without crossings on the pages of the book.\n\nThe book thickness of $G$, denoted by bt $(G)$ is the minimum integer $k$ for which there is a $k$-page book embedding of $G$.\n\nLet $G'$ be the graph obtained by subdividing each edge of $G$ exactly once.\n\nConjecture There is a function $f$ such that for every graph $G$, $$\\text{bt}(G) \\leq f( \\text{bt}(G') )\\enspace.$$",
+    "sha256": "9fda9861486cf920d635ca0ae057b10c67fc861e99ac53075cdb9a5f0e743551",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-34908",
+    "source_locator": "dataset ID 3105; problem number OPG-34908",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

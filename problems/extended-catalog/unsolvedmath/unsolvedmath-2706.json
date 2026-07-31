@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2706",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.47",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Given a smooth knot $K \\subset S^{3}$, determine its nonorientable 4-\ngenus $\\gamma_{4}$, i.e. the minimal first Betti number for all compact nonorientable smooth\nsurfaces $F$ properly embedded in $B^{4}$ with boundary $K$. This question may be devel-\noped in several directions:\n(1) (Allen’s Geography Question [All23]) For a given knot $K \\subset S^{3}$, find\nthe pairs $(e, b) \\in \\mathbb{Z}^{2}$ realized by the normal Euler number and first Betti\nnumber of a nonorientable bounding surface $F$.\n(2) By analogy with the Milnor Conjecture for the orientable 4-genus of torus\nknots, what is the nonorientable 4-genus of a torus knot $T_{p,q}$?",
+    "sha256": "921ed273070de4df66c923891f06573d90ad008d65d02fbe5053eabd9a48bf96",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.47",
+    "source_locator": "dataset ID 2706; problem number KP-1.47",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

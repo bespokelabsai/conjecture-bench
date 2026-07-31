@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0565",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_982",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 52]\ntheorem erdos_982 (n : ℕ) (hn : 3 ≤ n) (p : Fin n → ℝ²) (hp : Function.Injective p)\n    (hp' : EuclideanGeometry.IsConvexPolygon p) :\n    ∃ (i : Fin n), { d : ℝ | ∃ j : Fin n, j ≠ i ∧ d = dist (p i) (p j) }.ncard ≥ n / 2",
+    "language_version": "Lean 4.27.0",
+    "sha256": "d928bb310af39f3af9b4e5e75c8c66fa689e7670d9a79e0008e5fd5fdc7c4662",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/982.lean#L32",
+    "source_locator": "FormalConjectures/ErdosProblems/982.lean:32#erdos_982",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-52"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0131"
+  ]
+}

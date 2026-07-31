@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1300",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Crouzeix's Conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Is $\\|f(A)\\| \\leq 2\\sup_{z \\in W(A)} |f(z)|$ for all matrices $A$ and functions $f$ analytic on the numerical range?",
+    "sha256": "658748efb65d0b6d00649fec0726c1b113756780ed0df598db9d5ac29a9c4fbd",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/ALG-004",
+    "source_locator": "dataset ID 1300; problem number ALG-004",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:algebra",
+      "difficulty:L4",
+      "problem-number-collision",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

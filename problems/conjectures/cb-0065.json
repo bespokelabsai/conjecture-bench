@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0065",
+  "slug": "gilbreathproth-prime-differences",
+  "title": "Gilbreath–Proth prime differences",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "Starting with the consecutive primes and repeatedly taking absolute differences of adjacent entries, the first entry after every positive number of difference steps is 1.",
+  "counterexample": {
+    "description": "A positive difference step whose leftmost entry in the iterated absolute-difference triangle of 2,3,5,7,… is not one.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://link.springer.com/article/10.1007/s00208-023-02579-w",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2510.06688",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0886"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3338",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Order-invariant queries",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Question\n\n- Does ${<}\\text{-invariant\\:FO} = \\text{FO}$ hold over graphs of bounded tree-width?\n- Is ${<}\\text{-invariant\\:FO}$ included in $\\text{MSO}$ over graphs?\n- Does ${<}\\text{-invariant\\:FO}$ have a 0-1 law?\n- Are properties of ${<}\\text{-invariant\\:FO}$ Hanf-local?\n- Is there a logic (with an effective syntax) that captures ${<}\\text{-invariant\\:FO}$?",
+    "sha256": "733589fb4323e941e3991cabf50bd7ab3bdb7664d623168e3a8b04e269ac9704",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-37429",
+    "source_locator": "dataset ID 3338; problem number OPG-37429",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:logic",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0562",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_978.parts.ii",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_978.parts.ii : answer(sorry) ↔\n    ∀ {f : ℤ[X]}, Irreducible f → f.natDegree > 3 →\n    (¬ ∃ l : ℕ, f.natDegree = 2 ^ l) → 0 < f.leadingCoeff →\n    (∀ (p : ℕ), p.Prime → ∃ n : ℕ, ¬ (p : ℤ) ^ (f.natDegree - 2) ∣ f.eval (n : ℤ)) →\n    {n : ℕ | Powerfree (f.natDegree - 2) (f.eval (n : ℤ))}.Infinite",
+    "language_version": "Lean 4.27.0",
+    "sha256": "d2d4e737352d49847f8cb4c7706e593eda30d0daf3d206e95bf8590b9bbd967c",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/978.lean#L80",
+    "source_locator": "FormalConjectures/ErdosProblems/978.lean:80#erdos_978.parts.ii",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

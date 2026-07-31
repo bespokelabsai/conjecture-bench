@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0625",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "green_33",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 11]\ntheorem green_33 :\n    answer(sorry) ↔\n      ∀ ε : ℝ, 0 < ε →\n        ∃ᶠ q : ℕ+ in atTop,\n          ∃ A : Finset (ZMod q),\n            A + A = Finset.univ ∧\n            |((A.card : ℝ) / Real.sqrt q - Real.sqrt 2)| < ε",
+    "language_version": "Lean 4.27.0",
+    "sha256": "99b32829591f65059a9617f4834c8d749a350dec8e72ec733811112039c2f13a",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/33.lean#L39",
+    "source_locator": "FormalConjectures/GreensOpenProblems/33.lean:39#green_33",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-5",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

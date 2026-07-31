@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-093",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.93 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let Fn be a free group of finite rank n ⩾ 2. Is the group Inn Fn of inner\nautomorphisms of Fn a first-order definable subgroup of Aut Fn ? It is known that\nthe set of inner automorphisms induced by powers of primitive elements is definable\nin Aut Fn .                                                            V. Tolstykh",
+    "sha256": "67f1d48326210a9f0fffa64cc01cb01d756a48f20d64bd4ae2241e931bd3b106",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=102",
+    "source_locator": "Kourovka 16.93, main section, page 102",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

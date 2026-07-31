@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2141",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #486",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $A\\subseteq \\mathbb{N}$, and for each $n\\in A$ choose some $X_n\\subseteq \\mathbb{Z}/n\\mathbb{Z}$. Let $ B = \\{ m\\in \\mathbb{N} : m\not\\in X_n\\pmod{n}\\textrm{ for all }n\\in A\\textrm{ with }m>n\\}. $ Must $B$ have a logarithmic density, i.e. is it true that $ \\lim_{x\\to \\infty} \\frac{1}{\\log x}\\sum_{\\substack{m\\in B\\\\ m<x}}\\frac{1}{m} $ exists?",
+    "sha256": "c0f145cca9db5e3c5448ed0231684aa4dc72a9402dc258867298439e0cf1c035",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-486",
+    "source_locator": "dataset ID 2141; problem number EP-486",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

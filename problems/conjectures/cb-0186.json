@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0186",
+  "slug": "sphere-packing-dimension-four",
+  "title": "D₄ sphere-packing optimality conjecture",
+  "field": "discrete-geometry",
+  "statement": "The D₄ checkerboard packing is a densest unit-sphere packing in Euclidean dimension four.",
+  "counterexample": {
+    "description": "A positive-definite rational 4×4 Gram matrix whose lattice has minimum squared norm at least four and determinant strictly below 64. This is a unit-sphere lattice packing denser than scaled D₄.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1712.04099",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "low-dimensional-sphere-packing"
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-022",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.22 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let S denote the class of nondiscrete compactly generated, topologically\nsimple totally disconnected locally compact groups. Two topological groups are called\nlocally isomorphic if they contain isomorphic open subgroups. Is the number of local\nisomorphism classes of groups in S uncountable?                        P.-E. Caprace\n\n∗                                                                  P\nP19.25. Let G and H be finite groups of the same order with          g∈G φ(|g|) =\n  h∈H φ(|h|), where φ is the Euler totient function. Suppose that G  is simple. Is\nH necessarily simple?                                   B. Curtin, G. R. Pourgholi\n  ∗ No,  it need not be (P. Monticone,      Preprint,  2026,  https://\nkourovkanotebookorg.wordpress.com/wp-content/uploads/2026/05/19_25.\npdf).",
+    "sha256": "0621c1c9b59b5ed86b4e7c156322ffb4b75523f0c982e735140bff13f6cd080c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=133",
+    "source_locator": "Kourovka 19.22, main section, page 133",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

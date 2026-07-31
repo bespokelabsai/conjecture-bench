@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-1021",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "conjecture194",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem conjecture194 (G : SimpleGraph α) (h : G.Connected)\n    (hα : (G.indepNum : ℝ) ≤ 1 + l G) :\n    ∃ a b : α, ∃ p : G.Walk a b, p.IsHamiltonian",
+    "language_version": "Lean 4.27.0",
+    "sha256": "b98af3280dcddf425bfb373828d76d7589541d1bfeb52f53bb46da2bd5ff57c1",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/WrittenOnTheWallII/GraphConjecture194.lean#L41",
+    "source_locator": "FormalConjectures/WrittenOnTheWallII/GraphConjecture194.lean:41#conjecture194",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "WrittenOnTheWallII",
+      "AMS-5"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0267"
+  ]
+}

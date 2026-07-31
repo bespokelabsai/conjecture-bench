@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-1026",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "conjecture316",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem conjecture316 (G : SimpleGraph α) [DecidableRel G.Adj] (hG : G.Connected)\n    (h : (averageDegree G : ℚ) ≤ (pendantVertices G).card) :\n    IsWellTotallyDominated G",
+    "language_version": "Lean 4.27.0",
+    "sha256": "401bb09d3bb86d1204f624a0095b7fa00a2ab690dd38629bb9249b0c2417df3c",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/WrittenOnTheWallII/GraphConjecture316.lean#L38",
+    "source_locator": "FormalConjectures/WrittenOnTheWallII/GraphConjecture316.lean:38#conjecture316",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "WrittenOnTheWallII",
+      "AMS-5"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0271"
+  ]
+}

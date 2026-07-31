@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0593",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "green_15",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 11]\ntheorem green_15 :\n    answer(sorry) ↔ ∃ K : ℝ≥0, ∃ f : ℕ → ℤ, LipschitzWith K f ∧\n      IsAPOfLengthFree {((n, f n) : ℤ × ℤ) | (n : ℕ)} 3",
+    "language_version": "Lean 4.27.0",
+    "sha256": "a319e45c8f1d42209ab310a6986ea077aa8ce56159e0c479f1833028c82fc3ca",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/15.lean#L39",
+    "source_locator": "FormalConjectures/GreensOpenProblems/15.lean:39#green_15",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-5",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

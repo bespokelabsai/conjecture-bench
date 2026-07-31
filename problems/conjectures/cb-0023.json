@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0023",
+  "slug": "albertsons-conjecture",
+  "title": "Albertson’s conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Albertson’s conjecture · 2007. Every graph with chromatic number r has crossing number at least that of K_r.",
+  "counterexample": {
+    "description": "A refutation supplies a drawing below the K_r crossing benchmark, an r-coloring, and a DRAT proof that no (r−1)-coloring exists. Exact crossing counts and the SAT proof make it checkable.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2512.08020",
+        "role": "supporting"
+      }
+    ]
+  }
+}

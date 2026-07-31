@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-041",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.41 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let F be a free group on two generators x, y and let φ be the automorphism\nof F defined by x → y, y → xy. Let G be a semidirect product of F/(F ′′ (F ′ )2 )\nand ⟨φ⟩. Then G is just-non-polycyclic. What is the cohomological dimension of G\nover Q? (It is either 3 or 4.)                                    P. H. Kropholler\n  ∗ It is 4, because G is not constructible, and then its cohomological dimension\nis equal to the homological dimension plus 1 by Theorem III.8 in (M. R. Bridson,\nP. H. Kropholler, J. Reine Angew. Math., 699 (2015), 217–243), while the homological\ndimension is equal to the Hirsch length by (U. Stammbach, J. London Math. Soc. (2),\n2 (1970), 567–570).",
+    "sha256": "499145f0df59dee867d4436e659387b6bff26d6eece8cebe119ec056a583e47d",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=60",
+    "source_locator": "Kourovka 12.41, main section, page 60",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

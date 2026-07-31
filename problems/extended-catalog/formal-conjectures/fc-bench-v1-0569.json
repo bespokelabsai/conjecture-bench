@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0569",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "green_1",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 11]\ntheorem green_1 : answer(sorry) ↔ ∃ Ω : ℕ → ℝ, atTop.Tendsto Ω atTop ∧\n     ∀ n, ∀ (A : Finset ℕ), (∀ a ∈ A, 0 < a) → A.card = n →\n     ∃ (S : Finset ℕ), S ⊆ A ∧ IsSumFree (S : Set ℕ) ∧ ((n : ℝ) / 3) + Ω n ≤ S.card",
+    "language_version": "Lean 4.27.0",
+    "sha256": "891e43140d22a8587880608928d54386cd47182d3bf12f5c2e6da995bbe7e38b",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/1.lean#L33",
+    "source_locator": "FormalConjectures/GreensOpenProblems/1.lean:33#green_1",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-5",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

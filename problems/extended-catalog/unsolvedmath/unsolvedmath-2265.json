@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2265",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #696",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $h(n)$ be the largest $\\ell$ such that there is a sequence of primes $p_1<\\cdots < p_\\ell$ all dividing $n$ with $p_{i+1}\\equiv 1\\pmod{p_i}$. Let $H(n)$ be the largest $u$ such that there is a sequence of integers $d_1<\\cdots < d_u$ all dividing $n$ with $d_{i+1}\\equiv 1\\pmod{d_i}$.\nEstimate $h(n)$ and $H(n)$. Is it true that $H(n)/h(n)\\to \\infty$ for almost all $n$?",
+    "sha256": "bcd19b33982a2d4d775c5a44b8ad6a7f590c7ee8cc4330563bfc8d0f75e69fd7",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-696",
+    "source_locator": "dataset ID 2265; problem number EP-696",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

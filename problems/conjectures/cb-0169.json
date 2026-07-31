@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0169",
+  "slug": "manickam-miklos-singhi-conjecture",
+  "title": "Manickam–Miklós–Singhi conjecture",
+  "field": "extremal-combinatorics",
+  "statement": "For n≥4k, any n real numbers with nonnegative sum have at least binomial(n−1,k−1) k-subsets with nonnegative sum.",
+  "counterexample": {
+    "description": "Rational weights of nonnegative total sum with fewer than the claimed number of nonnegative k-subsets.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1016/j.jcta.2015.01.007",
+        "role": "supporting"
+      }
+    ]
+  }
+}

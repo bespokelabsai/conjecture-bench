@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-120",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.120 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let F be a soluble saturated Fitting formation. Is it true that lF (G) ⩽\nf (cF (G)), where cF (G) is the length of a composition series of some F-covering sub-\ngroup of a finite soluble group G? This is Problem 17 in (L. A. Shemetkov, Formations\nof Finite Groups, Moscow, Nauka, 1978 (Russian)). For the definition of the F-length\nlF (G), see ibid.                                                     L. A. Shemetkov",
+    "sha256": "363ad8ccfec1b9eb06042a7f6741e1463fce2e31eb348207bc0e67442c966168",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=56",
+    "source_locator": "Kourovka 11.120, main section, page 56",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

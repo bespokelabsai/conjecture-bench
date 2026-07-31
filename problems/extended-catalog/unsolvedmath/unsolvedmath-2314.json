@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2314",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #809",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $k\\geq 3$ and define $F_k(n)$ to be the minimal $r$ such that there is a graph $G$ on $n$ vertices with $\\lfloor n^2/4\\rfloor+1$ many edges such that the edges can be $r$-coloured so that every subgraph isomorphic to $C_{2k+1}$ has no colour repeating on the edges.\nIs it true that $ F_k(n)\\sim n^2/8? $ ",
+    "sha256": "03db8e6b204aaa28ed769cc878f6b5a8033763a9696f74c1bb77f64261e8124e",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-809",
+    "source_locator": "dataset ID 2314; problem number EP-809",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

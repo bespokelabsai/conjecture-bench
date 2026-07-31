@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0988",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "isSumOfThreeCubes_iff_mod_9",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem isSumOfThreeCubes_iff_mod_9 :\n    answer(sorry) ↔ ∀ n : ℤ, IsSumOfThreeCubes n ↔ ¬(n ≡ 4 [ZMOD 9] ∨ n ≡ 5 [ZMOD 9])",
+    "language_version": "Lean 4.27.0",
+    "sha256": "76d1351f441b5f5fb1956f4eb7291dd37865089e267b41f2ad50a35923af4793",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/SumOfThreeCubes.lean#L89",
+    "source_locator": "FormalConjectures/Wikipedia/SumOfThreeCubes.lean:89#isSumOfThreeCubes_iff_mod_9",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

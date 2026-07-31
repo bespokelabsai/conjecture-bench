@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0030",
+  "slug": "borodinkostochka-conjecture",
+  "title": "Borodin–Kostochka conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Borodin–Kostochka conjecture · 1977. Every graph of maximum degree Δ at least nine satisfies χ ≤ max(Δ − 1, ω).",
+  "counterexample": {
+    "description": "A connected graph on at most 18 vertices with maximum degree nine, no 9-clique, and no proper 8-coloring. Exact clique and bounded-colorability searches verify the refutation.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0195669814001504",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2603.14427",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "borodin-kostochka-delta-nine"
+}

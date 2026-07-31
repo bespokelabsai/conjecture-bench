@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0008",
+  "slug": "kotzigs-p-k-graph-conjecture",
+  "title": "Kotzig’s \\(P_k\\)-graph conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Kotzig’s \\(P_k\\)-graph conjecture · 1974. For every \\(k\\ge3\\), no finite graph has exactly one simple length-\\(k\\) path between each pair of distinct vertices.",
+  "counterexample": {
+    "description": "A finite simple graph and an integer k≥3 for which every unordered pair of distinct vertices is joined by exactly one simple path with k edges.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://dwest.web.illinois.edu/regs/kfriend.html",
+        "role": "supporting"
+      }
+    ]
+  }
+}

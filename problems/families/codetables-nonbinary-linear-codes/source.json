@@ -1,0 +1,41 @@
+{
+  "slug": "codetables-nonbinary-linear-codes",
+  "name": "Bounds on the minimum distance of non-binary linear codes",
+  "maintainers": [
+    "Markus Grassl",
+    "Andries E. Brouwer",
+    "Rumen Daskalov"
+  ],
+  "homepage": "https://codetables.de/",
+  "license": "No formal licence stated; a public research reference on code bounds.",
+  "credit": {
+    "statement": "Non-binary linear-code records come from the tables of bounds on the minimum distance of linear codes, compiled and maintained by Markus Grassl at codetables.de. The cell pages state that the codes establishing the lower bounds were constructed using MAGMA, that the upper bounds are taken from the tables of Andries E. Brouwer except for codes over GF(7) with n > 50, and that upper bounds for codes over GF(7) of small dimension were provided by Rumen Daskalov. Grassl also thanks John Cannon for supporting the project and Tat Chan, Damien Fisher, Greg White and Allan Steel for the MAGMA code database.",
+    "requested_citation": "Cite M. Grassl, \"Bounds on the minimum distance of linear codes and quantum codes\", online at http://www.codetables.de, and credit A. E. Brouwer's tables for the entries derived from them.",
+    "citation_url": "https://codetables.de/"
+  },
+  "retrieval": {
+    "method": "Read the published bound table for each of GF(3), GF(4), GF(5), GF(7), GF(8) and GF(9), keep every cell printed as a lower-upper range within the dimension caps, then confirm each one against its own cell page and quote that page.",
+    "urls": [
+      "https://codetables.de/BKLC/Tables.php?q=3&n0=1&n1=243&k0=1&k1=12",
+      "https://codetables.de/BKLC/Tables.php?q=4&n0=1&n1=256&k0=1&k1=9",
+      "https://codetables.de/BKLC/Tables.php?q=5&n0=1&n1=130&k0=1&k1=8",
+      "https://codetables.de/BKLC/Tables.php?q=7&n0=1&n1=100&k0=1&k1=7",
+      "https://codetables.de/BKLC/Tables.php?q=8&n0=1&n1=130&k0=1&k1=6",
+      "https://codetables.de/BKLC/Tables.php?q=9&n0=1&n1=130&k0=1&k1=6",
+      "https://codetables.de/BKLC/BKLC.php?q=<q>&n=<n>&k=<k>"
+    ],
+    "retrieved": "2026-07-23",
+    "upstream_version": "last change 30.12.2011"
+  },
+  "redistribution": {
+    "policy": "metadata-only",
+    "note": "Records store the code parameters, the two published bounds, and the quoted cell page heading. No generator matrices, construction descriptions or bibliography entries are copied."
+  },
+  "caveats": [
+    "The lower bound can be raised by exhibiting a better code, while lowering the upper bound requires a nonexistence proof.",
+    "A better lower bound narrows the range but does not settle the exact minimum distance unless it reaches the upper bound.",
+    "This release is restricted to small dimensions; the upstream tables extend far beyond that.",
+    "The tables note that the upper bounds are taken from Brouwer's tables except for codes over GF(7) with n > 50, and that for most of these codes the upper bounds are rather weak.",
+    "Coverage is every open cell the six tables publish within the stated dimension caps, not a sample."
+  ]
+}

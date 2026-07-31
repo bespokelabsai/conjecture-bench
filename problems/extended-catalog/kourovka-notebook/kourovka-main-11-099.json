@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-099",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.99 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Find (in group-theoretic terms) necessary and sufficient conditions for a finite\ngroup to have complex irreducible characters having defect 0 for more than one prime\nnumber dividing the order of the group. Express the number of such characters in\nthe same terms.                                                         S. P. Strunkov",
+    "sha256": "9affd4913e2ad8180207aeaf7415858583ebfff2a0ec7585749f31eca84a8107",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=54",
+    "source_locator": "Kourovka 11.99, main section, page 54",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

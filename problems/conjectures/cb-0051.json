@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0051",
+  "slug": "lehmer-number-minimality-conjecture",
+  "title": "Lehmer-number minimality conjecture",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "If L(x)=x^10+x^9−x^7−x^6−x^5−x^4−x^3+x+1, then every noncyclotomic integer polynomial P with M(P)>1 has M(P)≥M(L).",
+  "counterexample": {
+    "description": "A noncyclotomic integer polynomial \\(P\\) with \\(1<M(P)<1.176280818\\ldots\\), refuting the stronger claim that Lehmer’s degree-10 example is minimal. Cyclotomic tests and rigorous root isolation yield a finite exact certificate.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.cambridge.org/core/product/identifier/S0008439524000900/type/journal_article",
+        "role": "supporting"
+      },
+      {
+        "url": "https://mathworld.wolfram.com/LehmersMahlerMeasureProblem.html",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0925"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0068",
+  "slug": "cernystarke-synchronizing-word-conjecture",
+  "title": "Černý–Starke synchronizing-word conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Every synchronizing deterministic finite automaton with n states has a reset word of length at most (n−1)².",
+  "counterexample": {
+    "description": "An n-state synchronizing DFA whose exact reset threshold exceeds (n−1)², encoded as one total transition row per input letter.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2003.06177",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2508.15655",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "cerny-starke-reset-bound"
+}

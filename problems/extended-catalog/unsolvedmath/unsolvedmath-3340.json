@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3340",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Blatter-Specker Theorem for ternary relations",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $C$ be a class of finite relational structures. We denote by $f_C(n)$ the number of structures in $C$ over the labeled set $\\{0, \\dots, n-1 \\}$. For any class $C$ definable in monadic second-order logic with unary and binary relation symbols, Specker and Blatter showed that, for every $m \\in \\mathbb{N}$, the function $f_C(n)$ is ultimately periodic modulo $m$.\n\nQuestion Does the Blatter-Specker Theorem hold for ternary relations.",
+    "sha256": "79038f591d820a2b136b8ca50cb5c4e3a403e41ee2ced8a49818728243aaa25b",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-37444",
+    "source_locator": "dataset ID 3340; problem number OPG-37444",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:logic",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

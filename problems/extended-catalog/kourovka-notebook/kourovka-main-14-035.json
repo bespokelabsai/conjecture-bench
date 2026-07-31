@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-035",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.35 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is every finitely presented group of prime exponent finite?                N. D. Gupta",
+    "sha256": "8adc1ed83e967c524faa76eb536caee19abfcb03d373f675d4ac025ee723488a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=75",
+    "source_locator": "Kourovka 14.35, main section, page 75",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

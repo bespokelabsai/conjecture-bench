@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2729",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.70",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) Let $L \\subset (S^{3}, \\xi_{std})$ be a transverse link with\n\n$$\nsl_{\\Sigma}(L) = -\\chi(\\Sigma),\n$$\n\nfor some smooth surface $\\Sigma \\subset B^{4}$ bounded by $L$. Is $L$ quasipositive?\n(b) Is the class of strongly quasipositive links equal to the class of quasipositive\nlinks whose Seifert and smooth slice genera are equal?",
+    "sha256": "f611ba8911cfd667401f2605f98b5e98b1a84affc42352f56a60ab6fc850706c",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.70",
+    "source_locator": "dataset ID 2729; problem number KP-1.70",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

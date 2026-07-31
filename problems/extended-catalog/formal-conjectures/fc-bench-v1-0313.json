@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0313",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_394.parts.ii",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_394.parts.ii :\n    answer(sorry) ↔\n      ∀ k ≥ 2, (fun (x : ℝ) ↦ ∑ n ∈ Icc 1 ⌊x⌋₊,\n      (t (k + 1) n : ℝ)) =o[atTop]\n      (fun (x : ℝ) ↦ ∑ n ∈ Icc 1 ⌊x⌋₊,\n      (t k n : ℝ))",
+    "language_version": "Lean 4.27.0",
+    "sha256": "98e52878a82a12962f81b81f917ecede5b2d086a7bc839279af83e53e7f6f757",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/394.lean#L54",
+    "source_locator": "FormalConjectures/ErdosProblems/394.lean:54#erdos_394.parts.ii",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

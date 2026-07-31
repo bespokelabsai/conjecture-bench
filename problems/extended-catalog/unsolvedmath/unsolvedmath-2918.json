@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2918",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.42",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) If X is a smooth, closed, simply connected 4-manifold $withb_{2}(X) \\geq$ 2, are all knots slice in X?\n\n(b) In particular, are all knots slice in $\\mathbb{CP}^{2}\\#\\overline{\\mathbb{CP}}{}^{2}$? In the K3 surface?\n\n(c) Can the set of slice knots detect exotic smooth structures? That is, do there exist homeomorphic 4-manifolds X and $X^{1}$ and a knot $K \\subset S^{3}$ that is slice in X but not in $X^{1}$?",
+    "sha256": "320f6be1ff859ab2de5d500c5b5b7d9e783df4cfe7dff6b1d71bfdd44e99da44",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.42",
+    "source_locator": "dataset ID 2918; problem number KP-4.42",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

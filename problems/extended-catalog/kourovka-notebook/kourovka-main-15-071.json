@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-071",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.71 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(B. Huppert). Let G be a finite solvable group, and let ρ(G) denote the\nset of prime divisors of the degrees of irreducible characters of G. Is it true that\nthere always exists an irreducible character of G whose degree is divisible by at least\n|ρ(G)|/2 different primes?                                                  P. P. Pálfy",
+    "sha256": "68e131fd332e1819d8c846422935b92c3a37196d99f1d312dd080b5040aea7df",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=91",
+    "source_locator": "Kourovka 15.71, main section, page 91",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

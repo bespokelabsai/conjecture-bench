@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-093",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.93 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a pro-p group, p > 2, and φ an automorphism of G of order 2.\nSuppose that the centralizer CG (φ) is abelian. Is it true that G satisfies a pro-p\nidentity?\n    An affirmative answer would generalize a result of A. N. Zubkov (Siberian Math. J.,\n28, no. 5 (1987), 742–747) saying that non-abelian free pro-p groups cannot be rep-\nresented by 2 × 2 matrices.                                          A. Jaikin-Zapirain",
+    "sha256": "5253d535eee165e31982611c1efe3747366c1ba51dac4f756c6cbe75b3f3f0ae",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=93",
+    "source_locator": "Kourovka 15.93, main section, page 93",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

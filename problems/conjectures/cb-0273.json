@@ -1,0 +1,35 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0273",
+  "slug": "erdos-931-prime-support-interval",
+  "title": "Erdős problem 931: prime-support interval",
+  "field": "number-theory",
+  "statement": "Let k1≥k2≥3 and n1+k1≤n2. If the products of n1+1,…,n1+k1 and n2+1,…,n2+k2 have the same sets of prime divisors, then the inclusive interval [n1,n2] contains a prime.",
+  "counterexample": {
+    "description": "Natural numbers k1,k2,n1,n2 satisfying the hypotheses, with equal prime supports for the two consecutive-integer products but no prime in the inclusive interval [n1,n2].",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-live-promotion",
+    "sources": [
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/e751934294a381afd2d5fc1124c5953c8e25f9fa/FormalConjectures/ErdosProblems/931.lean",
+        "role": "current-formal-statement-and-status-source"
+      },
+      {
+        "url": "https://www.erdosproblems.com/931",
+        "role": "maintained-problem-record"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0529",
+      "erdos-0931"
+    ]
+  },
+  "equivalence_group": "erdos-931-prime-support"
+}

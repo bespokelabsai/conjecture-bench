@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0030",
+  "source_registry": "open-problems-project",
+  "title": "Thrackles",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "What is the maximum number of edges in a thrackle?\nA \\emph{thrackle} is a planar drawing of a graph of $n$ vertices\nby edges\nwhich are smooth curves between vertices,\nwith the condition\nthat each pair of edges intersect at exactly one point, and have distinct\ntangents there.\nAnother phrasing is that nonincident edges cross exactly once,\nand no incident edges share an interior point.",
+    "sha256": "e94384e4cd8b23f0134fda2dd993d56a3c783e8ff343695d6528f80e2f24eecb",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p30",
+    "source_locator": "TOPP problem 30 (Problems/P.000030)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "combinatorial geometry",
+      "geometric graphs",
+      "graph drawing",
+      "graphs"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0020"
+  ]
+}

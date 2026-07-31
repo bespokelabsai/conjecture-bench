@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2427",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #987",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $x_1,x_2,\\ldots \\in (0,1)$ be an infinite sequence and let $ A_k=\\limsup_{n\\to \\infty}\\left\\lvert \\sum_{j\\leq n} e(kx_j)\\right\\rvert, $ where $e(x)=e^{2\\pi ix}$.\nIs it true that $ \\limsup_{k\\to \\infty} A_k=\\infty? $ Is it possible for $A_k=o(k)$?",
+    "sha256": "efc52054a5e847c5610b173c99b938ed2bd2ba61a246abfce6cf76880bd37a5f",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-987",
+    "source_locator": "dataset ID 2427; problem number EP-987",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

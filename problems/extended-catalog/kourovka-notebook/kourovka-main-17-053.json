@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-053",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.53 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A finite group G is called simply reducible (SR-group) if every element of G is\nconjugate to its inverse, and the tensor product of any two irreducible representations\nof G decomposes into a sum of irreducible representations of G with coefficients 0\nor 1.\n    a) Is it true that the nilpotent length of a soluble SR-group is at most 5?\n    b) Is it true that the derived length of a soluble SR-group is bounded by some\nconstant c?                                                               L. S. Kazarin",
+    "sha256": "b4b48cab203b6b601a773c84101822db88de45df72268e784847d55cdc29a97c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=108",
+    "source_locator": "Kourovka 17.53, main section, page 108",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

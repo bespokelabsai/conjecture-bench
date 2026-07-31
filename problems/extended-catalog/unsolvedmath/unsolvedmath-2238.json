@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2238",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #661",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Are there, for all large $n$, some points $x_1,\\ldots,x_n,y_1,\\ldots,y_n\\in \\mathbb{R}^2$ such that the number of distinct distances $d(x_i,y_j)$ is $ o\\left(\\frac{n}{\\sqrt{\\log n}}\\right)? $ ",
+    "sha256": "4f5854ababad45985a4a283d1baa760a00be56e700fecb1604185d1b2d020ccc",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-661",
+    "source_locator": "dataset ID 2238; problem number EP-661",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:geometry",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

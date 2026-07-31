@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0006",
+  "source_registry": "open-problems-project",
+  "title": "Minimum Euclidean Matching in 2D",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "What is the complexity of computing a minimum-cost\nEuclidean matching for $2n$ points in the plane?\nThe \\emph{cost} of a matching is the total length\nof the edges in the matching.",
+    "sha256": "2f17f9e3e78228cf9079de414af97bee0214f52a0fd179b59de7e0e1f360a749",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p6",
+    "source_locator": "TOPP problem 6 (Problems/P.000006)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "shortest paths"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2833",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.35",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Given a compact manifold M, let $r(M)$ denote the rank of its fundamental group and $g(M)$ denote its Heegaard genus.\n\n(a) Does every closed orientable hyperbolic 3-manifold M with $r(M)$ = 2 satisfy $g(M)$ = 2?\n\n(b) Is there a non-Haken manifold $M$ such that $r(M)<g(M)$?\n\n(c) Is there a constant $k>0$ such that $g(M)\\leq k r(M)$ for every closed orientable 3-manifold $M$?\n\n(d) If $\\{M_i\\}$ is the set of congruence covers of an arithmetic hyperbolic 3-manifold M, is the infimum of $r(M_i)/\\operatorname{vol}(M_i)$ zero or positive?\n\n(e) Is there a knot $K\\subset S^3$ such that $r(S^3\\setminus\\nu(K))<g(S^3\\setminus\\nu(K))$?",
+    "sha256": "6884bad3dad3f1cd186fe48542af1fd617065a077596783a759cd91170c8f079",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.35",
+    "source_locator": "dataset ID 2833; problem number KP-3.35",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

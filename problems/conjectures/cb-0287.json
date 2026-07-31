@@ -1,0 +1,42 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0287",
+  "slug": "strong-matroid-graph-coloring",
+  "title": "Strong coloring conjecture for matroid–graph pairs",
+  "field": "matroid-theory-and-graph-coloring",
+  "statement": "Let G=(V,E) be a finite graph of maximum degree Δ≥2, and let M be a matroid on V containing 2Δ pairwise disjoint bases. Then M contains 2Δ pairwise disjoint bases, each of which is a stable set of G.",
+  "counterexample": {
+    "description": "A simple graph and a prime-field vector matroid whose entire labeled ground set is certified to be a disjoint union of 2Δ bases, but for which exhaustive exact-cover search finds no partition into 2Δ matroid bases that are stable in the graph.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/open/Strong_colouring_of_matroid-graph_pairs",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Strong_colouring_of_matroid-graph_pairs&oldid=1908",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.1007/s00373-014-1439-8",
+        "role": "arbitrary-matroid-formulation"
+      },
+      {
+        "url": "https://arxiv.org/abs/2508.19473",
+        "role": "2026-current-formulation-and-algorithmic-bound"
+      }
+    ],
+    "discovery_records": [
+      "egres-0366"
+    ]
+  },
+  "equivalence_group": "strong-matroid-graph-coloring"
+}

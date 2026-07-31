@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0067",
+  "source_registry": "open-problems-project",
+  "title": "Fair Partitioning of Convex Polygons",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Define a \\emph{fair partitioning} of a polygon as a partition of it into a\nfinite number of pieces so that every piece has both the same area and the\nsame perimeter.\nIf all the resulting pieces are convex,\ncall it a \\emph{fair convex partitioning}.\nGiven any positive integer $n$, can any convex polygon\nbe convex fair partitioned into $n$ pieces?\n\nIf the answer is ``Not always,''\nhow does one decide the possibility of such a partitioning\nfor a given polygon and a given $n$?\nAnd if a fair convex partition exists for a specific polygon,\nhow does one find a fair partitioning\nthat minimizes the total length of the cut segments,\nor minimizes the sum of the perimeters of the pieces?\n\nAnd finally, what could one say about higher\ndimensional analogs of this question?",
+    "sha256": "5d95101de55f049c06262f05804871da7d6aea3f44f0e47bf27ee353ea6b0730",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p67",
+    "source_locator": "TOPP problem 67 (Problems/P.000067)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "partitioning",
+      "polygons"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

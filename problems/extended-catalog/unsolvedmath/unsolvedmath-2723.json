@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2723",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.64",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) Let $L \\subset (S^{3}, \\xi_{std})$ be a transverse link such that the branched double cover\n$(\\Sigma_{2}(L), \\xi_{L})$ is Stein fillable. Is $L$ transversely isotopic to the closure of a\nquasipositive braid?\n(b) Is the same true if $(\\Sigma_{n}(L), \\xi_{L})$ is Stein fillable for some $n > 2$?\n(c) Does Stein fillability of the branched cover imply that the slice-Bennequin\ninequality must be sharp for the given link?",
+    "sha256": "8ea0412eca710b708febc30439a446120ee16ce56a50744fd8c6e29d66060d53",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.64",
+    "source_locator": "dataset ID 2723; problem number KP-1.64",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

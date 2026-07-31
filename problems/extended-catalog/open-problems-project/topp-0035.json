@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0035",
+  "source_registry": "open-problems-project",
+  "title": "Freeze-Tag: Optimal Strategies for Awakening a Swarm of Robots",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "An optimization problem that naturally arises in the study of\n``swarm robotics'' is to wake up a set of ``asleep'' robots, starting\n with only one ``awake'' robot.\nOne robot can only awaken another when they are in the same location.\nAs soon as a robot is awake, it may\nassist in waking up other robots.  The goal is to compute an optimal\n  {\\em awakening schedule} such that all robots are awake by\n  time $t^*$, for the smallest possible value of $t^*$ (the optimal\n{\\em makespan}).\nThe $n$ robots are initially at $n$ points of a metric space.\nThe problem is equivalent to finding a spanning tree with maximum out-degree\ntwo that minimizes the radius from a fixed source.\n\nIs it NP-hard to determine an optimal awakening schedule for robots in\nthe Euclidean (or $L_1$) plane?  In more general metric spaces, can\none obtain an approximation algorithm with better than $O(\\log n)$\nperformance ratio?",
+    "sha256": "425a44766829e95b2a47c2fd5ec198055190a1ac88ef6458d9a2927c044d23c8",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p35",
+    "source_locator": "TOPP problem 35 (Problems/P.000035)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "optimization",
+      "robotics",
+      "scheduling"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

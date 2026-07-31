@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3192",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Total Colouring Conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture A total coloring of a graph $G = (V,E)$ is an assignment of colors to the vertices and the edges of $G$ such that every pair of adjacent vertices, every pair of adjacent edges and every vertex and incident edge pair, receive different colors. The total chromatic number of a graph $G$, $\\chi\"(G)$, equals the minimum number of colors needed in a total coloring of $G$. It is an old conjecture of Behzad that for every graph $G$, the total chromatic number equals the maximum degree of a vertex in $G$, $\\Delta(G)$ plus one or two. In other words,\n$$\n\\chi\"(G)=\\Delta(G)+1\\ \\ or \\ \\ \\Delta(G)+2.\n$$",
+    "sha256": "7b22365cb43c8ca636266106df818f242741b6f72947620be3fb28e9c6caabbb",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-815",
+    "source_locator": "dataset ID 3192; problem number OPG-815",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

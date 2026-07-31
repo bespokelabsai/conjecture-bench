@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0026",
+  "slug": "list-edge-coloring-conjecture",
+  "title": "List Edge Coloring conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "List Edge Coloring conjecture · Vizing 1975 and Erdős–Rubin–Taylor 1979. Every graph’s list chromatic index equals its ordinary chromatic index.",
+  "counterexample": {
+    "description": "A bounded refutation supplies a simple nonbipartite graph and one explicit list of χ′(G) colors per edge for which no proper list edge-coloring exists. A complete check computes χ′(G) and exhausts the provided list assignment.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://ajc.maths.uq.edu.au/pdf/88/ajc_v88_p127.pdf",
+        "role": "status"
+      },
+      {
+        "url": "https://arxiv.org/abs/2007.14944",
+        "role": "supporting"
+      }
+    ]
+  }
+}

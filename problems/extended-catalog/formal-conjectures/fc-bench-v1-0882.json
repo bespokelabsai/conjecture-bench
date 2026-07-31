@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0882",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "firoozbakht_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem firoozbakht_conjecture (n : ℕ) :\n    firoozbakhtSeq (n+1) < firoozbakhtSeq n",
+    "language_version": "Lean 4.27.0",
+    "sha256": "3d4dc684f9f5e8ebc542642dcc419026b1d4e9ccc3f38166a46a714da79354c7",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Firoozbakht.lean#L41",
+    "source_locator": "FormalConjectures/Wikipedia/Firoozbakht.lean:41#firoozbakht_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0040"
+  ]
+}

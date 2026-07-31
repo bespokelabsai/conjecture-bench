@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-100",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.100 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that A and G are finite groups such that A acts coprimely on G by\nautomorphisms. Let C = CG (A) be the fixed-point subgroup, and let C ′ denote its\nderived subgroup.\n    Is it true that the number of A-invariant irreducible characters χ of G whose\nrestriction χC is never zero is exactly |C/C ′ |? This would follow if one could show\nthat χC is never zero if and only if the Glauberman–Isaacs correspondent χ∗ of χ is\nlinear.                                                                    G. Navarro",
+    "sha256": "2b208f3d869407924d846e86893682a0ef7e04b8e38b7bcbe83da0753f36947e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=178",
+    "source_locator": "Kourovka 21.100, main section, page 178",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

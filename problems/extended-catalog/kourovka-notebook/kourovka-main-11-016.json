@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-016",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.16 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let Vr be the class of all finite groups G satisfying a law [x, r y] = [x, s y] for\nsome s = s(G) > r. Here [x, 1 y] = [x, y] and [x, i+1 y] = [[x, i y], y].\n     a) Is there a function f such that every soluble group in Vr has Fitting length\n< f (r)? For r < 3 see (R. Brandl, Bull. Austral. Math. Soc., 28 (1983), 101–110).\n    b) Is it true that Vr contains only finitely many nonabelian simple groups? This\nis true for r < 4.                                                            R. Brandl",
+    "sha256": "2bbd3dce857149c6f07bd1d746fd860d12e0cbab350121cb176db49d51b22285",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=47",
+    "source_locator": "Kourovka 11.16, main section, page 47",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

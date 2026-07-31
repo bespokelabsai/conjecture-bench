@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2795",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 2.47",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) Given a mapping class $\\psi$ of a based surface $S$, there is an induced endo-\nmorphism of the symmetric product $\\operatorname{Sym}^{i}(S)$ and hence an endofunctor\n$\\psi_{*}$ of the partially wrapped Fukaya category $\\mathcal{F}(S)$ as constructed, say, by\nAuroux [Aur10]. Compute the categorical entropy of $\\psi_{*}$, in the sense\nof [DHKK14], for $\\psi$ pseudo-Anosov.\n(b) Given a fibered knot $K$ with pseudo-Anosov monodromy, what is\n\n$$\n\\limsup_{n\\to\\infty}\\left(\\dim \\widehat{\\mathrm{HFK}}(\\Sigma^{n}(K),\\widetilde{K};i)\\right)^{1/n},\n$$\n\nwhere $\\widetilde{K}$ is the branch locus in the $n$-fold cyclic branched cover $\\Sigma^{n}(K)$,\nand $i$ denotes the Alexander grading (in $\\mathbb{Z}$) with respect to the fiber surface.\nHere, $\\widehat{\\mathrm{HFK}}$ denotes the knot Floer homology of $K$ [OS04c, Ras03].\n(c) With notation as in the previous question, what is\n\n$$\n\\limsup_{n\\to\\infty}\\left(\\dim \\widehat{\\mathrm{HF}}(\\Sigma^{n}(K))\\right)^{1/n}\n$$\n\nfor the Heegaard Floer invariant $\\widehat{\\mathrm{HF}}$ [OS04e] of the closed 3-manifold\n$\\Sigma^{n}(K)$?\n(d) Given a closed surface $S$ and a pseudo-Anosov automorphism $\\psi$, let $M_{\\psi}$\ndenote the mapping torus of $\\psi$, and $\\widehat{\\mathrm{HF}}(M_{\\psi};i)$ the summand of\n$\\widehat{\\mathrm{HF}}(M_{\\psi})$\nspanned by the spin $^{c}$-structures $\\mathfrak{s}$ with $\\langle c_{1}(\\mathfrak{s}), [F]\\rangle = i$. What is\n\n$$\n\\limsup_{n\\to\\infty}\\left(\\dim \\widehat{\\mathrm{HF}}(M_{\\psi^{n}},i)\\right)^{1/n}?\n$$\n\nWhat about\n\n$$\n\\limsup_{n\\to\\infty}\\left(\\dim_{\\mathbb{F}_{2}}\\mathrm{HF}^{+}(M_{\\psi^{n}},i)\\right)^{1/n}\n$$\n\nfor $i \\neq 0$ (or for twisted $\\mathrm{HF}^{+}$ for $i = 0$)?",
+    "sha256": "7d8f71e998bc5831421c8a652df4a5add59e81be762bad07dc9c85558bc31d4d",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-2.47",
+    "source_locator": "dataset ID 2795; problem number KP-2.47",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

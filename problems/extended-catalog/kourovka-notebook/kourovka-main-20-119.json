@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-119",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.119 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(G. Wilkes). A pro-p group is said to be accessible if there is a number\nn = n(G) such that any finite proper reduced graph of pro-p groups with finite edge\ngroups having fundamental group isomorphic to G has at most n edges (J. Algebra,\n525 (2019), 1–18).\n   Is every finitely presented pro-p group accessible?                 P. Zalesskii",
+    "sha256": "d99cb895f8d92dd6f62412e1acd9bb492b66b3c02a5ebb98d7af66e7086bb4d4",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=161",
+    "source_locator": "Kourovka 20.119, main section, page 161",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

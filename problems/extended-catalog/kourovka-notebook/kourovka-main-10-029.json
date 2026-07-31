@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-10-029",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 10.29 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Describe the finite groups which contain a set of involutions D such that, for\nany subset D0 of D generating a 2-subgroup, the normalizer ND (D0 ) also generates\na 2-subgroup.                                                         A. A. Makhnëv",
+    "sha256": "be17237200c65e2bd3ba6b97803a07ac1f3c449447e2b2635c4b35f2abe8f67d",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=39",
+    "source_locator": "Kourovka 10.29, main section, page 39",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0278",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_359.parts.i",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_359.parts.i (A : ℕ → ℕ) (hA : IsGoodFor A 1) :\n    atTop.Tendsto (fun k ↦ (A k : ℝ) / k) atTop",
+    "language_version": "Lean 4.27.0",
+    "sha256": "717dce7a3223ef28a5f4dbf3cb547beaaf9c307b9f19d38da71bf5edd4885cc2",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/359.lean#L38",
+    "source_locator": "FormalConjectures/ErdosProblems/359.lean:38#erdos_359.parts.i",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

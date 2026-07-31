@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0074",
+  "slug": "ditterts-permanent-conjecture",
+  "title": "Dittert’s permanent conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Dittert’s permanent conjecture · by 1983. For a nonnegative \\(n\\times n\\) matrix \\(A\\) of total sum \\(n\\), let \\(r_i,c_j\\) be its row and column sums and \\(\\phi(A)=\\prod_i r_i+\\prod_j c_j-\\operatorname{per}(A)\\). Dittert conjectured \\(\\phi(A)\\le2-n!/n^n\\); Minc attributed the problem to Eric Dittert (current attribution).",
+  "counterexample": {
+    "description": "A rational \\(A\\) with \\(\\phi(A)>2-n!/n^n\\) is checked by exact row sums and permanent arithmetic.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2606.01531",
+        "role": "supporting"
+      }
+    ]
+  }
+}

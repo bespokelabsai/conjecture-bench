@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3379",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Sets with distinct subset sums",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Say that a set $S \\subseteq {\\mathbb Z}$ has distinct subset sums if distinct subsets of $S$ have distinct sums.\n\nConjecture There exists a fixed constant $c$ so that $|S| \\le \\log_2(n) + c$ whenever $S \\subseteq \\{1,2,\\ldots,n\\}$ has distinct subset sums.",
+    "sha256": "0889b6ebb4db851e9511e51feb09b00b869c0ef418a6c793f2d803e812d26fe9",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-414",
+    "source_locator": "dataset ID 3379; problem number OPG-414",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

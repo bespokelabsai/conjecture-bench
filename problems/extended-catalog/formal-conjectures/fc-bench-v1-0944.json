@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0944",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "mean_value_problem",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 12]\nlemma mean_value_problem (p : Polynomial ℂ) (hp : 2 ≤ p.degree) (z : ℂ) (K : ℝ):\n    ∃ c : ℂ, p.derivative.eval c = 0 ∧\n      ‖p.eval z - p.eval c‖ / ‖z - c‖ ≤ ‖p.derivative.eval z‖",
+    "language_version": "Lean 4.27.0",
+    "sha256": "f2fa0a27250501453660e6eeefba6f5fb49b87ec94ead56d199d32e53c5a08b9",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/MeanValueProblem.lean#L46",
+    "source_locator": "FormalConjectures/Wikipedia/MeanValueProblem.lean:46#mean_value_problem",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-12"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0277"
+  ]
+}

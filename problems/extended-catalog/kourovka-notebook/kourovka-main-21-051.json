@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-051",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.51 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let p be a prime, and P a finite p-group.\n   (a) Suppose that P has an abelian subgroup of order pn . For which n does P\nnecessarily have a normal abelian subgroup of order pn ?\n   (b) Suppose that P has an elementary abelian subgroup of order pn . For which n\ndoes P necessarily have a normal elementary abelian subgroup of order pn ?\n    It is easy to see that for p = 2, the answer to (b) is “yes” only for n = 1. The\nanswer to both questions is “yes” for n < (p + 2)/2 (G. G. Glauberman, J. Algebra,\n319, no. 2 (2008), 800–805), as well as for n ⩽ 5 when p ̸= 2 (M. Konvisser, D. Jonah,\nJ. Algebra, 34 (1975), 309–330). The answer to both questions is “no” for n ⩾ (p+9)/2\nwhen p ⩾ 5 (for p ⩾ 7 due to G. Glauberman, Contemp. Math., 524 (2010), 61–65;\nfor p = 3, 5 due to Ya. G. Berkovich, J. Algebra, 248, no. 2 (2002), 472–553). Thus,\nthe only open cases for p ⩾ 5 are n = 6 for p = 5 , and n = (p + 3)/2, (p + 5)/2,\n(p + 7)/2 for p > 5.                                                   G. Glauberman",
+    "sha256": "7c613b2dd2efba650b2734270c26bc947016d125338b6ddb607e7debdfceab75",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=171",
+    "source_locator": "Kourovka 21.51, main section, page 171",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

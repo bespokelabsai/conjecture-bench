@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0756",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "kurepa_conjecture.variants.prime",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem kurepa_conjecture.variants.prime (p : ℕ) (h_p : 2 < p) :\n    p.Prime → (!p : ℕ) % p ≠ 0",
+    "language_version": "Lean 4.27.0",
+    "sha256": "755c31bcc94eedaf451e1042cf5f04a1197094fc2e425abf8fb5c066c9afe2bd",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Paper/Kurepa.lean#L53",
+    "source_locator": "FormalConjectures/Paper/Kurepa.lean:53#kurepa_conjecture.variants.prime",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Paper",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0042"
+  ]
+}

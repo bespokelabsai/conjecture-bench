@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-083",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.83 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does there exist a group such that every central extension of it is residually\nnilpotent, but there exists a central extension of a central extension of it which is not\nresidually nilpotent?                                                       R. Mikhailov",
+    "sha256": "309ae67e60b67479a47b4978b75ffe70606215c5e174736539d055608502a5ae",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=110",
+    "source_locator": "Kourovka 17.83, main section, page 110",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

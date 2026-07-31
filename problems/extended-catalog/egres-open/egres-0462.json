@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0462",
+  "source_registry": "egres-open",
+  "title": "Strongly maximal H-free spanning subgraph",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let the graphs <math>G=(V,E) </math> and <math>H </math> be fixed.  An edge set <math>F\\subseteq E </math> is called <math> H </math>-free if <math>(V,F) </math> does not contain <math>H </math> as a subgraph. We say that <math>F </math> is strongly maximal if for any <math>H </math>-free edge set <math>I\\subseteq E </math> we have <math>\\left|I \\setminus F\\right|  \\leq  \\left|F \\setminus I\\right| </math>. \n\nIf <math>H</math> is the path of length two, then we talk about strongly maximal matchings, and any <math>G </math> admits such a matching (<ref name=\"Di\"/> p. 16. Theorem 5.6). For what other graphs <math>H </math> can we guarantee the existence of a strongly maximal  <math>H </math>-free <math>F </math> for any <math>G </math>?",
+    "sha256": "2e68db745c0f1719014a252d03ad08617844d99105f10b69ac554cda2b7ee48d",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-12-06T11:34:53Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Strongly_maximal_H-free_spanning_subgraph&oldid=2395",
+    "source_locator": "EGRES page 462, revision 2395",
+    "source_sha256": "d7a77effef45afee08f5d20b14a9860b2ec1c2e2d018d777932804d20f46e67f",
+    "tags": [
+      "combinatorial-optimization",
+      "Infinite combinatorics"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

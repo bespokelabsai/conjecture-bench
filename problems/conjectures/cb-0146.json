@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0146",
+  "slug": "erdos-647-divisor-count-record",
+  "title": "Erdős problem #647: divisor-count record inequality",
+  "field": "number-theory",
+  "statement": "For every n>24, max over m<n of m+τ(m) is greater than n+2.",
+  "counterexample": {
+    "description": "An integer n>24 for which every m<n satisfies m+τ(m)≤n+2.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/647",
+        "role": "status"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0920",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "kummer_vandiver",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem kummer_vandiver (p : ℕ+) (hp : p.Prime) :\n    ¬ ↑p ∣ (classNumber (maximalRealSubfield (CyclotomicField p ℚ)))",
+    "language_version": "Lean 4.27.0",
+    "sha256": "85b3d8fa881df713f2e189eca7618f972a428543b2e247b5f991e964aa73ce73",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/KummerVandiver.lean#L35",
+    "source_locator": "FormalConjectures/Wikipedia/KummerVandiver.lean:35#kummer_vandiver",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0180"
+  ]
+}

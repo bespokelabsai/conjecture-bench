@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0035",
+  "source_registry": "egres-open",
+  "title": "Well-balanced orientations of hypergraphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "When can we characterize hypergraphs that have an orientation satisfying a prescribed symmetric [[local edge-connectivity]] requirement? Special case: can we characterize hypergraphs that have an orientation which is ''k''-edge-connected within a specified subset of nodes?",
+    "sha256": "231b13230c61c91460a786795a56256bb3ba2a6fc3765382655dedb531a991e7",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "conflicting-status-categories",
+    "as_of": "2022-11-08T21:15:43Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Well-balanced_orientations_of_hypergraphs&oldid=2484",
+    "source_locator": "EGRES page 35, revision 2484",
+    "source_sha256": "275f14568d0025a023d85e72c4fac159a325dcb20f790ab59ff3d786fa76e2d6",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity",
+      "Orientations"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "category-conflict"
+  ]
+}

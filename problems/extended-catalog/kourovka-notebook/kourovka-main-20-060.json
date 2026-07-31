@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-060",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.60 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "We say that G is a virtually compact special group if G has a finite-index\nsubgroup which is isomorphic to the fundamental group of a compact special complex\n(in the sense of F. Haglund, D. T. Wise, Geom. Funct. Anal., 17, no. 5 (2008), 1551–\n1620). Let G be a virtual retract of a finitely generated right-angled Artin group.\nMust G be a virtually compact special group?\n    An affirmative answer would provide an algebraic characterization of the class of\nvirtually compact special groups as the class groups admitting finite index subgroups\nthat are virtual retracts of right-angled Artin groups.                   A. Minasyan",
+    "sha256": "ccdaf4057fafacc4c64b51915db882c57a618893f484c595a02a31b060e0d811",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=153",
+    "source_locator": "Kourovka 20.60, main section, page 153",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

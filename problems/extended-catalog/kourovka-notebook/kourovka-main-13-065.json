@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-13-065",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 13.65 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A finite simple group is called a Kn -group if its order is divisible by exactly\nn different primes. The number of K3 -groups is known to be 8. The K4 -groups are\nclassified mod CFSG (W. J. Shi, in: Group Theory in China (Math. Appl., 365),\nKluwer, 1996, 163–181) and some significant further results are obtained in (Yann\nBugeaud, Zhenfu Cao, M. Mignotte, J. Algebra, 241 (2001), 658–668). But the ques-\ntion remains: is the number of K4 -groups finite or infinite?                 W. J. Shi",
+    "sha256": "05a4f1878c952c770a7a9d0ac6ae0e9e7c0a795ad10017fc5c22173bdfd97dbd",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=70",
+    "source_locator": "Kourovka 13.65, main section, page 70",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0076",
+  "source_registry": "egres-open",
+  "title": "Polyhedral description of kernels",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "For which classes of digraphs can we explicitly give a linear description of the convex hull of [[Kernel (in digraph)|kernels]]?",
+    "sha256": "1a041774834eb8571313279c17a8997fc7f127c8b70aa0ff18265ea8fd8f1ffd",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2023-01-19T22:09:02Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Polyhedral_description_of_kernels&oldid=2500",
+    "source_locator": "EGRES page 76, revision 2500",
+    "source_sha256": "9dd2756d0d5f25d874663656d58f6092d77c270e96f987f1cc2e6a2a296e0b76",
+    "tags": [
+      "combinatorial-optimization",
+      "Integer polyhedra",
+      "Stable matchings and kernels"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

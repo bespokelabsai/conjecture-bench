@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0985",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "least_three_square_packing_in_circle",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 51]\ntheorem least_three_square_packing_in_circle :\n    IsLeast {r : ℝ | Nonempty (Packing 3 UnitSquare (Circle r))} answer(sorry)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "6346ca86d7843f3564e230f5371f25be63b1d7dc73f45f22115ec79f7baedf4f",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/SquarePacking.lean#L136",
+    "source_locator": "FormalConjectures/Wikipedia/SquarePacking.lean:136#least_three_square_packing_in_circle",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-51"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

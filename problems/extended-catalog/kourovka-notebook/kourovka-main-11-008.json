@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-008",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.8 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "b) For a finite group X, let χ1 (X) denote the totality of the degrees of all\nirreducible complex characters of X with allowance for their multiplicities. Suppose\nthat χ1 (G) = χ1 (H) for groups G and H. Clearly, then |G| = |H|. Is it true that H\nis soluble if G is soluble?\n    It is known that H is a Frobenius group if G is a Frobenius group.\n                                                                     Ya. G. Berkovich",
+    "sha256": "474defbdc35906400d01f2cd8221045fa1a88bc2bd093b8798ca81de51f24b67",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=46",
+    "source_locator": "Kourovka 11.8, main section, page 46",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

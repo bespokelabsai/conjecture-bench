@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-002",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.2 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "By a theorem of W. Burnside, if χ ∈ Irr(G) and χ(1) > 1, then there exists\nx ∈ G such that χ(x) = 0, that is, only the linear characters are “nonvanishing”. It is\ninteresting to consider the dual notion of nonvanishing elements of a finite group G,\nthat is, the elements x ∈ G such that χ(x) ̸= 0 for all χ ∈ Irr(G).\n    a) It is proved (I. M. Isaacs, G. Navarro, T. R. Wolf, J. Algebra, 222, no. 2 (1999),\n413–423) that if G is solvable and x ∈ G is a nonvanishing element of odd order,\nthen x belongs to the Fitting subgroup F(G). Is this true for elements of even order\ntoo? (M. Miyamoto showed in 2008 that every nontrivial abelian normal subgroup of\na finite group contains a nonvanishing element.)\n    b) Which nonabelian simple groups have nonidentity nonvanishing elements? (For\nexample, A7 has.)                                                            I. M. Isaacs",
+    "sha256": "b0f6986853b364a5841d6d5547b5fc4a010437c742014096a77ed690c5d48716",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=83",
+    "source_locator": "Kourovka 15.2, main section, page 83",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0596",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "green_16_upper_bound",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 11]\ntheorem green_16_upper_bound :\n    ∃ c > (0 : ℝ), (fun N ↦ (f N : ℝ)) ≪ fun N ↦ (N : ℝ) * exp (-c * (log N) ^ (1 / 7 : ℝ))",
+    "language_version": "Lean 4.27.0",
+    "sha256": "e62fd2efa62720b4366bb0d85f95a5f12a02f40c796d6f8fe3c960ef6cdfda87",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/16.lean#L58",
+    "source_locator": "FormalConjectures/GreensOpenProblems/16.lean:58#green_16_upper_bound",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-5",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

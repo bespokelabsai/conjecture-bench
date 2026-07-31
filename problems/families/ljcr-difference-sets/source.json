@@ -1,0 +1,38 @@
+{
+  "slug": "ljcr-difference-sets",
+  "name": "La Jolla Difference Sets Repository",
+  "maintainers": [
+    "Daniel M. Gordon"
+  ],
+  "homepage": "https://dmgordo.github.io/difference-sets/",
+  "license": "CC-BY-4.0",
+  "credit": {
+    "statement": "Difference-set records come from the La Jolla Difference Sets Repository, compiled and maintained by Daniel M. Gordon at the IDA Center for Communications Research-La Jolla, and published as an open dataset under CC-BY-4.0.",
+    "requested_citation": "The dataset ships a CITATION.cff asking that it be cited using that file's metadata: Daniel M. Gordon, \"La Jolla Difference Sets Repository\", dataset, version 1.0, 2024, https://doi.org/10.5281/zenodo.10775931. The CC-BY-4.0 licence also requires stating what was changed: only open parameter sets are kept here, and no difference sets are copied.",
+    "citation_url": "https://github.com/dmgordo/difference-sets/blob/main/CITATION.cff"
+  },
+  "retrieval": {
+    "method": "Fetch the published ds.json dataset, keep entries whose upstream status is \"Open\", and quote the entry itself as evidence. The dmgordon.org search form is POST-only, so the JSON file is both the discovery index and the evidence. The two were cross-checked by hand: the site's open-status search returns 10037 rows, all with v below 50000, and they match the dataset's open entries in that range exactly.",
+    "urls": [
+      "https://raw.githubusercontent.com/dmgordo/difference-sets/main/ds.json",
+      "https://github.com/dmgordo/difference-sets",
+      "https://www.dmgordon.org/diffset/"
+    ],
+    "retrieved": "2026-07-23",
+    "upstream_version": "ds.json at commit c089b4d44ec65e273f855331822a2b0c7723da9b"
+  },
+  "redistribution": {
+    "policy": "metadata-only",
+    "note": "Records store the parameters, the abelian group's invariant factors, and the quoted status entry. No difference sets are copied from the dataset."
+  },
+  "caveats": [
+    "The dataset lists only parameter sets with v < 100000 that pass the counting, Schutzenberger and Bruck-Ryser-Chowla tests, so absence from it is not a nonexistence claim.",
+    "The maintainer states that an attempt has been made to include all known difference sets but that Paley sets are omitted for v > 1000 and some constructions are not yet included, so an \"Open\" row means unknown to this database rather than unknown to the literature.",
+    "The maintainer asks to be told about difference sets, nonexistence results or errors not in the database, which is an explicit statement that it may be incomplete.",
+    "The upstream search form at dmgordon.org posts its query, so it cannot be used as a stable evidence URL; every row cites the published JSON dataset instead.",
+    "The published dataset reaches further than the website search, which returns nothing above v = 50000, so rows above that were checked against the dataset alone.",
+    "This release contains a subset selected under an earlier computational-cost cap; the upstream dataset holds 102719 open cases in total.",
+    "Only existence in the specific abelian group named by the invariant factors is open; the same (v, k, lambda) may be settled in a different group, and nonabelian groups are out of scope for this dataset.",
+    "The databases are being retired: the maintainer states there will be no changes after March 1, 2026, and the data lives on at GitHub and Zenodo."
+  ]
+}

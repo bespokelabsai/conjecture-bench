@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0055",
+  "source_registry": "open-problems-project",
+  "title": "Pallet Loading",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "What is the complexity of the pallet loading problem?\nGiven two pairs of numbers, $(A,B)$ and $(a,b)$, and a number $n$,\ndecide whether $n$ small rectangles of size $a \\times b$,\nin either axis-parallel orientation,\ncan be packed into a large rectangle of size $A \\times B$.\n\nThis problem is not even known to be in NP, because of the compact\ninput description, and the possibly complicated structure\nof a packing, if there is one.",
+    "sha256": "de815258f20d22b827efc7aa0c8f88e22d4c6f09025a6e8d89ba4a11a966895a",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p55",
+    "source_locator": "TOPP problem 55 (Problems/P.000055)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "optimization",
+      "packing"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

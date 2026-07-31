@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0335",
+  "source_registry": "egres-open",
+  "title": "Rainbow matchings in bipartite graphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Given ''k'' disjoint matchings in a bipartite graph, a '''rainbow matching''' is a matching that contains one edge from each of them. Is it true that any family of ''k'' disjoint matchings of size ''k+1'' has a rainbow matching?",
+    "sha256": "b49f58ab76de380d62126b6f909b78a0d2732226f97a7792b806ed38edac91a1",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2018-11-27T09:01:26Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Rainbow_matchings_in_bipartite_graphs&oldid=2441",
+    "source_locator": "EGRES page 335, revision 2441",
+    "source_sha256": "354286e3b574f006415847669fe2160b55a76073f4f081917d62c7959b48fe70",
+    "tags": [
+      "combinatorial-optimization",
+      "Matchings",
+      "Matroids"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0174"
+  ]
+}

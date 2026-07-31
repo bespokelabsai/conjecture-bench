@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-146",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.146 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Well-known problem). A classifying space for a group G is a connected CW -\ncomplex with fundamental group G and all higher homotopy groups trivial. A group\nis of type Fn if it has a classifying space with finite n-skeleton. For example, type\nF1 is equivalent to finite generation, and type F2 is equivalent to finite presentability.\nType F∞ means type Fn for all n.\n    For n ⩾ 3, does every group of type Fn−1 embed as a subgroup of a group of\ntype Fn ? Or even in a group of type F∞ ?                             M. C. B. Zaremsky",
+    "sha256": "a1d4275f37189358cb0a9482f083712d0882727b29534adf99c9bbe0341edf9c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=185",
+    "source_locator": "Kourovka 21.146, main section, page 185",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

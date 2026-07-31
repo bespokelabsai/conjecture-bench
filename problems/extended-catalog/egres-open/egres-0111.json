@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0111",
+  "source_registry": "egres-open",
+  "title": "Disjoint strongly connected spanning subgraphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Does there exist a value ''k'' so that every ''k''-arc-connected directed graph contains a pair of arc-disjoint strongly connected spanning sub-digraphs?",
+    "sha256": "0396ad42fc3d98853c3d00c0dee3733497b440abb99039438978fd616205b4d3",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-03-27T21:27:44Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Disjoint_strongly_connected_spanning_subgraphs&oldid=1998",
+    "source_locator": "EGRES page 111, revision 1998",
+    "source_sha256": "d34121aab18c66aa9b677e83aee4498665cfe70c7cb1816b4c3dca1a48a9d823",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity",
+      "Trees and branchings"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

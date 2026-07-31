@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0386",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_516.variants.limsup_ratio_eq_one_of_hasFejerGaps",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 30]\ntheorem erdos_516.variants.limsup_ratio_eq_one_of_hasFejerGaps : answer(sorry) ↔\n    ∀ {f : ℂ → ℂ} {n : ℕ → ℕ} (hn : HasFejerGaps n) {a : ℕ → ℂ} (ha : ∀ n, a n ≠ 0)\n    (hfn : ∀ z, HasSum (fun k => a k * z ^ n k) (f z)),\n    limsup (fun r => ratio r f) atTop = 1",
+    "language_version": "Lean 4.27.0",
+    "sha256": "9d85deec43125c1207c54112f772f5a3845c6f6155d61c9299651cbffa18837f",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/516.lean#L63",
+    "source_locator": "FormalConjectures/ErdosProblems/516.lean:63#erdos_516.variants.limsup_ratio_eq_one_of_hasFejerGaps",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-30"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

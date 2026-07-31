@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0953",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "oppermann_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem oppermann_conjecture (x : ℕ) (hx : 2 ≤ x) :\n    (∃ p ∈ Ioo (x * (x - 1)) (x^2), p.Prime) ∧\n    (∃ p ∈ Ioo (x^2) (x * (x + 1)), p.Prime)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "f6aaa0ebe00b2d7066c5e75b7158361d69da97e4a2a164a71078e5cd92fcda4a",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Oppermann.lean#L53",
+    "source_locator": "FormalConjectures/Wikipedia/Oppermann.lean:53#oppermann_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0038"
+  ]
+}

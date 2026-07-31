@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0005",
+  "source_registry": "open-problems-project",
+  "title": "Euclidean Minimum Spanning Tree",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Can the Euclidean\n\\emph{minimum spanning tree} (MST) of $n$ points in $\\R^d$\nbe computed in time close to the lower bound of\n$\\Omega(n \\log n)$ \\cite{gkms-lbrad-96}?",
+    "sha256": "f2d76baafc4f8e621399e528380a02d965638ce01e415699d38e2626eae08176",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p5",
+    "source_locator": "TOPP problem 5 (Problems/P.000005)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "minimum spanning tree",
+      "shortest paths"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0982",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "snake_dim_nine",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem snake_dim_nine : LongestSnakeInTheBox 9 = answer(sorry)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "db765dd1446a89db9d3306b5ea5f412b25460c07889adf022dee0c6666e38a9e",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/SnakeInTheBox.lean#L91",
+    "source_locator": "FormalConjectures/Wikipedia/SnakeInTheBox.lean:91#snake_dim_nine",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

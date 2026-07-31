@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-093",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.93 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let M be a one-generated saturated formation, that is, the intersection of all\nsaturated formations containing some fixed finite group. Let F be a subformation of\nM such that F ̸= F F .\n   a) Is it true that then F can be written in the form F = F1 · · · Ft , where Fi is\na non-decomposable formation for every i = 1, . . . , t?\n   b) Suppose that F = F1 · · · Ft , where Fi is a non-decomposable formation for\nevery i = 1, . . . , t. Is it true that then all factors Fi are uniquely determined?\n                                                                               A. N. Skiba",
+    "sha256": "288ea73fcd4097144e3b48fbfde2a75a2f4d6781d558e6da780a7fd046d4d1e6",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=126",
+    "source_locator": "Kourovka 18.93, main section, page 126",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

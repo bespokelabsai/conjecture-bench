@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0132",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Collinear 4-tuples Force Collinear 5-tuples",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Suppose $A \\subset \\mathbb{R}^2$ is a set of size $n$ with $cn^2$ collinear 4-tuples. Does it contain 5 points on a line?",
+    "sha256": "262565392fb434244492188951b875a1f9208717e4b5f8a59ed691c7dd1d6949",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GREEN-044",
+    "source_locator": "dataset ID 132; problem number GREEN-044",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:geometry",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:green-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-090",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.90 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let Γ be an infinite directed graph, and Γ the underlying undirected graph.\nSuppose that the graph Γ admits a vertex-transitive group of automorphisms, and\nthe graph Γ is connected and of finite valency. Does there exist a positive integer\nk (possibly depending on Γ) such that for any positive integer n there is a directed\npath of length at most k · n in the graph Γ whose initial and terminal vertices are at\ndistance at least n in the graph Γ?\n    Comment of 2005: It is proved that there exists a positive integer k ′ (depending\nonly on the valency of Γ) such that for any positive integer n there is a directed path\nof length at most k ′ · n2 in the graph Γ whose initial and terminal vertices are at\ndistance at least n in the graph Γ (V. I. Trofimov, Europ. J. Combinatorics, 27, no. 5\n(2006), 690–700).                                                         V. I. Trofimov",
+    "sha256": "94231d5e8ee78a90305cd9dce8f0712fb66c04903ff587d509ae2a4769845fbb",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=93",
+    "source_locator": "Kourovka 15.90, main section, page 93",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

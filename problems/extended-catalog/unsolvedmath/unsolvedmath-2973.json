@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2973",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.97",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $\\lambda:=c^{2}_{1}/c_{2}$ be the Chern slope of a closed, almost complex 4–manifold X. What is the supremum of $\\lambda as X$ ranges over the following families?\n\n(a) Symplectic $\\Sigma_{g}–bundles$ over $\\Sigma_{h}$, with g, $h \\geq$ 2.\n\n(b) Holomorphic $\\Sigma_{g}–bundles$ over $\\Sigma_{h}$, with g, $h \\geq$ 2.\n\n(c) Symplectic Lefschetz fibrations over $S^{2}$.\n\n(d) Holomorphic Lefschetz fibrations over $S^{2}$. (Here, the Lefschetz fibrations are assumed to have critical points.)",
+    "sha256": "498f1864e0bbba4ce02d3793589cb6ea73d9d34b6b8d021c6333453f1e32e374",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.97",
+    "source_locator": "dataset ID 2973; problem number KP-4.97",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

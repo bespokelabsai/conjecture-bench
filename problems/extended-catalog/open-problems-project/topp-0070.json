@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0070",
+  "source_registry": "open-problems-project",
+  "title": "Yao-Yao Graph a Spanner?",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Is the Yao-Yao Graph\na $t$-spanner for constant $t$?\nA geometric graph is a \\emph{$t$-spanner}\n(or just a \\emph{spanner}) if, for every pair of nodes, %$u$ and $v$,\nthe shortest distance between the nodes following\nthe edges of the graph is at most $t$ times the Euclidean distance\nbetween them.\nSee below for the definition of the Yao-Yao graph.",
+    "sha256": "7e6df45c6d042815df826a0e31d5b35d9f81b86fbb5376c62a9dafa8ddb3805e",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p70",
+    "source_locator": "TOPP problem 70 (Problems/P.000070)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "geometric graphs",
+      "spanners"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

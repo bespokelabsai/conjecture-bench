@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0913",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "zero_divisor_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 16 20]\ntheorem zero_divisor_conjecture : NoZeroDivisors (MonoidAlgebra K G)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "d6b106ee39876278dc2392415a8c4b5a329e1fada876dc7fda552c81d4cb2d88",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Kaplansky.lean#L36",
+    "source_locator": "FormalConjectures/Wikipedia/Kaplansky.lean:36#zero_divisor_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-16",
+      "AMS-20"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0191"
+  ]
+}

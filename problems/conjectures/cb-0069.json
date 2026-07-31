@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0069",
+  "slug": "aanderaakarprosenberg-evasiveness-conjecture",
+  "title": "Aanderaa–Karp–Rosenberg evasiveness conjecture",
+  "field": "algorithms-and-graph-properties",
+  "statement": "Every nontrivial monotone isomorphism-invariant property of n-vertex graphs is evasive: some input forces every deterministic decision tree to query all binomial(n,2) possible edges.",
+  "counterexample": {
+    "description": "At the first unresolved order n=10, a compressed deterministic edge-query DAG of worst-case depth at most 44 that computes a nontrivial monotone isomorphism-invariant graph property.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1603.04412",
+        "role": "first-open-order-and-status"
+      },
+      {
+        "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol351-esa2025/LIPIcs.ESA.2025.96/LIPIcs.ESA.2025.96.pdf",
+        "role": "recent-open-problem-context"
+      }
+    ]
+  },
+  "equivalence_group": "akr-graph-property-evasiveness"
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-109",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.109 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that the union of an ascending series of groups of Lie type of equal\nranks over some fields should be also a group of Lie type of the same rank over a\nfield? (For locally finite fields the answer is “yes”, the theorem in this case is due to\nV. Belyaev, A. Borovik, B. Hartley & G. Shute, and S. Thomas.)                R. Phillips",
+    "sha256": "123dd070ade9abc9457491748e32e03b4d89c21d593e9e940585fac8c1818faa",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=55",
+    "source_locator": "Kourovka 11.109, main section, page 55",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

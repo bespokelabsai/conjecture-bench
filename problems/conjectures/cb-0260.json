@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0260",
+  "slug": "herzog-schonheim-coset-partition",
+  "title": "Herzog–Schönheim coset-partition conjecture",
+  "field": "group-theory",
+  "statement": "In every nontrivial finite partition of a group into left cosets of subgroups, two of the subgroups have the same finite index.",
+  "counterexample": {
+    "description": "A finite group multiplication table and a partition of that group into at least two left cosets of proper subgroups whose subgroup indices are pairwise distinct.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/274.lean#L81",
+        "role": "formal-and-status-source"
+      },
+      {
+        "url": "https://arxiv.org/abs/2509.25118",
+        "role": "current-primary-source"
+      },
+      {
+        "url": "https://arxiv.org/abs/1803.03569",
+        "role": "small-group-bound-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0190"
+    ]
+  },
+  "equivalence_group": "herzog-schonheim-coset-partitions"
+}

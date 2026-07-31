@@ -1,0 +1,40 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2198",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #592",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Determine which countable ordinals $\\beta$ have the property that, if $\\alpha=\\omega^{^\\beta}$, then in any red/blue colouring of the edges of $K_\\alpha$ there is either a red $K_\\alpha$ or a blue $K_3$.",
+    "sha256": "ba87fbdac99f0c6a86e8f22d0207168c5b7494eb418523840b6a207841ee7d49",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-592",
+    "source_locator": "dataset ID 2198; problem number EP-592",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "background-legacy-list-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

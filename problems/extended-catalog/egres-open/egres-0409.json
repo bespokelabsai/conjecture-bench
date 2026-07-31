@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0409",
+  "source_registry": "egres-open",
+  "title": "Min-sum two edge-disjoint paths",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''G=(V,E)'' be an undirected graph and let <math>(s_1,t_1), (s_2,t_2)</math> be two node pairs. Give a combinatorial, polynomial-time algorithm to find edge-disjoint <math>s_1-t_1</math> and <math>s_2-t_2</math> paths with minimum total length.",
+    "sha256": "a0cb2fe56013e478325a5de79201d683331ee3efe1fe7aa0d0574ecf62e5d9a5",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-04-04T15:58:08Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Min-sum_two_edge-disjoint_paths&oldid=2005",
+    "source_locator": "EGRES page 409, revision 2005",
+    "source_sha256": "cac50fcfdc6d47eacb04f98727004cb34b111a5156457d692280e5a29158cccf",
+    "tags": [
+      "combinatorial-optimization",
+      "Cycles and paths",
+      "Matrices with indeterminates"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

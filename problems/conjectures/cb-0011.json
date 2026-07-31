@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0011",
+  "slug": "fanraspaud-conjecture",
+  "title": "Fan–Raspaud conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Fan–Raspaud conjecture · 1994. Every bridgeless cubic graph has three perfect matchings with empty common intersection.",
+  "counterexample": {
+    "description": "A connected bridgeless cubic graph on 38 vertices for which every three perfect matchings have a common edge. A complete check enumerates every perfect matching and every unordered triple.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/0809.4821",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2603.17789",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "fan-raspaud-three-perfect-matchings"
+}

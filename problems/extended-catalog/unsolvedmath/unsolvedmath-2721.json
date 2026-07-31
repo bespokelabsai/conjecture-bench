@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2721",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.62",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) Are all good boundary links topologically slice? Freely topologically slice?\n(b) A special case of interest: Is the Whitehead double of the Borromean rings\n(with any choice of clasps) topologically slice?",
+    "sha256": "c78441a2f7db04952ec40a6884882da4944b44048eb79b83f49b609f160599a2",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.62",
+    "source_locator": "dataset ID 2721; problem number KP-1.62",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0169",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_243",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 40]\ntheorem erdos_243 (a : ℕ → ℕ) (ha₀ : StrictMono a)\n    (ha₁ : Tendsto (fun n ↦ (a n : ℝ) / a (n - 1) ^ 2) atTop (𝓝 1))\n    (ha₂ : Summable ((1 : ℚ) / a ·)) :\n      ∀ᶠ n in atTop, a n = a (n - 1) ^ 2 - a (n - 1) + 1",
+    "language_version": "Lean 4.27.0",
+    "sha256": "ebb5b0b3cbf32a072abe72e273d94972eb8685eab102527bc69fb24706aa1446",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/243.lean#L37",
+    "source_locator": "FormalConjectures/ErdosProblems/243.lean:37#erdos_243",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-40"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

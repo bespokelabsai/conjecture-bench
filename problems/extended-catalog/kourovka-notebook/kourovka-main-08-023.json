@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-08-023",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 8.23 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "If the dihedral group D of order 18 is a section of a direct product A × B, must\nat least one of A and B have a section isomorphic to D?                    L. G. Kovács",
+    "sha256": "72c991f6bd1c1092572487484fbe56fc92d64cd1cb98340b073c599e6ac2ae9d",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=27",
+    "source_locator": "Kourovka 8.23, main section, page 27",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

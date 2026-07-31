@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-094",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.94 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Define the weight of a group G to be the minimum number of generators of G\nas a normal subgroup of itself. Let G = G1 ∗ · · · ∗ Gn be a free product of n nontrivial\ngroups.\n    a) Is it true that the weight of G is at least n/2?\n    b) Is it true if the Gi are cyclic?\n    c) Is it true for n = 3 (without assuming the Gi cyclic)?\n    Problem 5.53 in Archive (now answered in the affirmative) is the special case with\nn = 3 and all the Gi cyclic.                                                    J. Howie",
+    "sha256": "67ac182b7c067f8abb64a3ac9dadfc4a3397f01ab833a80cae2fe176f2dcf3b6",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=93",
+    "source_locator": "Kourovka 15.94, main section, page 93",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

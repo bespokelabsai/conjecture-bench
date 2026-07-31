@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1900",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #43",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "If $A,B\\subset \\{1,\\ldots,N\\}$ are two Sidon sets such that $(A-A)\\cap(B-B)=\\{0\\}$ then is it true that $  \\binom{\\lvert A\\rvert}{2}+\\binom{\\lvert B\\rvert}{2}\\leq\\binom{f(N)}{2}+O(1), $ where $f(N)$ is the maximum possible size of a Sidon set in $\\{1,\\ldots,N\\}$? If $\\lvert A\\rvert=\\lvert B\\rvert$ then can this bound be improved to $ \\binom{\\lvert A\\rvert}{2}+\\binom{\\lvert B\\rvert}{2}\\leq (1-c+o(1))\\binom{f(N)}{2} $ for some constant $c>0$?",
+    "sha256": "5b64090f32e3da5f71d83335cdd10dc5fbe182eabd09d8029ceb15ff6cb083d4",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-43",
+    "source_locator": "dataset ID 1900; problem number EP-43",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

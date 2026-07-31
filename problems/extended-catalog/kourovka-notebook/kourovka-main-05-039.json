@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-05-039",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 5.39 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Prove that every countable group can act faithfully as a group of automorphisms\nof a finitely generated soluble group (of derived length at most 4). For background\nto this problem, in particular its relationship with problem 8.50, see (P. M. Neumann,\nin: Groups–Korea, Pusan, 1988 (Lect. Notes Math., 1398), Springer, Berlin, 1989,\n124–139).                                                               P. M. Neumann",
+    "sha256": "7f59849dd3f9d0c331fe1fdc8bd2ad98e76c99b9852d98449959eeb65586fd3c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=16",
+    "source_locator": "Kourovka 5.39, main section, page 16",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

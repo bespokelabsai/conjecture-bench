@@ -1,0 +1,46 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0076",
+  "slug": "woodalls-dijoin-packing-conjecture",
+  "title": "Woodall’s dijoin-packing conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "In every finite digraph, the maximum number of pairwise arc-disjoint dijoins equals the minimum size of a nonempty dicut. A dicut is δ⁺(U) for a nonempty proper vertex set U with δ⁻(U)=∅, and a dijoin is an arc set meeting every dicut.",
+  "counterexample": {
+    "description": "Give a loopless simple digraph whose minimum nonempty dicut has size τ but whose arcs cannot contain τ pairwise disjoint dijoins. A complete check enumerates all dicuts and exhausts the decisive τ-packing instance.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/open/Woodall%27s_conjecture",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Woodall%27s_conjecture&oldid=2429",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.1007/BFb0070416",
+        "role": "origin"
+      },
+      {
+        "url": "https://escholarship.org/uc/item/8cz6n02x",
+        "role": "supporting"
+      },
+      {
+        "url": "https://doi.org/10.1007/s00493-025-00159-x",
+        "role": "2025-current-status-and-factor-six-bound"
+      }
+    ],
+    "discovery_records": [
+      "egres-0054"
+    ]
+  },
+  "equivalence_group": "woodall-dijoin-packing"
+}

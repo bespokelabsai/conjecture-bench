@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0162",
+  "source_registry": "egres-open",
+  "title": "Are t-perfect graphs strongly t-perfect?",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Is it true that every [[t-perfect and h-perfect graphs|t-perfect graph]] is [[t-perfect and h-perfect graphs|strongly t-perfect]]?",
+    "sha256": "f4f2c964749ac61874ec938b1ef32d110b383f658a98173fe21c7c5c61ad9dfe",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-06-17T12:44:22Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Are_t-perfect_graphs_strongly_t-perfect%3F&oldid=2050",
+    "source_locator": "EGRES page 162, revision 2050",
+    "source_sha256": "0a2e5a50bef6e9efd6f30292dc8329a12f93b2e8a0cd421d92c88671a56fd3b7",
+    "tags": [
+      "combinatorial-optimization",
+      "Colouring",
+      "Integer polyhedra"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

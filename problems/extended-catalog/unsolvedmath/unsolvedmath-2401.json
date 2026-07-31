@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2401",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #949",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $S\\subset \\mathbb{R}$ be a set containing no solutions to $a+b=c$. Must there be a set $A\\subseteq \\mathbb{R}\\backslash S$ of cardinality continuum such that $A+A\\subseteq \\mathbb{R}\\backslash S$?",
+    "sha256": "5a20dc5c542819d827cc50884cf606b55cfaa9703f8351dbb0fba8cb248bff2e",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-949",
+    "source_locator": "dataset ID 2401; problem number EP-949",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

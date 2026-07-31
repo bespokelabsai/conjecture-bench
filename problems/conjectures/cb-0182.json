@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0182",
+  "slug": "lehmer-tau-nonvanishing-conjecture",
+  "title": "Lehmer tau nonvanishing conjecture",
+  "field": "number-theory",
+  "statement": "Ramanujan's tau function is nonzero at every positive integer.",
+  "counterexample": {
+    "description": "A positive integer n for which an exact modular-form computation gives τ(n)=0.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0022314X20301189",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0964"
+    ]
+  }
+}

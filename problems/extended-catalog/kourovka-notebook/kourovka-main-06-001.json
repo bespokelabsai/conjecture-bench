@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-06-001",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 6.1 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A subgroup H of an arbitrary group G is said to be C-closed if H = C 2 (H) =\nC(C(H)), and weakly C-closed if C 2 (x) ⩽ H for any element x of H. The structure of\nthe finite groups all of whose proper subgroups are C-closed was studied by Gaschütz.\nDescribe the structure of the locally finite groups all of whose proper subgroups are\nweakly C-closed.                                           V. A. Antonov, N. F. Sesekin",
+    "sha256": "5ec9e696bc3da8a2f5b3131df7c8e773c99b97ad7a60c2f824e81d6ec40c4257",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=18",
+    "source_locator": "Kourovka 6.1, main section, page 18",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

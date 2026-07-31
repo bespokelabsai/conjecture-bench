@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2507",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #1132",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For $x_1,\\ldots,x_n\\in [-1,1]$ let $ l_k(x)=\\frac{\\prod_{i\neq k}(x-x_i)}{\\prod_{i\neq k}(x_k-x_i)}, $ which are such that $l_k(x_k)=1$ and $l_k(x_i)=0$ for $i\neq k$.\nLet $x_1,x_2,\\ldots\\in [-1,1]$ be an infinite sequence, and let $ L_n(x) = \\sum_{1\\leq k\\leq n}\\lvert l_k(x)\\rvert, $ where each $l_k(x)$ is defined above with respect to $x_1,\\ldots,x_n$.\nMust there exist $x\\in (-1,1)$ such that $ L_n(x) >\\frac{2}{\\pi}\\log n-O(1) $ for infinitely many $n$?\nIs it true that $ \\limsup_{n\\to \\infty}\\frac{L_n(x)}{\\log n}\\geq \\frac{2}{\\pi} $ for almost all $x\\in (-1,1)$?",
+    "sha256": "f6b5b8bbde74d94ee4f314de9400ea7e85c16863816d0a9c41869f8d108c02e1",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-1132",
+    "source_locator": "dataset ID 2507; problem number EP-1132",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

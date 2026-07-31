@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2515",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.6",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let p be a prime. A totally imprimitive p-group H of finitary permutations is said to have the cyclic-block property if in the cycle decomposition of every element the support of every cycle is a block for H. Let G be a transitive subgroup of the group of finitary permutations $\\operatorname{FSym}(\\Omega)$ of a set $\\Omega$. Does every transitive Sylow p-subgroup of G contain a transitive subgroup which has the cyclic-block property?",
+    "sha256": "f8fee9250e3f915cfd7b6d39bcbee32460650ff3623f570d58fe873ee5210fab",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.6",
+    "source_locator": "dataset ID 2515; problem number KOU-21.6",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

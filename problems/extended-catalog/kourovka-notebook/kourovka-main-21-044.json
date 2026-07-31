@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-044",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.44 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let Wn = A5 ≀· · ·≀A5 be the n-times iterated permutational wreath product of\nA5 in its natural action (so Wn acts on 5n points), and let W = lim Wn be the inverse\n                                                                      ←−\nlimit (infinite iterated wreath product of A5 ). Does W contain a finitely generated\ndense subgroup of subexponential growth?                                 S. Eberhard",
+    "sha256": "3ae44df41b822ef073465fec67c0dde31dcbec7a44c89362f288c39ce2c6db1a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=170",
+    "source_locator": "Kourovka 21.44, main section, page 170",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

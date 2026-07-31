@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2514",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.5",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $p$ be a prime. Let $G$ be a transitive subgroup of the group of finitary permutations $\\operatorname{FSym}(\\Omega)$ of a set $\\Omega$, let $N$ be a normal subgroup of $G$, and let $S$ be a transitive Sylow $p$-subgroup of $G$.\n\n(a) Is it true that $S\\cap N$ is a Sylow $p$-subgroup of $N$?\n\n(b) Is it true that $SN/N$ is a Sylow $p$-subgroup of $G/N$?\n\n(c) Are any two transitive Sylow $p$-subgroups of $G$ locally conjugate in $G$?\n\nTwo subgroups $X,Y$ of a group $G$ are said to be locally conjugate if there is a locally inner automorphism $\\phi$ of $G$ such that $X^\\phi=Y$. An automorphism $\\phi$ of $G$ is said to be locally inner if for every finite subset $A\\subseteq G$ there is an element $g=g(A)\\in G$ such that $a^\\phi=g^{-1}ag$ for all $a\\in A$.",
+    "sha256": "fbe1a34fab4175c86dd5b584b325abdd699f3a53e3b83e76bac6378bdaec3aa6",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.5",
+    "source_locator": "dataset ID 2514; problem number KOU-21.5",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

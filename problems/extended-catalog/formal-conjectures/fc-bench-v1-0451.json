@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0451",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_741.variants.lower",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem erdos_741.variants.lower : answer(sorry) ↔ ∀ A : Set ℕ, 0 < lowerDensity (A + A) → ∃ A₁ A₂,\n    A = A₁ ∪ A₂ ∧ Disjoint A₁ A₂ ∧ 0 < lowerDensity (A₁ + A₁)\n    ∧ 0 < lowerDensity (A₂ + A₂)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "f27a0e3b2a29c0a735a07f0e6ec7a91d0f1b9643ecf7aac0a8167d136ae9afab",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/741.lean#L54",
+    "source_locator": "FormalConjectures/ErdosProblems/741.lean:54#erdos_741.variants.lower",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

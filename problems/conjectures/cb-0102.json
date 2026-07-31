@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0102",
+  "slug": "positive-edge-graph-imbalance-conjecture",
+  "title": "Positive-edge graph imbalance conjecture",
+  "field": "graph-theory",
+  "statement": "If every edge of a graph joins vertices of different degrees, then the multiset of absolute endpoint-degree differences is graphical.",
+  "counterexample": {
+    "description": "A graph in which every edge joins vertices of different degrees, but the multiset \\(\\{\\lvert d(u)-d(v)\\rvert:uv\\in E\\}\\) is not graphical. It has been checked through 12 vertices. A different *mean-imbalance* conjecture was disproved in 2023; this positive-edge conjecture remains open.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "legacy-15-inventory-without-forecasts",
+    "sources": [
+      {
+        "url": "https://mathoverflow.net/questions/140819/graphs-with-graphic-imbalance-sequences",
+        "role": "supporting"
+      },
+      {
+        "url": "https://www.mathnet.ru/eng/adm484",
+        "role": "supporting"
+      },
+      {
+        "url": "https://www.opuscula.agh.edu.pl/vol43/1/art/opuscula_math_4305.pdf",
+        "role": "supporting"
+      }
+    ]
+  }
+}

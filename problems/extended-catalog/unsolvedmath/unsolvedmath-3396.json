@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3396",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Exponential Algorithms for Knapsack",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture\n\nThe famous 0-1 Knapsack problem is: Given $a_{1},a_{2},\\dots,a_{n}$ and $b$ integers, determine whether or not there are $0-1$ values $x_{1},x_{2},\\dots,x_{n}$ so that $$\\sum_{i=1}^{n} a_{i}x_{i} = b.$$The best known worst-case algorithm runs in time$2^{n/2}$times a polynomial in$n$. Is there an algorithm that runs in time$2^{n/3}$?",
+    "sha256": "125e7c2a0d06113b9698181ab80a9bb83f22bf21367eef9986100024792121f1",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-36311",
+    "source_locator": "dataset ID 3396; problem number OPG-36311",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:computer-science",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

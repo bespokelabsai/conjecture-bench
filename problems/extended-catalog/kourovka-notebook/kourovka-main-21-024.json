@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-024",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.24 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For a finite group G, the power graph P(G) is the graph with vertex set G\nand edges {x, y} for all x ̸= y ∈ G such that either x ∈ ⟨y⟩ or y ∈ ⟨x⟩. Is it true that,\nfor every finite group G, if P(G) is a cograph, then P(G) is chordal? Cf. 21.23.\n    This holds if every element of G has prime power order (D. Bubboloni,\nF. Fumagalli, C. E. Praeger, Preprint, 2025, https://arxiv.org/abs/2510.18073)\nand if G is a nonabelian simple group (J. Cameron, P. Manna, R. Mehatari, J. Algebra,\n591 (2022), 59–74; J. Brachter, E. Kaja, J. Algebr. Comb., 58 (2023), 1095–1124).\n                                               D. Bubboloni, F. Fumagalli, C. E. Praeger\n  ∗ Yes,it is true (M. Rundström, Preprint of 30 January 2026, https:\n//kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/04/\n21.24-runds.pdf;    P. Monticone, Preprint of 29 March 2026, https:\n//kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/04/21_\n24-1.pdf)",
+    "sha256": "6d17508c9d4edcce9bae263a6501fb8557f179a54238f61f1289d4f61677f951",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=168",
+    "source_locator": "Kourovka 21.24, main section, page 168",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

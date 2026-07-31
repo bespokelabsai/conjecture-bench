@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0295",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_373.variants.suranyi",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_373.variants.suranyi :\n    {(n, a, b) : ℕ × ℕ × ℕ | n ! = a ! * b ! ∧ 1 < n ∧ 1 < a ∧ 1 < b ∧ b ≤ a ∧ a + 1 ≠ n}\n      = {(10, 7, 6)}",
+    "language_version": "Lean 4.27.0",
+    "sha256": "f7920803448813231e83475ce2d2f9135f71415544822c87e49801284abeeb05",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/373.lean#L86",
+    "source_locator": "FormalConjectures/ErdosProblems/373.lean:86#erdos_373.variants.suranyi",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0243"
+  ]
+}

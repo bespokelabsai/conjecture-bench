@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0166",
+  "slug": "harmonious-tree-labeling-conjecture",
+  "title": "Graham–Sloane harmonious tree-labeling conjecture",
+  "field": "graph-theory",
+  "statement": "Every n-vertex tree has a vertex labeling into Z_(n−1), using exactly one label twice, whose induced edge sums modulo n−1 are all distinct.",
+  "counterexample": {
+    "description": "Give a 32-vertex tree with no harmonious labeling. A complete check exhausts all label assignments after fixing the global translation symmetry.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1106.3490",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2509.05280",
+        "role": "supporting"
+      }
+    ]
+  }
+}

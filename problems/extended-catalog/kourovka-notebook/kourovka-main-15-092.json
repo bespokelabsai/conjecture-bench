@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-092",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.92 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A group x, y | xl = y m = (xy)n is called the triangle group with parame-\nters (l, m, n). It is proved in (A. M. Brunner, R. G. Burns, J. Wiegold, Math. Sci-\nentist, 4 (1979), 93–98) that the triangle group (2, 3, 30) has uncountably many\nnon-isomorphic homomorphic images that are residually finite alternating groups. Is\nthe same true for the triangle group (2, 3, n) for all n > 6?            J. Wiegold",
+    "sha256": "c5b52ae729abf139841ff14fcce97f4a088f4de7445553c4827cb0555ac25d5f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=93",
+    "source_locator": "Kourovka 15.92, main section, page 93",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

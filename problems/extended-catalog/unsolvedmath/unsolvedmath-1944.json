@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1944",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #125",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $A = \\{ \\sum\\epsilon_k3^k : \\epsilon_k\\in \\{0,1\\}\\}$ be the set of integers which have only the digits $0,1$ when written base $3$, and $B=\\{ \\sum\\epsilon_k4^k : \\epsilon_k\\in \\{0,1\\}\\}$ be the set of integers which have only the digits $0,1$ when written base $4$.\nDoes $A+B$ have positive density?",
+    "sha256": "b047adcdcd666e832d28c29cd30a4f621c099e535c3b3d3109034752ac3f908a",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-125",
+    "source_locator": "dataset ID 1944; problem number EP-125",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

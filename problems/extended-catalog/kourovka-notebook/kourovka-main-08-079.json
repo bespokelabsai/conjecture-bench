@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-08-079",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 8.79 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does there exist a countable infinite locally finite group G that is complete,\nin the sense that G has trivial centre and no outer automorphisms? An uncountable\none exists (K. K. Hickin, Trans. Amer. Math. Soc., 239 (1978), 213–227).\n                                                                                 B. Hartley",
+    "sha256": "d2c70af94838cfc5a93d06235aeb0dca4101ad23eefd514d1595dbbe51c1c6fb",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=30",
+    "source_locator": "Kourovka 8.79, main section, page 30",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

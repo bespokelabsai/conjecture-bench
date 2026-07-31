@@ -1,0 +1,41 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2074",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #361",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $c>0$ and $n$ be some large integer. What is the size of the largest $A\\subseteq \\{1,\\ldots,\\lfloor cn\\rfloor\\}$ such that $n$ is not a sum of a subset of $A$? Does this depend on $n$ in an irregular way?\n\",\n    \"difficulty\": \"L1\"\n},{",
+    "sha256": "3d98405ed85e0ceb1662336db94c9501bf591c76772c69a989ae80a6133a3ecc",
+    "contains_placeholder": false,
+    "quality_flags": [
+      "statement-embedded-json-fragment"
+    ]
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-361",
+    "source_locator": "dataset ID 2074; problem number EP-361",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems",
+      "statement-embedded-json-fragment"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "statement-extraction-repair",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

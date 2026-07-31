@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2879",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.3",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Are there exotic smooth structures on the following closed, simply-connected 4–manifolds?\n\n(a) $\\#_{k}\\mathbb{CP}^{2}$ for any $k \\geq$ 1.\n\n(b) $\\#_{m}(\\mathbb{CP}^{2}\\#\\overline{\\mathbb{CP}}{}^{2})$ and $\\#_{n}(S^{2} \\times S^{2})$ for $m \\leq$ 8, $n \\leq$ 10.\n\n(c) $\\#_{p}K3 \\#_{q}(S^{2} \\times S^{2})$ for any $p \\geq$ q+5. If so, what are the smallest k, m and n? The largest p and q?",
+    "sha256": "2fc3c27d95ee134ec728fa6fff915423a17409925e7509dc4835ab8886048433",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.3",
+    "source_locator": "dataset ID 2879; problem number KP-4.3",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

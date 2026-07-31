@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-017",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.17 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Well-known problem). Suppose that G is a finitely presented group such that\nthe set of first Betti numbers over all the finite index subgroups of G is unbounded\nabove. (Here, the first Betti number is the maximum n for which there is a surjective\nhomomorphism onto Zn .)\n    a) Must G have a finite index subgroup with a surjective homomorphism to a\nnon-abelian free group?\n   b) Can G even be soluble?                                              J. O. Button",
+    "sha256": "f152ca3f2b09b08d740cab4a4e7a7d45f0340104113da973890782943ab739cf",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=132",
+    "source_locator": "Kourovka 19.17, main section, page 132",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

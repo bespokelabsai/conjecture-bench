@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0345",
+  "source_registry": "egres-open",
+  "title": "Skew-supermodular colouring with two class sizes",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let <math>p_1</math> and <math>p_2</math> be integer [[Supermodular function|skew-supermodular]] set functions on ground set ''S'' such that <math>\\max\\{p_1(X),p_2(X)\\}\\leq \\min\\{|X|,k\\}</math> for every <math>X \\subseteq S</math>, and let <math>m_1,m_2,n_1,n_2</math> be positive integers such that <math>m_1 n_1+m_2 n_2=|S|</math>. Can we decide in polynomial time if there is a partition <math>{\\mathcal P}</math> of ''S'' with <math>m_1</math> classes of size <math>n_1</math> and <math>m_2</math> classes of size <math>n_2</math>, such that <math>|\\{Y \\in {\\mathcal P}: Y \\cap X \\neq \\emptyset\\}| \\geq \\max\\{p_1(X), p_2(X)\\}</math> for every <math>X \\subseteq S</math>?",
+    "sha256": "bf03422d5e2b53f9aaa9178685c39cffbae91eba3cdc1a0593116e2cc5183c7a",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2014-01-15T19:08:14Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Skew-supermodular_colouring_with_two_class_sizes&oldid=1621",
+    "source_locator": "EGRES page 345, revision 1621",
+    "source_sha256": "e4b5e4e8f07f18f0a794908ede6ee32e7adf5639083bb040714a6a2ebea564fc",
+    "tags": [
+      "combinatorial-optimization",
+      "Colouring",
+      "Matchings",
+      "Sub- and supermodular functions"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

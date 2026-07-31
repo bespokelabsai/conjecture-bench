@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-099",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.99 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Conjecture: Let a1 G1 , . . . , ak Gk , k > 1, be finitely many pairwise disjoint left\ncosets in a group G with [G : Gi ] < ∞ for all i = 1, . . . , k. Then\n                 gcd([G : Gi ], [G : Gj ]) ⩾ k    for some 1 ⩽ i < j ⩽ k.\n   The conjecture is known to hold for k = 2, 3, 4.                               Z.-W. Sun",
+    "sha256": "e7ab4f0a9b101d0d17eff8f6eba445824396bfd6615b1ced89597e8121c5d6c8",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=159",
+    "source_locator": "Kourovka 20.99, main section, page 159",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

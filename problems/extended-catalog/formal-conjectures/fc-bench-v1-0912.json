@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0912",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "kakeya_set_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 42]\ntheorem kakeya_set_conjecture (n : ℕ) (hn : n > 0) :\n    KakeyaSetConjectureDim n",
+    "language_version": "Lean 4.27.0",
+    "sha256": "affc1730ef3ebf465b2dce2fe806b7dc4775db50f1503e43ce22fd96591ed095",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Kakeya.lean#L58",
+    "source_locator": "FormalConjectures/Wikipedia/Kakeya.lean:58#kakeya_set_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-42"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

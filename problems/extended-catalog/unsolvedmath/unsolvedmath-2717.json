@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2717",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.58",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "What concordance information about a knot $K$ is contained in\nits 0-trace $X_{0}(K)$ and in its 0-surgery $S^{3}_{0}(K)$?\nSpecifically,\n(a) Suppose $K$ and $K'$ have homeomorphic 0-traces.\n(i) Are $K$ and $K'$ topologically concordant?\n(ii) What if one just assumes $K$ and $K'$ have homeomorphic 0-surgeries?\n(iii) What if one just assumes $K$ and $K'$ have 0-surgeries that are topolog-\nically homology cobordant, preserving the homology class of a merid-\nian.\n\n(b) Suppose $K$ and $K'$ have homeomorphic 0-surgeries, where the image of\nthe meridian of $K$ is freely homotopic to the meridian of $K'$. Are $K$ and\n$K'$ smoothly concordant?",
+    "sha256": "c83c7e4dc0a4dd226e01813e60a964785aaf6be1789aa036ff75d83d7499bde9",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.58",
+    "source_locator": "dataset ID 2717; problem number KP-1.58",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

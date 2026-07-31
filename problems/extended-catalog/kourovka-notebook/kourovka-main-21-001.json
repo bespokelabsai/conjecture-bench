@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-001",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.1 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let n be a positive integer. For a finite group K and an automorphism\n                                                                        n−1\nϕ of K of order dividing n, let Xn,ϕ (K) := {x ∈ K | xxϕ · · · xϕ            = 1}. Let\ncn be the supremum of the ratios |Xn,ϕ (H)|/|H| over all finite groups H and their\nautomorphisms ϕ ∈ Aut(H) such that ϕn = id and Xn,ϕ (H) ̸= H.\n   (a) Let n > 1 be a positive integer such that cd < 1 for all prime power divisors d\nof n. Is it true that cn < 1?\n   (b) For a finite group G and a positive integer n, the generalized Hughes–Thompson\nsubgroup is defined as Hn (G) = ⟨x ∈ G | xn ̸= 1⟩. Suppose that n is a positive integer\nfor which there is a positive integer kn depending only on n such that |G : Hn (G)| ⩽ kn\nfor all finite groups G with Hn (G) ̸= 1. Is it true that then cn < 1? This question is\nopen even when n ⩾ 5 is prime.                               A. Abdollahi, M. S. Malekan",
+    "sha256": "ffa34f23bbf2edb3e316e34ee46a2cd43fa4f8fda9c8fc350f2713874584b2de",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=164",
+    "source_locator": "Kourovka 21.1, main section, page 164",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

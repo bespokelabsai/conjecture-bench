@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2766",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 2.18",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "What is the best lower bound on the volume of a fibered hyper-\nbolic 3-manifold one can give in terms of the translation length of the monodromy\nwith respect to various metric spaces, such as Teichmüller space with the Weil–\nPeterson metric or the pants complex?",
+    "sha256": "74ee809e85b8d2b0179dd9025342a08853fa227495acb86d258fa0342f0b89d9",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-2.18",
+    "source_locator": "dataset ID 2766; problem number KP-2.18",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-03-043",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 3.43 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let µ be an infinite cardinal number. A group G is said to be µ-overnilpotent\nif every cyclic subgroup of G is a member of some ascending normal series of length\nless than µ reaching G. It is not difficult to show that the class of µ-overnilpotent\ngroups is a radical class. Is it true that if µ1 < µ2 for two infinite cardinal numbers\nµ1 and µ2 , then there exists a group G which is µ2 -overnilpotent and µ1 -semisimple?\n    Remark of 2001: In (S. Vovsi, Sov. Math. Dokl., 13 (1972), 408–410) it was proved\nthat for any two infinite cardinals µ1 < µ2 there exists a group that is µ2 -overnilpotent\nbut not µ1 -overnilpotent.                                                    B. I. Plotkin",
+    "sha256": "7abfa2a045c1ff4a76c503a358616f3dcc2d7837c245f4dc3c07370d13ee33b6",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=10",
+    "source_locator": "Kourovka 3.43, main section, page 10",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

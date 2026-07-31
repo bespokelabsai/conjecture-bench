@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-088",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.88 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Compute K0 (F2 G) and K1 (F2 G), where G is the first Grigorchuk group,\nF2 G its group algebra over the field of two elements, and K0 , K1 the zeroth and first\nK-functors.                                                               R. Mikhailov",
+    "sha256": "7ca7dff32bc51bf435f1bdd4290afe86ccf5e14d90de2d1942e461a3307b4406",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=111",
+    "source_locator": "Kourovka 17.88, main section, page 111",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

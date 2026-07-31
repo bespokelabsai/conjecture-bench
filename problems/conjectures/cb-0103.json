@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0103",
+  "slug": "positive-square-energy-strengthening",
+  "title": "Positive square-energy strengthening",
+  "field": "spectral-graph-theory",
+  "statement": "Every connected n-vertex graph with at least n+1 edges has s⁺(G)≥n, where s⁺ is the sum of squares of the positive adjacency eigenvalues.",
+  "counterexample": {
+    "description": "A connected simple graph on 10–14 vertices with at least n+1 edges whose exactly bounded positive adjacency square energy is strictly less than n. This is the stronger n-bound, not the now-proved older n−1 statement.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "legacy-15-inventory-without-forecasts",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2506.07264",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2607.18031",
+        "role": "supporting"
+      }
+    ]
+  }
+}

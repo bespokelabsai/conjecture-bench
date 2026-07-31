@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0458",
+  "source_registry": "egres-open",
+  "title": "Complexity of computing the rotor-router action",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let <math>G</math> be an undirected graph.\nWhat is the complexity of computing the rotor-router action of the [[Picard group of a graph|sandpile group]] of <math>G</math> on the spanning trees of <math>G</math>?",
+    "sha256": "6c937b7da245410ad715efffe2c00420ed34928601891555bf7ede6a79688e39",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2021-11-22T13:00:47Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Complexity_of_computing_the_rotor-router_action&oldid=2462",
+    "source_locator": "EGRES page 458, revision 2462",
+    "source_sha256": "ea0215abd0b58568b648802d86a54bda657d5d16b095a4d98aacaeaf98249bd5",
+    "tags": [
+      "combinatorial-optimization",
+      "Chip-firing"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-083",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.83 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Yu. I. Merzlyakov).\n                 �                     � a rational number α such that |α| < 2\n                         � Does�there exist\n                         1   α           1    0\nand the matrices                  and             generate a free group? Yu. V. Sosnovskiı̆\n                         0   1           α    1",
+    "sha256": "dde868d8af7750d28e8a39a7939293c6135bbae5215ce4bd8502364f10a3cb3f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 4
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=92",
+    "source_locator": "Kourovka 15.83, main section, page 92",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

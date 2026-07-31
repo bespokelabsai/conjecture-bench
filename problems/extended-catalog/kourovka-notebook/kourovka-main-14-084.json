@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-084",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.84 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "An element g of a (relatively) free group Fr (M) of rank r of a variety M is\nsaid to be primitive if it can be included in a basis of Fr (M).\n    a) Do there exist a group Fr (M) and a non-primitive element h ∈ Fr (M) such\nthat for some monomorphism α of Fr (M) the element α(h) is primitive?\n    b) Do there exist a group Fr (M) and a non-primitive element h ∈ Fr (M) such\nthat for some n > r the element h is primitive in Fn (M)?          E. I. Timoshenko",
+    "sha256": "09fe0d7fb2608dafa7fc3a80efc16e7b2004108408370ca13aed0c4d04f8e115",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=80",
+    "source_locator": "Kourovka 14.84, main section, page 80",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0294",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_373.variants.maximal_solution",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_373.variants.maximal_solution :\n    (16, [14, 5, 2]) ∈ S ∧ ∀ s ∈ S, s.fst ≤ 16",
+    "language_version": "Lean 4.27.0",
+    "sha256": "2493ade76e5a500dd333f4d66516a85aeb823a735f0f5eefb06e5e65487b39c8",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/373.lean#L77",
+    "source_locator": "FormalConjectures/ErdosProblems/373.lean:77#erdos_373.variants.maximal_solution",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0242"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-036",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.36 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "There are groups of cardinality at most 2ℵ0 , even nilpotent of class 2,\nthat cannot be embedded in S := Sym(N) (V. A. Churkin, Algebra and model theory\n(Novosibirsk State Tech. Univ.), 5 (2005), 39–43 (Russian)). One condition which\nmight characterize subgroups of S is the following. Consider the metric d on S where\nfor all x ̸= y we define d(x, y) := 2−k when k is the least element of the set N such\nthat k x ̸= k y . Then (S, d) is a separable topological group, and so each subgroup of\nS (not necessarily a closed subgroup of (S, d)) is a separable topological group under\nthe induced metric. Is it true that every group G for which there is a metric d′ such\nthat (G, d′ ) is a separable topological group is (abstractly) embeddable in S?\n    Note that any such group G can be embedded as a section in S.            J. D. Dixon\n  ∗ No, there exists an uncountable connected Polish group whose every abstract\nhomomorphism into S is trivial (C. Rosendal, S. Solecki, Israel J. Math., 162 (2007),\n349–371); see also (A. Kaı̈chouh, F. Le Maı̂tre, Bull. London Math. Soc., 47 (2015),\n996–1009) (S. Corson, Letter of 5 June 2024).",
+    "sha256": "df727731776cef39f74a81ac1aa1f7ad8792cf949177789db72fc8a24bedec3f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=119",
+    "source_locator": "Kourovka 18.36, main section, page 119",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

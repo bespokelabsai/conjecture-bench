@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-10-027",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 10.27 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "a) Let t be an involution of a finite group G and suppose that the set D =\ntG ∪{tx ty | x, y ∈ G, |tx ty | = 2} does not intersect O2 (G). Prove that if t ∈ O2 (C(d))\nfor any involution d from CD (t), then D = tG (and in this case the structure of the\ngroup ⟨D⟩ is known).\n    b) A significantly more general question. Let t be an involution of a finite group G\nand suppose that t ∈ Z ∗ (N (X)) for every non-trivial subgroup X of odd order which\nis normalized, but not centralized, by t. What is the group tG ?           A. A. Makhnëv",
+    "sha256": "f00c8f5424b69a52975b07539ebc60f496bc7c8c52b6bc1a54e6ef93ee774b27",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=39",
+    "source_locator": "Kourovka 10.27, main section, page 39",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

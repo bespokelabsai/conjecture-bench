@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0099",
+  "slug": "ppt-squared-conjecture",
+  "title": "PPT-squared conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "The composition of any two finite-dimensional PPT quantum channels is entanglement breaking.",
+  "counterexample": {
+    "description": "Give two algebraic CPTP PPT channels whose composition is not entanglement breaking. Exact Choi matrices verify channel and PPT conditions; a block-positive entanglement witness must be certified by real quantifier elimination or a Positivstellensatz/SOS proof.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://link.springer.com/article/10.1007/s00023-025-01558-y",
+        "role": "supporting"
+      }
+    ]
+  }
+}

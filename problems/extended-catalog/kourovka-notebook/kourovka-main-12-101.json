@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-101",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.101 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "We call a group G containing an involution i a T0 -group if\n    1) the order of the product of any two involutions conjugate to i is finite;\n    2) all 2-subgroups of G are either cyclic or generalized quaternion;\n    3) the centralizer C of the involution i in G is infinite, distinct from G, and has\nfinite periodic part;\n    4) the normalizer of any non-trivial i-invariant finite subgroup in G either is con-\ntained in C or has periodic part which is a Frobenius group (see 6.55) with abelian\nkernel and finite complement of even order;\n    5) for every element c not contained in C for which ci is an involution there is an\nelement s of C such that ⟨c, cs ⟩ is an infinite subgroup.\n    Does there exist a simple T0 -group?                                   V. P. Shunkov",
+    "sha256": "a28f49c1909c71b024913ee09a23e81295ebaae1e5f19978233ca109d190d120",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=64",
+    "source_locator": "Kourovka 12.101, main section, page 64",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

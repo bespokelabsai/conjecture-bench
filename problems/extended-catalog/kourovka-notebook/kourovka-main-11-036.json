@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-036",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.36 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G = B(m, n) be the free Burnside group of rank m and of odd exponent\nn ≫ 1. Are the following statements true?\n    a) Every 2-generated subgroup of G is isomorphic to the Burnside n-product of\ntwo cyclic groups.\n                                                                     2     n\n    b) Every automorphism φ of G such that φn = 1 and bφ · bφ · · · bφ = 1 for all\nb ∈ G is an inner automorphism (here m > 1).\n    Editors’ comment: for large prime n this follows from (E. A. Cherepanov, Int. J.\nAlgebra Comput., 16 (2006), 839–847), for prime n ⩾ 1009 from (V. S. Atabekyan,\nIzv. Math., 75, no. 2 (2011), 223–237); this is also true for odd n ⩾ 1003 if in addition\nthe order of φ is a prime power (V. S. Atabekyan, Math. Notes, 95, no. 5 (2014),\n586–589).\n    c) The group G is Hopfian if m < ∞.\n    d) All retracts of G are free.                                           S. V. Ivanov",
+    "sha256": "c166f6a6577990f47700c0618f523d7e37e315a2c63ff3f22e4b82e2bed92fd2",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=49",
+    "source_locator": "Kourovka 11.36, main section, page 49",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

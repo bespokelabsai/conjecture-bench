@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0196",
+  "slug": "generalized-property-r-conjecture",
+  "title": "Generalized Property R conjecture",
+  "field": "knot-theory",
+  "statement": "If zero-framed surgery on an n-component link yields a connected sum of n copies of S¹×S², then handleslides transform the link into the zero-framed unlink.",
+  "counterexample": {
+    "description": "A finite framed link with certified surgery manifold and a formal obstruction to the required handleslide equivalence.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/0908.2795",
+        "role": "supporting"
+      }
+    ]
+  }
+}

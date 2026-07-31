@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0054",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "The Jacobian Conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "If $F: \\mathbb{C}^n \\to \\mathbb{C}^n$ is a polynomial map with constant non-zero Jacobian determinant, then $F$ is invertible.",
+    "sha256": "93db80137fc098e900c2ce7a9ae666eb5a5610255d3f0d4790a4bf4387a9f56b",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/SMA-016",
+    "source_locator": "dataset ID 54; problem number SMA-016",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:algebra",
+      "difficulty:L4",
+      "secondary-aggregation",
+      "set:smale-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

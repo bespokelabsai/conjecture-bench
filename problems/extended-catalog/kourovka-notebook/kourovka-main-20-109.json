@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-109",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.109 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A skew brace is a set B equipped with two operations + and · such that (B, +)\nis an additively written (but not necessarily abelian) group, (B, ·) is a multiplicatively\nwritten group, and a · (b + c) = ab − a + ac for any a, b, c ∈ B.\n    Is there a finite skew brace with perfect additive group and non-perfect almost\nsimple multiplicative group?                                                    C. Tsang",
+    "sha256": "87c4b5e7df6e4f7279899119cad19ca9b139b69e8dd59327a7de828803a52ac8",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=160",
+    "source_locator": "Kourovka 20.109, main section, page 160",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

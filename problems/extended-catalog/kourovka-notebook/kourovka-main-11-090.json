@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-090",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.90 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let V be a variety of groups and let k be an infinite cardinal number. A group\nG ∈ V of rank k is called almost free in V if each of its subgroups of rank less than k\nis contained in a subgroup of G which is free in V. For what k do there exist almost\nfree but not free in B groups of rank k?                                 S. V. Rychkov",
+    "sha256": "d78601dae082725de389ea943a0c3e8637ce687afb0ae65a2a2bff956b040f69",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=54",
+    "source_locator": "Kourovka 11.90, main section, page 54",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

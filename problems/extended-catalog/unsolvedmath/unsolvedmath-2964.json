@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2964",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.88",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $\\tau: S^{4} \\to S^{4}$ be a free (hence orientation-reversing) involution. Is there an embedded $S^{2} \\subset S^{4}$ that is invariant under $\\tau$? This is equivalent to the existence of an embedded $\\mathbb{RP}^{2}$ in $S^{4}/\\tau \\cong \\mathbb{RP}^{4}$, carrying the nontrivial class in $H_{2}(\\mathbb{RP}^{4};\\mathbb{Z}/2)$. This condition on the homology class will be assumed for the rest of the problem.",
+    "sha256": "d272d8689fb5700b56c3d809df81148e69c12d8a9cf0df15a85922baf8bc1994",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.88",
+    "source_locator": "dataset ID 2964; problem number KP-4.88",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

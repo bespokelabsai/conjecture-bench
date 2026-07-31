@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0904",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "irrational_e_to_e",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 33]\ntheorem irrational_e_to_e :\n    answer(sorry) ↔ Irrational (e ^ e)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "add2236224c6188410c429f199ff5833469ad90adeb536bfc164ef6a61cb2402",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Irrational.lean#L59",
+    "source_locator": "FormalConjectures/Wikipedia/Irrational.lean:59#irrational_e_to_e",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-33"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

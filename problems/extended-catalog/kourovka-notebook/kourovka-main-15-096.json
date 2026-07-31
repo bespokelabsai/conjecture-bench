@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-096",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.96 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "An automorphism φ of a group G is called a splitting automorphism of order\n                         2      n−1\nn if φn = 1 and xxφ xφ · · · xφ     = 1 for any x ∈ G.\n    a) Is it true that the derived length of a d-generated nilpotent p-group admitting\na splitting automorphism of order pn is bounded by a function of d, p, and n? This\nis true for n = 1, see Archive, 7.53.\n    b) The same question for pn = 4.                                      E. I. Khukhro",
+    "sha256": "d9b26d8285cdaf736a3eb7b55f3aed00a2e9a38c95a2252657199ea54d474b2f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=94",
+    "source_locator": "Kourovka 15.96, main section, page 94",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

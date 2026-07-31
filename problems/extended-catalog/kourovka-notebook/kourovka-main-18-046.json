@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-046",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.46 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Every finite group G can be embedded in a group H in such a way that every\nelement of G is a square of an element of H. The overgroup H can be chosen such\nthat |H| ⩽ 2|G|2 . Is this estimate sharp?\n   It is known that the best possible estimate cannot be better than |H| ⩽ |G|2\n(D. V. Baranov, Ant. A. Klyachko, Siber. Math. J., 53, no. 2 (2012), 201–206).\n                                                                             Ant. A. Klyachko",
+    "sha256": "c518922d4001b9b9df714e371bb36594a60eb87bb165b786392b2febd0e4650a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=120",
+    "source_locator": "Kourovka 18.46, main section, page 120",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

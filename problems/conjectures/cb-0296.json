@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0296",
+  "slug": "opposite-base-polyhedron-vertices",
+  "title": "Opposite vertices of base polyhedra",
+  "field": "submodular-functions-and-integer-polyhedra",
+  "statement": "If every vertex of a finite-dimensional base polyhedron B lies in {-1,0,1}^n and the origin belongs to B, then B has a vertex v for which -v is also a vertex.",
+  "counterexample": {
+    "description": "A normalized integer submodular function whose base polyhedron contains the origin and has every vertex in {-1,0,1}^n, but whose complete greedy vertex set contains no opposite pair.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://lemon.cs.elte.hu/egres/open/Opposite_vertices_of_base_polyhedra",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Opposite_vertices_of_base_polyhedra&oldid=1285",
+        "role": "pinned-statement-source"
+      }
+    ],
+    "discovery_records": [
+      "egres-0163"
+    ]
+  },
+  "equivalence_group": "opposite-base-polyhedron-vertices"
+}

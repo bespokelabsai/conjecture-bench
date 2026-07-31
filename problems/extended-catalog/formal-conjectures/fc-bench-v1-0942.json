@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0942",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "volume_frontier_mandelbrotSet_eq_zero",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 37]\ntheorem volume_frontier_mandelbrotSet_eq_zero : volume (frontier mandelbrotSet) = 0",
+    "language_version": "Lean 4.27.0",
+    "sha256": "4dd662e8f4102dcc7151b9cc2620e021dded6da1e406d2f520900dc2685eac7a",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Mandelbrot.lean#L162",
+    "source_locator": "FormalConjectures/Wikipedia/Mandelbrot.lean:162#volume_frontier_mandelbrotSet_eq_zero",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-37"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

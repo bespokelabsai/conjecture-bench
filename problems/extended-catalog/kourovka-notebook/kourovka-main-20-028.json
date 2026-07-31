@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-028",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.28 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let L be a non-abelian finite simple group, and let H(L) = M (L).L be the\nuniversal perfect central extension, where M (L) is the Schur multiplier of L. Suppose\nthat G is a finite group such that the set of class sizes of G is the same as the set of\nclass sizes of H(L). Is it true that G ≃ H(L) × A, where A is an abelian group?\n    This is proved for L = Alt5 in (J. Algebra Appl., 21, no. 11 (2022), Article ID\n2250226, 8 p.).                                                          I. B. Gorshkov",
+    "sha256": "f3baeac6ec91b3c3486f163918131d5f1a91e348e38e28c54d61d30468bcd525",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=148",
+    "source_locator": "Kourovka 20.28, main section, page 148",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-02-048",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 2.48 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(N. Aronszajn). Let G be a connected topological group locally satisfying\nsome identical relation f |U = 1, where U is a neighborhood of the identity element\nof G. Is it then true that f |G = 1?                                 V. P. Platonov\n    ∗ No, not necessarily: for any odd integer n ⩾ 1010 there is a connected topological\ngroup such that the identity xn = 1 holds in some neighborhood of unity, but not\nin the entire group (E. Reznichenko, I. Zyabrev, Preprint, 2024, https://arxiv.org/\nabs/2406.05203).",
+    "sha256": "13c95f07e79c98270cc51c2190be4af1995c489e805d4b66184af4de2da3818e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=8",
+    "source_locator": "Kourovka 2.48, main section, page 8",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

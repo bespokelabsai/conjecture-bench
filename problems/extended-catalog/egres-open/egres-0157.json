@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0157",
+  "source_registry": "egres-open",
+  "title": "Constructive characterization of dumpy graphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Find a constructive characterization of [[Dumpy graph|k-dumpy ]] graphs.",
+    "sha256": "22f7d9ac8ce4860e7b7d3b29832595024b964d364539c98133790176156f9c37",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2012-12-05T13:22:37Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Constructive_characterization_of_dumpy_graphs&oldid=1467",
+    "source_locator": "EGRES page 157, revision 1467",
+    "source_sha256": "da0b1815f1eae5b5aef88855d6cdc0e4c56b87d03afa82a9c5f140af22b4f6e2",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity",
+      "Orientations"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0174",
+  "slug": "aharoni-berger-rainbow-matching-conjecture",
+  "title": "Aharoni–Berger rainbow-matching conjecture",
+  "field": "graph-theory",
+  "statement": "Every family of n matchings of size n+1 in a bipartite multigraph has a rainbow matching of size n.",
+  "counterexample": {
+    "description": "A bipartite multigraph represented by n colour classes, each a matching of size n+1, for which no pairwise vertex-disjoint choice uses every colour.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1503.00438",
+        "role": "supporting"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0195669825002082",
+        "role": "status"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/open/Rainbow_matchings_in_bipartite_graphs",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Rainbow_matchings_in_bipartite_graphs&oldid=2441",
+        "role": "pinned-statement-source"
+      }
+    ],
+    "discovery_records": [
+      "egres-0335"
+    ]
+  }
+}

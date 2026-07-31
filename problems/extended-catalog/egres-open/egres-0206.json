@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0206",
+  "source_registry": "egres-open",
+  "title": "Generic global rigidity in three dimensions",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Decide whether a graph is [[Rigid graph|globally rigid]] in three-dimensional space.",
+    "sha256": "810be7272619e5680bc648214baff03f14a4f604ca9fbc55c970a1e101f74684",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2015-01-08T19:03:53Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Generic_global_rigidity_in_three_dimensions&oldid=1800",
+    "source_locator": "EGRES page 206, revision 1800",
+    "source_sha256": "9f260244035fe61f9be48410e5726dc039f9c7aff371749302205d29bea5559c",
+    "tags": [
+      "combinatorial-optimization",
+      "Matrices with indeterminates",
+      "Rigidity"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3290",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "A gold-grabbing game",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Setup Fix a tree $T$ and for every vertex $v \\in V(T)$ a non-negative integer $g(v)$ which we think of as the amount of gold at $v$.\n\n2-Player game Players alternate turns. On each turn, a player chooses a leaf vertex $v$ of the tree, takes the gold at this vertex, and then deletes $v$. The game ends when the tree is empty, and the winner is the player who has accumulated the most gold.\n\nProblem Find optimal strategies for the players.",
+    "sha256": "b7b9b0274f05fb51b5f116f40e62502b0b2c5a34b71eddd9d5a98567e641b357",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-37079",
+    "source_locator": "dataset ID 3290; problem number OPG-37079",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

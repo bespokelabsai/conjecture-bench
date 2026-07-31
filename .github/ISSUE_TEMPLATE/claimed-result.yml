@@ -1,0 +1,99 @@
+name: Claimed result
+description: Catalog a claimed result for an existing ConjectureBench problem
+title: "[Claim] <problem ID>: "
+labels:
+  - claimed-result
+body:
+  - type: markdown
+    attributes:
+      value: |
+        GitHub assigns this claim its ID: `CC-CLAIM-<issue number>`.
+        Cataloguing a claim is not verification, endorsement, or a priority decision.
+
+  - type: input
+    id: problem_id
+    attributes:
+      label: Problem ID
+      description: Use an existing ID exactly as it appears in ConjectureBench.
+      placeholder: cb-0133
+    validations:
+      required: true
+
+  - type: input
+    id: problem_link
+    attributes:
+      label: Problem link
+      description: Link to the record in this repository.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: result_type
+    attributes:
+      label: Result type
+      options:
+        - Proof
+        - Counterexample
+        - Construction
+        - Improved bound
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Claim summary
+      description: State precisely what is claimed and how it relates to the problem.
+    validations:
+      required: true
+
+  - type: input
+    id: claimants
+    attributes:
+      label: Claimant(s)
+      description: Name every person or organization claiming the result.
+    validations:
+      required: true
+
+  - type: input
+    id: artifact
+    attributes:
+      label: Durable result artifact
+      description: Link to a public paper, preprint, repository, or witness.
+    validations:
+      required: true
+
+  - type: textarea
+    id: external_validation
+    attributes:
+      label: External validation or publication status
+      description: Give links and details, or write "none".
+    validations:
+      required: true
+
+  - type: input
+    id: model
+    attributes:
+      label: Model/provider and exact version
+      description: Identify every model used, or write "none".
+    validations:
+      required: true
+
+  - type: textarea
+    id: model_role
+    attributes:
+      label: Model role
+      description: Explain what the model did, or write "none".
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Acknowledgements
+      options:
+        - label: I understand this records a claim and does not certify its mathematics or priority.
+          required: true
+        - label: I confirm that the links are public and that this is not an obvious duplicate claim.
+          required: true

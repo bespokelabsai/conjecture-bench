@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0006",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "CollatzLike",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 11]\ntheorem CollatzLike (n : ℕ) (hn : 8 < n) : 2 ∈ Nat.digits 3 (2^n)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "ca732dd67f69abba121b951bb443adbf5d9b6adf0b51e90e021033884a813296",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Arxiv/2107.12475/CollatzLike.lean#L40",
+    "source_locator": "FormalConjectures/Arxiv/2107.12475/CollatzLike.lean:40#CollatzLike",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Arxiv",
+      "AMS-5",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0207"
+  ]
+}

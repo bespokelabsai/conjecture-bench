@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0295",
+  "slug": "binary-matroid-cyclic-families",
+  "title": "Binary matroid representation of cyclic families",
+  "field": "matroid-theory-and-finite-fields",
+  "statement": "Let B be a k-element subset of the cyclic group Z_n. Then there is a rank-k binary matroid on Z_n in which every cyclic translate B+i is a basis.",
+  "counterexample": {
+    "description": "A four-element subset B of Z_n, outside the known cyclic-interval case, for which exhaustive enumeration of normalized binary matrices finds no representation making every cyclic translate of B a basis.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://lemon.cs.elte.hu/egres/open/Binary_matroid_representation_of_cyclic_families",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Binary_matroid_representation_of_cyclic_families&oldid=932",
+        "role": "pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.1016/0097-3165(90)90062-2",
+        "role": "rank-three-case"
+      }
+    ],
+    "discovery_records": [
+      "egres-0226"
+    ]
+  },
+  "equivalence_group": "binary-matroid-cyclic-families"
+}

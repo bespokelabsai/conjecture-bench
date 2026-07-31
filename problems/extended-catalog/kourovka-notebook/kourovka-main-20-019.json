@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-019",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.19 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A subgroup H of a group G is called commensurated if for all g ∈ G, the\nindex |H : H ∩ gHg −1 | is finite. Can a non-abelian free group (or a non-elementary\nhyperbolic group) contain two infinite commensurated subgroups A, B with a trivial\nintersection? The answer is negative if A or B is normal.               P.-E. Caprace",
+    "sha256": "3282193b6c5c9a4fdaa992b6cce01258976c87977d0f67ea12d6a9b505415371",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=147",
+    "source_locator": "Kourovka 20.19, main section, page 147",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

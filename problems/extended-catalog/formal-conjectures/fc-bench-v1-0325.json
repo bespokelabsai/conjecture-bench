@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0325",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_409.parts.i.isBigO",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_409.parts.i.isBigO (c : ℕ → ℕ)\n    (h : ∀ n > 0, IsLeast { i | (φ · + 1)^[i] n |>.Prime } (c n)) :\n    (fun n => (c n : ℝ)) =O[atTop] (answer(sorry) : ℕ → ℝ)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "ff2135b08920ce5a3ac16380bf8e2d1aecace701f18734e4d4e88e2505501804",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/409.lean#L68",
+    "source_locator": "FormalConjectures/ErdosProblems/409.lean:68#erdos_409.parts.i.isBigO",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0071",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_1095.variants.log_equivalent",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_1095.variants.log_equivalent : (fun k ↦ log (g k)) ~[atTop] (fun k ↦ k / log k)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "0f41cf2c82356b13f599dd2a3737dd6de4bb235bb0f6a53b8a28b00f313f9def",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/1095.lean#L74",
+    "source_locator": "FormalConjectures/ErdosProblems/1095.lean:74#erdos_1095.variants.log_equivalent",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

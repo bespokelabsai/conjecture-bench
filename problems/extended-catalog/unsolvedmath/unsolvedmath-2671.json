@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2671",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.12",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "This problem presents several variations on the Cosmetic\nSurgery Conjecture, discussed in turn below.\n(a) $($ Cosmetic Surgery Conjecture $)$ Two surgeries along inequivalent slopes are\nnever purely cosmetic.\n(b) $($ Oriented knot complement conjecture $)$ If $K_{1}$ and $K_{2}$ are knots in a closed,\noriented 3-manifold $N$ whose complements are homeomorphic via an orientation-\npreserving homeomorphism, then there exists a homeomorphism of $N$ tak-\ning $K_{1}$ to $K_{2}$.\n(c) Let $K \\subset S^{3}$ be a nontrivial knot, then $K$ admits no purely cosmetic surg-\neries.\n(d) If $K \\subset S^{3}$ is not the torus knot $T_{2g+1,2}$, then $K$ admits no chirally cos-\nmetic surgeries with inequivalent slopes.",
+    "sha256": "6901ebcfd3f6d5a56ce4b29d2be70da963fc8a250cc94c965f415d1a4d57ab43",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.12",
+    "source_locator": "dataset ID 2671; problem number KP-1.12",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

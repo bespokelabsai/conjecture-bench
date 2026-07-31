@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-086",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.86 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(M. Gromov, B. Weiss). A group G is said to be sofic if for every finite set\nF ⊆ G containing 1 and every ε > 0 there exist n ∈ N and a map φ : F → Sn such\nthat φ(1) = 1, d(φ(gh), φ(g)φ(h)) < ε for all g, h such that gh ∈ F , φ(g) does not\nhave fixed points for every g ∈ F \\ {1}.\n   Is every group sofic?                                               A. Lubotzky",
+    "sha256": "795f8667cfdbb6ca912ebce4728e382eced4787351612336b1c237dd4a885510",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=177",
+    "source_locator": "Kourovka 21.86, main section, page 177",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

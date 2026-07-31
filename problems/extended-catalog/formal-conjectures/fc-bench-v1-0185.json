@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0185",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_269.variants.irrational",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_269.variants.irrational : answer(sorry) ↔\n    ∀ᵉ (P : Finset ℕ) (h : ∀ p ∈ P, p.Prime) (h_card : P.card ≥ 2),\n    Irrational (series (P : Set ℕ))",
+    "language_version": "Lean 4.27.0",
+    "sha256": "b1bea099f0a0777babab5be3683614289f6edfbbf61d5b166c14625f200ddef5",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/269.lean#L72",
+    "source_locator": "FormalConjectures/ErdosProblems/269.lean:72#erdos_269.variants.irrational",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

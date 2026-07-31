@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0202",
+  "slug": "erdos-167-triangle-packing-cover",
+  "title": "Erdős problem #167: triangle packing versus cover",
+  "field": "graph-theory",
+  "statement": "If a finite graph has at most k pairwise edge-disjoint triangles, then deleting at most 2k edges can make it triangle-free.",
+  "counterexample": {
+    "description": "A finite simple graph and integer k whose maximum edge-disjoint triangle packing has size at most k but whose minimum triangle edge cover has size greater than 2k.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/167",
+        "role": "status"
+      }
+    ]
+  },
+  "equivalence_group": "tuza-triangle-packing-cover"
+}

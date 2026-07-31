@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0168",
+  "slug": "erdos-chvatal-simplex-conjecture",
+  "title": "Erdős–Chvátal simplex conjecture",
+  "field": "extremal-combinatorics",
+  "statement": "For d<k≤dn/(d+1), the largest k-uniform family with no d-simplex has size binomial(n−1,k−1).",
+  "counterexample": {
+    "description": "Parameters d,k,n and a larger explicit uniform set family containing no d-simplex.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1016/j.aim.2021.107991",
+        "role": "supporting"
+      }
+    ]
+  }
+}

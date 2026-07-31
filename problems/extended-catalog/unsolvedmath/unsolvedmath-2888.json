@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2888",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.12",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For X a closed simply connected smooth 4-manifold, let $g_{X}: H_{2}(X) \\to \\mathbb{N}$ denote the genus function, which assigns to every homology class the minimal genus of a smooth embedded surface representing that class.\n\n(a) Suppose $f: X_{1} \\to X_{2}$ is a homeomorphism between simply connected, smooth, closed 4-manifolds. Let $f_{*}: H_{2}(X_{1}) \\to H_{2}(X_{2})$ be the induced map on homology. If for all x in $H_{2}(X_{1})$ we have $g_{X,1}(x) = g_{X,2}(f_{*}(x))$, is $X_{1}$ diffeomorphic to $X_{2}$?\n\n(b) Suppose $f: X_{1} \\to X_{2}$ is a homeomorphism between simply connected smooth compact 4-manifolds with the same boundary $\\partial X_{1} = \\partial X_{2}$, such thatf is the identity on the boundary. $Letf_{*}: H_{2}(X_{1},\\partial X_{1}) \\to H_{2}(X_{2},\\partial X_{2})$ be the induced map on relative homology. If for all knots K and for all x in $H_{2}(X_{1},\\partial X_{1})$ we have $g_{X,1,K}(x) =g_{X,2,K}(f_{*}(x))$, is $X_{1}$ diffeomorphic to $X_{2}$ rel. boundary?",
+    "sha256": "b3e597c05a65b11e822431ab6b8e4f6ee6edde97bf0652736acf4b6ef314db36",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.12",
+    "source_locator": "dataset ID 2888; problem number KP-4.12",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

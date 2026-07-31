@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3322",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Crossing sequences",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture Let $(a_0,a_1,a_2,\\ldots,0)$ be a sequence of nonnegative integers which strictly decreases until $0$.\n\nThen there exists a graph that be drawn on a surface with orientable (nonorientable, resp.) genus $i$ with $a_i$ crossings, but not with less crossings.",
+    "sha256": "5bd39101893c7388a2e947a93244ee361d3b1f289a03e4060611b87127fa9e5b",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-1812",
+    "source_locator": "dataset ID 3322; problem number OPG-1812",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

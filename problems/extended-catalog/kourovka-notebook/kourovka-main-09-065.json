@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-065",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.65 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is a locally soluble group periodic if it is a product of two periodic subgroups?\n                                                                            Ya. P. Sysak",
+    "sha256": "9394b027a113c94d30c8fe0045739f534a4a17963165ded3ffe83e6ab2369eac",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=35",
+    "source_locator": "Kourovka 9.65, main section, page 35",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0740",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "hasAddVCNDimAtMost_two_one_of_convex_r3",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 52]\nlemma hasAddVCNDimAtMost_two_one_of_convex_r3 {C : Set ℝ³} (hC : Convex ℝ C) :\n    HasAddVCNDimAtMost C 2 1",
+    "language_version": "Lean 4.27.0",
+    "sha256": "5b359da9c5a241eae666c6b3bd8846813c293ebd56c75ef492daa92ff4b1603a",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Other/VCDimConvex.lean#L56",
+    "source_locator": "FormalConjectures/Other/VCDimConvex.lean:56#hasAddVCNDimAtMost_two_one_of_convex_r3",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Other",
+      "AMS-5",
+      "AMS-52"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

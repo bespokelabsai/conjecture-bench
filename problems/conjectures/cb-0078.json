@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0078",
+  "slug": "gaussian-product-inequality",
+  "title": "Gaussian product inequality",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Gaussian product inequality · 2012 general form. For a centered Gaussian vector and nonnegative exponents, Li and Wei conjectured \\(E\\prod_j\\lvert X_j\\rvert^{\\alpha_j}\\ge\\prod_jE\\lvert X_j\\rvert^{\\alpha_j}\\), extending Frenkel’s 2008 result (history).",
+  "counterexample": {
+    "description": "For even integer exponents, a rational PSD covariance matrix reversing the inequality is a finite counterexample checkable exactly by Wick’s formula.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0167715222001766",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2205.02127",
+        "role": "supporting"
+      }
+    ]
+  }
+}

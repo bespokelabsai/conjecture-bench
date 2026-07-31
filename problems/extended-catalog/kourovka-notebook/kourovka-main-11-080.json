@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-080",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.80 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a primitive permutation group on a finite set Ω and suppose that,\nfor α ∈ Ω, Gα acts 2-transitively on one of its orbits in Ω \\ {α}. By (C. E. Praeger,\nJ. Austral. Math. Soc. (A), 45, 1988, 66–77) either\n    (a) T ⩽ G ⩽ Aut T for some nonabelian simple group T , or\n    (b) G has a unique minimal normal subgroup which is regular on Ω.\nFor what classes of simple groups in (a) is a classification feasible? Describe the\nexamples in as explicit a manner as possible. Classify all groups in (b).\n     Remark of 1999: Two papers by X. G. Fang and C. E. Praeger (Commun. Algebra,\n27 (1999), 3727–3754 and 3755–3769) show that this is feasible for T a Suzuki and\nRee simple group, and a paper of J. Wang and C. E. Praeger (J. Algebra, 180 (1996),\n808–833) suggests that this may not be the case for T an alternating group. Remark\nof 2001: In (X. G. Fang, G. Havas, J. Wang, European J. Combin., 20, no. 6 (1999),\n551–557) new examples are constructed with G = P SU (3, q). Remark of 2009: It\nwas shown in (D. Leemans, J. Algebra, 322, no. 3 (2009), 882–892) that for part (a)\nclassification is feasible for self-paired 2-transitive suborbits with T a sporadic simple\ngroup; in this case these suborbits correspond to 2-arc-transitive actions on undirected\ngraphs.                                                                      C. E. Praeger",
+    "sha256": "3e5ec375c972e9dc332024eeb21fe01858642f4020af3ab49ff24662603c8c4b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=53",
+    "source_locator": "Kourovka 11.80, main section, page 53",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

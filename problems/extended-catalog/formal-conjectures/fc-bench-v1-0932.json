@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0932",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "lonely_runner_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem lonely_runner_conjecture (n : ℕ)\n    (speed : Fin n ↪ ℝ) (lonely : Fin n → ℝ → Prop)\n    (lonely_def :\n      ∀ r t, lonely r t ↔\n        ∀ r2 : Fin n, r2 ≠ r →\n        dist (t * speed r : UnitAddCircle) (t * speed r2) ≥ 1 / n)\n    (r : Fin n) : ∃ t ≥ 0, lonely r t",
+    "language_version": "Lean 4.27.0",
+    "sha256": "b6576b5da8477afb519ed072ecbd34cc96bf15414a4ddfc9d4ad1c5bb686ff43",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/LonelyRunnerConjecture.lean#L35",
+    "source_locator": "FormalConjectures/Wikipedia/LonelyRunnerConjecture.lean:35#lonely_runner_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0083"
+  ]
+}

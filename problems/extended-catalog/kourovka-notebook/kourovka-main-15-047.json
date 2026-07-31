@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-047",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.47 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let M < G ⩽ Sym(Ω), where Ω is finite, be such that M is transitive on Ω\nand there is a G-invariant partition P of Ω × Ω \\ {(α, α) | α ∈ Ω} such that G is\ntransitive on the set of parts of P and M fixes each part of P setwise. (Here P can be\nidentified with a decomposition of the complete directed graph with vertex set Ω into\nedge-disjoint isomorphic directed graphs.) If G induces a cyclic permutation group on\nP, then we showed (Trans. Amer. Math. Soc., 355, no. 2 (2003), 637–653) that the\nnumbers n = |Ω| and k = |P| are such that the r-part nr of n satisfies nr ≡ 1 (mod k)\nfor each prime r. Are there examples with G inducing a non-cyclic permutation group\non P for any n, k not satisfying this congruence condition? C. H. Li, C. E. Praeger",
+    "sha256": "45a16d96aa3f796e94e2fd09905b9a86dd4086c07a404cc5774821b3564e4afb",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=88",
+    "source_locator": "Kourovka 15.47, main section, page 88",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

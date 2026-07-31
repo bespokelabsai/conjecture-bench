@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0501",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_889.variants.V1_eq_1_finite",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_889.variants.V1_eq_1_finite :\n    answer(sorry) ↔ {n | V_l 1 n = 1}.Finite",
+    "language_version": "Lean 4.27.0",
+    "sha256": "6f9dec62fa6173b92a5e0b7ef0c5fda7eb74c545dd0c417d1b4192bcae276740",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/889.lean#L113",
+    "source_locator": "FormalConjectures/ErdosProblems/889.lean:113#erdos_889.variants.V1_eq_1_finite",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

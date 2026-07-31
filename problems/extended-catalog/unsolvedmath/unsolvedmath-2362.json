@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2362",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #883",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For $A\\subseteq \\{1,\\ldots,n\\}$ let $G(A)$ be the graph with vertex set $A$, where two integers are joined by an edge if they are coprime.\nIs it true that if $ \\lvert A\\rvert >\\lfloor\\tfrac{n}{2}\\rfloor+\\lfloor\\tfrac{n}{3}\\rfloor-\\lfloor\\tfrac{n}{6}\\rfloor $ then $G(A)$ contains all odd cycles of length $\\leq \\frac{n}{3}+1$?\nIs it true that, for every $\\ell\\geq 1$, if $n$ is sufficiently large and $ \\lvert A\\rvert >\\lfloor\\tfrac{n}{2}\\rfloor+\\lfloor\\tfrac{n}{3}\\rfloor-\\lfloor\\tfrac{n}{6}\\rfloor $ then $G(A)$ must contain a complete $(1,\\ell,\\ell)$ triparite graph on $2\\ell+1$ vertices?",
+    "sha256": "8a83b05accc7d9a1a28010996c3c98ac97feee1485270ddfe566b8e84b5c65be",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-883",
+    "source_locator": "dataset ID 2362; problem number EP-883",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

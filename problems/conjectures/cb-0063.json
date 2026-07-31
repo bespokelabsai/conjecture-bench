@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0063",
+  "slug": "symmetric-mahler-volume-product",
+  "title": "Symmetric Mahler volume product",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "Every origin-symmetric convex body K in R^d satisfies vol(K)·vol(K°)≥4^d/d!.",
+  "counterexample": {
+    "description": "An origin-symmetric rational \\(d\\)-polytope with \\(\\operatorname{vol}(K)\\operatorname{vol}(K^\\circ)<4^d/d!\\). Exact polar construction and rational triangulation volumes form a certificate.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0362546X25002883",
+        "role": "supporting"
+      }
+    ]
+  }
+}

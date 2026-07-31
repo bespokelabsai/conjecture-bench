@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2180",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #563",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $F(n,\\alpha)$ denote the smallest $m$ such that there exists a $2$-colouring of the edges of $K_n$ so that every $X\\subseteq [n]$ with $\\lvert X\\rvert\\geq m$ contains more than $\\alpha \\binom{\\lvert X\\rvert}{2}$ many edges of each colour.\nProve that, for every $0\\leq \\alpha< 1/2$, $ F(n,\\alpha)\\sim c_\\alpha\\log n $ for some constant $c_\\alpha$ depending only on $\\alpha$.",
+    "sha256": "807c5d9cd594d66370550a0b188e9313bd1f99ef3323639c6eeb32347f7e0c0e",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-563",
+    "source_locator": "dataset ID 2180; problem number EP-563",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

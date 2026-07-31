@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0040",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "The Regularity Problem for Euler Equations",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Do solutions to the 3D Euler equations for incompressible fluid flow remain smooth for all time, given smooth initial data?",
+    "sha256": "11b0234a008b9d61c2f14f7c629b8a7cde2b74da04ec2432fe20399fa7a29d21",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/PDE-001",
+    "source_locator": "dataset ID 40; problem number PDE-001",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:pde",
+      "difficulty:L4",
+      "problem-number-collision",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

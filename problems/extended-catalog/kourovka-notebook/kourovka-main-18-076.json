@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-076",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.76 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let A be a division ring, G a subgroup of the multiplicative group of A, and\nE an extension of the additive group of A by G such that G acts by multiplication\nin A. Is it true that E splits? This is true if G is finite.         E. A. Palyutin.",
+    "sha256": "f9da1dc55b2740eb673e3ee96ce84904a261880bf4397b6dbdb85256190322ad",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=123",
+    "source_locator": "Kourovka 18.76, main section, page 123",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

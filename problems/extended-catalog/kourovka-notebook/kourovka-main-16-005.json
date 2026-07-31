@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-005",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.5 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A group is said to be perfect if it coincides with its derived subgroup. Does\nthere exist a perfect locally finite p-group\n    a) all of whose proper subgroups are hypercentral?\n   b) all of whose proper subgroups are solvable?                         A. O. Asar",
+    "sha256": "8a18e04d3d396727b329d2407d5993e03c7418294c853df2991c5f62ceb1551b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=95",
+    "source_locator": "Kourovka 16.5, main section, page 95",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

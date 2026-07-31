@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1447",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Casas-Alvero Conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "If a polynomial of degree d over a field of characteristic 0 shares a factor with each of its first d-1 derivatives, must it be $(x-a)^d$?",
+    "sha256": "cc3285754f0878a43a5c4ff91f3b4681fb53e5a794b41b973d9a1a5ce8507446",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/ALG-002",
+    "source_locator": "dataset ID 1447; problem number ALG-002",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:algebra",
+      "difficulty:L4",
+      "problem-number-collision",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

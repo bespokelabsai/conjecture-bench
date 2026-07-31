@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-026",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.26 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let ϕ be the Euler totient function. Does there exist a constant a > 0 such\nthat |Aut(G)| ⩾ ϕ(|G|)a\n    a) for every finite group G?\n    b) for every finite nilpotent group G?\n   If such a constant a exists, then a ⩽ 40\n                                          41 (J. González-Sánchez, A. Jaikin-Zapirain,\nForum Math. Sigma, 3, Article ID e7, 11 p., electronic only (2015)). Also cf. Archive\n12.77.                                         J. González-Sánchez, A. Jaikin-Zapirain",
+    "sha256": "730230da8d2803021cc1c9bea7b5b33a21e71a75e20ed5426d9a182a13fc7310",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=148",
+    "source_locator": "Kourovka 20.26, main section, page 148",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

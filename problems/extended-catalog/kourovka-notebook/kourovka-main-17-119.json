@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-119",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.119 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that a finite soluble group G admits a soluble group of automor-\nphisms A of coprime order such that CG (A) has rank r. Let |A| be the product of l\nnot necessarily distinct primes. Is there a linear function f such that G/Ff (l) (G) has\n(|A|, r)-bounded rank, where Ff (l) (G) is the f (l)-th Fitting subgroup?\n   An exponential function f with this property was found in (E. Khukhro,\nV. Mazurov, Groups St. Andrews 2005, vol. II, Cambridge Univ. Press, 2007, 564–\n585). It is also known that |G/F2l+1 (G)| is bounded in terms of |CG (A)| and |A|\n(Hartley–Isaacs).                                                         E. I. Khukhro",
+    "sha256": "e5e81b1895678447ca353c8cc50f6f96dbac49d3ffa2cea12ea660a17704e828",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=114",
+    "source_locator": "Kourovka 17.119, main section, page 114",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

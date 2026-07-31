@@ -1,0 +1,28 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0031",
+  "source_registry": "open-problems-project",
+  "title": "Trapping Light Rays with Segment Mirrors",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Is it possible to trap all the light from one point source\nby a finite collection of two-sided disjoint segment mirrors?\nA light ray is \\emph{trapped} if it includes no point strictly\nexterior to the convex hull of the mirrors.\nThe source point is disjoint from the mirrors.\nAlthough several versions of the problem are possible, it\nseems to make the most sense to treat the mirrors as open\nsegments (i.e., not including their\nendpoints), but demand that they are disjoint as closed segments.",
+    "sha256": "c1a3d1bd26fea17afc7c85000a2810249ff1292d2d070c6c3f712527e84063c2",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p31",
+    "source_locator": "TOPP problem 31 (Problems/P.000031)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "visibility"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0155"
+  ]
+}

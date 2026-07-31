@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3005",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.129",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Given a closed, 4-dimensional PSC manifold M, is there a (possibly disconnected) 4-dimensional orbifold $M^{1}$ with isolated singularities such that the following hold. (I) The orbifold M1 also admits a metric of positive scalar curvature. (II) All components of $M^{1}$ have finite orbifold-fundamental group. (III) M can be obtained from $M^{1}$ by a series of 0 and 1 surgeries. Here we also allow 0-surgeries between two orbifold points of the same type, which amounts to a removal of two subsets of the for $m D^{4}/\\Gamma$ and an addition of a copy of $S^{3}/\\Gamma \\times$ [0,1].",
+    "sha256": "ae70107b7d941d066237f6a6a0dea152d9e9518739495cbbb3a9af3782816909",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.129",
+    "source_locator": "dataset ID 3005; problem number KP-4.129",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-13-021",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 13.21 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "b) What is the minimal possible rate of growth of the function π(n) = max |g|\n                                                                                 δ(g)⩽n\nfor the class of groups indicated in part “a” of this problem (see Archive)? It is known\n(R. I. Grigorchuk, Math. USSR–Izv., 25 (1985), 259–300) that there exist p-groups\nwith π(n) ⩽ nλ for some λ > 0. At the same time, it follows from a result of\nE. I. Zel’manov that π(n) is not bounded if G is infinite.              R. I. Grigorchuk",
+    "sha256": "d71f398c232abf879a3a218b76664ddcf086a78f0b4fc59ef8e8adde89741ba4",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=66",
+    "source_locator": "Kourovka 13.21, main section, page 66",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

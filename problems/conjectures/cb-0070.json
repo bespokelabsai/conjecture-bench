@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0070",
+  "slug": "conforticornuejols-replication-conjecture",
+  "title": "Conforti–Cornuéjols replication conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Conforti–Cornuéjols replication conjecture · 1993. It says every clutter with the packing property has the max-flow min-cut property (attribution and status).",
+  "counterexample": {
+    "description": "Find a finite clutter whose every minor packs but which fails MFMC for an integral weight. Exact LP/ILP certificates verify all minors.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2606.16543",
+        "role": "supporting"
+      }
+    ]
+  }
+}

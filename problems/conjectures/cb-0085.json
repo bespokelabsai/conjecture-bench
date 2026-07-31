@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0085",
+  "slug": "conways-99-graph-problem",
+  "title": "Conway’s 99-graph problem",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "A strongly regular graph with parameters (99,14,1,2) exists.",
+  "counterexample": {
+    "description": "Refutation requires a SAT/DRAT proof that no \\(\\operatorname{srg}(99,14,1,2)\\) exists, encoding adjacency, degrees, and common-neighbor counts exactly.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2604.23037",
+        "role": "supporting"
+      }
+    ]
+  }
+}

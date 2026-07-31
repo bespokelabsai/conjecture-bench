@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2791",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 2.43",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $X$ be a compact, totally disconnected subset of $\\mathbb{R}^{2}$ with\n$|X| \\geq 2$, and let $\\Gamma_{X}$ denote the mapping class group of $\\mathbb{R}^{2} - X$.\n(a) For $Y \\subset X$, let $\\Gamma_{X,Y}$ be the subgroup of $\\Gamma_{X}$ permuting $Y$ . Classify in-\nvariants $q$ that are functorial.\n(b) If $X \\subset \\mathbb{R}^{2}$ is totally disconnected and $\\alpha$ is a homeomorphism of $\\mathbb{R}^{2}$ fixing\n$X$ as a set, let $C_{\\alpha}(X)$ denote the space of $\\alpha$-invariant closed subsets of\n\n$X$, in the Hausdorff topology. Let $q$ be functorial as in part (a). Classify\nthose $q$ that are continuous or semi-continuous.\n(c) What is the relationship between the translation length $\\tau_{X}$ and topological\nentropy? More precisely, is there a positive constant $C$ so that if $\\alpha$ is a\nhomeomorphism of $\\mathbb{R}^{2}$ permuting $X$ and $g$ is the class of $\\alpha$ in $\\Gamma_{X}$, then\nthe (topological) entropy of $\\alpha$ is at least as big as $C \\cdot \\tau_{X}(g)$?\n(d) Suppose $X$ is a Cantor set in the plane, and let $P\\Gamma_{X}$ denote the ‘pure’\nsubgroup of $\\Gamma_{X}$ fixing $X$ pointwise. Let $N$ be a subgroup of $P\\Gamma_{X}$ that is\nnormal in $\\Gamma_{X}$, and for each integer $n$, let $N_{n}$ be the subgroup of $P\\Gamma_{n}$ that\nis the image of $N$ restricted to any $n$-element subset of $X$. What possible\nsequences of subgroups $N_{n}$ can arise in this way?\n(e) For which $g \\in \\Gamma_{X}$ is there an embedding $X \\to \\mathbb{R}^{2}$ for which $g$ is represented\nby a diffeomorphism $\\alpha$ which is $C^{\\infty}$? Or $C^{k}$ for fixed $k$?",
+    "sha256": "314a4394f978d0453e1a26113613ac8255c98041517a8603bc4c325265543eb8",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-2.43",
+    "source_locator": "dataset ID 2791; problem number KP-2.43",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

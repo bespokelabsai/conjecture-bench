@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3339",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Monadic second-order logic with cardinality predicates",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "The problem concerns the extension of Monadic Second Order Logic (over a binary relation representing the edge relation) with the following atomic formulas:\n\n- $\\text{\"}\\,\\mathrm{Card}(X) = \\mathrm{Card}(Y)\\,\\text{\"}$\n- $\\text{\"}\\,\\mathrm{Card}(X) \\text{ belongs to } A\\,\\text{\"}$\n\nwhere $A$ is a fixed recursive set of integers.\n\nLet us fix $k$ and a closed formula $F$ in this language.\n\nConjecture Is it true that the validity of $F$ for a graph $G$ of tree-width at most $k$ can be tested in polynomial time in the size of $G$?",
+    "sha256": "072b88167d4b83a6c188be21624e320dd272e8338a4a8d18c790b7574e569dc0",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-37440",
+    "source_locator": "dataset ID 3339; problem number OPG-37440",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:logic",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

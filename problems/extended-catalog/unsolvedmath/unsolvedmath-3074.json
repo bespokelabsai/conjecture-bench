@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3074",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Big Line or Big Clique in Planar Point Sets",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $S$ be a set of points in the plane. Two points $v$ and $w$ in $S$ are visible with respect to $S$ if the line segment between $v$ and $w$ contains no other point in $S$.\n\nConjecture For all integers $k,\\ell\\geq2$ there is an integer $n$ such that every set of at least $n$ points in the plane contains at least $\\ell$ collinear points or $k$ pairwise visible points.",
+    "sha256": "9d10c4cd63a5922db505a656fe95267b47cb31bedfc1a5d7287e61e2cc7c1d64",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-588",
+    "source_locator": "dataset ID 3074; problem number OPG-588",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:geometry",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

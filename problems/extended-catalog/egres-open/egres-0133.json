@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0133",
+  "source_registry": "egres-open",
+  "title": "Incomplete splitting-off in digraphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Given  a digraph ''D=(V+s,A)'' which is ''k''-arc-connected in ''V'', what is the maximum number of (disjoint) pairs of arcs, consisting of entering and leaving arcs at  <math>s</math>, whose (simultaneous) [[splitting off]] does not destroy the ''k''-arc-connectivity of ''D'' in ''V''?",
+    "sha256": "54f3009c74f26e9b0e9342bc591e735894019b91af9496961b82ad2e32e67676",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2014-05-19T13:59:47Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Incomplete_splitting-off_in_digraphs&oldid=1709",
+    "source_locator": "EGRES page 133, revision 1709",
+    "source_sha256": "c32a94944022e1a0a76239531b6843b33b77a3f0919dec225aa279a76a0e9d5c",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-065",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.65 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A square matrix is said to be separable if its minimal polynomial has no\nrepeated roots, and cyclic if its minimal and characteristic polynomials are equal.\nFor a matrix group G over a finite field define s(G) and c(G) to be the proportion\nof separable and of cyclic elements respectively in G. For a classical group X(d, q) of\ndimension d defined over the field with q elements let S(X; q) := limd→∞ s(X(d, q))\nand C(X; q) := limd→∞ c(X(d, q)). Independently G. E. Wall (Bull. Austral. Math.\nSoc., 60, no. 2 (1999), 253–284) and J. Fulman (J. Group Theory, 2, no. 3 (1999),\n251–289) have evaluated S(GL; q) and C(GL; q), and have found them to be rational\nfunctions of q. Are S(X; q) and C(X; q) rational functions of q also for the unitary,\nsymplectic, and orthogonal groups?                                      P. M. Neumann",
+    "sha256": "67886a351cd53bfb1d7f4c56d2d9bbcd9016050fb8c5bba797c660af820abc2c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=90",
+    "source_locator": "Kourovka 15.65, main section, page 90",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

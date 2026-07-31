@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-112",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.112 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A nonempty class X of finite groups is said to be complete if X is closed under\ntaking subgroups, homomorphic images, and extensions. The symmetric boundary of\na complete class X other than the class of all finite groups is defined as the largest\ninteger n such that Sn ∈ X. Every positive integer n ̸= 3 coincides with the symmetric\nboundary of some complete class. It is proved (mod CFSG, D. O. Revin, Algebra i\nAnaliz, 37, no. 1 (2025), 141–176 (Russian)) that, for every complete class X, there\nexists a nonnegative integer m with the following property: for every finite group\nG and each conjugacy class D of G, if every m elements of D generate a subgroup\nbelonging to X, then ⟨D⟩ ∈ X. The smallest such m is called the Baer–Suzuki width\nof X denoted by BS(X). It is also proved (mod CFSG, ibid.) that, for a complete class\nX of symmetric boundary n, the value of BS(X) is at least n and is bounded above\nin terms of n. For every positive integer n ̸= 3, let f+ (n) and f− (n) be respectively\nthe maximum and the minimum of BS(X), where X runs over all complete classes of\nsymmetric boundary n.\n   (a) Find f+ (n) for n = 4, 5, 6. It is known that f+ (1) = 2, f+ (2) = 3, and\nf+ (n) = 2(n − 1) for n ⩾ 7.\n   (b) Is it true that f− (n) = n for all n ̸= 3? This is known to be true for n = 1, 2, 4.\n                                                                 D. O. Revin, N. Y. Yang",
+    "sha256": "938059551b54a2f164c701f497eb6bdb67ef8ee23b7a869bee7ac17e22a318d3",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=180",
+    "source_locator": "Kourovka 21.112, main section, page 180",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

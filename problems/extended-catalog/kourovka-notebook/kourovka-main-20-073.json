@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-073",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.73 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Can every countable group G be factorized G = AB into infinite subsets A, B\nsuch that every element g ∈ G has a unique representation g = ab for a ∈ A, b ∈ B?\n   This is true if G is topologizable.                                I. V. Protasov",
+    "sha256": "bf8f1ad81f01362524616adc9e5326feead487b1535326c3296868e0fe598835",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=154",
+    "source_locator": "Kourovka 20.73, main section, page 154",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

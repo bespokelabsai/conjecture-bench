@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-089",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.89 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(E. A. O’Brien, A. Shalev). Let P be a finite p-group of order pm and let\nm = 2n + e with e = 0 or 1. By a theorem of P. Hall the number of conjugacy classes\nof P has the form n(p2 − 1) + pe + a(p2 − 1)(p − 1) for some integer a ⩾ 0, which is\ncalled the abundance of P .\n    a) Is there a bound for the coclass of P which depends only on a? Note that a = 0\nimplies coclass 1 and that all known examples with a = 1 have coclass ⩽ 3. (The\ngroup P has coclass r if |P | = pc+r where c is the nilpotency class of P .)\n    b) Is there an element s ∈ P such that |CP (s)| ⩽ pf (a) for some f (a) depending\nonly on a? We already know that we can take f (0) = 2 and it seems that f (1) = 3.\n    Note that A. Jaikin-Zapirain (J. Group Theory, 3, no. 3 (2000), 225–231) has\nproved that |P | ⩽ pf (p,a) for some function f of p and a only.\n                                                                 G. Fernández–Alcober",
+    "sha256": "cb1682456f3947a2b62d3f6a776f1219db145114cc5fd43e0efb72d760b1d64e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=80",
+    "source_locator": "Kourovka 14.89, main section, page 80",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

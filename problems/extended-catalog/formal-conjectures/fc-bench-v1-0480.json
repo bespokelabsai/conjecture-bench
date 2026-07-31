@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0480",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "johnson_chromaticNumber",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem johnson_chromaticNumber : answer(sorry) ↔\n    ∀ k ≥ 3, k + 2 ≤ J(2 * k, k).chromaticNumber",
+    "language_version": "Lean 4.27.0",
+    "sha256": "0e28a7f8aef606f3d6a447b3a7f1cab8e0bb69e4dd4a42e3e9b1cad489f064f7",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/835.lean#L159",
+    "source_locator": "FormalConjectures/ErdosProblems/835.lean:159#johnson_chromaticNumber",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

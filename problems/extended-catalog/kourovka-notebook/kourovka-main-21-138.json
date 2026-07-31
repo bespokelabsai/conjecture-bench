@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-138",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.138 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be an infinite finitely presented group such that every subgroup of\ninfinite index is free. Must G be isomorphic to either a free group or a surface group?\n                                                                              H. Wilton",
+    "sha256": "2c3745edfd1df419a357cbd2c4cb354daed77f5d427c664921a0f3637c870b1b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=184",
+    "source_locator": "Kourovka 21.138, main section, page 184",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

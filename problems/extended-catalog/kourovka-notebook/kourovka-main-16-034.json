@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-034",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.34 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that G is a finitely generated group acting faithfully on a regular\nrooted tree by finite-state automorphisms. Is the conjugacy problem decidable for G?\n   See the definitions in (R. I. Grigorchuk, V. V. Nekrashevich, V. I. Sushchanskiı̆,\nProc. Steklov Inst. Math., 2000, no. 4 (231), 128–203).\n                               R. I. Grigorchuk, V. V. Nekrashevich, V. I. Sushchanskiı̆",
+    "sha256": "546ca4a3c8cbabab00b88c9e65f740879ceb691423fae803ae882ddb3d76913b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=98",
+    "source_locator": "Kourovka 16.34, main section, page 98",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2091",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #389",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Is it true that for every $n\\geq 1$ there is a $k$ such that $ n(n+1)\\cdots(n+k-1)\\mid (n+k)\\cdots (n+2k-1)? $ ",
+    "sha256": "9511dd33ba6c9f62a4fb8d1421caa433d090c375cdf0ce0821a7b1a3bb2caae0",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-389",
+    "source_locator": "dataset ID 2091; problem number EP-389",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

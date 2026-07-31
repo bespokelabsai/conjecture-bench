@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2178",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #561",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $\\hat{R}(G)$ denote the size Ramsey number, the minimal number of edges $m$ such that there is a graph $H$ with $m$ edges such that in any $2$-colouring of the edges of $H$ there is a monochromatic copy of $G$.\nLet $F_1$ and $F_2$ be the union of stars. More precisely, let $F_1=\\cup_{i\\leq s} K_{1,n_i}$ and $F_2=\\cup_{j\\leq t} K_{1,m_j}$. Prove that $ \\hat{R}(F_1,F_2) = \\sum_{2\\leq k\\leq s+2}\\max\\{n_i+m_j-1 : i+j=k\\}. $ ",
+    "sha256": "c96453a717455708cadbe66e8da6216191a6cc65b7b264c8e2ca65f33b63106d",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-561",
+    "source_locator": "dataset ID 2178; problem number EP-561",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

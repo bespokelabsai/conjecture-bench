@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-060",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.60 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that the hypothetical Moore graph with 3250 vertices of valence\n57 has no automorphisms of order 2? M. Aschbacher (J. Algebra, 19, no. 4 (1971),\n538–540) proved that this graph is not a graph of rank 3.         A. A. Makhnëv",
+    "sha256": "ccfbd75d01a015edf3478ccdb5d512fd38fe4e0c2289f3e2c46d7c5b5723eadf",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=51",
+    "source_locator": "Kourovka 11.60, main section, page 51",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

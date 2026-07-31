@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-073",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.73 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Conjecture: There is a function f on the natural numbers such that, if Γ is\na finite, vertex-transitive, locally-quasiprimitive graph of valency v, then the number\nof automorphisms fixing a given vertex is at most f (v). (By definition, a vertex-\ntransitive graph Γ is locally-quasiprimitive if the stabilizer in Aut(Γ) of a vertex α is\nquasiprimitive (see 14.46) in its action on the set of vertices adjacent to α.)\n    To prove the conjecture above one need only consider the case where Aut(Γ) has\nthe property that every non-trivial normal subgroup has at most two orbits on vertices\n(C. E. Praeger, Ars Combin., 19 A (1985), 149–163). The analogous conjecture for\nfinite, vertex-transitive, locally-primitive graphs was made by R. Weiss in 1978 and\nis still open. For non-bipartite graphs, there is a “reduction” of Weiss’ conjecture\nto the case where the automorphism group is almost simple (see 14.46 for definition)\n(M. Conder, C. H. Li, C. E. Praeger, Proc. Edinburgh Math. Soc. (2), 43, no. 1 (2000),\n129–138).\n    Comment of 2013: These conjectures have been proved in the case where there is\nan upper bound on the degree of any alternating group occurring as a quotient of a\nsubgroup (C. E. Praeger, L. Pyber, P. Spiga, E. Szabó, Proc. Amer. Math. Soc., 140,\nno. 7 (2012), 2307–2318). Comment of 2021: This has been proved in the case where\nthe group induced on the neighbourhood of a vertex has an abelian regular normal\nsubgroup (P. Spiga, Bull. London Math. Soc., 48, no. 1 (2016), 12–18.) C. E. Praeger",
+    "sha256": "50974b0f80a0e810aa197d92c4591246668f9f5f8430e4c2bcec80fd57103b67",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=79",
+    "source_locator": "Kourovka 14.73, main section, page 79",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2451",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #1040",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $F\\subseteq \\mathbb{C}$ be a closed infinite set, and let $\\mu(F)$ be the infimum of $ \\lvert \\{ z: \\lvert f(z)\\rvert < 1\\}\\rvert, $ as $f$ ranges over all polynomials of the shape $\\prod (z-z_i)$ with $z_i\\in F$.\nIs $\\mu(F)$ determined by the transfinite diameter of $F$? In particular, is $\\mu(F)=0$ whenever the transfinite diameter of $F$ is $\\geq 1$?",
+    "sha256": "0940ed16229ccf22692119e074bada5577ff57ed990be27c2ded92d236baefef",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-1040",
+    "source_locator": "dataset ID 2451; problem number EP-1040",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

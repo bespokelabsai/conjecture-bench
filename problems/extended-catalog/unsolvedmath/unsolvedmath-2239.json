@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2239",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #662",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Consider the triangular lattice with minimal distance between two points $1$. Denote by $f(t)$ the number of distances from any points $\\leq t$. For example $f(1)=6$, $f(\\sqrt{3})=12$, and $f(3)=18$.\nLet $x_1,\\ldots,x_n\\in \\mathbb{R}^2$ be such that $d(x_i,x_j)\\geq 1$ for all $i\neq j$. Is it true that, provided $n$ is sufficiently large depending on $t$, the number of distances $d(x_i,x_j)\\leq t$ is less than or equal to $f(t)$ with equality perhaps only for the triangular lattice?\nIn particular, is it true that the number of distances $\\leq \\sqrt{3}-\\epsilon$ is less than $1$?",
+    "sha256": "05e6e194d8b62f79f7e985996576e0e80caa9396bcf2a0a6500507ab47b7637a",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-662",
+    "source_locator": "dataset ID 2239; problem number EP-662",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:geometry",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

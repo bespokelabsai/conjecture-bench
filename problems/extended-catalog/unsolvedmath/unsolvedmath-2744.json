@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2744",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.85",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $K$ be a hyperbolic knot in $S^{3}$ and $\\chi(K)$ the space of con-\njugacy classes of $\\operatorname{PSL}_{2}(\\mathbb{C})$ representations of $\\pi_{1}(S^{3} - K)$. There is a distinguished\ncomponent of $\\chi(K)$ that contains the discrete faithful representation coming from\nthe finite volume hyperbolic structure on the complement of $K$. Does this component\nalways contain an arc of representations to $\\operatorname{SO}(3)$?",
+    "sha256": "1ef73aeb08729350a05e422c05c3f4d5b080490819d2e52a0ce0cc373517158e",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.85",
+    "source_locator": "dataset ID 2744; problem number KP-1.85",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

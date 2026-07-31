@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2713",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.54",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "This problem is concerned with the restriction of the partial\nordering $\\geq$ coming from ribbon concordance to the concordance class $[K]$ of a knot\n$K$.\n(a) What can be said about the order type of $[K]$?\n(b) Does it depend on $[K]$? Must it contain a (unique) minimal element?\n(c) (Gordon) Does there exist a concordance class of knots that contains two\nminimal elements with respect to ribbon concordance?",
+    "sha256": "d6e654b73edcd48a21a06db16a73cca6d1ddd90ee2678e1dffe81fec53bbda3d",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.54",
+    "source_locator": "dataset ID 2713; problem number KP-1.54",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

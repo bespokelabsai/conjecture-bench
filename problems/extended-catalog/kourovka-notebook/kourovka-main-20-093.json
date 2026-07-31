@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-093",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.93 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A group G is called a Shunkov group if for any finite subgroup H ⩽ G any\ntwo conjugate elements of prime order in NG (H)/H generate a finite subgroup. Are\nthe following well-known results of the theory of finite groups true in the class of\n(periodic) Shunkov groups?\n    a) The Baer–Suzuki theorem (see 11.11 in Archive).\n    b) The Burnside–Brauer–Suzuki theorem on the existence of a normal section of\norder 2 in a group with a non-trivial Sylow 2-subgroup containing only one involution\n(see 4.75).\n    c) Glauberman’s Z ∗ -theorem (see 10.62 and Archive, 11.13).        A. I. Sozutov",
+    "sha256": "09a0c8202ec094c208c642b6422ca9cce2b3559ea763a49784c6fac2b0feb651",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=158",
+    "source_locator": "Kourovka 20.93, main section, page 158",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

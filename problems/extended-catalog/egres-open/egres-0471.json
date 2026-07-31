@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0471",
+  "source_registry": "egres-open",
+  "title": "Weighted bipartite edge colouring",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''G=(S,T;E)'' be a bipartite graph, with weights <math>w:E \\to [0,1]</math>. A '''proper weighted edge colouring''' is a colouring of the edges such that at each vertex, the sum of weights of edges of the same colour is at most 1. A lower bound for the number of colours is the minimum number of unit bins needed to pack the weights incident to any vertex, denoted by ''b''. Is there always a proper weighted edge colouring using <math>2b-1</math> colours?",
+    "sha256": "dab1b51bf305faa216a4653dae885e3091517d29dc2eef0671494628b2ea23ed",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2017-01-07T14:56:08Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Weighted_bipartite_edge_colouring&oldid=2406",
+    "source_locator": "EGRES page 471, revision 2406",
+    "source_sha256": "463ec477d78ddb183817ac48580e5603bf43a17c1b7489c29d2944cf5af362e1",
+    "tags": [
+      "combinatorial-optimization",
+      "Colouring",
+      "Matchings"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0283"
+  ]
+}

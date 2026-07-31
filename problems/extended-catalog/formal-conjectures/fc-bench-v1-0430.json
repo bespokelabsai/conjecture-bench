@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0430",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_683",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_683 : answer(sorry) ↔\n    (∃ c > (0 : ℝ), ∀ n k : ℕ, 0 < k ∧ k < n → P n k > min (n - k + 1 : ℝ) (k ^ (1 + c)))",
+    "language_version": "Lean 4.27.0",
+    "sha256": "f5465d410cfbf7fba0d933cdec4722481ef2c0de6fd7e0041165965daa1e1418",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/683.lean#L43",
+    "source_locator": "FormalConjectures/ErdosProblems/683.lean:43#erdos_683",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

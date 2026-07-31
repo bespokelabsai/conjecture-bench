@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-043",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.43 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let π be a set of primes. Find all finite simple Dπ -groups (see Archive, 3.62)\nin which\n   (a) every subgroup is a Dπ -group (H. Wielandt);\n   (b) every subgroup possessing a Hall π-subgroup is a Dπ -group.\nAll finite simple Dπ -groups are known (D. O. Revin, Algebra Logic, 47, no. 3 (2008),\n210–227). Comment of 2013: Alternating and sporadic groups for both parts are\nfound in (N. Ch. Manzaeva, Siberian Electron. Math. Rep., 9 (2012), 294–305 (Rus-\nsian)). Comment of 2025: Simple groups of Lie type of rank 1 satisfying con-\ndition (a) are known (D. O. Revin, V. D. Shepelev, Siberian Math. J., 65, no. 5\n(2024), 1187–1194, V. D. Shepelev, Siberian Math. J., 66, no. 4 (2025), 1049–1062).\nE. P. Vdovin, D. O. Revin",
+    "sha256": "b2a64e71d009ec15f43d34496444e1ae5f278d0b3eeea91116f76f075484c911",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=107",
+    "source_locator": "Kourovka 17.43, main section, page 107",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

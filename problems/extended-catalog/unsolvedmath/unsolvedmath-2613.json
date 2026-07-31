@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2613",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.104",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For a group word $w(x_1,\\ldots,x_n)$ on $n$ letters, define $e_0(x_1,\\ldots,x_n)=x_1$ and $e_{k+1}(x_1,\\ldots,x_n)=w(e_k(x_1,\\ldots,x_n),\\ldots,x_n)$ for all $k\\in\\mathbb N$. A group $G$ is said to satisfy the Engel type iterated identity $w$ if for all $x_1,\\ldots,x_n\\in G$ there exists $m\\in\\mathbb N$ such that $e_m(x_1,\\ldots,x_n)=1$.\n\nConjecture: For every non-trivial word $w$, if a finitely generated branch group $G$ (see 15.12) satisfies the iterated identity $w$, then $G$ is a torsion group.",
+    "sha256": "c09fc19ed55bbffe3dbb21aac23bc329f64dd17f6c6c399fd263547ea6a8f8e5",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.104",
+    "source_locator": "dataset ID 2613; problem number KOU-21.104",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

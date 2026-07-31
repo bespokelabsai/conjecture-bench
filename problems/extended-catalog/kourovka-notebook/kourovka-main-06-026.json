@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-06-026",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 6.26 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let D be a normal set of involutions in a finite group G and let Γ(D) be the\ngraph with vertex set D and edge set {(a, b) | a, b ∈ D, ab = ba ̸= 1}. Describe the\nfinite groups G with non-connected graph Γ(D).                        A. A. Makhnëv",
+    "sha256": "e3744a6a5d45eab7aaec6040390f06483db01cfa653a1f5395cab79d586fbebe",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=19",
+    "source_locator": "Kourovka 6.26, main section, page 19",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

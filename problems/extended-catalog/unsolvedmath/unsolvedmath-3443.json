@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3443",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Outward reloid of composition vs composition of outward reloids",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture For every composable funcoids $f$ and $g$ $$(\\mathsf{RLD})_{\\mathrm{out}}(g\\circ f)\\sqsupseteq(\\mathsf{RLD})_{\\mathrm{out}}g\\circ(\\mathsf{RLD})_{\\mathrm{out}}f.$$",
+    "sha256": "4641148c93b6f05013796e1bb4958dec4efded5bd0c8fe99811d0100f4601fad",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-60020",
+    "source_locator": "dataset ID 3443; problem number OPG-60020",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

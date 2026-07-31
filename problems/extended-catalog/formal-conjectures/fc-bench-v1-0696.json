@@ -1,0 +1,35 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0696",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "mutuallyUnbiasedBases_dim6",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 15 81 94]\ntheorem mutuallyUnbiasedBases_dim6 :\n    IsMaxMUBCount 6 (answer(sorry))",
+    "language_version": "Lean 4.27.0",
+    "sha256": "f4c26badab79365f417e4ce9049bc6982fb92f9ea8fd8f5b2253301d960dc96a",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/OpenQuantumProblems/13.lean#L527",
+    "source_locator": "FormalConjectures/OpenQuantumProblems/13.lean:527#mutuallyUnbiasedBases_dim6",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "OpenQuantumProblems",
+      "AMS-5",
+      "AMS-15",
+      "AMS-81",
+      "AMS-94"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

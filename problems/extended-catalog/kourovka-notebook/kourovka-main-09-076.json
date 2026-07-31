@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-076",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.76 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "We define a Golod group to be the r-generated, r ⩾ 2, subgroup ⟨1 + x1 + I,\n1 + x2 + I, . . . , 1 + xr + I⟩ of the adjoint group 1 + F/I of the factor-algebra F/I,\nwhere F is a free algebra of polynomials without constant terms in non-commuting\nvariables x1 , x2 , . . . , xr over a field of characteristic p > 0, and I is an ideal of F such\nthat F/I is a non-nilpotent nil-algebra (see E. S. Golod, Amer. Math. Soc. Transl.\n(2), 48 (1965), 103–106). Prove that in Golod groups the centralizer of every element\nis infinite.\n    Note that Golod groups with infinite centre were constructed by A. V. Timofeenko\n(Math. Notes, 39, no. 5 (1986), 353–355); independently by other methods the same\nresult was obtained in the 90s by L. Hammoudi.                                     V. P. Shunkov",
+    "sha256": "da6f77419501b96a01acf2cfcdb47866fb0e5261ddabc70e8e3d75c11fd47022",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=36",
+    "source_locator": "Kourovka 9.76, main section, page 36",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

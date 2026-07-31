@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-139",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.139 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a hyperbolic group which is virtually compact special in the sense\nof Haglund–Wise. Suppose that the set of second Betti numbers of the finite-index\nsubgroups of G is bounded. Must G be virtually either a free group or a surface\ngroup?                                                                   H. Wilton",
+    "sha256": "82687e1b03ba898b7711d4560b0f50243a48940f3cf65a1dcfc4952d19c06834",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=184",
+    "source_locator": "Kourovka 21.139, main section, page 184",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

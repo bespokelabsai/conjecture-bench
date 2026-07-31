@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-102",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.102 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does there exist a residually soluble but insoluble group satisfying the max-\nimum condition on subgroups?                                               J. Wiegold",
+    "sha256": "92841497154f4cb649e045f6b9c5284b7a01d622dac71224f8662ed9d1ff3f78",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=55",
+    "source_locator": "Kourovka 11.102, main section, page 55",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

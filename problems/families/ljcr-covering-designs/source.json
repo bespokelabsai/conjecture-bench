@@ -1,0 +1,31 @@
+{
+  "slug": "ljcr-covering-designs",
+  "name": "La Jolla Covering Repository",
+  "maintainers": [
+    "Daniel M. Gordon"
+  ],
+  "homepage": "https://ljcr.dmgordon.org/cover.html",
+  "license": "No formal licence stated; a public research repository of covering designs.",
+  "credit": {
+    "statement": "Covering-design records come from the La Jolla Covering Repository, built and maintained by Daniel M. Gordon at the Center for Communications Research.",
+    "requested_citation": "Cite the La Jolla Covering Repository, D. M. Gordon, https://ljcr.dmgordon.org/cover.html",
+    "citation_url": "https://ljcr.dmgordon.org/cover.html"
+  },
+  "retrieval": {
+    "method": "Parse the published bound tables, then fetch each candidate cell's covering page for its stated lower and upper bounds.",
+    "urls": [
+      "https://ljcr.dmgordon.org/cover/table.html"
+    ],
+    "retrieved": "2026-07-23",
+    "upstream_version": "table last updated 2026-04-21"
+  },
+  "redistribution": {
+    "policy": "metadata-only",
+    "note": "Records store parameters, the two bounds, and a quoted bound line. Record coverings are not redistributed."
+  },
+  "caveats": [
+    "Table entries are upper bounds from known constructions, so a cell is open when the stated lower bound is strictly smaller.",
+    "The lower bound is the source's claim and is not independently reproved here; it is only checked to be at least the Schonheim bound, which this repository recomputes.",
+    "Improving an upper bound narrows the gap but does not close the cell: the exact value stays unknown until the bounds meet."
+  ]
+}

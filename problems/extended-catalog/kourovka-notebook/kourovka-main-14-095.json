@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-095",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.95 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(C. R. Leedham-Green, P. M. Neumann, J. Wiegold). For a finite p-group P ,\ndenote by c = c(P ) its nilpotency class and by b = b(P ) its breadth, that is, pb is\nthe maximum size of a conjugacy class in P . Class-Breadth Problem: Is it true that\nc ⩽ b + 1 if p ̸= 2?\n                                          p\n   So far, the best known bound is c < p−1   b + 1 (C. R. Leedham-Green, P. M. Neu-\nmann, J. Wiegold, J. London Math. Soc. (2), 1 (1969), 409–420). For p = 2 for every\nn ∈ N there exists a 2-group Tn such that c(Tn ) ⩾ b(Tn ) + n (W. Felsch, J. Neubüser,\nW. Plesken, J. London Math. Soc. (2), 24 (1981), 113–122).         A. Jaikin-Zapirain",
+    "sha256": "9d3f8e71f69489f1250c7db16fa839f1d56d7ef1f70fcfb8bc52427f3d71bb5a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=81",
+    "source_locator": "Kourovka 14.95, main section, page 81",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

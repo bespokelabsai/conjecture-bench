@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-07-039",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 7.39 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G = a, b | ap = (ab)3 = b2 = (aσ ba2/σ b)2 = 1 , where p is a prime, σ is\nan integer not divisible by p. The group P SL2 (p) is a factor-group of G so that there\nis a short exact sequence 1 → N → G → P SL2 (p) → 1. For each p > 2 there is σ\nsuch that N = 1, for example, σ = 4. Let N ab denote the factor-group of N by its\ncommutator subgroup. It is known that for some p there is σ such that N ab is infinite\n(for example, for p = 41 one can take σ 2 ≡ 2 (mod 41)), whereas for some other p (for\nexample, for p = 43) the group N ab is finite for every σ.\n    a) Is the set of primes p for which N ab is finite for every σ infinite?\n    b) Is there an arithmetic condition on σ which ensures that N ab is finite?\n                                                                              J. Mennicke",
+    "sha256": "578725fae0ccc2e06b29ef1d714f513ea01d2ed820faaa22f85c53cc3c4f5d02",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=24",
+    "source_locator": "Kourovka 7.39, main section, page 24",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2748",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.89",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) Fix a long link L. What is the homotopy type of the embedding space of\nlinks isotopic to L?\n(b) Fix a link L in a 3-manifold M. What is the homotopy type of the embed-\nding space of links in M isotopic to L?\n\n(c) Given a link $L$ obtained by infecting a link $L_{1}$ by another link $L_{2}$, describe\nthe homotopy type of component of $L$ in the space of links in terms of the\ncomponents of $L_{1}$ and $L_{2}$.",
+    "sha256": "a576d90588a7a3de125726ac2b4aeb508fc80007d18a3ad91e470b4f5104b6e3",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.89",
+    "source_locator": "dataset ID 2748; problem number KP-1.89",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

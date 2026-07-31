@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-040",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.40 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let N be a nilpotent subgroup of a finite simple group G. Is it true that\nthere exists a subgroup N1 conjugate to N such that N ∩ N1 = 1?\n    The answer is known to be affirmative if N is a p-group. Comment of 2013: an\naffirmative answer for alternating groups is obtained in (R. K. Kurmazov, Siberian\nMath. J., 54, no. 1 (2013), 73–77).                                   E. P. Vdovin\n  ∗ Yes it is true; moreover, for any two nilpotent subgroups H, K of a (non-abelian)\nfinite simple group G there is g ∈ G such that H ∩K g = 1 (T. C. Burness, H. Y. Huang,\nPreprint, 2025, https://arxiv.org/abs/2508.03479).",
+    "sha256": "808560af07d21e27d1638b7e38d18040368446b869396d5c7616c738c0f7d571",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=86",
+    "source_locator": "Kourovka 15.40, main section, page 86",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

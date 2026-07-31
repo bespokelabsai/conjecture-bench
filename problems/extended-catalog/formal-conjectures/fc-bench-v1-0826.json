@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0826",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "artin_primitive_roots.variants.part_ii_power_squarefreePart_modeq_one",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem artin_primitive_roots.variants.part_ii_power_squarefreePart_modeq_one\n    (a m b : ℕ) (ha : a = b ^ m) (hb : ∀ u v, 1 < u → b ≠ v ^ u) (hm₁ : 1 < m)\n    (hm₂ : Odd m) (hb' : b.squarefreePart ≡ 1 [MOD 4]) :\n    (S a).HasDensity\n      (ArtinConstant * powCorrectionFactor m * entanglementFactor b m)\n      {p | p.Prime}",
+    "language_version": "Lean 4.27.0",
+    "sha256": "deb0be5a4ddf98429ff2c4ae1ee3fbfd7ec126c254438ee90d67cc523cfa528b",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/ArtinPrimitiveRootsConjecture.lean#L182",
+    "source_locator": "FormalConjectures/Wikipedia/ArtinPrimitiveRootsConjecture.lean:182#artin_primitive_roots.variants.part_ii_power_squarefreePart_modeq_one",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

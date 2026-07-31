@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2798",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 2.50",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(Volume conjecture for surface diffeomorphisms). Let $S$ be a\nclosed oriented surface, let $q=e^{2\\pi i/n}$ be a root of unity, and let $\\mathcal{K}^{q}(S)$ be the Kauff-\nman bracket skein algebra. Let $\\phi: S \\to S$ be a pseudo-Anosov diffeomorphism with\nmapping torus $M_{\\phi}$, and let $r: \\pi_{1}(S) \\to \\operatorname{SL}_{2}(\\mathbb{C})$ be a smooth point in the charac-\nter variety that is $\\phi$-invariant. Finally, let $L$ be the intertwiner realizing an iso-\nmorphism between the representations of $\\mathcal{K}^{q}(S)$ corresponding to $[r]$ and $[r \\circ \\varphi_{*}]$,\nnormalized so that $\\det(L) = 1$. Show that\n\n$$\n\\lim_{n\\to\\infty}\\frac{1}{n}\\log|\\operatorname{Trace} L|=\\frac{1}{4\\pi}\\operatorname{vol}_{\\mathrm{hyp}} M_{\\phi}.\n$$",
+    "sha256": "604b681d03cb1fb4b9a30683af352cc9beaa5c3ff909b67b778a44e75693f7c0",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-2.50",
+    "source_locator": "dataset ID 2798; problem number KP-2.50",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-02-040",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 2.40 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "c) The I-theory (Q-theory) of a class K of universal algebras is the totality of\nall identities (quasi-identities) that are valid on all algebras in K. Does there exist a\nfinitely axiomatizable variety\n   (3) of Lie rings\n        (i) whose I-theory is non-decidable?\n    Remark: it is not difficult to find a recursively axiomatizable variety of semigroups\nwith identity whose I-theory is non-recursive (see also A. I. Mal’cev, Mat. Sbornik,\n69, no. 1 (1966), 3–12 (Russian)).                                           A. I. Mal’cev",
+    "sha256": "72827388b13a05866c2e433d0e58a1376cbbfe26048bc55e1a76b76fa432870a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=7",
+    "source_locator": "Kourovka 2.40, main section, page 7",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

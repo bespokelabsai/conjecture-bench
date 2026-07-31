@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0104",
+  "slug": "nordhausgaddum-product-for-the-k-th-laplacian-eigenvalue",
+  "title": "Nordhaus–Gaddum product for the \\(k\\)-th Laplacian eigenvalue",
+  "field": "spectral-graph-theory",
+  "statement": "For every n-vertex graph and k≤3n/4, the k-th Laplacian eigenvalues of G and its complement satisfy μₖ(G)μₖ(complement(G))≤n(n−k).",
+  "counterexample": {
+    "description": "A simple graph on 10–14 vertices and an unresolved index 2≤k<n/2 with \\(\\mu_k(G)\\mu_k(\\bar G)>n(n-k)\\), certified by exact rational lower bounds for both Laplacian eigenvalues.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "legacy-15-inventory-without-forecasts",
+    "sources": [
+      {
+        "url": "https://www.combinatorics.org/ojs/index.php/eljc/article/download/v32i4p37/pdf",
+        "role": "supporting"
+      }
+    ]
+  }
+}

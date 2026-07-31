@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-06-028",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 6.28 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let A be an elementary abelian 2-group which is a T I-subgroup of a finite\ngroup G. Investigate the structure of G under the hypothesis that the weak closure\nof A in a Sylow 2-subgroup of G is abelian.                         A. A. Makhnëv",
+    "sha256": "51e994fcfcd7bf98c63af03cc28e9a2a78c61da9833a954a350e87a5692200ad",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=19",
+    "source_locator": "Kourovka 6.28, main section, page 19",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

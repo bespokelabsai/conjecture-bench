@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-10-064",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 10.64 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does there exist a non-periodic doubly transitive permutation group with a\nperiodic stabilizer of a point?                                     Ya. P. Sysak\n  ∗ Yes, it does exist (M. Amelio, Preprint, 2025, https://arxiv.org/abs/2509.\n11958).",
+    "sha256": "23018d73a8a4e915a9be1650473aa363c96af240f4e55000e4eda1c3c06f5ff1",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=43",
+    "source_locator": "Kourovka 10.64, main section, page 43",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

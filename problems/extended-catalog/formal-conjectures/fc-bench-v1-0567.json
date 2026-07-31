@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0567",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_99",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 52]\ntheorem erdos_99 :\n    answer(sorry) ↔ ∀ᶠ n in Filter.atTop, ∀ A : Finset ℝ²,\n      A.card = n → HasMinDist1 A →\n      (IsMinOn (fun B: Finset ℝ² => diam (B : Set ℝ²)) {B : Finset ℝ² | B.card = n ∧ HasMinDist1 B} A) →\n      ∃ᵉ (p ∈ A) (q ∈ A) (r ∈ A), FormsEquilateralTriangle p q r",
+    "language_version": "Lean 4.27.0",
+    "sha256": "36322dec06c343bd23925f3616d2c8f05a5fdadfd8e45bd140efba332d7b7d6c",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/99.lean#L43",
+    "source_locator": "FormalConjectures/ErdosProblems/99.lean:43#erdos_99",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-52"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

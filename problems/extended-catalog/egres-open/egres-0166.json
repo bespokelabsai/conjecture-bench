@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0166",
+  "source_registry": "egres-open",
+  "title": "Destroying rigidity",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''G'' be a graph that is [[Rigid graph|rigid]] in two-dimensional space. Can we determine in polynomial time the minimum number of edges whose deletion from ''G'' results in a graph which is not rigid?",
+    "sha256": "959d475f5fca423c99be8f5807ac549b345b8051f6b25b11992e733ba3f2097d",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2015-05-03T09:28:32Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Destroying_rigidity&oldid=1817",
+    "source_locator": "EGRES page 166, revision 1817",
+    "source_sha256": "62f4879ceb7ca04a7effc76232ce9930ab4ab627fa6b8ec4bc684bf724721171",
+    "tags": [
+      "combinatorial-optimization",
+      "Matroids",
+      "Rigidity"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

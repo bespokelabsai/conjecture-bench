@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2817",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.19",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) Does every closed hyperbolic 3-manifold have a nowhere zero vector field whose lift to the universal cover has proper flow lines?\n\n(b) Can one ensure that the leaf space of the foliation by flow lines in the universal cover is Hausdorff ?\n\n(c) If so, the leaf space in the universal cover is homeomorphic to a plane and one can then ask: can the induced action of $\\pi_1(M)$ on a plane be compactified to an action on the closed disk?",
+    "sha256": "2e94e4093d19924fdd7b84c64788351bee355a6c6e6d7402d8d4ace6fcabc6f0",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.19",
+    "source_locator": "dataset ID 2817; problem number KP-3.19",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

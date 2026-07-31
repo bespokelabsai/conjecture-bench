@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-15-061",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 15.61 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that lπn (G) ⩽ n(Gπ ) − 1 + maxp∈π lp (G) for any π-soluble group G?\nHere n(Gπ ) is the nilpotent length of a Hall π-subgroup Gπ of the group G and lπn (G)\nis the nilpotent π-length of G, that is, the minimum number of π-factors in those\nnormal series of G whose factors are either π ′ -groups, or nilpotent π-groups. The\nanswer is known to be affirmative in the case when all proper subgroups of Gπ are\nsupersoluble.                                                          V. S. Monakhov",
+    "sha256": "5b24495de9c7fe3669db21021570428f4ba955b01081fc71c24c38ac472af60e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=89",
+    "source_locator": "Kourovka 15.61, main section, page 89",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

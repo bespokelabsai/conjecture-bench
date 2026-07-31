@@ -1,0 +1,36 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1866",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Conjecture on Carmichael Numbers",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $C(x)$ be the number of Carmichael numbers less than $x$. Does $(\\ln C(x))/\\ln x$ tend to 1 as $x$ tends to infinity?",
+    "sha256": "0a6ad66c607c78c4094ace2ad43b9e7286a2023b3eb6c3c4712c8043244bc97a",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GUY-A13",
+    "source_locator": "dataset ID 1866; problem number GUY-A13",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L4",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

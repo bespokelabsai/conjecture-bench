@@ -1,0 +1,76 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/bespokelabsai/conjecture-bench/problems/schemas/catalog.schema.json",
+  "title": "ConjectureBench catalog record",
+  "type": "object",
+  "required": [
+    "format_version",
+    "id",
+    "source_registry",
+    "title",
+    "statement",
+    "status_observation",
+    "provenance"
+  ],
+  "properties": {
+    "format_version": {"const": "1.0"},
+    "id": {"type": "string", "minLength": 3},
+    "source_registry": {"type": "string", "minLength": 1},
+    "title": {"type": "string", "minLength": 1},
+    "statement": {
+      "type": "object",
+      "required": ["representation", "text", "contains_placeholder"],
+      "properties": {
+        "representation": {"type": "string", "minLength": 1},
+        "text": {"type": ["string", "null"]},
+        "language_version": {"type": "string"},
+        "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+        "contains_placeholder": {"type": "boolean"},
+        "unmapped_control_count": {"type": "integer", "minimum": 0},
+        "extraction_method": {"type": "string"},
+        "quality_flags": {
+          "type": "array",
+          "items": {"type": "string", "minLength": 1},
+          "uniqueItems": true
+        }
+      },
+      "additionalProperties": false
+    },
+    "status_observation": {
+      "type": "object",
+      "required": ["state", "as_of", "evidence"],
+      "properties": {
+        "state": {"type": "string", "minLength": 1},
+        "as_of": {"type": ["string", "null"]},
+        "evidence": {"type": "string", "minLength": 1}
+      },
+      "additionalProperties": false
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["source_url", "source_locator", "tags"],
+      "properties": {
+        "source_url": {"type": "string", "format": "uri"},
+        "source_locator": {"type": "string", "minLength": 1},
+        "context_url": {"type": "string", "format": "uri"},
+        "source_commit": {"type": "string", "pattern": "^[0-9a-f]{40}$"},
+        "source_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+        "source_tag": {"type": "string", "minLength": 1},
+        "tags": {"type": "array", "items": {"type": "string"}}
+      },
+      "additionalProperties": false
+    },
+    "review_flags": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1},
+      "uniqueItems": true
+    },
+    "related_conjecture_ids": {
+      "type": "array",
+      "minItems": 1,
+      "items": {"type": "string", "pattern": "^cb-[0-9]{4,}$"},
+      "uniqueItems": true
+    }
+  },
+  "additionalProperties": false
+}

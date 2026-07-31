@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-035",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.35 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A family F of group homomorphisms A → B is separating if for every\nnontrivial a ∈ A there is f ∈ F such that f (a) ̸= 1, and discriminating if for any\nfinitely many nontrivial elements a1 , . . . , an ∈ A there is f ∈ F such that f (ai ) ̸= 1 for\nall i = 1, . . . , n. Let G be a relatively free group of rank 2 in the variety of metabelian\ngroups. Let T be a metabelian group in which the centralizer of every nontrivial\nelement is abelian. If T admits a separating family of surjective homomorphisms\nT → G must it also admit a discriminating family of surjective homomorphisms\nT → G?\n    A positive answer would give a metabelian analogue of a classical theorem of\nB. Baumslag.                                                        A. Gaglione, D. Spellman",
+    "sha256": "6ebe71075db02039cc9c2ac602fc9ce37cbff640e67fe358e4e6064ec86780e6",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=118",
+    "source_locator": "Kourovka 18.35, main section, page 118",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

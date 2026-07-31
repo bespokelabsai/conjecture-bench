@@ -1,0 +1,36 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1876",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Selfridge-Wagstaff-Pomerance Prize Problem",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Does there exist a composite number $n \\equiv 3$ or $7 \\pmod{10}$ which divides both $2^n - 2$ and the Fibonacci number $u_{n+1}$?",
+    "sha256": "28c5cc0d9eb1c25172d87f10cb616a6a3ae2eb1c6d3c72edfcfccbc317d91e43",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GUY-A12b",
+    "source_locator": "dataset ID 1876; problem number GUY-A12b",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L3",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

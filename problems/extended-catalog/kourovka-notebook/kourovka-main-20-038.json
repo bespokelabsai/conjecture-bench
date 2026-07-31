@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-038",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.38 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that H is an almost simple group of Lie type and G is a finite group\nsuch that G and H have the same sets of degrees of irreducible complex characters.\nMust there exist an abelian normal subgroup A of G such that G/A is isomorphic\nto H?\n   Comment of 2025: The conjecture was confirmed for projective general linear and\nunitary groups of dimension 3 (F. Shirjian, A. Iranmanesh, Illinois J. Math., 64, no. 1\n(2020), 49–69).                                                         A. Iranmanesh",
+    "sha256": "a9d31ab36436869209b6156349df9bd9556bd2eb4f317832be905ffe3882688f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=150",
+    "source_locator": "Kourovka 20.38, main section, page 150",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

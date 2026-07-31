@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0472",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_82",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem erdos_82 : Tendsto (fun n => F n / Real.log n) atTop atTop",
+    "language_version": "Lean 4.27.0",
+    "sha256": "bed7c7d520c55717a34774d7c5b8c65d922f0d43dff35ac30ad217f6fce247f2",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/82.lean#L48",
+    "source_locator": "FormalConjectures/ErdosProblems/82.lean:48#erdos_82",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

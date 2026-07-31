@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0067",
+  "source_registry": "egres-open",
+  "title": "Decomposition of oriented k-partition-connected digraphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Let ''D=(V,A)'' be a digraph whose underlying graph is [[Partition connectivity|''k''-partition-connected]], and let <math>r_0 \\in V</math> be a  node of in-degree 0. Suppose that the in-degree of every other node is at least ''k''. Is it true that ''D'' can be decomposed into ''k'' weakly connected spanning subgraphs, so that every node <math>v \\in V-r_0</math> has positive in-degree in each subgraph?",
+    "sha256": "f57804f4580b532b4654d38bdc2560eb5f65dee90308dd7624b8af44601e20d2",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2010-07-19T08:54:31Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Decomposition_of_oriented_k-partition-connected_digraphs&oldid=1156",
+    "source_locator": "EGRES page 67, revision 1156",
+    "source_sha256": "29beb5f81ee9639c5df68afef0c0e16b490cea678a70bee32b47a93291f5c2dc",
+    "tags": [
+      "combinatorial-optimization",
+      "Packing common bases",
+      "Trees and branchings"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

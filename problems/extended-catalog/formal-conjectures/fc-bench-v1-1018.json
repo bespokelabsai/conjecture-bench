@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-1018",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "conjecture_1_3_to_2_3",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 6]\ntheorem conjecture_1_3_to_2_3 : answer(sorry) ↔ ∀ (P : Type) [Finite P] [PartialOrder P]\n    (not_total : ¬ Std.Total (α := P) (· ≤ ·)) (total_ext : Set <| OrderHom P ℕ)\n    (total_ext_def : ∀ σ, σ ∈ total_ext ↔ Set.range σ = Set.Icc 1 (Nat.card P)),\n    ∃ x y : P, ({σ ∈ total_ext | σ x < σ y}.ncard / total_ext.ncard : ℚ)\n      ∈ Set.Icc (1/3) (2/3)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "e4cb1f0bedac5df1b32a400cc42e5024f1de12621941aebe3334f54652862eda",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/conjecture_1_3_to_2_3.lean#L35",
+    "source_locator": "FormalConjectures/Wikipedia/conjecture_1_3_to_2_3.lean:35#conjecture_1_3_to_2_3",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-6"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

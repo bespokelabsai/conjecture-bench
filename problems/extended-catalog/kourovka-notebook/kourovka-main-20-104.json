@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-104",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.104 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Well-known questions). Suppose that a group G is finitely generated and\ndecomposable into a direct product G = G1 × G2 .\n    a) Is it true that the elementary theory of G is decidable if and only if the ele-\nmentary theories of the groups G1 and G2 are decidable?\n    b) Is it true that the universal theory of G is decidable if and only if the universal\ntheories of the groups G1 and G2 are decidable?\n   An affirmative answer to question a) for almost soluble groups follows from\n(G. A. Noskov, Izv. Akad. Nauk SSSR, Ser. Mat., 47, no. 3 (1983), 498–517).\n                                                                          E. I. Timoshenko",
+    "sha256": "479e1d670eff45563f142f8c8c64078086410a2d7e9d65c9a673177330342085",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=159",
+    "source_locator": "Kourovka 20.104, main section, page 159",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

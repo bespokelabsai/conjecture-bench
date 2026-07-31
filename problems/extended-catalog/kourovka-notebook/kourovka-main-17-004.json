@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-004",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.4 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let x be a right 4-Engel element of a group G.\n    a) Is it true that the normal closure ⟨x⟩G of x in G is nilpotent if G is locally\nnilpotent?\n    b) If the answer to a) is affirmative, is there a bound on the nilpotency class\nof ⟨x⟩G ?\n    c) Is it true that ⟨x⟩G is always nilpotent?                        A. Abdollahi",
+    "sha256": "2176b5aec401a9bf58bf2aebe94db7dce80cb324a61f7f5f73e3ebff8a242c5a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=104",
+    "source_locator": "Kourovka 17.4, main section, page 104",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

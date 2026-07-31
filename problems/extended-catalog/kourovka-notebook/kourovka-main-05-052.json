@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-05-052",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 5.52 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "It is not hard to show that a finite perfect group is the normal closure of a\nsingle element. Is the same true for infinite finitely generated groups?      J. Wiegold\n  ∗ There exist finitely presented perfect groups that are not normal closures of a single\nelement (L. Chen, Y. Lodha, Preprint, 2025, https://arxiv.org/abs/2510.26073).",
+    "sha256": "96cfb546b9c484929fb9caadb13ae9880a3f3165470c03ac9e47944afd65565d",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=17",
+    "source_locator": "Kourovka 5.52, main section, page 17",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0228",
+  "source_registry": "egres-open",
+  "title": "Minimum k-way cut in a hypergraph",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Can we find a minimum [[Multiway cut|''k''-way cut]] in a capacitated hypergraph in polynomial time, if ''k'' is fixed?",
+    "sha256": "0ee365584751d5c016d754756811716427b62691d365a2461e32648a019c93a9",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-07-23T20:15:28Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Minimum_k-way_cut_in_a_hypergraph&oldid=2068",
+    "source_locator": "EGRES page 228, revision 2068",
+    "source_sha256": "73a0a5263651aa57ca18de989459a09527488198c8e989ccb8e618f196b9f9af",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity",
+      "Sub- and supermodular functions"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

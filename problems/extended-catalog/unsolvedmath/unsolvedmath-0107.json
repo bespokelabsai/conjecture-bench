@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0107",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Corner Problem in Product Sets",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Suppose $G$ is a finite group, and let $A \\subset G \\times G$ be a subset of density $\\alpha$. Are there $\\gg_\\alpha |G|^3$ triples $x, y, g$ such that $(x, y), (gx, y), (x, gy)$ all lie in $A$?",
+    "sha256": "8a646f22e93e4e149d969b68f7f2594062813a149e3336308f865bc01d7c718e",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GREEN-018",
+    "source_locator": "dataset ID 107; problem number GREEN-018",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:green-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

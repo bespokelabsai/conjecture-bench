@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2230",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #644",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $f(k,r)$ be minimal such that if $A_1,A_2,\\ldots$ is a family of sets, all of size $k$, such that for every collection of $r$ of the $A_is$ there is some pair $\\{x,y\\}$ which intersects all of the $A_j$, then there is some set of size $f(k,r)$ which intersects all of the sets $A_i$. Is it true that $ f(k,7)=(1+o(1))\\frac{3}{4}k? $ Is it true that for any $r\\geq 3$ there exists some constant $c_r$ such that $ f(k,r)=(1+o(1))c_rk? $ ",
+    "sha256": "56067c71b07e4605b75057fc2a3d8ea105a8fb85e5e8378d139bbc24da7f8021",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-644",
+    "source_locator": "dataset ID 2230; problem number EP-644",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

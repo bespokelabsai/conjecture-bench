@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2097",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #404",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For which integers $a\\geq 1$ and primes $p$ is there a finite upper bound on those $k$ such that there are $a=a_1<\\cdots<a_n$ with $ p^k \\mid (a_1!+\\cdots+a_n!)? $ If $f(a,p)$ is the greatest such $k$, how does this function behave?\nIs there a prime $p$ and an infinite sequence $a_1<a_2<\\cdots$ such that if $p^{m_k}$ is the highest power of $p$ dividing $\\sum_{i\\leq k}a_i!$ then $m_k\\to \\infty$?",
+    "sha256": "e12d420060c0d2c80ba61f3944604da10ea5675aefa63da369eaeccf0f837a80",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-404",
+    "source_locator": "dataset ID 2097; problem number EP-404",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

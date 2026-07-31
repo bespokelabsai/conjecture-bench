@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0976",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "selfridge_seq_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem selfridge_seq_conjecture : ¬ Monotone fermatFactors",
+    "language_version": "Lean 4.27.0",
+    "sha256": "0e70a41ecad09d1d17b3de6b446e2fa271ba1727a2a7853be1cfbdddb60df179",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Selfridge.lean#L128",
+    "source_locator": "FormalConjectures/Wikipedia/Selfridge.lean:128#selfridge_seq_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0758",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "oddOrderLatinSquareTransversal",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem oddOrderLatinSquareTransversal : answer(sorry) ↔\n    Odd n → ∀ (L : LatinSquare n), ∃ σ, IsTransversal L σ",
+    "language_version": "Lean 4.27.0",
+    "sha256": "1ba15b560c43482087d0d8b6b59c73815999f0bd507828fe7dc532cebfaea16d",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Paper/LatinSquare.lean#L39",
+    "source_locator": "FormalConjectures/Paper/LatinSquare.lean:39#oddOrderLatinSquareTransversal",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Paper",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

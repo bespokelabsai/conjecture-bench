@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0271",
+  "slug": "wowii-316-well-total-domination",
+  "title": "Written on the Wall II Conjecture 316",
+  "field": "graph-theory",
+  "statement": "Let G be a finite simple connected graph and P its pendant vertices. If the average degree of the complement of G is at most |P|, then all inclusion-minimal total dominating sets of G have the same size.",
+  "counterexample": {
+    "description": "A finite connected simple graph satisfying the complement-average-degree premise, together with two inclusion-minimal total dominating sets of different cardinalities.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-live-promotion",
+    "sources": [
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/e751934294a381afd2d5fc1124c5953c8e25f9fa/FormalConjectures/WrittenOnTheWallII/GraphConjecture316.lean",
+        "role": "corrected-current-formal-statement-and-status-source"
+      },
+      {
+        "url": "https://arxiv.org/abs/2010.02341",
+        "role": "well-total-domination-definition-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-1026"
+    ]
+  },
+  "equivalence_group": "wowii-conjecture-316"
+}

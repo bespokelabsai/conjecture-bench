@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2720",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.61",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "A knot in $S^{3}$ bounds a topological disk in $B^{4}$ by coning (not\nnecessarily locally flat); this problem asks about topological disks that a knot in a\nhomology sphere $Y$ might bound in a homology or homotopy ball bounded by $Y$ .\n(a) Given a locally flat knot in an integer homology 3-sphere, is it concordant\nto a knot in $S^{3}$, via a locally flat annulus in a topological integer homology\ncobordism? Variation: Can the homology cobordism be taken to be simply\nconnected?\n(b) Given an arbitrary knot in an integer homology 3-sphere $Y$ , does it bound\nan embedded disc (not necessarily locally flat) in $\\Delta$, the Freedman filling\nof $Y$ ? Variation: Is there such a disk in a homology ball bounded by $Y$ ?\n(c) Is there a link in an integer homology 3-sphere, each of whose components\nis independently concordant to a knot in $S^{3}$, that is not itself concordant\nto a link in $S^{3}$.\n(d) Suppose that $\\mathbb{Z}_{n}$ acts semi-freely on the homology sphere $Y$ , with fixed\npoint set a knot $K$. Does the action of $\\mathbb{Z}_{n}$ extend semi-freely over $\\Delta$?",
+    "sha256": "210b7cbec0bad64133c2f4288a8b9dd641c1d999e85dead531e079b15c686320",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.61",
+    "source_locator": "dataset ID 2720; problem number KP-1.61",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

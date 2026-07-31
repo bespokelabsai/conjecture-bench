@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1897",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #40",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For what functions $g(N)\\to \\infty$ is it true that $ \\lvert A\\cap \\{1,\\ldots,N\\}\\rvert \\gg \\frac{N^{1/2}}{g(N)} $ implies $\\limsup 1_A\\ast 1_A(n)=\\infty$?",
+    "sha256": "a46cc8bcc5827348122a8ee7c50edb9bd682af0097c8c65e9e479c64861471d3",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-40",
+    "source_locator": "dataset ID 1897; problem number EP-40",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-045",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.45 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A t-(v, k, λ) design D = (X, B) contains a set X of v points and a set B of\nk-element subsets of X called blocks such that each t-element subset of X is contained\nin λ blocks. Prove that there are no nontrivial block-transitive 6-designs. (We have\nshown that there are no nontrivial block-transitive 8-designs and there are certainly\nsome block-transitive, even flag-transitive, 5-designs.)\n    Comment of 2009: In (Finite Geometry and Combinatorics (Deinze 1992), Cam-\nbridge Univ. Press, 1993, 103–119) we showed that a block-transitive group G on a\nnontrivial 6-design is either an affine group AGL(d, 2) or is between P SL(2, q) and\nP ΓL(2, q); in (M. Huber, J. Combin. Theory Ser. A, 117, no. 2 (2010), 196–203) it\nis shown that for the case λ = 1 the group G may only be P ΓL(2, pe ), where p is 2\nor 3 and e is an odd prime power. Comment of 2013: In the case λ = 1 there are no\nblock-transitive 7-designs (M. Huber, Discrete Math. Theor. Comput. Sci., 12, no. 1\n(2010), 123–132). Comment of 2021: There are no nontrivial 6-designs with k ⩽ 104\nin the case where the automorphism group is almost simple (Q. Tan, W. Liu, J. Chen,\nAlgebra Colloq., 21, no. 2 (2014), 231–234).              P. J. Cameron, C. E. Praeger",
+    "sha256": "8057a80e9b86a699280d730fbb697cf8b5cf1224ade6fd67ef2a07bf966a232c",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=50",
+    "source_locator": "Kourovka 11.45, main section, page 50",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

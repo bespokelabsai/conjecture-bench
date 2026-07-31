@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3027",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Elementary symmetric of a sum of matrices",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem\n\nGiven a Matrix $A$, the $k$-th elementary symmetric function of $A$, namely $S_k(A)$, is defined as the sum of all $k$-by- $k$ principal minors.\n\nFind a closed expression for the $k$-th elementary symmetric function of a sum of N $n$-by- $n$ matrices, with $0\\le N\\le k\\le n$ by using partitions.",
+    "sha256": "8470e9092946a2dce897105bd6d1da016a1b45d2fcefaa59b8027927cf24ed38",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-23298",
+    "source_locator": "dataset ID 3027; problem number OPG-23298",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:algebra",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

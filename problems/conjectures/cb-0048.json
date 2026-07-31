@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0048",
+  "slug": "erdosmoser",
+  "title": "Erdős–Moser",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "The equation 1^k+2^k+⋯+(m−1)^k=m^k has no integer solution with m>1 and k>1.",
+  "counterexample": {
+    "description": "Nontrivial \\(m,k\\), \\(k\\ge2\\), with \\(\\sum_{i=1}^{m-1}i^k=m^k\\). Exact Bernoulli/Faulhaber arithmetic verifies a pair, but merely encoding \\(m\\) is prohibitive.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://mathworld.wolfram.com/Erdos-MoserEquation.html",
+        "role": "supporting"
+      }
+    ]
+  }
+}

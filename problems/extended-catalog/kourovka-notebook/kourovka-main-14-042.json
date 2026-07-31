@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-042",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.42 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is a free pro-p-group representable by matrices over an associative-commuta-\ntive profinite ring with 1?\n    A negative answer is equivalent to the fact that every linear pro-p-group satisfies\na non-trivial pro-p-identity. This is known to be true in dimension 2 for p ̸= 2\n(A. N. Zubkov, Siberian Math. J., 28, no. 5 (1987), 742–747). It is also proved that a 2-\ndimensional linear pro-2-group in characteristic 2 satisfies a non-trivial pro-2-identity\n(D. E.-C. Ben-Ezra, E. Zelmanov, Trans. Amer. Math. Soc., 374, no. 6 (2021), 4093–\n4128).                                              A. N. Zubkov, V. N. Remeslennikov",
+    "sha256": "b837cb04f90b554ee84b1155eb70125a5bf92f0b187deb34f626b51f78c80a73",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=76",
+    "source_locator": "Kourovka 14.42, main section, page 76",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

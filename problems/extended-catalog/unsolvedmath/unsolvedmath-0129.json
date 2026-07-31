@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-0129",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Cubic Curves in F_p^2",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Suppose $A \\subset \\mathbb{F}_p^2$ is a set meeting every line in at most 2 points. Is it true that all except $o(p)$ points of $A$ lie on a cubic curve?",
+    "sha256": "abe19b4badedc047ecdf12d0890f1e1de52a8bce1c45fdc31ea75157428161ba",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GREEN-041",
+    "source_locator": "dataset ID 129; problem number GREEN-041",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:geometry",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:green-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

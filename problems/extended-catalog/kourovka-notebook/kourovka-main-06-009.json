@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-06-009",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 6.9 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is the derived subgroup of any locally normal group decomposable into a product\nof at most countable subgroups which commute elementwise?         Yu. M. Gorchakov",
+    "sha256": "287e101b1314975fc2e1511dbbe5de0fa28649c26b128e644eab40e08a21457a",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=18",
+    "source_locator": "Kourovka 6.9, main section, page 18",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

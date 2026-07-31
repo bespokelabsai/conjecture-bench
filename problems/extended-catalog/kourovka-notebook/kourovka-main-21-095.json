@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-095",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.95 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is there an almost simple but not simple group which is recognizable by the\nisomorphism type of its Gruenberg–Kegel graph?\n    Note that if a group G is recognizable by the isomorphism type of its Gruenberg–\nKegel graph, then G is recognizable by its Gruenberg–Kegel graph, and therefore G\nis almost simple (P. J. Cameron, N. V. Maslova, J. Algebra, 607 (2022), 186–213).\n                                                                          N. V. Maslova",
+    "sha256": "1fb17f653422e6e0c6853d0aa0ce01f5b6dbad8657681577c16703f21f96d7a5",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=178",
+    "source_locator": "Kourovka 21.95, main section, page 178",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

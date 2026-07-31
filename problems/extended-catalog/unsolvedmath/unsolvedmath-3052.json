@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3052",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Roller Coaster permutations",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $S_n$ denote the set of all permutations of $[n]=\\set{1,2,\\ldots,n}$. Let $i(\\pi)$ and $d(\\pi)$ denote respectively the number of increasing and the number of decreasing sequences of contiguous numbers in $\\pi$. Let $X(\\pi)$ denote the set of subsequences of $\\pi$ with length at least three. Let $t(\\pi)$ denote $\\sum_{\\tau\\in X(\\pi)}(i(\\tau)+d(\\tau))$.\n\nA permutation $\\pi\\in S_n$ is called a Roller Coaster permutation if $t(\\pi)=\\max_{\\tau\\in S_n}t(\\tau)$. Let $RC(n)$ be the set of all Roller Coaster permutations in $S_n$.\n\nConjecture For $n\\geq 3$,\n\n- If $n=2k$, then $|RC(n)|=4$.\n- If $n=2k+1$, then $|RC(n)|=2^j$ with $j\\leq k+1$.\n\nConjecture (Odd Sum conjecture) Given $\\pi\\in RC(n)$,\n\n- If $n=2k+1$, then $\\pi_j+\\pi_{n-j+1}$ is odd for $1\\leq j\\leq k$.\n- If $n=2k$, then $\\pi_j + \\pi_{n-j+1} = 2k+1$ for all $1\\leq j\\leq k$.",
+    "sha256": "7ed8ff7e7ec3aa82ba0ed0c4677a54a4a89cc9a4a1507440fef822862317a5a2",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-58213",
+    "source_locator": "dataset ID 3052; problem number OPG-58213",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:combinatorics",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

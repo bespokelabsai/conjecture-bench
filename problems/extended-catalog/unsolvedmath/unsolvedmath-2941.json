@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2941",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.65",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Suppose X is a smooth4-manifold with the homology of $S^{1} \\times S^{3}$ whose infinite cyclic cover $\\widetilde{X}$ has $H^{1}(\\widetilde{X})=0$. Furuta and Ohta [FO93] define an invariant $\\lambda_{FO}(X)$ as 1/4 of the signed count of irreducible flat $SU(2)$ connections on X; this requires an orientation of X and a specified generator of $H^{1}(X)$.\n\n(a) Does the following hold? The invariant $\\lambda_{FO}(X)$ is an integer, and $\\lambda_{FO}(X)\\equiv \\rho(Y,\\mathfrak{s})$, where $\\rho(Y,\\mathfrak{s})$ is the Rokhlin invariant of an oriented spin 3 manifold Y that is Poincaré dual to the generator of $H^{1}(X)$.\n\n(b) Mrowka–Ruberman–Saveliev [MRS11] give an approach, defining an invariant $\\lambda_{SW}(X)$ by counting solutions to the Seiberg-Witten equations and adding an index-theoretic correction term. Is $\\lambda_{FO}(X)=-\\lambda_{SW}(X)$?",
+    "sha256": "024a7e4f8dc5433ea53ce261591e23801497551b28f629ef0bfb8df6eac642ac",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.65",
+    "source_locator": "dataset ID 2941; problem number KP-4.65",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

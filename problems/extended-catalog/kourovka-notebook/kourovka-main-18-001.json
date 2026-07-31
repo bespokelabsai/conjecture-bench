@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-001",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.1 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Given a group G of finite order n, does there necessarily exist a bijection f\nfrom G onto a cyclic group of order n such that for each element x ∈ G, the order\nof x divides the order of f (x)? An affirmative answer in the case where G is solvable\nwas given by F. Ladisch.                                                  I. M. Isaacs\n  ∗ Yes, it does (M. Amiri, J. Pure Applied Algebra, 228, no. 7 (2024), 107632).",
+    "sha256": "896780c7d44d50b9d1e331656d7e577e6220034b1f6c60d766a0ffd56127c8b2",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=116",
+    "source_locator": "Kourovka 18.1, main section, page 116",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

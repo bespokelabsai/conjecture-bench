@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2378",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #912",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "If $ n! = \\prod_i p_i^{k_i} $ is the factorisation into distinct primes then let $h(n)$ count the number of distinct exponents $k_i$.\nProve that there exists some $c>0$ such that $ h(n) \\sim c \\left(\\frac{n}{\\log n}\\right)^{1/2} $ as $n\\to \\infty$.",
+    "sha256": "76daaa0dac684df0ba1fc784b945aec763d175dec994b3eb61903d1b571f894d",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-912",
+    "source_locator": "dataset ID 2378; problem number EP-912",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2189",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #574",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Is it true that, for $k\\geq 2$, $ \\mathrm{ex}(n;\\{C_{2k-1},C_{2k}\\})=(1+o(1))(n/2)^{1+\\frac{1}{k}}. $ ",
+    "sha256": "b38d415d7065d6423474d9f5b3c9f3e45b6b5a1a98313ae48a630dfa17cad30b",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-574",
+    "source_locator": "dataset ID 2189; problem number EP-574",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

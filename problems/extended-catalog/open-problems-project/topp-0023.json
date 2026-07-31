@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0023",
+  "source_registry": "open-problems-project",
+  "title": "Vertex $\\pi$-Floodlights",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "How many $\\pi$-floodlights\nare always sufficient\nto illuminate any polygon of $n$ vertices,\nwith at most one floodlight placed at each vertex?\nAn \\emph{$\\alpha$-floodlight} is a light of aperture $\\alpha$.\n(We consider here ``inward-facing'' floodlights, whose\ndefining halfspace lies inside the polygon, locally in the\nneighborhood of the vertex.  Other models of the problem\nallow general orientations of floodlights or\nrestricted orientations (e.g., ``edge-aligned'').)",
+    "sha256": "376c9775e1efaa828a01d790f5bf3e382f04526a593204238a799c3e983475fb",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p23",
+    "source_locator": "TOPP problem 23 (Problems/P.000023)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "art galleries",
+      "visibility"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0975",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "selfridge_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem selfridge_conjecture (p : ℕ) (hp : IsSelfridge p) : p.Prime",
+    "language_version": "Lean 4.27.0",
+    "sha256": "0f3a9b488693f7750bd1c5cd7ce9c76b2a8fddc4ee205394ebe367d6baf6eca0",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Selfridge.lean#L68",
+    "source_locator": "FormalConjectures/Wikipedia/Selfridge.lean:68#selfridge_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0220"
+  ]
+}

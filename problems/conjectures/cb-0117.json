@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0117",
+  "slug": "erdos-97-convex-polygon-equal-distances",
+  "title": "Erdős problem #97: equal distances in a convex polygon",
+  "field": "discrete-geometry",
+  "statement": "Every convex polygon has a vertex with no four other vertices equidistant from it.",
+  "counterexample": {
+    "description": "A rational strictly convex polygon for which every vertex has four other vertices at one common distance.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/97",
+        "role": "status"
+      }
+    ]
+  }
+}

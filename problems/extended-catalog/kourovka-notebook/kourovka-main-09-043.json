@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-09-043",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 9.43 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "b) The group G indicated in (N. D. Podufalov, Abstracts of the 9th All–Union\nSymp. on Group Theory, Moscow, 1984, 113–114 (Russian)) allows us to construct\na projective plane of order 3: one can take as lines any class of subgroups of order\n2 · 5 · 11 · 17 conjugate under S and add four more lines in a natural way. In a similar\nway, one can construct projective planes of order pn for any prime p and any natural n.\nCould this method be adapted for constructing new planes?               N. D. Podufalov",
+    "sha256": "7cf1da88bd097706260ca023f343e727e10a7569c8e16a1883594ed38e738960",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=34",
+    "source_locator": "Kourovka 9.43, main section, page 34",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

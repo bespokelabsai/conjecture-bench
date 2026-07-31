@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0213",
+  "slug": "euler-sum-of-powers-high-exponent",
+  "title": "Euler sum-of-powers conjecture for k≥6",
+  "field": "number-theory",
+  "statement": "For integers k≥6, if a sum of n>1 positive integer kth powers equals one positive integer kth power, then n≥k.",
+  "counterexample": {
+    "description": "An exponent k≥6, a positive target, and between two and k−1 positive bases whose exact kth powers sum to the target's kth power.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/EulerSumOfPowers.lean#L35",
+        "role": "status-and-formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0871"
+    ]
+  },
+  "equivalence_group": "euler-one-target-sum-of-powers"
+}

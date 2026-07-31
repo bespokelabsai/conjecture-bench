@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0272",
+  "slug": "wowii-40-induced-forest-bound",
+  "title": "Written on the Wall II Conjecture 40",
+  "field": "graph-theory",
+  "statement": "For every nontrivial finite connected simple graph G, the largest induced-forest order f(G) is at least ceil((p(G)+b(G)+1)/2), where p(G) is the minimum number of vertex-disjoint paths covering V(G) and b(G) is the largest induced-bipartite order.",
+  "counterexample": {
+    "description": "A finite connected simple graph whose largest induced forest is smaller than the ceiling of one half of its path-cover number plus largest induced-bipartite order plus one.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-live-promotion",
+    "sources": [
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/e751934294a381afd2d5fc1124c5953c8e25f9fa/FormalConjectures/WrittenOnTheWallII/GraphConjecture40.lean",
+        "role": "current-formal-statement-and-status-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-1030"
+    ]
+  },
+  "equivalence_group": "wowii-conjecture-40"
+}

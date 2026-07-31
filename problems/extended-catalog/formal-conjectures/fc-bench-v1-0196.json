@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0196",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_282.variants.sq",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem erdos_282.variants.sq :\n    answer(sorry) ↔ ∀ x : ℚ, (x : ℝ) ∈ Set.Ico 0 (π ^ 2 / 6 - 1) ∪ Set.Ico 1 (π ^ 2 / 6) →\n      greedyUnitFractionRem { n | IsSquare n } x =ᶠ[atTop] 0",
+    "language_version": "Lean 4.27.0",
+    "sha256": "32287cc41a57cd6818f56b47e1d0c82edd55db89570cdfae976e6fe54edaabb2",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/282.lean#L115",
+    "source_locator": "FormalConjectures/ErdosProblems/282.lean:115#erdos_282.variants.sq",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

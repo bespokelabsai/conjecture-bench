@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2506",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #1131",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For $x_1,\\ldots,x_n\\in [-1,1]$ let $ l_k(x)=\\frac{\\prod_{i\neq k}(x-x_i)}{\\prod_{i\neq k}(x_k-x_i)}, $ which are such that $l_k(x_k)=1$ and $l_k(x_i)=0$ for $i\neq k$.\nWhat is the minimal value of $ I(x_1,\\ldots,x_n)=\\int_{-1}^1 \\sum_k \\lvert l_k(x)\\rvert^2\\mathrm{d}x? $ In particular, is it true that $ \\min I =2-(1+o(1))\\frac{1}{n}? $ ",
+    "sha256": "7ef0b4fe86977f40880be32be95e0bc30a49e9e3c2b949aa303cea4dd4b983e9",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-1131",
+    "source_locator": "dataset ID 2506; problem number EP-1131",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

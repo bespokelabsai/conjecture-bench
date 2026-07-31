@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-076",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.76 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A semigroup presentation is called tree-like if all relations have the form a = bc\nwhere a, b, c are letters and no two relations share the left-hand side or the right-hand\nside. Is it decidable whether the semigroup given by a finite tree-like presentation\ncontains an idempotent?\n    This is equivalent to the question whether the closure of a finitely generated sub-\ngroup of R. Thompson’s group F contains an isomorphic copy of F .                 M. Sapir",
+    "sha256": "92b440e998318626194503e143586e597657c951bb334a098d866903fc9f33a2",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=139",
+    "source_locator": "Kourovka 19.76, main section, page 139",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-112",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.112 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let F be a hereditary saturated formation and let w∗ F denote the class of\nall finite groups G for which π(G) ⊆ π(F) and the normalizers of all Sylow subgroups\nof G are F-subnormal in G. It is known that w∗ F is a formation. Must w∗ F be\na saturated formation?                                  A. F. Vasil’ev, T. I. Vasil’eva",
+    "sha256": "dac7c9991ca8c0c1b65dce9875af35f9745d3efb53cf0a58ace9c5bb809ebf37",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=160",
+    "source_locator": "Kourovka 20.112, main section, page 160",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1098",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Bounds for Homogeneous Polynomial Zeros",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $d \\geq 3$ be an odd integer. Give bounds on $\\nu(d)$ such that if $n > \\nu(d)$ the following is true: given any homogeneous polynomial $F(\\mathbf{x}) \\in \\mathbb{Z}[x_1, \\dots, x_n]$ of degree $d$, there is some $\\mathbf{x} \\in \\mathbb{Z}^n \\setminus \\{\\mathbf{0}\\}$ such that $F(\\mathbf{x}) = 0$.",
+    "sha256": "2af9dc43dca3c3b0073b08c8daaf1692df8adeacf1e1a714d0bb396ee65b8ea6",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/GREEN-098",
+    "source_locator": "dataset ID 1098; problem number GREEN-098",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:number-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:green-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

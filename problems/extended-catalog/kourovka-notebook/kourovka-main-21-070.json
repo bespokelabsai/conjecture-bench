@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-070",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.70 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A group G is called an orientable Poincaré duality group of dimension n over\na ring R if it is of type FP over R and Hi (G; RG) = 0 for i ̸= n, while Hn (G; RG) = R\nas an RG-module, where the action on R is trivial. (Note that G is not required to\nbe finitely presented.) If G is an orientable Poincaré duality group of dimension n\nover all fields, is it an orientable Poincaré duality group over the integers? D. Kielak",
+    "sha256": "abac71409e3b1c8de3c02641daa411b73429758f8414bde8e4e108f4b16e8d96",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=174",
+    "source_locator": "Kourovka 21.70, main section, page 174",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

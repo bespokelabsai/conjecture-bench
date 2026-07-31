@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2685",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.26",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(Jones Slope Conjecture). For a knot $K$, the Jones slopes $js(K)$\nare the set of cluster points in\n\n$$\n\\left\\{\\frac{4}{n^{2}}\\deg_{+}\\bigl(J_{n}(K;q)\\bigr)\\right\\}_{n\\in\\mathbb{N}}\n\\cup\n\\left\\{\\frac{4}{n^{2}}\\deg_{-}\\bigl(J_{n}(K;q)\\bigr)\\right\\}_{n\\in\\mathbb{N}},\n$$\n\nwhere deg $^{+}$ denotes the highest degree and deg $^{-}$ the lowest degree.",
+    "sha256": "7a84034f652746685b3a5eb4749acac871bdb375aab494ab818d8059fe7e80db",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.26",
+    "source_locator": "dataset ID 2685; problem number KP-1.26",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

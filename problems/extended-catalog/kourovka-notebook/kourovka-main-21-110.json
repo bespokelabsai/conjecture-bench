@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-110",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.110 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let S be a nonabelian finite simple group, and x a nonidentity automor-\nphism of S. Let α(x) be the smallest number of conjugates of x in G = ⟨x, Inn S⟩\nthat generate G. The values of α(x) had been studied in (R. Guralnick, J. Saxl, J.\nAlgebra, 268, no. 2 (2003), 519–571).\n   (a) (R. Guralnick, J. Saxl). Conjecture: If S is an exceptional group of Lie type,\nthen α(x) ⩽ 5 for every nonidentity automorphism x of S.\n  (b) For each exceptional group S of Lie type, find the largest value of α(x).\n                                                                              D. O. Revin",
+    "sha256": "4434bd131833ea6d1642a73414507d0e5eaa095c336db2ccf6e2cb7d52ef2029",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=180",
+    "source_locator": "Kourovka 21.110, main section, page 180",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3220",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "A homomorphism problem for flows",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture Let $M,M'$ be abelian groups and let $B \\subseteq M$ and $B' \\subseteq M'$ satisfy $B=-B$ and $B' = -B'$. If there is a homomorphism from $Cayley(M,B)$ to $Cayley(M',B')$, then every graph with a B-flow has a B'-flow.",
+    "sha256": "4848abbd1091b468cc3ad67f1ac7e139e98989ad83c6477d3d641fb1714333e1",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-134",
+    "source_locator": "dataset ID 3220; problem number OPG-134",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0074",
+  "source_registry": "open-problems-project",
+  "title": "Slicing Axes-Parallel Rectangles",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Let us say that two rectangles in the place are\nindependent if both their $x$- and $y$-axis projections are disjoint.  A\nset of rectangles is then independent if the rectangles are pairwise\nindependent.  Suppose that a collection of axes-parallel rectangles\ncontains no independent set of size $m$ or greater.  What is the minimal\nnumber, $f(m)$, of horizontal and vertical lines needed to slice every\nrectangle in the collection?",
+    "sha256": "ec533fd53fa6ab515c1f6e65877a51d7dfa759463255da93ae92fc59455e99f7",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "partially-open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p74",
+    "source_locator": "TOPP problem 74 (Problems/P.000074)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "combinatorial geometry"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

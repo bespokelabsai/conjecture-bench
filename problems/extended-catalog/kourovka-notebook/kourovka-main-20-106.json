@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-106",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.106 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a residually finite 2-group and let x ∈ G be a left 3-Engel element\nof order 2. Is ⟨xG ⟩ locally nilpotent?\n    It is known that in any group a 3-Engel element of odd order belongs to the\nlocally nilpotent radical (E. Jabara, G. Traustason, Proc. Amer. Math. Soc., 147,\nno. 5 (2019), 1921–1927).\n    Comment of 2025: An element a ∈ G is called a strong left 3-Engel element if\n⟨a, ag ⟩ is nilpotent of class at most 2 and ⟨a, ag , ah ⟩ is nilpotent of class at most 3 for\nall g, h ∈ G. (This is equivalent to a being left 3-Engel when a is of odd order.) It is\nproved that if a is a strong left 3-Engel element in an arbitrary group G, then ⟨a⟩G is\nlocally nilpotent (A. Hadjievangelou, G. Traustason, Proc. Amer. Math. Soc., 152,\nno. 4 (2024), 1467–1477).                                                       G. Traustason",
+    "sha256": "ec9e35a297db7554883ebae441314e3beaf01ab1f45dce207d6c74d5ef5d7215",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=160",
+    "source_locator": "Kourovka 20.106, main section, page 160",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0131",
+  "slug": "erdos-982-convex-vertex-distances",
+  "title": "Erdős problem #982: distances from a convex-polygon vertex",
+  "field": "discrete-geometry",
+  "statement": "Among n distinct points forming a convex polygon, some vertex has at least floor(n/2) distinct distances to the others.",
+  "counterexample": {
+    "description": "A rational strictly convex n-gon in which every vertex determines fewer than floor(n/2) distinct distances.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "maintainer-listed"
+  },
+  "provenance": {
+    "collection": "erdos-finite-status",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/982",
+        "role": "status"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0565"
+    ]
+  }
+}

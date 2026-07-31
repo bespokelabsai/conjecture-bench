@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-076",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.76 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "We call a group G strictly real if each of its non-trivial elements is conjugate\nto its inverse by some involution in G. In which groups of Lie type over a field of\ncharacteristic 2 the maximal unipotent subgroups are strictly real?      Ya. N. Nuzhin",
+    "sha256": "8b9151fd67bc7b119b9f31719e7850cdce5e4f8f8bad1e6b5e569a0041ff2698",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=101",
+    "source_locator": "Kourovka 16.76, main section, page 101",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

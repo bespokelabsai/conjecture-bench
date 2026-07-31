@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1996",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #217",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For which $n$ are there $n$ points in $\\mathbb{R}^2$, no three on a line and no four on a circle, which determine $n-1$ distinct distances and so that (in some ordering of the distances) the $i$th distance occurs $i$ times?",
+    "sha256": "eacef3230f2b2a5967bab16360400dfdb08372ff9b864d66bdc6af8a19a86f6e",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-217",
+    "source_locator": "dataset ID 1996; problem number EP-217",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:combinatorics",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

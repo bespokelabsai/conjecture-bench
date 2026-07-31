@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0240",
+  "slug": "two-increasing-triples-n-three-halves",
+  "title": "Gowers–Long 2-increasing triples conjecture",
+  "field": "combinatorics",
+  "statement": "Every 2-increasing sequence of triples from {1,…,n}³ has length at most n^(3/2), where each earlier triple is strictly smaller than each later triple in at least two coordinates.",
+  "counterexample": {
+    "description": "An n and an explicit ordered sequence of more than n^(3/2) triples in [n]³ satisfying the 2-increasing condition for every earlier-later pair.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://oeis.org/A341822",
+        "role": "current-status-and-values"
+      },
+      {
+        "url": "https://arxiv.org/abs/1609.08688",
+        "role": "primary-source"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Arxiv/1609.08688/sIncreasingrTuples.lean#L227",
+        "role": "formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0003"
+    ]
+  },
+  "equivalence_group": "two-increasing-triples-extremal-length"
+}

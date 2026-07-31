@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-058",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.58 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "We say that a product XY = {xy | x ∈ X, y ∈ Y } of two subsets X, Y\nof a group G is direct if for every z ∈ XY there are unique x ∈ X, y ∈ Y such\nthat z = xy. Is there an infinite group G such that every subset A ⊆ G satisfies the\nfollowing property: all the maximal subsets B for which the product AB is direct\nhave the same cardinality?\n    Note that for checking the property for a given infinite group G, it suffices to\nconsider only those subsets A ⊆ G for which |A| = |G \\ A|. Indeed, the property is\nequivalent to A−1 A ∩ BB −1 = {1} and A−1 AB = G, and these imply |G| = |A||B|,\nsince G is infinite. Now, if |A| < |G \\ A|, then |A| < |G|, and so |B| = |G|; and if\n|A| > |G \\ A|, then A−1 A = G, and so |B| = 1, for all B satisfying the property.\n                                                                 M. H. Hooshmand\n  ∗ No, there are no such groups (M. I. Kabenyuk, Preprint, February 2026, https:\n//arxiv.org/abs/2602.22876; M. H. Hooshmand, Preprint, April 2026, https://\narxiv.org/abs/2604.08724, Remark 1.16).",
+    "sha256": "7a58f4366cc2e5f4b014975eaa6b3fbf4940275001860230a55ae3f26cd1be29",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=173",
+    "source_locator": "Kourovka 21.58, main section, page 173",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

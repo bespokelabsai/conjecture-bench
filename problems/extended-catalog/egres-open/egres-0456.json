@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0456",
+  "source_registry": "egres-open",
+  "title": "Complexity of computing a v-reduced divisor in multigraphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Is there a polynomial algorithm for computing a <math>v_0</math>-[[reduced graph divisors|reduced]] divisor equivalent to a given divisor of an undirected multigraph?",
+    "sha256": "168bee3073a4ef57986889705781aec64efdcbbcebaf0b5fbd09ffdbfe6355ee",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-11-07T16:46:20Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Complexity_of_computing_a_v-reduced_divisor_in_multigraphs&oldid=2341",
+    "source_locator": "EGRES page 456, revision 2341",
+    "source_sha256": "1a334018c18206ede25b1cffc910c91bf659549ab147ef86c8971296eafd54c3",
+    "tags": [
+      "combinatorial-optimization",
+      "Chip-firing"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2699",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.40",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "A satellite operator $P \\subset S^{1} \\times D^{2}$ induces an operation $P$ on\nthe concordance group $\\mathcal{C}$ [Gor75].\n(a) Let $P$ be a winding number one satellite operator with $P(\\operatorname{U}) \\simeq \\operatorname{U}$.\nIf\n$P(K) \\simeq \\operatorname{U}$, does this mean that $K \\simeq \\operatorname{U}$?\n(b) Is the Whitehead doubling operator injective on $\\mathcal{C}$? Can we exhibit any\n(winding-number-zero) operator that is injective on $\\mathcal{C}$?\n(c) Conjecture (Hedden; see [HPC21]). The only homomorphisms on $\\mathcal{C}$ in-\nduced by satellite operators are the zero map, the identity, and the invo-\nlution induced by orientation reversal.\n(d) Conjecture (Hedden, Pinzón Caicedo) Let $P$ be a non-constant satellite\noperator with winding number zero. Does $\\\\langle \\\\operatorname{im} P \\\\rangle$ necessarily have infinite\nrank? Some special cases are:\n(i) Does there always exist a fixed knot $K$ such that $\\langle\\{P(nK)\\}_{n\\in\\mathbb{Z}}\\rangle$ has\ninfinite rank?\n(ii) If $\\{nK\\}_{n\\in\\mathbb{Z}}$ is any rank-one subgroup of $\\mathcal{C}$, does $\\langle\\{P(nK)\\}_{n\\in\\mathbb{Z}}\\rangle$ have\ninfinite rank?",
+    "sha256": "9ac7cd0ebb2b436e251e24b332ee1fe6950f29bbee1f2d0683007e0e2d1ee6e2",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.40",
+    "source_locator": "dataset ID 2699; problem number KP-1.40",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

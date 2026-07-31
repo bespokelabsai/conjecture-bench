@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0043",
+  "source_registry": "open-problems-project",
+  "title": "General Unfoldings of Nonconvex Polyhedra",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Can every closed polyhedron\n%without boundary (every edge is incident to exactly two facets)\nbe cut along its surface and unfolded into one piece in the plane\nwithout overlap?\nSuch an unfolding is called a \\emph{general unfolding}\nto distinguish from \\emph{edge-unfoldings} (see Problem~\\ref{Problem.9}) and\n\\emph{vertex-unfoldings} (see Problem~\\ref{Problem.42}).",
+    "sha256": "746511daf4ebb179a3b3f95b7a2b0e078b1bb11a7aa177af4335adf3c02c865f",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p43",
+    "source_locator": "TOPP problem 43 (Problems/P.000043)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "folding and unfolding",
+      "polyhedra"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0158"
+  ]
+}

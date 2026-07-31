@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2094",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #394",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $t_k(n)$ denote the least $m$ such that $ n\\mid m(m+1)(m+2)\\cdots (m+k-1). $ Is it true that $ \\sum_{n\\leq x}t_2(n)\\ll \\frac{x^2}{(\\log x)^c} $ for some $c>0$?\nIs it true that, for $k\\geq 2$, $ \\sum_{n\\leq x}t_{k+1}(n) =o\\left(\\sum_{n\\leq x}t_k(n)\\right)? $ ",
+    "sha256": "98434d0e3a0c1eb74579ccc0aad461671d47b60edb7752d513542fbeecc9c0a4",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-394",
+    "source_locator": "dataset ID 2094; problem number EP-394",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

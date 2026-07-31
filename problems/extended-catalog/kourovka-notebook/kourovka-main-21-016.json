@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-016",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.16 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let the width of a group (respectively, a monoid) H with respect to a gen-\nerating set X mean the supremum over h ∈ H of the least length of a group word\n(respectively, a monoid word) in elements of X expressing h. A group (or monoid)\nis said to have finite width if its width with respect to every generating set is fi-\nnite. (A common finite bound for these widths is not required.) Do there exist\ngroups G having finite width as groups, but not as monoids? This is Question 9 in\n(G. M. Bergman, Bull. London Math. Soc., 38 (2006), 429–440).        G. M. Bergman",
+    "sha256": "300baecb95b320c731ab6646ec98e4a1e8bc3e2b925cad87fac56223e12ac859",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=166",
+    "source_locator": "Kourovka 21.16, main section, page 166",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

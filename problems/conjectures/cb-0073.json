@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0073",
+  "slug": "circuit-hirsch-conjecture",
+  "title": "Circuit-Hirsch conjecture",
+  "field": "algorithms-geometry-and-mathematical-physics",
+  "statement": "Circuit-Hirsch conjecture · 2015. The circuit analogue predicts diameter at most \\(f-d\\) for a \\(d\\)-polyhedron with \\(f\\) facets; the 2016 preprint cites the original BFH15 formulation (source).",
+  "counterexample": {
+    "description": "Give rational inequalities and two vertices farther apart than \\(f-d\\). Enumerating support-minimal kernel directions, maximal circuit steps, and shortest paths verifies the witness.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1611.08039",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2302.03977",
+        "role": "supporting"
+      }
+    ]
+  }
+}

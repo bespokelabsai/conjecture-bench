@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0179",
+  "slug": "zaremba-bound-five-conjecture",
+  "title": "Zaremba bound-five conjecture",
+  "field": "number-theory",
+  "statement": "For every denominator d≥2, some numerator coprime to d has a continued-fraction expansion with all partial quotients at most five.",
+  "counterexample": {
+    "description": "A denominator d for which exhaustive reduced-numerator search finds no such continued fraction.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://teorth.github.io/optimizationproblems/constants/58a.html",
+        "role": "supporting"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0022",
+  "source_registry": "open-problems-project",
+  "title": "Minimum-Link Path in 2D",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Can a minimum-link path among polygonal obstacles\nbe found in subquadratic time?",
+    "sha256": "32dcefb13067d6fa62fac42c96026809b65df7ec15fff2829dc9f0947d9b9aea",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p22",
+    "source_locator": "TOPP problem 22 (Problems/P.000022)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "shortest paths"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

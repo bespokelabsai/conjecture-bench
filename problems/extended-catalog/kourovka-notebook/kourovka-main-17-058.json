@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-058",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.58 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does CT(Z) have subgroups of intermediate (word-) growth?                S. Kohl",
+    "sha256": "c2af800db0e1eff0ccd084b4b0c361412de0e68cf6d72741df4d7d224f56fdc6",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=109",
+    "source_locator": "Kourovka 17.58, main section, page 109",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

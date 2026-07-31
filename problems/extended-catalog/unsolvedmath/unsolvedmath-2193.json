@@ -1,0 +1,43 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2193",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #584",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $G$ be a graph with $n$ vertices and $\\delta n^{2}$ edges. Are there subgraphs $H_1,H_2\\subseteq G$ such that\n{UL}\n{LI}$H_1$ has $\\gg \\delta^3n^2$ edges and every two edges in $H_1$ are contained in a cycle of length at most $6$, and furthermore if two edges share a vertex they are on a cycle of length $4$, and\n{LI}$H_2$ has $\\gg \\delta^2n^2$ edges and every two edges in $H_2$ are contained in a cycle of length at most $8$.\n{/UL}",
+    "sha256": "b28737a9849838c6181d10b15f85a2d8e4eadce8040f8c437d8dbd8b06db485b",
+    "contains_placeholder": false,
+    "quality_flags": [
+      "statement-legacy-list-markup"
+    ]
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-584",
+    "source_locator": "dataset ID 2193; problem number EP-584",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems",
+      "statement-legacy-list-markup"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "statement-extraction-repair",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

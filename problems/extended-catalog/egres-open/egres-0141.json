@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0141",
+  "source_registry": "egres-open",
+  "title": "Aharoni-Berger conjecture",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Is it true that if <math>M_1, \\ldots, M_k</math> are [[wikipedia:matroid|matroids]] on the same ground set ''S'' and <math>\\sum_{i=1}^k r_i (X_i) \\geq (k-1)l</math> for all partitions <math>X_1, \\ldots, X_k</math> of ''S'', then there exists a common independent set of size <math>l</math>?",
+    "sha256": "ab9ae59f04b5cbc8336ae9c31d8fff5f14819176aa10bdf5c6afa9250b555f75",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-11-01T19:00:46Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Aharoni-Berger_conjecture&oldid=2229",
+    "source_locator": "EGRES page 141, revision 2229",
+    "source_sha256": "32807af9596d476144cb0d5efa1f4d9da0dd5b7fab596cadca2322e0d88226ae",
+    "tags": [
+      "combinatorial-optimization",
+      "Matroids"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0289"
+  ]
+}

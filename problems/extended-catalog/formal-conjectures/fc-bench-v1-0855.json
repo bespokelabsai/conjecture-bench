@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0855",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "infinite_cousin_primes",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem infinite_cousin_primes :\n    Infinite {p : ℕ | Prime p ∧ Prime (p + 4)}",
+    "language_version": "Lean 4.27.0",
+    "sha256": "32a25715d52224e0b42bf8032731b2e7ff0c9c550ff56796b355de4d2ec5ee39",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/Dickson.lean#L68",
+    "source_locator": "FormalConjectures/Wikipedia/Dickson.lean:68#infinite_cousin_primes",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

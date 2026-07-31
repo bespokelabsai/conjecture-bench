@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2749",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 2.1",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(Ivanov conjecture). Let $S$ be an orientable surface of finite type\nwith genus at least three. If $G \\leq \\operatorname{Mod}(S)$ is a subgroup of finite index, does $G$ have\nfinite abelianization?",
+    "sha256": "6c6c5e0804bbff2f9c79b32a224b5cefecf0d0002821f302b9981e110b8db6ba",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-2.1",
+    "source_locator": "dataset ID 2749; problem number KP-2.1",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

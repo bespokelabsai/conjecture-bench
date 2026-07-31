@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2621",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.112",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "A nonempty class $\\mathcal X$ of finite groups is said to be complete if $\\mathcal X$ is closed under taking subgroups, homomorphic images, and extensions. The symmetric boundary of a complete class $\\mathcal X$ other than the class of all finite groups is defined as the largest integer $n$ such that $S_n\\in\\mathcal X$. For every positive integer $n\\ne 3$, let $f_+(n)$ and $f_-(n)$ be respectively the maximum and the minimum of $\\operatorname{BS}(\\mathcal X)$, where $\\mathcal X$ runs over all complete classes of symmetric boundary $n$.\n\n(a) Find $f_+(n)$ for $n=4,5,6$.\n\n(b) Is it true that $f_-(n)=n$ for all $n\\ne 3$?",
+    "sha256": "6d9bc067a181f3aea325df3ff4706e94fe05bae591bd17cc0899b6e7fc687792",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.112",
+    "source_locator": "dataset ID 2621; problem number KOU-21.112",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

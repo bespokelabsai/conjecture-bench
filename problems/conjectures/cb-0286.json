@@ -1,0 +1,50 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0286",
+  "slug": "common-independent-set-cover",
+  "title": "Aharoni–Berger common-independent-set covering conjecture",
+  "field": "matroid-theory-and-combinatorial-optimization",
+  "statement": "For a loopless matroid M let Δ(M)=max over nonempty X of |X|/r_M(X). The common ground set of any two loopless matroids M₁ and M₂ can be partitioned into at most ceil(max(Δ(M₁),Δ(M₂)))+1 sets that are independent in both matroids.",
+  "counterexample": {
+    "description": "Two loopless prime-field vector matroids whose exact individual density bound is at most four but whose exact common-independent cover number exceeds the conjectured maximum individual chromatic number plus one.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "egres-live-promotion",
+    "sources": [
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/open/Upper_bound_on_common_independent_set_cover",
+        "role": "maintained-problem-page"
+      },
+      {
+        "url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Upper_bound_on_common_independent_set_cover&oldid=2508",
+        "role": "december-2025-pinned-statement-source"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.disc.2011.03.036",
+        "role": "origin-and-small-parameter-results"
+      },
+      {
+        "url": "https://arxiv.org/abs/2407.08796",
+        "role": "2024-generalized-partition-special-case"
+      },
+      {
+        "url": "https://doi.org/10.1090/proc/17274",
+        "role": "peer-reviewed-2025-sum-bound"
+      },
+      {
+        "url": "https://arxiv.org/abs/2604.03735",
+        "role": "2026-current-general-coloring-context"
+      }
+    ],
+    "discovery_records": [
+      "egres-0068"
+    ]
+  },
+  "equivalence_group": "two-matroid-common-independent-cover"
+}

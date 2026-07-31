@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0201",
+  "source_registry": "egres-open",
+  "title": "Acyclic orientation with parity constraints",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "'''Problem 1. ''' Find a good characterization for undirected graphs having an acyclic orientation so that the in-degree of every node is even.\n<P>\n</P>\n'''Problem 2. ''' Find a good characterization for undirected graphs <math>\\displaystyle  G=(V,E)</math> and <math>\\displaystyle T\\subseteq V</math>,\nhaving an acyclic orientation so that the in-degree of a node is odd iff it is in <math>\\displaystyle T.</math>\n<P>\n</P>\n'''Problem 3. ''' Find a good characterization for undirected graphs <math>\\displaystyle  G=(V,E)</math> which, for every possible\n<math>\\displaystyle T\\subsetneq V</math> satisfying <math>\\displaystyle |T|+|E|</math> even, have an acyclic orientation so that  the in-degree of a node is odd iff it is in <math>\\displaystyle T.</math>",
+    "sha256": "7152a3826dc871fece95838a0da4ae567b43252a3a2aca36901fd8aa073e6963",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2010-07-30T14:42:14Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Acyclic_orientation_with_parity_constraints&oldid=1159",
+    "source_locator": "EGRES page 201, revision 1159",
+    "source_sha256": "dc721eba4dd286e1342dc8ad33870a8beecd2d68d871ace1aba95347dfed8f87",
+    "tags": [
+      "combinatorial-optimization",
+      "Orientations"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

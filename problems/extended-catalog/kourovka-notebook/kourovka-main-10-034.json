@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-10-034",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 10.34 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does there exist a non-soluble finite group which coincides with the product\nof any two of its non-conjugate maximal subgroups?\n    Editors’ comment: the answer is negative for almost simple groups (T. V. Tikho-\nnenko, V. N. Tyutyanov, Siberian Math. J., 51, no. 1 (2010), 174–177).\n                                                                            V. S. Monakhov",
+    "sha256": "ae163986c7ccc6273a00465e72698631b4c0c8d298be86a6db57ea6138437f7e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=40",
+    "source_locator": "Kourovka 10.34, main section, page 40",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

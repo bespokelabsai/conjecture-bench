@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0027",
+  "slug": "acyclic-edge-coloring-conjecture",
+  "title": "Acyclic Edge Coloring conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Acyclic Edge Coloring conjecture · Fiamčík 1978, sharpened by Alon–Sudakov–Zaks in 2001. Every graph has an acyclic edge coloring with at most Δ+2 colors.",
+  "counterexample": {
+    "description": "A connected simple graph of maximum degree five with no proper seven-edge-coloring free of bichromatic cycles. A complete check performs the complete bounded search.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0012365X26001597",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "acyclic-edge-coloring"
+}

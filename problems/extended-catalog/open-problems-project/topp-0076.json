@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0076",
+  "source_registry": "open-problems-project",
+  "title": "Equiprojective Polyhedra",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Identify or construct all $k$-equiprojective polyhedra.\nA polyhedron $P$ is \\emph{$k$-equiprojective} if its orthogonal\nprojection to a plane is a $k$-gon in every direction not parallel\nto a face of $P$.\nThus a cube is 6-equiprojective.",
+    "sha256": "6b430c1940e62449e906e7a9d35e430bba6bd243e29cece55523408b9b329cbd",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p76",
+    "source_locator": "TOPP problem 76 (Problems/P.000076)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "polyhedra"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

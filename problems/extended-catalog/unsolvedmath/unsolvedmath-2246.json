@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2246",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #671",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Given $a_{i}^n\\in [-1,1]$ for all $1\\leq i\\leq n<\\infty$ we define $p_{i}^n$ as the unique polynomial of degree $n-1$ such that $p_{i}^n(a_{i}^n)=1$ and $p_{i}^n(a_{i'}^n)=0$ if $1\\leq i'\\leq n$ with $i\neq i'$. We similarly define $ \\mathcal{L}^nf(x) = \\sum_{1\\leq i\\leq n}f(a_i^n)p_i^n(x), $ the unique polynomial of degree $n-1$ which agrees with $f$ on $a_i^n$ for $1\\leq i\\leq n$ (that is, the sequence of Lagrange interpolation polynomials).",
+    "sha256": "076a4f35ce16fbd0dea930357b17bf82176650bff0138f588ff2bee256b09a3d",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-671",
+    "source_locator": "dataset ID 2246; problem number EP-671",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

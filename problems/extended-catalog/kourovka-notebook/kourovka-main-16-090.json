@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-090",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.90 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that the automorphism group Aut F of an infinitely generated free\ngroup F is\n    a) the normal closure of a single element?\n    b) the normal closure of some involution in Aut F ?\n    For a free group Fn of finite rank n M. Bridson and K. Vogtmann have recently\nshown that Aut Fn is the normal closure of some involution, which permutes some\nbasis of Fn . It is also known that the automorphism groups of infinitely generated\nfree nilpotent groups have such involutions.                            V. Tolstykh",
+    "sha256": "ced143e28e47e26a17a7775ae129728605ef2bf66ba32154a2743eea001e2182",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=102",
+    "source_locator": "Kourovka 16.90, main section, page 102",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

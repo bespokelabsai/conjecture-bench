@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3438",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Direct proof of a theorem about compact funcoids",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture Let $f$ is a $T_1$-separable (the same as $T_2$ for symmetric transitive) compact funcoid and $g$ is a uniform space (reflexive, symmetric, and transitive endoreloid) such that $( \\mathsf{\\tmop{FCD}}) g = f$. Then $g = \\langle f \\times f \\rangle^{\\ast} \\Delta$.\n\nThe main purpose here is to find a direct proof of this conjecture. It seems that this conjecture can be derived from the well known theorem about existence of exactly one uniformity on a compact set. But that would be what I call an indirect proof, we need a direct proof instead.\n\nThe direct proof may be constructed by correcting all errors an omissions in this draft article.\n\nDirect proof could be better because with it we would get a little more general statement like this:\n\nConjecture Let $f$ be a $T_1$-separable compact reflexive symmetric funcoid and $g$ be a reloid such that\n\n- $( \\mathsf{\\tmop{FCD}}) g = f$;\n- $g \\circ g^{- 1} \\sqsubseteq g$.\n\nThen $g = \\langle f \\times f \\rangle^{\\ast} \\Delta$.",
+    "sha256": "81ce398725368c747573c62a111d1132e6b86fd5e35f44847d8a37d498271ba7",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-59900",
+    "source_locator": "dataset ID 3438; problem number OPG-59900",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

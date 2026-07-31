@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-057",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.57 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that a cyclic group A of order 4 is a T I-subgroup of a finite group G.\n   a) Does A centralize a component L of G if A intersects L · C(L) trivially?\n   b) What is the structure of the normal closure of A in the case where A centralizes\neach component of G?                                                   A. A. Makhnëv",
+    "sha256": "8d61e57dd5ab7ed19a7fa1b140c9db30d4f3758fd16e277867c8b8eb53db38d6",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=61",
+    "source_locator": "Kourovka 12.57, main section, page 61",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

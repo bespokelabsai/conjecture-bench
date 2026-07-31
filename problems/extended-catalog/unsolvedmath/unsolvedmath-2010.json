@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2010",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #254",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $A\\subseteq \\mathbb{N}$ be such that $ \\lvert A\\cap [1,2x]\\rvert -\\lvert A\\cap [1,x]\\rvert \\to \\infty\\textrm{ as }x\\to \\infty $ and $ \\sum_{n\\in A} \\{ \\theta n\\}=\\infty $ for every $\\theta\\in (0,1)$, where $\\{x\\}$ is the distance of $x$ from the nearest integer. Then every sufficiently large integer is the sum of distinct elements of $A$.",
+    "sha256": "2f820cb1162f95e4c2960dcf5cbffee82c1053a48d23c9146051dd369f0f5d6b",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-254",
+    "source_locator": "dataset ID 2010; problem number EP-254",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2355",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #872",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Consider the two-player game in which players alternately choose integers from $\\{2,3,\\ldots,n\\}$ to be included in some set $A$ (the same set for both players) such that no $a\\mid b$ for $a\neq b\\in A$.\nThe game ends when no legal move is possible. One player wants the game to last as long as possible, the other wants the game to end quickly. How long can the game be guaranteed to last for?\nAt least $\\epsilon n$ moves? (For $\\epsilon>0$ and $n$ sufficiently large.) At least $(1-\\epsilon)\\frac{n}{2}$ moves?",
+    "sha256": "b5b594911608a9b30806917f201b71aab77cb52b6dd28f2b5a4c81489d1abf57",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-872",
+    "source_locator": "dataset ID 2355; problem number EP-872",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

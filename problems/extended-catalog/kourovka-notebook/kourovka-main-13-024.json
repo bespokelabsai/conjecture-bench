@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-13-024",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 13.24 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a non-discrete topological group with only finitely many ultrafilters\nthat converge to the identity. Is it true that G contains a countable open subgroup\nof exponent 2?\n    Comment of 2005: This is proved for G countable (E. G. Zelenyuk, Mat. Studii,\n7 (1997), 139–144).                                                   E. G. Zelenyuk",
+    "sha256": "a343c01c32f457f43e1cbb59c66db79b9098dde7a3e17d044c35c92a170c95b9",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=66",
+    "source_locator": "Kourovka 13.24, main section, page 66",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

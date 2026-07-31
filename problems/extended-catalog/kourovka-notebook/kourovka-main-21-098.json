@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-098",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.98 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let w be a multilinear commutator word, and assume that G is a group where\nthe set of w-values is covered by finitely many cyclic subgroups. Is it true that the\nverbal subgroup w(G) is finite-by-cyclic?\n   This is true for lower central words (G. Cutolo, C. Nicotera, J. Algebra, 324, no. 7\n(2010), 1616–1624).                                                          M. Morigi",
+    "sha256": "466a777d668745a2e0ada9f9bed04536a6f414a26e9eab9d571816fe84ef8698",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=178",
+    "source_locator": "Kourovka 21.98, main section, page 178",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

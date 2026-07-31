@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0167",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_242",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_242 (n : ℕ) (hn : 2 < n) :\n    ∃ x y z : ℕ, 1 ≤ x ∧ x < y ∧ y < z ∧\n      (4 / n : ℚ) = 1 / x + 1 / y + 1 / z",
+    "language_version": "Lean 4.27.0",
+    "sha256": "54cc629833dbecc84db2ab5fde11cf2dd75877aca36ca61778a4982264431348",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/242.lean#L36",
+    "source_locator": "FormalConjectures/ErdosProblems/242.lean:36#erdos_242",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0257"
+  ]
+}

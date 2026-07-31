@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-018",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.18 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "We say that a family of groups D discriminates a group G if for any finite\nsubset {a1 , . . . , an } ⊆ G \\ {1} there exists a group D ∈ D and a homomorphism\nφ : G → D such that aj φ ̸= 1 for all j = 1, . . . , n. Is every finitely generated group\nacting freely on some Λ-tree discriminated by torsion-free hyperbolic groups?\n                                  G. Baumslag, A. G. Myasnikov, V. N. Remeslennikov",
+    "sha256": "8281508d9d4baef2de02d82024b937fa145e4d2f7613abea494b42b39b855c0b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=73",
+    "source_locator": "Kourovka 14.18, main section, page 73",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

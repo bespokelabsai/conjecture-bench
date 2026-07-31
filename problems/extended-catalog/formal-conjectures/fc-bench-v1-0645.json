@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0645",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "green_72",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 52]\ntheorem green_72 {N : ℕ} (hN : 3 ≤ N) : NoKInLineFor 3 N",
+    "language_version": "Lean 4.27.0",
+    "sha256": "1d53ce2fc4772fa0cd3c5289e0f65c64583ffeef58103cf619423ea3667e834e",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/GreensOpenProblems/72.lean#L67",
+    "source_locator": "FormalConjectures/GreensOpenProblems/72.lean:67#green_72",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "GreensOpenProblems",
+      "AMS-5",
+      "AMS-52"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-099",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.99 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let cd(G) be the set of all complex irreducible character degrees of a finite\ngroup G. Huppert’s Conjecture: if H is a nonabelian simple group and G is any finite\ngroup such that cd(G) = cd(H), then G ∼ = H × A, where A is an abelian group.\n                                                                          H. P. Tong-Viet",
+    "sha256": "c4633d598969a38313215c307dc610f59945d822882228fd8f13be5c98c7af3e",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=126",
+    "source_locator": "Kourovka 18.99, main section, page 126",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

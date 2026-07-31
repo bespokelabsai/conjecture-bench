@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0381",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "HadwigerNelsonProblem",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 52]\ntheorem HadwigerNelsonProblem :\n    χ(ℝ²) = answer(sorry)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "758827d3cfcacd62d5d7f7101279793d32ae71cccfab74f672031f433f404524",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/508.lean#L52",
+    "source_locator": "FormalConjectures/ErdosProblems/508.lean:52#HadwigerNelsonProblem",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-52"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

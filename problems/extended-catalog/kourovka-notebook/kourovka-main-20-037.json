@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-037",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.37 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that for every finite group G and every factorization |G| = ab there\nexist subsets A, B ⊆ G with |A| = a and |B| = b such that G = AB? Cf. 19.35 in\nArchive.\n    Comment of 2025: any minimal counterexample G must be a simple group without\nprime-index subgroups (R. R. Bildanov, V. A. Goryachenko, A. V. Vasil’ev, Siberian\nElectron. Math. Rep., 17 (2020), 683–689; M. H. Hooshmand, Commun. Algebra,\n49, no. 7 (2021), 2927–2933).                                       M. H. Hooshmand",
+    "sha256": "ac209e5909ba3a5797bf3fdcb15a50d6a3c51450066635d914dee1f761c59d04",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=150",
+    "source_locator": "Kourovka 20.37, main section, page 150",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

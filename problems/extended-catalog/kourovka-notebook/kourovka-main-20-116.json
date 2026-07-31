@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-116",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.116 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "(Well-known problem). Does a profinite torsion group have finite exponent?\n   This problem reduces to the case of pro-p groups (cf. W. Herfort, Arch. Math.,\n33 (1980), 404–410). Also cf. Archive 3.41.                         John S. Wilson",
+    "sha256": "aad9e9ea6b0c540892ffc14566af996822c968efc102a73bc0848144daa32c79",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=161",
+    "source_locator": "Kourovka 20.116, main section, page 161",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

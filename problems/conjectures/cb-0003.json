@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0003",
+  "slug": "vertex-reconstruction-conjecture",
+  "title": "Vertex Reconstruction conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Vertex Reconstruction conjecture · 1941, attributed to Ulam, with Kelly’s 1942 formulation. Graphs on at least three vertices are determined by their vertex-deleted decks.",
+  "counterexample": {
+    "description": "Two nonisomorphic finite simple graphs on the same vertex set, with at least three vertices, whose multisets of vertex-deleted subgraphs agree up to isomorphism.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2102.01942",
+        "role": "supporting"
+      },
+      {
+        "url": "https://arxiv.org/abs/2604.16567",
+        "role": "status"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2892",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.16",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) Do there exist closed, oriented, smooth, irreducible 4-manifolds with $b^{+}_{2} >$ 1 and $c^{2}_{1}:=2\\chi+3\\sigma<0$?\n\n(b) Is there an irreducible exotic smooth structure on $\\mathbb{CP}^{2}\\#_{n}\\mathbb{CP}^{2}$ for n>9?",
+    "sha256": "06b5b68685c65465515d697674902481e501fb912375ed4024e9336fd4d760f0",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.16",
+    "source_locator": "dataset ID 2892; problem number KP-4.16",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

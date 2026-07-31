@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-16-064",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 16.64 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A non-abelian variety in which all finite groups are abelian is called pseudo-\nabelian. A group variety is called a t-variety if for all groups in this variety the relation\nof being a normal subgroup is transitive. By (O. Macedońska, A. Storozhev, Commun.\nAlgebra, 25, no. 5 (1997), 1589–1593) each non-abelian t-variety is pseudo-abelian, and\nthe pseudo-abelian varieties constructed in (A. Yu. Olshanskii, Math. USSR–Sb., 54\n(1986), 57–80) are t-varieties. Is every pseudo-abelian variety a t-variety?\n                                                                            O. Macedońska",
+    "sha256": "0e7766e0ac94c1c0f81f872f28f942756c681a5ee9b2d6163ecfdc6aac1fb738",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=100",
+    "source_locator": "Kourovka 16.64, main section, page 100",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

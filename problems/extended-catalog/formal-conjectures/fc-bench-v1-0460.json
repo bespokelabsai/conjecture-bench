@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0460",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_774",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem erdos_774 : answer(sorry) ↔ ∀ (A : Set ℕ), A.Infinite → A.IsProportionatelyDissociated →\n    ∃ (T : Set (Set ℕ)), (∀ S ∈ T, S.IsDissociated) ∧ T.Finite ∧ A = ⋃₀ T",
+    "language_version": "Lean 4.27.0",
+    "sha256": "4ee0564b73de189e586ea244789bc6c9dc4d002cc93f230a55026768997c5bdd",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/774.lean#L47",
+    "source_locator": "FormalConjectures/ErdosProblems/774.lean:47#erdos_774",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

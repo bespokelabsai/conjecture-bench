@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-18-117",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 18.117 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is every element of a nonabelian finite simple group a commutator of two\nelements of coprime orders?\n   The answer is known to be “yes” for the alternating groups (P. Shumyatsky, Forum\nMath., 27, no. 1 (2015), 575–583) and for P SL(2, q) (M. A. Pellegrini, P. Shumyatsky,\nArch. Math., 99 (2012), 501–507). Without the coprimeness condition, this is\nOre’s conjecture proved in (M. W. Liebeck, E. A. O’Brien, A. Shalev, Pham Huu Tiep,\nJ. Eur. Math. Soc., 12, no. 4 (2010), 939–1008).                        P. Shumyatsky",
+    "sha256": "a37b18aac76ec1bd6e4c4c30831f18baea4e7ba37e849c6b6d69ed34e376651d",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=129",
+    "source_locator": "Kourovka 18.117, main section, page 129",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

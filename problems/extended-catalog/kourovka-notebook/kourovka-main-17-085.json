@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-085",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.85 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let V be a variety of groups such that any free group in V has torsion-free\nintegral homology groups in all dimensions. Is it true that V is abelian?\n    It is known that free metabelian groups may have 2-torsion in the second homology\ngroups, and free nilpotent groups of class 2 may have 3-torsion in the fourth homology\ngroups.                                                                    R. Mikhailov",
+    "sha256": "d04a7c0a311a4b0e4cd036073d8b109691f64caf5d62cafde7c96ce5db3fd632",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=111",
+    "source_locator": "Kourovka 17.85, main section, page 111",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

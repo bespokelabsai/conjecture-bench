@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-11-089",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 11.89 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let k be an\n                Q infinite cardinal number. Describe the epimorphic images of the\nCartesian power    Z of the group Z of integers. Such a description is known for\n                   k\nk = ω0 (R. Nunke, Acta Sci. Math. (Szeged), 23 (1963), 67–73).               S. V. Rychkov",
+    "sha256": "de11e3758377572f6d81367bc122fa09780116019c70780792c8cce98ad29bda",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=54",
+    "source_locator": "Kourovka 11.89, main section, page 54",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

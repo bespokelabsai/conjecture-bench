@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-1107",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Casas-Alvero Conjecture",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "If a univariate polynomial $f$ of degree $d$ over a field of characteristic 0 shares a common factor with each of its first $d-1$ derivatives, must $f$ be a power of a linear polynomial?",
+    "sha256": "2bc158d39855627eb32a7f22cecc58d13ffaa8e4944670692f6eaf9dd79860d0",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/ALG-007",
+    "source_locator": "dataset ID 1107; problem number ALG-007",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:algebra",
+      "difficulty:L3",
+      "problem-number-collision",
+      "secondary-aggregation"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

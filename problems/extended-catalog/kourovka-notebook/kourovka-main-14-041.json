@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-041",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.41 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A group G is said to be para-free if all factors γi (G)/γi+1 (G) of its lower\ncentral series\n            T∞ are isomorphic to the corresponding lower central factors of some free\ngroup, and i=1 γi (G) = 1. Is an arbitrary para-free group representable by matrices\nover a commutative-associative ring with 1?                             A. N. Zubkov",
+    "sha256": "ef676d4c221978310aef1d715fdca176e4621729a35129830f0c6cc2c02254c7",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=75",
+    "source_locator": "Kourovka 14.41, main section, page 75",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

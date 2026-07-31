@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-061",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.61 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "The group CTP (Z) is finitely generated if and only if P is finite. If\nP = ∅, then it is isomorphic to the finitely presented (first) Higman–Thompson\ngroup (J. P. McDermott, see Remark 1.4 in S. Kohl, J. Group Theory, 20, no. 5 (2017),\n1025–1030). Is it always finitely presented if P is finite?                   S. Kohl",
+    "sha256": "a20e4fc371c31488d039df248287954ad33134c07960ef51511bbbc641ca2932",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=109",
+    "source_locator": "Kourovka 17.61, main section, page 109",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

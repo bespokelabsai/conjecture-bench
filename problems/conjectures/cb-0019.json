@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0019",
+  "slug": "seymours-second-neighborhood-conjecture",
+  "title": "Seymour’s Second Neighborhood conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Seymour’s Second Neighborhood conjecture · 1990. Every oriented graph has a vertex whose second out-neighborhood is at least as large as its first.",
+  "counterexample": {
+    "description": "A refutation has strictly smaller second than first out-neighborhood at every vertex. Breadth-two adjacency counts directly verify it.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2607.18047",
+        "role": "supporting"
+      }
+    ]
+  }
+}

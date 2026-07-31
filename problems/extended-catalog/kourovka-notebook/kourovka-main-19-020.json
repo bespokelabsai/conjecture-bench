@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-020",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.20 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "For a finite group G, let End(G) denote the semigroup of endomorphisms\nof G, and PIso(G) the semigroup of partial isomorphisms of G (isomorphisms between\nsubgroups of G). If G is abelian, then |End(G)| = |PIso(G)|. Is the converse true?\n                                                                           P. J. Cameron",
+    "sha256": "8e2badf7f51debbe7b63a636897d32ec06968e2bfe1c9f230e3fe289ad1a2ec5",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=133",
+    "source_locator": "Kourovka 19.20, main section, page 133",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

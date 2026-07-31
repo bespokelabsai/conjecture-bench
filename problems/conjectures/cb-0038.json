@@ -1,0 +1,35 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0038",
+  "slug": "oppermann",
+  "title": "Oppermann",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "For every integer n≥2, each of the intervals (n²,n(n+1)) and (n(n+1),(n+1)²) contains a prime.",
+  "counterexample": {
+    "description": "An \\(n\\) for which either half-interval between consecutive squares is prime-free. Interval-wide compositeness factors provide a total certificate.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://lab.rockefeller.edu/cohenje/assets/file/cohen41.pdf",
+        "role": "supporting"
+      },
+      {
+        "url": "https://link.springer.com/article/10.1007/s40993-024-00589-4",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0951",
+      "fc-bench-v1-0952",
+      "fc-bench-v1-0953"
+    ]
+  }
+}

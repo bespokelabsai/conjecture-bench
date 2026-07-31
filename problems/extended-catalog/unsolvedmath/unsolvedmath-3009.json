@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3009",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 5.2",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(Doubly-Small Morphisms of Manifolds).\n\n- Suppose that $h: \\R^{n} \\to \\R^{n}$ is a homeomorphism (or diffeomorphism) which satisfies two smallness hypotheses:\n\n- every orbit of $h$ (of any $x\\in \\R^{n}$, under all powers of $h$) is uniformly bounded in diameter (by 1 say), and\n\n- some subsequence of powers of $h$ converges to $\\mathrm{Id}_{\\R^{n}}$ in (say) the compact-open topology.\n\nThen must $h$ be the identity map?\n\n- A special case of this question is: let $h$ be a homeomorphism of $B^{n}$ that is the identity on $\\partial B^{n}$. If there is a subsequence of powers of $h$ which converge to the identity, must $h$ itself be the identity?",
+    "sha256": "db58be07fe00108409bf8f492aaf0e5ed3c8915719ceb32c96618e111831ac31",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-5.2",
+    "source_locator": "dataset ID 3009; problem number KP-5.2",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0207",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_306",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem erdos_306 : answer(sorry) ↔ ∀ (q : ℚ), 0 < q → Squarefree q.den →\n    ∃ k : ℕ, ∃ (n : Fin (k + 1) → ℕ), n 0 = 1 ∧ StrictMono n ∧\n    (∀ i ∈ Finset.Icc 1 (Fin.last k), ω (n i) = 2 ∧ Ω (n i) = 2) ∧\n    q = ∑ i ∈ Finset.Icc 1 (Fin.last k), (1 : ℚ) / (n i)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "4ad9a690f599f4d2834c2429e7bb72585c0ff84295d5fe72c970b7a2116f17a0",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/306.lean#L35",
+    "source_locator": "FormalConjectures/ErdosProblems/306.lean:35#erdos_306",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

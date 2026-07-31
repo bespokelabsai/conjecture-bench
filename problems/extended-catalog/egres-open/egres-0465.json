@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0465",
+  "source_registry": "egres-open",
+  "title": "Infinite Lucchesi-Younger",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "For a digraph <math> D=(V,A) </math>, we call a nonempty <math> C\\subseteq A </math> a '''dicut''' if there is some <math> X\\subseteq V </math> such that no edge enters <math> X </math> and <math> C </math> consists of the outgoing edges of <math> X </math>. The conjecture states that for any <math> D </math>, there exists a system <math> \\mathcal{C} </math> of pairwise disjoint finite dicuts and an edge set <math> F\\subseteq A </math>  consisting of one edge from each element of <math> \\mathcal{C} </math>, such that <math>F</math> intersects every finite dicut of <math> D </math>.",
+    "sha256": "8d8a57878782794e86c2b403a1301325626aa123c425831c32d1e9b83bd073c7",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2017-01-17T10:04:34Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Infinite_Lucchesi-Younger&oldid=2413",
+    "source_locator": "EGRES page 465, revision 2413",
+    "source_sha256": "49f10b3b1d9635f99e5c56af4863914f474c6d2d5ff0e843650d372b9a275b7a",
+    "tags": [
+      "combinatorial-optimization",
+      "Infinite combinatorics"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

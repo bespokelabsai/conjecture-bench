@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3317",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "3-Colourability of Arrangements of Great Circles",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Consider a set $S$ of great circles on a sphere with no three circles meeting at a point. The arrangement graph of $S$ has a vertex for each intersection point, and an edge for each arc directly connecting two intersection points. So this arrangement graph is 4-regular and planar.\n\nConjecture Every arrangement graph of a set of great circles is $3$-colourable.",
+    "sha256": "09f2c783ebde2ee63278bdcb86b7ce765a2d64570812e4f80e3341fac75e4df1",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-34915",
+    "source_locator": "dataset ID 3317; problem number OPG-34915",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

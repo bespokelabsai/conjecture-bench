@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2984",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 4.108",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $W_{+}$ and $W_{-}$ be two 4-dimensional Liouville domains with a contactomorphism $\\Phi :\\partial W_{-} \\cong \\partial W_{+}$. This determines an $\\mathbb{R}-invariant$ contact structure $\\xi$ on $\\mathbb{R} \\times X$ where X is the gluing $X =W_{+} \\cup _{\\Phi}W_{-}$ Moreover, 0 $\\times X \\subset \\mathbb{R} \\times X$ is a convex hypersurface in the sense of Giroux.\n\n(a) Is there a 4–dimensional version of Giroux’s criterion in the case where $W_{+}$ and $W_{-}$ are Weinstein? That is, a necessary and sufficient topological criterion on $(\\Phi, W_{+}, W_{-})$ for $\\xi$ to be overtwisted.\n\n(b) Does every 4-manifold X admit a decomposition $W_{+} \\cup _{\\Gamma} W_{-}$ so that the corresponding contact structure $\\xi$ is tight (i.e. not overtwisted)?\n\n(c) Is there a 4-dimensional Liouville domain W and a contactomorphism $\\Phi$ : $\\partial W \\to \\partial W$ that extends to a diffeomorphism $\\Psi$ of W, but so that the contact structure corresponding to $(\\Phi, W$, W) is overtwisted?",
+    "sha256": "02c09a0e8c41a8e6e3e324679fe760cc3b892dc013de96dc541bb022e4a8843a",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-4.108",
+    "source_locator": "dataset ID 2984; problem number KP-4.108",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

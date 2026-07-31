@@ -1,0 +1,27 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0013",
+  "slug": "tuttes-3-flow-conjecture",
+  "title": "Tutte’s 3-Flow conjecture",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Tutte’s 3-Flow conjecture · 1972. Every 4-edge-connected graph has a nowhere-zero 3-flow.",
+  "counterexample": {
+    "description": "A connected simple graph on at most 16 vertices whose global minimum edge cut has size at least four but which has no nowhere-zero flow over Z/3Z. Both properties are decided exactly.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://dwest.web.illinois.edu/openp/tut3flow.html",
+        "role": "supporting"
+      }
+    ]
+  },
+  "equivalence_group": "tutte-nowhere-zero-three-flow"
+}

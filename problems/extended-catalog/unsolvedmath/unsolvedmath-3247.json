@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3247",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Weighted colouring of hexagonal graphs.",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture There is an absolute constant $c$ such that for every hexagonal graph $G$ and vertex weighting $p:V(G)\\rightarrow \\mathbb{N}$, $$\\chi(G,p) \\leq \\frac{9}{8}\\omega(G,p) + c$$",
+    "sha256": "ce4bb4e67bee8549ab4acc4cc2e084c522a9efb9f2744c55ef231f4fb8583265",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-47511",
+    "source_locator": "dataset ID 3247; problem number OPG-47511",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

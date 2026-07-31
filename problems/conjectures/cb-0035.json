@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0035",
+  "slug": "goldbach",
+  "title": "Goldbach",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "Every even integer N≥4 is the sum of two primes.",
+  "counterexample": {
+    "description": "An even \\(N\\) with no \\(N=p+q\\). A complete prime enumeration and compositeness certificates for every complement give a total, but very large, check.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.ams.org/mcom/2014-83-288/S0025-5718-2013-02787-1/S0025-5718-2013-02787-1.pdf",
+        "role": "supporting"
+      }
+    ]
+  }
+}

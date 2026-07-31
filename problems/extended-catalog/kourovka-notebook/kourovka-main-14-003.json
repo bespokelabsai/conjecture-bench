@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-003",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.3 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Is it true that every central unit of the integral group ring of a finite group is\na product of a central element of the group and a symmetric central unit? (A unit is\nsymmetric if it is fixed by the canonical antiinvolution that transposes the coefficients\nat the mutually inverse elements.)                                          R. Zh. Aleev",
+    "sha256": "4c2cd158d68f5a88e61138707799a3c3c7445073443ddb385d9a5b54be6b4b9f",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=71",
+    "source_locator": "Kourovka 14.3, main section, page 71",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-12-051",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 12.51 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does the free group F (1 < η < ∞) have a finite subset S for which there\n                                η\nis a unique total order of Fη making all elements of S positive? Equivalently, does\nthe free representable l-group of rank η have a basic element? (The analogs for right\norders of Fη and free l-groups have negative answers.)                  S. McCleary\n  ∗ No, it does not (S. Dovhyi, K. Muliarchyk, Groups Geom. Dyn., 17 (2023), 613–\n632; K. Muliarchyk, Preprint, 2024, https://arxiv.org/abs/2403.14779).",
+    "sha256": "4f98b7df22e4ed3b5373766595c2af07eabd2064622a10627857419c68849c5b",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=60",
+    "source_locator": "Kourovka 12.51, main section, page 60",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

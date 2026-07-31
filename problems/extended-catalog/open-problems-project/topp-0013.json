@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0013",
+  "source_registry": "open-problems-project",
+  "title": "Point Location in 3D Subdivision",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Is there an $O(n)$-space data structure that supports\n$O(\\log n)$-time point-location queries\nin a three-dimensional subdivision of $n$ faces?",
+    "sha256": "e4999380eacd1d8d015b8d82d8be4cb8d61ce111ccee0166aba531d6fd6ab381",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p13",
+    "source_locator": "TOPP problem 13 (Problems/P.000013)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "data structures"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

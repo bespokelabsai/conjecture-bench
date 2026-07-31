@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3116",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Star chromatic index of complete graphs",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Conjecture Is it possible to color edges of the complete graph $K_n$ using $O(n)$ colors, so that the coloring is proper and no 4-cycle and no 4-edge path is using only two colors?\n\nEquivalently: is the star chromatic index of $K_n$ linear in $n$?",
+    "sha256": "22aa0f09556147a9a5cd38403082a0afc47c2d870b2deebfcec56a61b1d7db7d",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-37275",
+    "source_locator": "dataset ID 3116; problem number OPG-37275",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-latex-citation-markup",
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

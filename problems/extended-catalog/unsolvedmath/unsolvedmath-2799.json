@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2799",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 3.1",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Classify the smallest volume hyperbolic 3-manifolds of various types. In particular:\n\n(a) Determine the nonorientable closed hyperbolic 3-manifolds of least volume.\n\n(b) Determine the n-cusped hyperbolic 3-manifolds of least volume for each $n\\geq 3$.\n\n(c) Determine the smallest volume hyperbolic 3-manifolds with n orientable cusps for each n.\n\n(d) Determine the n-cusped orientable hyperbolic 3-manifolds of least volume for each n.",
+    "sha256": "42b8a6153ad14ec333366524762ff26cad6d8a122f437441cc3f2d49b388df68",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-3.1",
+    "source_locator": "dataset ID 2799; problem number KP-3.1",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

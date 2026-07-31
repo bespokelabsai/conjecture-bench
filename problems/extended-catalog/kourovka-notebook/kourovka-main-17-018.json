@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-018",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.18 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let A be the class of compact groups A with the property that whenever two\ncompact groups B and C contain A, they can be embedded in a common compact\ngroup D by embeddings agreeing on A. I showed (Manuscr. Math., 58 (1987) 253–\n281) that all members of A are (not necessarily connected) finite-dimensional compact\nLie groups satisfying a strong “local simplicity” property, and that all finite groups\ndo belong to A.\n   a) Is it true that R/Z ∈ A?\n   b) Do any nonabelian connected compact Lie groups belong to A?\n   c) If A belongs to A, must the connected component of the identity in A belong\nto A?                                                                  G. M. Bergman",
+    "sha256": "d1f782e6a5dac992306ff86a035b41db0e351becb8522adc103de7288ed28164",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=105",
+    "source_locator": "Kourovka 17.18, main section, page 105",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

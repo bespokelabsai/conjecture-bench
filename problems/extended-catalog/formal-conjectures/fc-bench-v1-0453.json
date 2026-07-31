@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0453",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_75",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5]\ntheorem erdos_75 :\n    answer(sorry) ↔\n    ∃ (V : Type) (G : SimpleGraph V),\n      G.chromaticCardinal = ℵ_ 1 ∧\n      #V = ℵ_ 1 ∧\n      ∀ ε > (0 : ℝ),\n        ∀ᶠ (n : ℕ) in Filter.atTop, ∀ (H : G.Subgraph),\n            H.verts.ncard = n →\n            ∃ (I : Finset V),\n              (I : Set V) ⊆ H.verts ∧\n              G.IsIndepSet (I : Set V) ∧\n              (I.card : ℝ) > (n : ℝ) ^ (1 - ε)",
+    "language_version": "Lean 4.27.0",
+    "sha256": "0822e1b8715938fad9d6849e21d28cec4ac87fdc0a3851825ee110460579e685",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/75.lean#L35",
+    "source_locator": "FormalConjectures/ErdosProblems/75.lean:35#erdos_75",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

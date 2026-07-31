@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0348",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "erdos_42.variants.constructive",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 11]\ntheorem erdos_42.variants.constructive : answer(sorry) ↔\n    ∃ (f : ℕ → ℕ), ∀ (M N : ℕ) (_ : 1 ≤ M) (_ : f M ≤ N),\n    ∀ (A : Set ℕ) (_ : IsMaximalSidonSetIn A N), ∃ᵉ (B : Set ℕ),\n      B ⊆ Set.Icc 1 N ∧ IsSidon B ∧ B.ncard = M ∧\n      ((A - A) ∩ (B - B)) = {0}",
+    "language_version": "Lean 4.27.0",
+    "sha256": "a2033c5f16a6de9a10120e6271c986833930ca28e594c3fbf2e2db640eef1683",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/ErdosProblems/42.lean#L52",
+    "source_locator": "FormalConjectures/ErdosProblems/42.lean:52#erdos_42.variants.constructive",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "ErdosProblems",
+      "AMS-5",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0046",
+  "slug": "no-odd-perfect-numbers",
+  "title": "No odd perfect numbers",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "There is no odd positive integer N satisfying σ(N)=2N.",
+  "counterexample": {
+    "description": "A factorized odd \\(N\\) with \\(\\sigma(N)=2N\\). The factorization makes the divisor-sum identity cheap and exact.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://mathworld.wolfram.com/OddPerfectNumber.html",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0958"
+    ]
+  }
+}

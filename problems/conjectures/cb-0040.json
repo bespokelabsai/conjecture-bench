@@ -1,0 +1,29 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0040",
+  "slug": "firoozbakht",
+  "title": "Firoozbakht",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "If p_n is the nth prime, then p_(n+1)<p_n^(1+1/n) for every positive integer n.",
+  "counterexample": {
+    "description": "A positive integer n for which the exact consecutive primes satisfy p_(n+1)^n≥p_n^(n+1).",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.mdpi.com/2227-7390/7/8/691",
+        "role": "supporting"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0882"
+    ]
+  }
+}

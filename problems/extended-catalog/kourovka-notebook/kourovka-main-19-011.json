@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-011",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.11 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Does there exist a constant c such that the number of conjugacy classes in a\nfinite group G is always at least c log2 |G|?\n    Editors’ comment of 2021: It is proved that every group G contains at least\nε log |G|/(log log |G|)8 conjugacy classes for some fixed ε > 0 (L. Pyber, J. London\nMath. Soc. (2), 46, no. 2 (1992), 239–249). It is also proved that for every ε > 0\nthere exists δ > 0 such that every finite group G of order at least 3 has at least\nδ log2 |G|/(log2 log2 |G|)3+ε conjugacy classes (B. Baumeister, A. Maróti, H. P. Tong-\nViet, Forum Math., 29, no. 2 (2017), 259–275).                              E. Bertram",
+    "sha256": "83b4e5f58bddf1e28c54fc564f77e260e25635a99a0e7b3988e459d33afcd877",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=131",
+    "source_locator": "Kourovka 19.11, main section, page 131",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

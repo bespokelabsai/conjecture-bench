@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0911",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "juggler_conjecture",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11 37]\ntheorem juggler_conjecture (n : ℕ) (hn : n > 0) : ∃ m, jugglerStep^[m] n = 1",
+    "language_version": "Lean 4.27.0",
+    "sha256": "1b0ec610e3bef6a86f5deaf6cf633798d749ee9c3758dde1d08705e125414a53",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/JugglerConjecture.lean#L41",
+    "source_locator": "FormalConjectures/Wikipedia/JugglerConjecture.lean:41#juggler_conjecture",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11",
+      "AMS-37"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0217"
+  ]
+}

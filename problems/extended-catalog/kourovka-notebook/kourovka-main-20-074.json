@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-20-074",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 20.74 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "a) Conjecture: there are only finitely many nonabelian finite simple groups G\nthat have a normal subset S closed under inversion such that |S| > |G|/ log2 |G| and\nS 2 ̸= G. Comment of 2024: This is true for the class of alternating groups (M. Larsen,\nP. H. Tiep, Preprint, 2023, arXiv:2305.04806) and for any class of groups of Lie\ntype of bounded Lie rank (S. V. Skresanov, Preprint, 2024, https://arxiv.org/abs/\n2406.12506).\n   ∗ b) The same conjecture for the groups P SL(2, p).                        L. Pyber\n  ∗ b) The conjecture is proved for the groups P SL(2, p) (S. V. Skresanov, Preprint,\n2024, https://arxiv.org/abs/2406.12506).",
+    "sha256": "69d548c76d356b62ccf0d5297e8fab60c248e2396429a26a4903061e27bd28d6",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=154",
+    "source_locator": "Kourovka 20.74, main section, page 154",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

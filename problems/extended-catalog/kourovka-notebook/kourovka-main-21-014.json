@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-21-014",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 21.14 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose α is an endomorphism of a group G such that for every group H\nand every homomorphism f : G → H, there exists an endomorphism βf of H such\nthat βf f = f α. Must α then be either an inner automorphism of G or the trivial\nendomorphism? This is Question 5 in (G. M. Bergman, Publ. Matem., 56 (2012),\n91–126).                                                         G. M. Bergman\n  ∗ Yes, it must (F. Fournier-Facio, Preprint, 2026, https://arxiv.org/abs/2604.\n05728)",
+    "sha256": "f782822089e3809f0fc0facf656c75a43108f6bcd9f4d6cc9a6efee9ea1dfdcf",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=166",
+    "source_locator": "Kourovka 21.14, main section, page 166",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

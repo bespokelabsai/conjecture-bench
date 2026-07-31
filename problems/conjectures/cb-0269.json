@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0269",
+  "slug": "wowii-2-spanning-tree-leaves",
+  "title": "Written on the Wall II Conjecture 2",
+  "field": "graph-theory",
+  "statement": "For every nontrivial finite connected simple graph G, the maximum number L_s(G) of leaves in a spanning tree satisfies L_s(G)≥2(l_avg(G)−1), where l_avg(G) is the average of α(G[N(v)]) over all vertices.",
+  "counterexample": {
+    "description": "A finite connected simple graph whose exact maximum number of spanning-tree leaves is smaller than twice its average neighborhood independence number minus two.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-live-promotion",
+    "sources": [
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/e751934294a381afd2d5fc1124c5953c8e25f9fa/FormalConjectures/WrittenOnTheWallII/GraphConjecture2.lean",
+        "role": "current-formal-statement-and-status-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-1023"
+    ]
+  },
+  "equivalence_group": "wowii-conjecture-2"
+}

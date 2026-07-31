@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0054",
+  "source_registry": "egres-open",
+  "title": "Woodall's conjecture",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Is it true that if every directed cut in a digraph has at least ''k'' edges, then there are ''k'' disjoint [[dijoin]]s?",
+    "sha256": "2f0d61e62d7d162d8150155efe3ad4d397aae6137905e6d3e020f5cd7b319d05",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2017-11-01T15:47:13Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Woodall's_conjecture&oldid=2429",
+    "source_locator": "EGRES page 54, revision 2429",
+    "source_sha256": "b5e61edf934703d179c9e8dd35a373322896fd9416a04232557cff1ffb2a7e0b",
+    "tags": [
+      "combinatorial-optimization",
+      "Edge-connectivity",
+      "Packing common bases"
+    ]
+  },
+  "related_conjecture_ids": [
+    "cb-0076"
+  ]
+}

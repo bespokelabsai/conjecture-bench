@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0446",
+  "source_registry": "egres-open",
+  "title": "Complexity of the chip-firing reachability problem for general digraphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Is the [[Chip-firing#Reachability problem|chip-firing reachability problem]] co-'''NP'''-hard for general digraphs?",
+    "sha256": "456316aea4cc7233b54efd6fb6234a8674532ba94117ccd7bea80e8891c605bc",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-12-05T23:17:30Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Complexity_of_the_chip-firing_reachability_problem_for_general_digraphs&oldid=2390",
+    "source_locator": "EGRES page 446, revision 2390",
+    "source_sha256": "e641373bb9eefa84cfca83600a76ea090d3f227737799670b86784b90434dfe7",
+    "tags": [
+      "combinatorial-optimization",
+      "Chip-firing"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

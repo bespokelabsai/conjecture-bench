@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-13-067",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 13.67 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Let G be a T0 -group (see 12.101), i an involution in G and G = ⟨ig | g ∈ G⟩.\nIs the centralizer CG (i) residually periodic?                       V. P. Shunkov",
+    "sha256": "4e5d352855e7db031868b386dc95bb309c96feefb8363fdc970c95ff19daa341",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=70",
+    "source_locator": "Kourovka 13.67, main section, page 70",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

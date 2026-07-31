@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2341",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #852",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Let $d_n=p_{n+1}-p_n$, where $p_n$ is the $n$th prime. Let $h(x)$ be maximal such that for some $n<x$ the numbers $d_n,d_{n+1},\\ldots,d_{n+h(x)-1}$ are all distinct. Estimate $h(x)$. In particular, is it true that $ h(x) >(\\log x)^c $ for some constant $c>0$, and $ h(x)=o(\\log x)? $ ",
+    "sha256": "724b0da18b2f96b32107ce4811d6d5573fa123ed0b00dd978fb74d0839d26a8a",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-852",
+    "source_locator": "dataset ID 2341; problem number EP-852",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-056",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.56 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A ⋆-commutator is a commutator [x, y] of two elements x, y of coprime prime-\npower orders. Is a finite group G soluble if |ab| ⩾ |a||b| for any ⋆-commutators a and\nb of coprime orders?                                                    V. S. Monakhov",
+    "sha256": "9e1853f441de712eacccabdd5b560e786a000d38abb8c80567120f7d207434e2",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=137",
+    "source_locator": "Kourovka 19.56, main section, page 137",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

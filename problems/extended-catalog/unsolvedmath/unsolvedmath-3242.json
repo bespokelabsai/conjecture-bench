@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-3242",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Melnikov's valency-variety problem",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "Problem The valency-variety $w(G)$ of a graph $G$ is the number of different degrees in $G$. Is the chromatic number of any graph $G$ with at least two vertices greater than $$\\ceil{ \\frac{\\floor{w(G)/2}}{|V(G)| - w(G)} } ~?$$",
+    "sha256": "dafc4204c1a9a63dd401f8e48b780f087f9ba3b4d88bd1c0aed7a8d82941f35a",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/OPG-46575",
+    "source_locator": "dataset ID 3242; problem number OPG-46575",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:graph-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:opengarden"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

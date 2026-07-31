@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-19-043",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 19.43 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "Suppose that φ is an automorphism of a finite soluble group G. Is the\nFitting height of G bounded in terms of |φ| and |CG (φ)|?         E. I. Khukhro\n  ∗ Yes, it is (E. Khukhro, to appear in Bull. London Math. Soc., 2025, http://\narxiv.org/abs/2505.20999).",
+    "sha256": "f44d9d2c9fd53160388f6617dfc76866fdd694451bcfb653390a49ce14426b49",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "reported-answered-by-source",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=135",
+    "source_locator": "Kourovka 19.43, main section, page 135",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status",
+    "update-interpretation"
+  ]
+}

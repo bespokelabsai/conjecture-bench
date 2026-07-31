@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2109",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #420",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "If $\\tau(n)$ counts the number of divisors of $n$ then let $ F(f,n)=\\frac{\\tau((n+\\lfloor f(n)\\rfloor)!)}{\\tau(n!)}. $ Is it true that $ \\lim_{n\\to \\infty}F((\\log n)^C,n)=\\infty $ for large $C$?\nIs it true that $F(\\log n,n)$ is everywhere dense in $(1,\\infty)$?\nMore generally, if $f(n)\\leq \\log n$ is a monotonic function such that $f(n)\\to \\infty$ as $n\\to \\infty$, then is $F(f,n)$ everywhere dense?",
+    "sha256": "c9629882ae5c2205db5482d66069903856e8893c95d65b2be75673cfdca22a78",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-420",
+    "source_locator": "dataset ID 2109; problem number EP-420",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

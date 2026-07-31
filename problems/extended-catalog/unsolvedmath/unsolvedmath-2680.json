@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2680",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kirby Problem 1.21",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "(a) For a given positive integer $g$, are there only finitely many L-space knots\nof genus $g$?\nA related but more general question is:\n(b) Question (Hedden): For which knots $L \\subset S^{3}$ are there only finitely many\nknots $K \\subset S^{3}$ with\n$\\widehat{\\mathrm{HFK}}(S^{3},K) \\cong \\widehat{\\mathrm{HFK}}(S^{3},L)$?\n\n(c) In some special cases, one expects stronger results saying that a class of\nknots is characterized by its knot Floer homology. We state 3 conjectures,\nordered by their strength.\n(i) For a knot $K \\subset S^{3}$, if\n$\\widehat{\\mathrm{HFK}}(S^{3},K) \\cong \\widehat{\\mathrm{HFK}}(S^{3},T_{2g+1,2})$, then\n$K = T_{2g+1,2}$.\n(ii) For a knot $K \\subset S^{3}$, if\n$\\widehat{\\mathrm{HFK}}(S^{3},K) \\cong \\widehat{\\mathrm{HFK}}(S^{3},T_{p,q})$, then $K$ is an\niterated torus knot.\n(iii) Conjecture (Ni): For an L-space knot $K \\subset S^{3}$, if all roots of $\\Delta_{K}(t)$\nlie on the unit circle, then $K$ is an iterated torus knot.",
+    "sha256": "0a26b4a7b0f41f67a4a9abb10ea2228b94f7470ee1b8de8351ef101cd39aceaa",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KP-1.21",
+    "source_locator": "dataset ID 2680; problem number KP-1.21",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:topology",
+      "difficulty:L3",
+      "secondary-aggregation",
+      "set:kirby-low-dimensional-topology"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

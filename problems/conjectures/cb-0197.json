@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0197",
+  "slug": "alperin-weight-conjecture",
+  "title": "Alperin weight conjecture",
+  "field": "finite-group-representation-theory",
+  "statement": "For every finite group G and prime p, the number of irreducible Brauer characters of G equals the number of G-conjugacy classes of p-weights.",
+  "counterexample": {
+    "description": "A finite group multiplication table and prime p for which exact modular-character and local-weight counts differ.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-23",
+    "evidence_state": "needs-independent-review"
+  },
+  "provenance": {
+    "collection": "famous-finite-expansion",
+    "sources": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0021869325000857",
+        "role": "supporting"
+      }
+    ]
+  }
+}

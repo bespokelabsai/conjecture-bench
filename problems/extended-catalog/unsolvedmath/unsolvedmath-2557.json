@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2557",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Kourovka Notebook Problem 21.48",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "A quasimorphism on a group $G$ is a function $f:G\\to\\mathbb R$ such that the quantity $\\sup_{g,h}|f(g)+f(h)-f(gh)|$ is finite. A quasimorphism is homogeneous if it restricts to a homomorphism on every cyclic subgroup of $G$. Let $G$ be a group admitting an unbounded homogeneous quasimorphism $G\\to\\mathbb R$ that is not a homomorphism. Must $G$ contain a non-abelian free subgroup?",
+    "sha256": "bc901ed32688adf69ad4de898753eb0699f8412d5bfd7fc894475bce4da30a98",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/KOU-21.48",
+    "source_locator": "dataset ID 2557; problem number KOU-21.48",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "category:group-theory",
+      "difficulty:L2",
+      "secondary-aggregation",
+      "set:kourovka-new-problems-21"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

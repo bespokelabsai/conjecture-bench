@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0445",
+  "source_registry": "egres-open",
+  "title": "Complexity of the halting problem for Eulerian multigraphs",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Is the [[Chip-firing#Halting problem|chip-firing halting problem]] in '''P''' for Eulerian digraphs with multiple edges?",
+    "sha256": "3b1cd6f4fdfed01061ef41088a1370076869de1cb667b5d937836578c4551ff1",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2016-12-05T23:13:03Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Complexity_of_the_halting_problem_for_Eulerian_multigraphs&oldid=2388",
+    "source_locator": "EGRES page 445, revision 2388",
+    "source_sha256": "1e5b1695d6a84b17a56897eadb998eac77d8881d76eb9a4754c9dc8500cd579f",
+    "tags": [
+      "combinatorial-optimization",
+      "Chip-firing"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

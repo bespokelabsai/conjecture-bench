@@ -1,0 +1,30 @@
+{
+  "format_version": "1.0",
+  "id": "topp-0078",
+  "source_registry": "open-problems-project",
+  "title": "Rectangling a Rectangle",
+  "statement": {
+    "representation": "latex-fragment",
+    "text": "Do there exist rectangles that may be partitioned into a finite number $n$ of rectangular pieces of equal area but with all perimeters different?\n\nConjecture:\nIf all edge lengths of the pieces are required to be\nrational, no such partition is possible\n(R. Nandakumar and N. Ramana Rao).",
+    "sha256": "5961f9b3218d421477c8ebcd5bb97aeb2f3de86988947f6465f1031dc016b334",
+    "contains_placeholder": false
+  },
+  "status_observation": {
+    "state": "partially-open",
+    "as_of": "2025-06-19",
+    "evidence": "pinned Open Problems Project source commit"
+  },
+  "provenance": {
+    "source_url": "https://topp.openproblem.net/p78",
+    "source_locator": "TOPP problem 78 (Problems/P.000078)",
+    "source_commit": "4165b414ddfaf728d82b677a7baa27b3bffd6bb1",
+    "tags": [
+      "packing",
+      "partitioning"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

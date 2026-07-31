@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0979",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "prime_sierpinski_problem",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 11]\ntheorem prime_sierpinski_problem :\n    answer(sorry) ↔ IsLeast {k | k.IsSierpinskiNumber ∧ k.Prime} 271129",
+    "language_version": "Lean 4.27.0",
+    "sha256": "4f82d4e4f630e8d95ebfb75f61e17c0ab606998e02d1268e93afebd79388f8e2",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Wikipedia/SierpinskiNumber.lean#L73",
+    "source_locator": "FormalConjectures/Wikipedia/SierpinskiNumber.lean:73#prime_sierpinski_problem",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Wikipedia",
+      "AMS-11"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0054",
+  "slug": "grimm",
+  "title": "Grimm",
+  "field": "number-theory-and-discrete-mathematics",
+  "statement": "Every finite block of consecutive composite integers admits an assignment of a distinct prime divisor to each integer.",
+  "counterexample": {
+    "description": "A consecutive composite block admitting no assignment of distinct prime divisors. Complete factorizations plus a Hall-deficiency subset certify failure.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.isid.ac.in/~shanta/PAPERS/GCnSN.pdf",
+        "role": "supporting"
+      },
+      {
+        "url": "https://www.erdosproblems.com/375",
+        "role": "live-status-and-problem-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0888",
+      "erdos-0375"
+    ]
+  },
+  "equivalence_group": "grimm-prime-divisors"
+}

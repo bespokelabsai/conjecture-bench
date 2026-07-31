@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-17-109",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 17.109 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A non-trivial group word w is uniformly elliptic in a class C if there is\na function f : N → N such that the width of w in every d-generator C-group G is\nbounded by f (d) (i. e. every element of the verbal subgroup w(G) is equal to a product\nof f (d) values of w or their inverses). If C is a class of finite groups, this is equivalent\nto saying that in every finitely generated pro-C group G the verbal subgroup w(G) is\nclosed. A. Jaikin-Zapirain (Revista Mat. Iberoamericana, 24 (2008), 617–630) proved\nthat w is uniformly elliptic in finite p-groups if and only if w ∈   / F ′′ (F ′ )p , where F is\nthe free group on the variables of w. Is it true that w is uniformly elliptic in C if and\nonly if w ∈/ F ′′ (F ′ )p for every prime p in the case where C is the class of all\n    a) finite soluble groups?\n    b) finite groups?\nSee also Ch. 4 of (D. Segal, Words: notes on verbal width in groups, LMS Lect. Note\nSeries, 361, Cambridge Univ. Press, 2009.                                               D. Segal",
+    "sha256": "85f25b4a49f0436b8b144ea5f32205dff943c9d885ff1ae85b884513d9494414",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=113",
+    "source_locator": "Kourovka 17.109, main section, page 113",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

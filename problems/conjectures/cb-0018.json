@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0018",
+  "slug": "prime-power-conjecture-for-finite-projective-planes",
+  "title": "Prime-power conjecture for finite projective planes",
+  "field": "graph-theory-and-combinatorics",
+  "statement": "Prime-power conjecture for finite projective planes · explicitly posed in 1981 by Erdős, with older folklore antecedents. Every finite projective plane has prime-power order.",
+  "counterexample": {
+    "description": "A projective plane of order 12 refutes it: 157 lines on 157 points, 13 incidences per line and point, with each pair meeting uniquely. The incidence conditions are directly checkable.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-22",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "original-100-inventory",
+    "sources": [
+      {
+        "url": "https://www.erdosproblems.com/723",
+        "role": "supporting"
+      }
+    ]
+  }
+}

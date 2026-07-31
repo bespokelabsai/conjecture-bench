@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "egres-0188",
+  "source_registry": "egres-open",
+  "title": "Achieve global rigidity by pinning nodes",
+  "statement": {
+    "representation": "mediawiki-wikitext",
+    "text": "Given a graph <math>G(V,E)</math>, find a minimum cardinality set <math>S \\subset V</math> of nodes such that adding a complete graph on <math>S</math> renders the graph <math>G+K_S</math> [[Rigid graph|globally rigid]] in 2-dimensional space.",
+    "sha256": "9788e8087f8426623597d87988b546b57fe4fe8ba3055773ccbfcc2d28c62bdb",
+    "contains_placeholder": false,
+    "extraction_method": "onlyinclude"
+  },
+  "status_observation": {
+    "state": "listed-open",
+    "as_of": "2017-02-23T21:17:39Z",
+    "evidence": "pinned EGRES Open MediaWiki revision and categories"
+  },
+  "provenance": {
+    "source_url": "https://oldlemon.cs.elte.hu/egres/internals/index.php5?title=Achieve_global_rigidity_by_pinning_nodes&oldid=2420",
+    "source_locator": "EGRES page 188, revision 2420",
+    "source_sha256": "646ed08153db39281226a183eac8a0fa08828e005e8f51e53e8b2b7ab83024af",
+    "tags": [
+      "combinatorial-optimization",
+      "Rigidity"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

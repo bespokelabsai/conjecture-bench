@@ -1,0 +1,32 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0665",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "mathoverflow_347178.variants.bounded_iff",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 26]\ntheorem mathoverflow_347178.variants.bounded_iff :\n    answer(sorry) ↔ ∀ᵉ (n ≥ 2) (f : ℝ^n → ℝ) (hf : ContDiff ℝ 1 f),\n        BddAbove (range f) ↔ BddAbove (range fun x ↦ f (x + gradient f x))",
+    "language_version": "Lean 4.27.0",
+    "sha256": "37d0bff7ee2f4aebb81172360651e39a63c91c73fa6625aca8fe4b30ac0172ec",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Mathoverflow/347178.lean#L46",
+    "source_locator": "FormalConjectures/Mathoverflow/347178.lean:46#mathoverflow_347178.variants.bounded_iff",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Mathoverflow",
+      "AMS-26"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

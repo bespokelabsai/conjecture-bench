@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "id": "fc-bench-v1-0656",
+  "source_registry": "formal-conjectures-bench-v1",
+  "title": "mathoverflow_10799.variants.kahn_kalai_conjecture_7",
+  "statement": {
+    "representation": "lean4-declaration",
+    "text": "@[category research open, AMS 5 60]\ntheorem mathoverflow_10799.variants.kahn_kalai_conjecture_7 : answer(sorry) ↔\n    ∀ (n : ℕ) (_ : 2 ≤ n)\n    (F : Finset (Finset (Fin n))) (_ : IsMonotoneIncreasing F)\n    (s t : ℝ) (_ : 0 < s) (_ : s ≤ t) (_ : t < 1)\n    (_ : μFamily t F = 1 / 2)\n    (_ : t / s > 1000 * Real.log n),\n    ∃ p, s ≤ p ∧ p ≤ t ∧ IsOptimal p F",
+    "language_version": "Lean 4.27.0",
+    "sha256": "a00553b76f61bc6875e782a5df41827a2d3f484566649e0b6b3f1e1620bf499a",
+    "contains_placeholder": true
+  },
+  "status_observation": {
+    "state": "research open",
+    "as_of": null,
+    "evidence": "pinned Formal Conjectures benchmark tag"
+  },
+  "provenance": {
+    "source_url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Mathoverflow/10799.lean#L171",
+    "source_locator": "FormalConjectures/Mathoverflow/10799.lean:171#mathoverflow_10799.variants.kahn_kalai_conjecture_7",
+    "source_commit": "7a41db3d761324599812d6ca6cb6a9f311046dc7",
+    "source_tag": "bench-v1-lean4.27.0",
+    "tags": [
+      "Mathoverflow",
+      "AMS-5",
+      "AMS-60"
+    ]
+  },
+  "review_flags": [
+    "statement-and-polarity",
+    "status"
+  ]
+}

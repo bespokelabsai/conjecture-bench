@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "id": "kourovka-main-14-046",
+  "source_registry": "kourovka-notebook-21",
+  "title": "Kourovka problem 14.46 (main)",
+  "statement": {
+    "representation": "pdf-text-entry",
+    "text": "A finite group G is said to be almost simple if T ⩽ G ⩽ Aut(T ) for some\nnonabelian simple group T . By definition, a finite linear space consists of a set V of\npoints, together with a collection of k-element subsets of V , called lines (k ⩾ 3), such\nthat every pair of points is contained in exactly one line. Classify the finite linear\nspaces which admit a line-transitive almost simple subgroup G of automorphisms\nwhich acts transitively on points.\n    A. Camina, P. Neumann and C. E. Praeger have solved this problem in the case\nwhere T is an alternating group. In (A. Camina, C. E. Praeger, Aequat. Math., 61\n(2001), 221–232) it is shown that a line-transitive group of automorphisms of a fi-\nnite linear space which is point-quasiprimitive (i. e. all of whose non-trivial normal\nsubgroups are point-transitive) is almost simple or affine.\n    Remarks of 2005: The cases of the following groups, but not almost simple groups\nwith this socle, were dealt with: P SU (3, q) (W. Liu, Linear Algebra Appl., 374 (2003),\n291–305); P SL(2, q) (W. Liu, J. Combin. Theory (A), 103 (2003), 209–222); Sz(q)\n(W. Liu, Discrete Math., 269 (2003), 181–190); Ree(q) (W. Liu, Europ. J. Combin.,\n25 (2004), 311–325); sporadic simple groups were done in (A. R. Camina, F. Spiezia,\nJ. Combin. Des., 8 (2000), 353–362). Remark of 2009: It was shown (N. Gill, Trans.\nAmer. Math. Soc., 368 (2016), 3017–3057) that for non-desarguesian projective\nplanes a point-quasiprimitive group would be affine. Remark of 2013: The problem is\nsolved for large-dimensional classical groups (A. Camina, N. Gill, A. E. Zalesski, Bull.\nBelg. Math. Soc. Simon Stevin, 15, no. 4 (2008), 705–731). A. Camina, C. E. Praeger",
+    "sha256": "d29d2a3d1be7bdac422c4684f619521e8ce00f46218715c926145c9986972359",
+    "contains_placeholder": false,
+    "unmapped_control_count": 0
+  },
+  "status_observation": {
+    "state": "listed-unsolved",
+    "as_of": "2026-07-03",
+    "evidence": "pinned 21st Kourovka Notebook edition"
+  },
+  "provenance": {
+    "source_url": "https://kourovkanotebookorg.wordpress.com/wp-content/uploads/2026/07/21tkt.pdf#page=76",
+    "source_locator": "Kourovka 14.46, main section, page 76",
+    "source_sha256": "301b0cdcc53abc88b57cc0732cad73bf8fbe1c9ba0de5a0a794070398e3395fe",
+    "tags": [
+      "group-theory",
+      "kourovka-main"
+    ]
+  },
+  "review_flags": [
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

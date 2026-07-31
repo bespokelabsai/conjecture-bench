@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "id": "unsolvedmath-2391",
+  "source_registry": "unsolvedmath-1.1.0",
+  "title": "Erdős Problem #935",
+  "statement": {
+    "representation": "markdown-latex",
+    "text": "For any integer $n=\\prod p^{k_p}$ let $Q_2(n)$ be the powerful part of $n$, so that $ Q_2(n) = \\prod_{\\substack{p\\\\ k_p\\geq 2}}p^{k_p}. $ Is it true that, for every $\\epsilon>0$ and $\\ell\\geq 1$, if $n$ is sufficiently large then $ Q_2(n(n+1)\\cdots(n+\\ell))<n^{2+\\epsilon}? $ If $\\ell\\geq 2$ then is $ \\limsup_{n\\to \\infty}\\frac{Q_2(n(n+1)\\cdots(n+\\ell))}{n^2} $ infinite?\nIf $\\ell\\geq 2$ then is $ \\lim_{n\\to \\infty}\\frac{Q_2(n(n+1)\\cdots(n+\\ell))}{n^{\\ell+1}}=0? $ ",
+    "sha256": "c46b514bfcb58e3a631c9d15e34639771dc03b5164ce7143d4a40737e038d5dd",
+    "contains_placeholder": false,
+    "quality_flags": []
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-05-13T15:00:25.000Z",
+    "evidence": "commit-pinned UnsolvedMath 1.1.0 secondary aggregation"
+  },
+  "provenance": {
+    "source_url": "https://huggingface.co/datasets/ulamai/UnsolvedMath/resolve/5f80c88c8b3be1c24ae143e0112908ac4010db84/problems.json",
+    "context_url": "https://www.unsolvedmath.com/problems/EP-935",
+    "source_locator": "dataset ID 2391; problem number EP-935",
+    "source_commit": "5f80c88c8b3be1c24ae143e0112908ac4010db84",
+    "source_sha256": "3dadd69ec9d0dbc8161fedd6231fa74e2296ca7da60767a0b23fb5b6b8b5deee",
+    "source_tag": "1.1.0",
+    "tags": [
+      "background-embedded-json-fragment",
+      "background-latex-citation-markup",
+      "category:number-theory",
+      "difficulty:L1",
+      "secondary-aggregation",
+      "set:erdos-problems"
+    ]
+  },
+  "review_flags": [
+    "primary-source-provenance",
+    "exact-statement-and-polarity",
+    "current-status"
+  ]
+}

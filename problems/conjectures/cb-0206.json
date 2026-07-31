@@ -1,0 +1,34 @@
+{
+  "format_version": "1.0",
+  "id": "cb-0206",
+  "slug": "independent-domination-odd-maximum-degree",
+  "title": "Cho–Choi–Park independent-domination conjecture, odd case",
+  "field": "graph-theory",
+  "statement": "If an isolate-free finite graph G on n vertices has odd maximum degree D, then (D+1)(D+3)i(G)≤(D²+3)n, where i(G) is its independent domination number.",
+  "counterexample": {
+    "description": "An isolate-free finite simple graph of odd maximum degree for which exact minimization of independent dominating sets violates the stated inequality.",
+    "finite": true
+  },
+  "status_observation": {
+    "state": "open",
+    "as_of": "2026-07-24",
+    "evidence_state": "source-linked"
+  },
+  "provenance": {
+    "collection": "formal-conjectures-promotion",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2107.00295",
+        "role": "primary"
+      },
+      {
+        "url": "https://github.com/google-deepmind/formal-conjectures/blob/7a41db3d761324599812d6ca6cb6a9f311046dc7/FormalConjectures/Arxiv/2107.00295/IndependentDomination.lean#L49",
+        "role": "status-and-formal-source"
+      }
+    ],
+    "discovery_records": [
+      "fc-bench-v1-0005"
+    ]
+  },
+  "equivalence_group": "cho-choi-park-independent-domination"
+}
