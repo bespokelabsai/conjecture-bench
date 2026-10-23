@@ -1,4 +1,2 @@
-# Everything the checks in .github/workflows/validate.yml need. The data
-# itself can be read with the Python standard library alone.
-jsonschema>=4.20        # record and status validation
-pytest>=8.0             # test runner
+# Compatibility entry point; the complete validation lock is requirements.txt.
+-r requirements.txt

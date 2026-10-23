@@ -63,12 +63,25 @@ verification. Git history and releases preserve earlier versions.
 ## Validate the repository
 
 ```bash
-python3 -m pip install -r requirements-dev.txt
+python3 -m pip install --require-hashes --only-binary=:all: -r requirements.txt
 
 python3 scripts/validate_records.py
 python3 scripts/build_browse_tables.py --check
 python3 -m pytest -q
 ```
+### Updating validation dependencies
+
+The dataset and export remain standard-library-only. Validation and CI use the
+complete, hashed `requirements.txt` lock for Python 3.11. Edit
+`requirements-dev.in`, then regenerate with uv 0.12.1:
+
+```bash
+uv pip compile requirements-dev.in --python-version 3.11 --python-platform linux --generate-hashes --output-file requirements.txt
+```
+
+Review the lock diff and run the validation commands above before committing.
+`requirements-dev.txt` remains a compatibility entry point to the same lock.
+
 
 Continuous integration runs these checks. Reading the data itself needs
 nothing installed.
